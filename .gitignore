@@ -1,0 +1,15 @@
+# Obsidian / OS junk
+.obsidian/
+.trash/
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local analysis scratch (do not commit)
+_analysis.txt
+_samples.md

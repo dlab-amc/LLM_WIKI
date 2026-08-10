@@ -1,0 +1,58 @@
+{
+  "generated_at": "2026-08-10T06:40:17.462168+00:00",
+  "counts": {
+    "members": 15,
+    "authors": 209,
+    "publications": 928,
+    "member_author_links": 14,
+    "authors_is_member_flag": 14,
+    "authors_with_member_id": 14
+  },
+  "publications_by_category": {
+    "patent": 321,
+    "conference": 240,
+    "journal": 101,
+    "lecture": 90,
+    "award": 50,
+    "project": 38,
+    "extracurricular": 38,
+    "career": 15,
+    "invited_lecture": 14,
+    "membership": 9,
+    "technology_transfer": 6,
+    "book": 3,
+    "education": 3
+  },
+  "publications_by_year": {
+    "2013": 3,
+    "2014": 10,
+    "2015": 16,
+    "2016": 13,
+    "2017": 12,
+    "2018": 11,
+    "2019": 14,
+    "2020": 14
+  },
+  "member_achievement_counts": {
+    "신항식": 752,
+    "류가연": 52,
+    "최예은": 32,
+    "이재형": 26,
+    "한유진": 21,
+    "유지원": 19,
+    "김영돈": 11,
+    "진재욱": 10,
+    "이건": 9,
+    "김민소": 6,
+    "이연진": 4,
+    "남윤찬": 2,
+    "강주현": 2,
+    "김희영": 2
+  },
+  "notes": [
+    "raw/db JSON is Source of Truth and must not be edited by the LLM.",
+    "author.achievement_ids maps author → publication ids (primary).",
+    "publication.author_ids comes from embedded authors[] (secondary; may be incomplete).",
+    "year is missing on many records in the raw export — treat carefully."
+  ]
+}

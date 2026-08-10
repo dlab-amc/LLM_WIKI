@@ -1,0 +1,15 @@
+# Raw Sources (Source of Truth)
+
+이 디렉터리는 **변경하지 않는 원본**이다.
+
+- LLM은 **읽기만** 한다. 수정·삭제·덮어쓰기 금지.
+- Wiki·답변의 근거 경로는 항상 `raw/...` 로 남긴다.
+- 새 자료는 사람이 여기에 추가한 뒤 Wiki **Ingest**를 요청한다.
+
+## 현재
+
+| 경로 | 내용 |
+|---|---|
+| `db/` | 연구실 DB 가공본 (members, authors, publications, 매핑, stats) |
+
+회의록·논문·매뉴얼·프로젝트 원본이 생기면 예: `meeting-logs/`, `papers/`, `manuals/`, `projects/` 아래에 추가한다. (빈 폴더는 미리 만들지 않음)

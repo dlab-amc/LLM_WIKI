@@ -1,0 +1,156 @@
+[
+  {
+    "author_id": "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+    "member_id": "68590514c33c441ee93e974d",
+    "author_name_kor": "한유진",
+    "author_name_eng": "Yujin Han",
+    "member_name_kor": "한유진",
+    "member_name_eng": "Yujin Han",
+    "method": "existing_memberId",
+    "confidence": "high",
+    "was_prelinked": true
+  },
+  {
+    "author_id": "923fe812-860b-4422-9d92-1767e699fa0b",
+    "member_id": "68590514c33c441ee93e974f",
+    "author_name_kor": "김영돈",
+    "author_name_eng": "Yeongdon Kim",
+    "member_name_kor": "김영돈",
+    "member_name_eng": "Yeongdon Kim",
+    "method": "exact_kor_and_eng",
+    "confidence": "high",
+    "was_prelinked": false
+  },
+  {
+    "author_id": "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+    "member_id": "68590514c33c441ee93e974b",
+    "author_name_kor": "이재형",
+    "author_name_eng": "Jaehyung Lee",
+    "member_name_kor": "이재형",
+    "member_name_eng": "Jaehyung Lee",
+    "method": "exact_kor_and_eng",
+    "confidence": "high",
+    "was_prelinked": false
+  },
+  {
+    "author_id": "11293195-d430-4570-98b9-f1d9e82ca0e6",
+    "member_id": "68590514c33c441ee93e974c",
+    "author_name_kor": "최예은",
+    "author_name_eng": "Ye Eun Choi",
+    "member_name_kor": "최예은",
+    "member_name_eng": "Ye Eun Choi",
+    "method": "existing_memberId",
+    "confidence": "high",
+    "was_prelinked": true
+  },
+  {
+    "author_id": "75bef458-47fc-43ad-9bdb-f934cbb66beb",
+    "member_id": "68590514c33c441ee93e9751",
+    "author_name_kor": "이건",
+    "author_name_eng": "Geon Lee",
+    "member_name_kor": "이건",
+    "member_name_eng": "Geon Lee",
+    "method": "exact_kor_and_eng",
+    "confidence": "high",
+    "was_prelinked": false
+  },
+  {
+    "author_id": "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+    "member_id": "68590514c33c441ee93e9750",
+    "author_name_kor": "유지원",
+    "author_name_eng": "Jiwon You",
+    "member_name_kor": "유지원",
+    "member_name_eng": "Jiwon You",
+    "method": "existing_memberId",
+    "confidence": "high",
+    "was_prelinked": true
+  },
+  {
+    "author_id": "5443481d-379f-4af6-8ef2-1d61bd2dfbe8",
+    "member_id": "68590514c33c441ee93e9755",
+    "author_name_kor": "이연진",
+    "author_name_eng": "Yeonjin Lee",
+    "member_name_kor": "이연진",
+    "member_name_eng": "Yeonjin Lee",
+    "method": "exact_kor_and_eng",
+    "confidence": "high",
+    "was_prelinked": false
+  },
+  {
+    "author_id": "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+    "member_id": "68590514c33c441ee93e9749",
+    "author_name_kor": "진재욱",
+    "author_name_eng": "Jaewook Jin",
+    "member_name_kor": "진재욱",
+    "member_name_eng": "Jaewook Jin",
+    "method": "existing_memberId",
+    "confidence": "high",
+    "was_prelinked": true
+  },
+  {
+    "author_id": "17ff8154-0d9f-4486-abd7-b34e64268d87",
+    "member_id": "68590514c33c441ee93e974a",
+    "author_name_kor": "류가연",
+    "author_name_eng": "Gayeon Ryu",
+    "member_name_kor": "류가연",
+    "member_name_eng": "Gayeon Ryu",
+    "method": "existing_memberId",
+    "confidence": "high",
+    "was_prelinked": true
+  },
+  {
+    "author_id": "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "member_id": "68590514c33c441ee93e9748",
+    "author_name_kor": "신항식",
+    "author_name_eng": "Hangsik Shin",
+    "member_name_kor": "신항식",
+    "member_name_eng": "Hangsik Shin",
+    "method": "exact_kor_and_eng",
+    "confidence": "high",
+    "was_prelinked": false
+  },
+  {
+    "author_id": "3b530294-8839-4ba1-a4ce-0ebb6883bd86",
+    "member_id": "68ecd0deea1b5da5f6269a45",
+    "author_name_kor": "김민소",
+    "author_name_eng": "Minso Kim",
+    "member_name_kor": "김민소",
+    "member_name_eng": "Minso Kim",
+    "method": "exact_kor_and_eng",
+    "confidence": "high",
+    "was_prelinked": false
+  },
+  {
+    "author_id": "8e349a5d-83ae-4b77-881c-26d384d25a86",
+    "member_id": "69a7ecf644ceb0c688474516",
+    "author_name_kor": "남윤찬",
+    "author_name_eng": "Yunchan Nam",
+    "member_name_kor": "남윤찬",
+    "member_name_eng": "Yunchan Nam",
+    "method": "exact_kor_and_eng",
+    "confidence": "high",
+    "was_prelinked": false
+  },
+  {
+    "author_id": "5fd4da55-6e2b-4776-999f-172029c3c1e1",
+    "member_id": "69a6691644ceb0c6884744df",
+    "author_name_kor": "강주현",
+    "author_name_eng": "Juhyeon Kang",
+    "member_name_kor": "강주현",
+    "member_name_eng": "Juhyeon Kang",
+    "method": "exact_kor_and_eng",
+    "confidence": "high",
+    "was_prelinked": false
+  },
+  {
+    "author_id": "b2164403-05f7-400c-bad4-3dcdec5e9c77",
+    "member_id": "6980082ff963fb0cda56d745",
+    "author_name_kor": "김희영",
+    "author_name_eng": "Heeyoung Kim",
+    "member_name_kor": "김희영",
+    "member_name_eng": "Heeyoung Kim",
+    "method": "exact_kor_and_eng",
+    "confidence": "high",
+    "was_prelinked": false
+  }
+]
