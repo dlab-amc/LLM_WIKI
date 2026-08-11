@@ -45,3 +45,6 @@ Wiki 변경 이력. 최신 항목을 **아래에 append**한다.
 ## 2026-08-11 10:35 (KST)
 - Added: `raw/db/indexes/by_category/` (journal, conference, patent, …) + catalog `category_labels`
 - Updated: schema / CLAUDE — 카테고리 필터도 인덱스 우선
+
+## 2026-08-11 11:05 (KST)
+- Updated: `CLAUDE.md`, `schema/QUERY.md` — Query **Fast path** (인덱스만, pubs 풀스캔·bash 디버그 금지)

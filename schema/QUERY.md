@@ -29,6 +29,25 @@ Writeback 시:
 - 중복 페이지 생성 금지
 - `log.md`에 Query writeback임을 명시
 
+## Fast path (속도)
+
+인물+연도 / 카테고리 질문은 **아래만** 하고 끝낸다. 디버그하지 않는다.
+
+| 질문 유형 | 열 파일 (최대 2~3개) |
+|---|---|
+| 최예은 최근 | `wiki/people/ye-eun-choi.md` |
+| 최예은 2024 | 인물 md → `member_id` → `raw/db/indexes/by_member/<member_id>.json` → `year_resolved==2024` |
+| journal 규모 | `wiki/publications/journal.md` 또는 `indexes/by_category/journal.json` |
+| 2024 conference | `indexes/by_year/2024.json`에서 category 필터 (또는 category∩year) |
+
+### Query에서 금지
+
+- `publications.json` / `authors.json` **전체** 로드·grep·python 스캔
+- unresolved id 10건을 찾으러 `grep -r` / 다중 bash
+- “데이터 정합성 검증”을 사용자 질문 없이 시작
+
+unresolved ids는 인물 페이지에 이미 숫자로 있으면 **공백 섹션에 한 줄**만 쓰고 넘어간다.
+
 ## 탐색 우선순위
 
 1. `index.md`

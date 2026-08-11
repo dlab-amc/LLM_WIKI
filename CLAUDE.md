@@ -25,29 +25,44 @@ Claude Code가 **매 세션 자동으로 읽는** 진입 파일이다.
 - Wiki를 바꿀 때마다 **`log.md`에 타임스탬프 + 변경 요약 append.**
 - 근거 경로는 항상 `raw/...`. 추측 금지.
 - 연도·카테고리·저자·멤버 필터는 **`raw/db/indexes/` 우선** (`publications.json` 풀 스캔 금지).
-  - journal=학술지, conference=학술대회/학회 → `indexes/by_category/<key>.json`- Wiki 본문: 한국어 기본. 링크: Obsidian `[[wikilink]]`.
+  - journal=학술지, conference=학술대회/학회 → `indexes/by_category/<key>.json`
+- Wiki 본문: 한국어 기본. 링크: Obsidian `[[wikilink]]`.
+
+## Query 속도 규칙 (중요)
+
+단순 조회(인물·연도·카테고리)는 **Fast path**:
+
+1. `wiki/people/<slug>.md` (member_id / Recent Work)
+2. `raw/db/indexes/by_member/<member_id>.json` 또는 `by_year/` / `by_category/`
+3. 바로 답변
+
+**하지 말 것**
+
+- `publications.json` / `authors.json` 전체를 `json.load`·`grep`·파이썬으로 스캔
+- unresolved achievement id를 추적하는 디버그 세션
+- 단순 Query에 bash를 여러 번 실행
+
+자세한 절차: @schema/QUERY.md
 
 ## 작업 트리거
 
 | 사용자가… | 하면 |
 |---|---|
 | Ingest / 반영 / 새 자료 | `schema/INGEST.md` |
-| 질문 / Query | `schema/QUERY.md` — `index`→연결 탐색, 답변 **답변/근거/공백**, **유용한 지식은 Wiki writeback** |
+| 질문 / Query | `schema/QUERY.md` — Fast path → 답변/근거/공백 → 필요 시 writeback |
 | Lint / 점검 | `schema/LINT.md` |
 
-## Query writeback (중요)
+## Query writeback
 
-Query는 단순 검색이 아니다. 답변 중 확인한 **재사용 가능한 사실·목록·링크**는 관련 `wiki/` 페이지에 반영하고 `log.md`에 남긴다.  
-이미 Wiki에 있는 재서술·일회성 질문은 쓰지 않는다. 기준은 @schema/QUERY.md.
+재사용 가능한 사실·목록·링크만 Wiki에 반영. 이미 있는 재서술은 쓰지 않음. 기준: @schema/QUERY.md
 
 ## 하지 말 것
 
 - `data/` 같은 네 번째 지식 계층 만들기
 - `raw/db` JSON을 손으로 고치기
-- 928개 성과를 전부 개별 Wiki 페이지로 만들기 (PoC 정책)
-- 모든 Query마다 무조건 장문 추가 (writeback 기준 따를 것)
+- 928개 성과 개별 Wiki 페이지 생성
+- 모든 Query마다 장문 추가 / 풀 DB 스캔
 
 ## 참고
 
-- 사람용 요약: @README.md
-- 변경 이력: @log.md
+- @README.md · @log.md
