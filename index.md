@@ -17,6 +17,7 @@ Agent·사람 모두 **여기서 시작**한다. 상세 규칙은 `AGENTS.md`, `
 - [[schema/LINT|Lint]]
 - [[schema/PAGE-TYPES|Page types]]
 - [AGENTS.md](AGENTS.md)
+- [CLAUDE.md](CLAUDE.md) (Claude Code 자동 로드)
 
 ## Lab
 

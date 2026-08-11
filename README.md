@@ -13,7 +13,7 @@ wiki/      LLM이 생성·수정하는 Markdown
 | 층 | 역할 |
 |---|---|
 | **Raw** | 변경하지 않는 원본. 근거는 전부 여기 (`raw/db`, 회의록, 논문 등) |
-| **Schema** | Agent 규칙 — `AGENTS.md` + `schema/` |
+| **Schema** | Agent 규칙 — `CLAUDE.md` + `AGENTS.md` + `schema/` |
 | **Wiki** | 요약·연결·갱신되는 지식 페이지 |
 | **Index / Log** | `index.md`, `log.md` |
 | **Git / Obsidian** | 이력·조회·그래프 |
@@ -21,7 +21,7 @@ wiki/      LLM이 생성·수정하는 Markdown
 ## 빠른 시작
 
 1. 이 폴더를 Obsidian vault로 연다.
-2. Agent는 `AGENTS.md` → `schema/` → `index.md` 순으로 읽는다.
+2. Agent는 `CLAUDE.md`(Claude Code) / `AGENTS.md` → `schema/` → `index.md` 순으로 읽는다.
 3. 새 자료는 `raw/`에만 추가한 뒤 **Ingest**를 요청한다.
 4. 질문은 **Query**로 요청한다.
 

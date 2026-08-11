@@ -23,3 +23,7 @@ Wiki 변경 이력. 최신 항목을 **아래에 append**한다.
 - Added: [[wiki/publications/patent]], [[wiki/publications/conference]], [[wiki/publications/journal]], [[wiki/publications/lecture]], [[wiki/publications/award]], [[wiki/publications/project]], [[wiki/publications/extracurricular]], [[wiki/publications/career]], [[wiki/publications/invited_lecture]], [[wiki/publications/membership]], [[wiki/publications/technology_transfer]], [[wiki/publications/book]], [[wiki/publications/education]]
 - Updated: [[wiki/publications/overview]], [[wiki/lab/overview]], [[index]]
 - Notes: 개별 성과 페이지는 여전히 미생성; 샘플·집계만
+
+## 2026-08-11 09:15 (KST)
+- Added: `CLAUDE.md` (Claude Code 세션 자동 진입점; `AGENTS.md`/`schema`로 위임)
+- Updated: `README.md`, `index.md` (Claude Code 안내)

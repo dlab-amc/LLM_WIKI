@@ -1,6 +1,7 @@
 # AGENTS.md — DLab LLM Wiki
 
-이 저장소에서 작업하는 LLM Agent의 **최상위 규칙**이다. 상세는 `schema/`를 따른다.
+이 저장소에서 작업하는 LLM Agent의 **공통 규칙**이다. 상세는 `schema/`를 따른다.  
+Claude Code는 루트 `CLAUDE.md`를 먼저 자동 로드한 뒤 본 파일·schema를 따른다.
 
 ## 정체성
 
