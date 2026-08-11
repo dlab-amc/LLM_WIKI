@@ -1,0 +1,105 @@
+[
+  {
+    "id": "a3a0d3a5-9f6e-4670-8211-461f68e9b4b7",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-05-13",
+    "title_eng": "Unconstrained Respiration Monitoring System based on Strip-type Force Sensor",
+    "title_kor": "스트립형 힘센서 기반 무구속 호흡 측정 시스템",
+    "conference_eng": "The 51th Korea Society of Medical and Biological Engineering Spring Conference 2016",
+    "author_kor": "박수지; 김훈; 신항식",
+    "author_eng": "Sooji park; Hoon Kim; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "68a7cea7-eb6d-4806-8658-50b7e4135546",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "7737f99c-8aa6-432f-b0c3-710b182fdd65",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2016-08-01",
+    "title_eng": "Reconstruction of the Undersampled Photoplethysmogram with Various Interpolation Methods",
+    "title_kor": "보간 방법에 따른 언더샘플링된 광용적맥파 복원 가능성 평가",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "신항식; 김훈",
+    "author_eng": "Hangsik shin; Hoon Kim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "68a7cea7-eb6d-4806-8658-50b7e4135546"
+    ],
+    "link": "https://www.researchgate.net/publication/307913747_Reconstruction_of_the_Undersampled_Photoplethysmogram_with_Various_Interpolation_Methods",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "0f9fb924-bc18-43c0-8c81-2eac0c8e5d05",
+    "category": "conference",
+    "class": "International",
+    "date": "2016-08-16",
+    "title_eng": "Feasibility Study of Respiration Monitoring based on Strip-Type Force Sensing Platform in Various Lying Positions",
+    "title_kor": "Feasibility Study of Respiration Monitoring based on Strip-Type Force Sensing Platform in Various Lying Positions",
+    "conference_eng": "38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC 2016)",
+    "author_kor": "박수지; 김훈; 신항식",
+    "author_eng": "Sooji park; Hoon Kim; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "68a7cea7-eb6d-4806-8658-50b7e4135546",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "d21e74a3-dbdc-4f37-989e-9085b3d4c524",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-07-13",
+    "title_eng": "Development of Realtime Unconstrained Respiratory Monitoring System based on Strip-type Force-sensor",
+    "title_kor": "스트립형 힘센서를 이용한 실시간 무구속 호흡 측정 시스템 개발",
+    "conference_eng": "The 47th KIEE Summer Conference 2016",
+    "author_kor": "박수지; 김훈; 신항식",
+    "author_eng": "Sooji park; Hoon Kim; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "68a7cea7-eb6d-4806-8658-50b7e4135546",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "0120800c-7c6b-4904-bad3-18ee9564edf5",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-07-15",
+    "title_eng": "Preliminary Study of IoT Module for Monitoring of Abnormal Respiratory Activity during Sleep",
+    "title_kor": "수면 중 비정상호흡 모니터링을 위한 IoT 모듈 사전연구",
+    "conference_eng": "The 46th KIEE Summer Conference 2015",
+    "author_kor": "박수지; 신항식; 김훈",
+    "author_eng": "Sooji park; Hangsik shin; Hoon Kim",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "68a7cea7-eb6d-4806-8658-50b7e4135546"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "32db1b35-527e-42d1-8453-ec9f9965744b",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-10-22",
+    "title_eng": "Development of Pillow Insertable Multiple Sensor Platform for Sleep Monitoring",
+    "title_kor": "수면 모니터링을 위한 베개삽입형 복합 센서 플랫폼 개발",
+    "conference_eng": "Conference on Information and Control Systems 2015",
+    "author_kor": "박수지; 양윤라; 김훈; 신항식",
+    "author_eng": "Sooji park; Yoon La Yang; Hoon Kim; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "68a7cea7-eb6d-4806-8658-50b7e4135546",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  }
+]

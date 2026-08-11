@@ -1,0 +1,141 @@
+[
+  {
+    "id": "a17adb43-d9dd-4a29-92a4-a9e927f79408",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-04-28",
+    "title_eng": "Gait Measurement based on Differential Capacitive Textile Force Sensor",
+    "title_kor": "차동 용량형 섬유 힘센서 기반 보행 측정 연구",
+    "conference_eng": "The 2017 Spring Conference of the Korea Information Processing Society",
+    "author_kor": "노동근; 한상진; 최화진; 신항식",
+    "author_eng": "Donggeun Rho; Sangjin Han; Hawjin Choi; Hangsik shin",
+    "author_ids": [
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "753a8115-c637-4c63-8293-1bd4c3584389",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-07-15",
+    "title_eng": "Modeling for Webcam-based Height Measurement System",
+    "title_kor": "웹캠 기반 무구속 신장측정 시스템 모델링",
+    "conference_eng": "The 46th KIEE Summer Conference 2015",
+    "author_kor": "최화진; 신항식",
+    "author_eng": "Hawjin Choi; Hangsik shin",
+    "author_ids": [
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "973df1ec-dc2e-4671-abb7-89f4905c0195",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-07-15",
+    "title_eng": "Investigation of Optimal Position of Strip-type Force Sensor to Detect Respiration",
+    "title_kor": "호흡 검출을 위한 스트립 힘센서 최적위치 고찰",
+    "conference_eng": "The 46th KIEE Summer Conference 2015",
+    "author_kor": "최화진; 박수지; 신항식",
+    "author_eng": "Hawjin Choi; Sooji park; Hangsik shin",
+    "author_ids": [
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "cda7c3da-51b0-48ad-a5d9-43da65174f46",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-02-09",
+    "title_eng": "Investigation for the Gender Difference of Autonomic Nervous Activity under Cold Stress",
+    "title_kor": "저온 환경에서 성별에 따른 자율신경계 변화 특성 고찰",
+    "conference_eng": "Bio-Medical System Conference 2015",
+    "author_kor": "신항식; 최화진; 손제원",
+    "author_eng": "Hangsik shin; Hawjin Choi; Jaewon Son",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "c59f4359-6b52-4820-9244-6c85930dcb9a"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "618537b6-15bc-4ea2-ae80-542b580d3113",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-05-08",
+    "title_eng": "Development of Belt-type Pressure Sensor Module and Evaluation the Respiration Waveform according to the Measuring Site",
+    "title_kor": "벨트형 압력센서 모듈 제작 및 측정 위치에 따른 호흡 파형 비교",
+    "conference_eng": "The 50th Korea Society of Medical and Biological Engineering Spring Conference 2015",
+    "author_kor": "박수지; 최화진; 신항식",
+    "author_eng": "Sooji park; Hawjin Choi; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "e16d9e8d-89ad-4fc1-95a3-355fe9c096b4",
+    "category": "conference",
+    "class": "International",
+    "date": "2014-12-17",
+    "title_eng": "Unconstrained Continuous Infants Monitoring System Based on Mattress-Type Force Sensing Platform: A Pilot Study",
+    "title_kor": "Unconstrained Continuous Infants Monitoring System Based on Mattress-Type Force Sensing Platform: A Pilot Study",
+    "conference_eng": "The 6th FTRA International Conference on Computer Science and its Applications(CSA 2014)",
+    "author_kor": "신항식; 최화진; 박수지",
+    "author_eng": "Hangsik shin; Hawjin Choi; Sooji park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "10f9a9c9-0e84-4a45-8e5a-30fdc5032c84",
+    "category": "conference",
+    "class": "International",
+    "date": "2014-11-20",
+    "title_eng": "Multiple Sensor Positioning for Mattress type Infant Heartbeat and Respiration Monitoring System",
+    "title_kor": "Multiple Sensor Positioning for Mattress type Infant Heartbeat and Respiration Monitoring System",
+    "conference_eng": "International Biomedical Engineering Conference 2014(IBEC 2014)",
+    "author_kor": "박수지; 최화진; 양윤라; 한수경; 김민아; 신항식",
+    "author_eng": "Sooji park; Hawjin Choi; Yoon La Yang; Soo Kyeong Han; Min-A Kim; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "9f0069c7-dd83-4cb4-a33d-dbbda21a436a",
+      "b37804ed-bbef-4dbf-b17e-204a2b754874",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "46df37c1-ee43-4e8e-ab78-f79d903e4929",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2014-10-16",
+    "title_eng": "Development of the Infant Mattress for the Environment and the Pressure Monitoring",
+    "title_kor": "환경 및 압력센서를 포함하는 영아 모니터링 매트리스 개발",
+    "conference_eng": "Conference on Information and Control Systems 2014",
+    "author_kor": "최화진; 박수지; 신항식",
+    "author_eng": "Hawjin Choi; Sooji park; Hangsik shin",
+    "author_ids": [
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2014"
+  }
+]

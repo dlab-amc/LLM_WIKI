@@ -1,0 +1,733 @@
+[
+  {
+    "id": "9d7d7673-a584-5eb8-b4c9-5a15ce56748c",
+    "category": "award",
+    "date": "2024-12-13",
+    "title_kor": "폐쇄병동 입원환자 위치 모니터링 플랫폼",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "3c29fe36-bc32-5aa7-aefc-da20c5001b08",
+    "category": "award",
+    "date": "2024-10-23",
+    "title_kor": "광용적맥파 기반 혈관 나이 추정 모델의 평가",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "48b4dd71-619c-5b88-ae98-9044469eea44",
+    "category": "award",
+    "date": "2024-11-09",
+    "title_kor": "공개 수면다원검사 데이터베이스 통합 활용을 위한 생체신호 및 결과 변수 분석",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "cfc8007b-d815-49b8-bfea-f66cf26e3dcc",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-06-19",
+    "title_eng": "Types and Frequencies of Errors in Clinical Chemistry Tests at the University Hospital Clinical Laboratory",
+    "title_kor": "대학병원 임상화학검사에서 보고된 오류 유형과 빈도",
+    "conference_eng": "The Korean Society of Medical Informatics",
+    "author_kor": "유지원; 김솔잎; 이우창; 전사일; 신항식",
+    "author_eng": "Jiwon You; Sollip Kim; Woochang Lee; Sail Chun; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "5ec9e165-f85d-4223-9e7f-038a6359d70a",
+      "c2ece990-47d8-45c5-bc8e-d2f6ea244737",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "f465d274-a2ed-447b-a17c-e9f8ade4cda7",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-11-07",
+    "title_eng": "The Impact of Demographic Characteristics and Comorbidities on the Incidence of Atrial Fibrillation",
+    "title_kor": "인구통계 특성 및 유관질환이 심방세동 발병에 미치는 영향",
+    "conference_eng": "2024년도 제 64회 대한의용생체공학회 추계학술대회",
+    "author_kor": "류가연; 최예은; 신항식",
+    "author_eng": "Gayeon Ryu; Ye Eun Choi; Hangsik Shin",
+    "author_ids": [
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "238412a7-3471-4e8a-81e9-f1f105eef065",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-11-07",
+    "title_eng": "Survival Analysis of Adult Sepsis Patients based on Demographics and Underlying Diseases",
+    "title_kor": "성인 패혈증 환자 생존율 분석: 인구통계 및 기저질환 연구",
+    "conference_eng": "The Korean Society of Medical and Biological Engineering Autumn Conference 2024",
+    "author_kor": "최예은; 신항식",
+    "author_eng": "Ye Eun Choi; Hangsik Shin",
+    "author_ids": [
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://dlab-amc.github.io/publications/conference/ibec2024/ye1/ibec_ye1.html#",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "25c744a8-0ba8-4012-9740-83157d327200",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-07-26",
+    "title_eng": "Signal completion using generative adversarial networks for enhanced photoplethysmography measurement accuracy",
+    "journal_eng": "Computers in Biology and Medicine",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.sciencedirect.com/science/article/pii/S0010482524010370",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "c4f6d95c-ea6d-4eba-abe8-2e4d704a9999",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-07-12",
+    "title_eng": "Recommendations for evaluating photoplethysmography-based algorithms for blood pressure assessment",
+    "journal_eng": "Communications Medicine",
+    "author_kor": "모하메드 엘젠디; 프리돌린 하우그; 리처드 리본 플레처; 존 앨런; 신항식; 아이멘 알리안; 카를로 메논",
+    "author_eng": "Mohamed Elgendi; Fridolin Haugg; Richard Ribon Fletcher; John Allen; Hangsik Shin; Aymen Alian; Carlo Menon",
+    "author_ids": [
+      "afb9d7ff-1260-4ee9-a040-9e8d768382e8",
+      "36b4d394-e23c-49ff-a5ba-a68cafc65cb7",
+      "84d31672-e421-4d67-8356-b1e8a1a3c7bc",
+      "7f0fae56-f54e-4860-bb9a-cc84c97708c4",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "46f056ed-3502-46e3-b195-decaff737dc5",
+      "841872b3-1bd2-4ee0-8294-397ab97546a3"
+    ],
+    "link": "https://www.nature.com/articles/s43856-024-00555-2",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "17bf2ac9-95d2-4b28-af8b-f9b5bab02212",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-05-09",
+    "title_eng": "Photoplethysmogram Features for Severity Assessment of Postoperative Pain",
+    "title_kor": "광용적맥파 기반 수술후 통증 중증도 평가지표 분석",
+    "conference_eng": "2024년 제63회 대한의용생체공학회 춘계 학술대회",
+    "author_kor": "류가연; 석현석; 최병문; 최재문; 신항식",
+    "author_eng": "Gayeon Ryu; Hyeon Seok Seok; Byungmoon Choi; Jae Moon Choi; Hangsik Shin",
+    "author_ids": [
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "d7e4094d-cc2c-450b-8fa1-f74dd6ce9f09",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-09-28",
+    "title_eng": "Orthopedic surgeon level joint angle assessment with artificial intelligence based on photography: a pilot study",
+    "journal_eng": "Biomedical Engineering Letters",
+    "author_kor": "류승민; 신기원; 도창현; 벤 후이; 박지연; 고경환; 신항식; 전인호",
+    "author_eng": "Seung Min Ryu; Keewon Shin; Chang Hyun Doh; Ben Hui; Ji Yeon Park; Kyoung-Hwan Koh; Hangsik Shin; In-ho Jeon",
+    "author_ids": [
+      "3ceb26bc-3b4c-4ad9-b1eb-030494efeb3d",
+      "6d394666-b1ce-4e53-8b45-b383a8263dc8",
+      "5678849f-e95a-4848-90d4-19fbe491ce98",
+      "4d7d4559-0e06-456f-ac81-7d332b5c7f7c",
+      "43a26ff6-46cb-4e1d-b2b2-a63b3c27495d",
+      "e160ecba-57be-4477-8fee-145762fd3c28",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4beef22e-ab05-463a-978d-5476db100747"
+    ],
+    "link": "https://link.springer.com/article/10.1007/s13534-024-00432-w",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "2be7d822-a98c-48a7-8ce3-a53b2c9bb786",
+    "category": "patent",
+    "class": "International",
+    "date": "2024-01-16",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "외장 기기, 운영상 외장 기기, 호스트 디바이스, 관리 서버와 외장 기기의 방법을 다루는 방법",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "f6f4aaf9-2e48-49d7-8ee2-babcf0cb65b7",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2024-12-30",
+    "title_eng": "Method for Improving indoor positioning Accuracy based ob bluetooth",
+    "title_kor": "블루투스 기반 실내 위치 추정 정확도 향상을 위한 방법",
+    "author_kor": "이재형; 신항식; 임하민; 왕창원",
+    "author_eng": "Jaehyung Lee; Hangsik Shin; Hamin Lim; Changwon Wang",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "ad98337a-712a-4d40-a163-4ac540834245"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "a17b2ab4-24b5-4beb-b4f6-f8af8d413ece",
+    "category": "patent",
+    "class": "International",
+    "date": "2024-07-09",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "적용을 실행하기 위한 방법과 장치",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "1488e88b-6109-4435-8b1e-12951f673d7f",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-08-22",
+    "title_eng": "Machine learning-based sample misidentification error detection in clinical laboratory tests: A retrospective multicenter study",
+    "journal_eng": "Clinical Chemistry",
+    "author_kor": "석현석; 유신애; 신경화; 이우창; 전사일; 김솔잎; 신항식",
+    "author_eng": "Hyeon Seok Seok; Shinae Yu; Kyung-Hwa Shin; Woochang Lee; Sail Chun; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "06cd217f-5f4c-49af-9cf4-1666a5f30674",
+      "5ec9e165-f85d-4223-9e7f-038a6359d70a",
+      "c2ece990-47d8-45c5-bc8e-d2f6ea244737",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://academic.oup.com/clinchem/advance-article/doi/10.1093/clinchem/hvae114/7739014?utm_source=authortollfreelink&utm_campaign=clinchem&utm_medium=email&guestAccessKey=1df85bdd-2fbf-480d-97d8-d0d649a9c699",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "d0fd3ec9-d105-4dd3-abf3-c8b5a254ff66",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-07-10",
+    "title_eng": "Location Monitoring Platform for  Psychiatric Closed Ward",
+    "title_kor": "폐쇄병동 입원환자 위치 모니터링 플랫폼",
+    "conference_eng": "The 55th KIEE Summer Conference 2024",
+    "author_kor": "임하민; 왕창원; 신항식",
+    "author_eng": "Hamin Lim; Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "0a3f5d13-1cc7-4cb3-8767-8f49665f1cf9",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-11-07",
+    "title_eng": "Large Language Models and Health Checkup Report Interpretation: Possibilities and Limitations",
+    "title_kor": "대규모 언어 모델의 건강검진 결과 해석 능력: 가능성과 한계",
+    "conference_eng": "The 64th Korea Society of Medical and Biological Engineering Fall Conference 2024",
+    "author_kor": "유지원; 신항식",
+    "author_eng": "Jiwon You; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://dlab-amc.github.io/publications/conference/ibec2024/jw/ibec_jw.html#",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "de172548-fd67-49dd-8254-eea5fc110b03",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-11-07",
+    "title_eng": "In-hospital patient’s location correction using machine learning",
+    "title_kor": "머신러닝을 활용한 병동내 환자 위치 추정 오류 보정",
+    "conference_eng": "The 64th Annual Fall Conference of the Korean Society of Medical and Biological Engineering (KOSOMBE) 2024",
+    "author_kor": "이재형; 임하민; 왕창원; 신항식",
+    "author_eng": "Jaehyung Lee; Hamin Lim; Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "7dd029f2-44c3-41a1-8e9d-f9d48a211273",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-05-09",
+    "title_eng": "Identifying Key Physical Function Indicators for Pre-Frailty",
+    "title_kor": "전노쇠 단계 분류를 위한 신체기능 평가지표 탐색",
+    "conference_eng": "2024 KOSOMBE spring conference",
+    "author_kor": "왕창원; 신항식",
+    "author_eng": "Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "859d8bbf-e331-46e9-8de4-206c9f6291b6",
+    "category": "conference",
+    "class": "International",
+    "date": "2024-07-15",
+    "title_eng": "Identify Pre-Frailty Among the Elderly Using Demographic, Physical Function, and Gait Data",
+    "title_kor": "인구학적 정보, 신체기능 및 보행데이터를 이용한 전노쇠 식별",
+    "conference_eng": "EMBC 2024",
+    "author_kor": "왕창원; 신항식",
+    "author_eng": "Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "8df4115b-011f-4b42-afa6-33cb484115be",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-05-09",
+    "title_eng": "Gravity Compensation of Accelerometer with Madgwick Filter-Based Quaternion Rotation Estimation",
+    "title_kor": "Madgwick필터 기반 쿼터니언 회전 추정을 통한 가속도 센서 중력 보정",
+    "conference_eng": "2024 KOSOMBE spring conference",
+    "author_kor": "임하민; 신항식",
+    "author_eng": "Hamin Lim; Hangsik Shin",
+    "author_ids": [
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "f0c3dc1a-d91a-4eb4-927b-015012f0739a",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-10-23",
+    "title_eng": "Graph Neural Network for Atrial Fibrillation Classification Using Left Atrial Anatomy and Physiology",
+    "title_kor": "좌심방 해부생리 정보를 활용한 심방세동 타입 분류 그래프 신경망 모델",
+    "conference_eng": "Conference on Information and Control Systems",
+    "author_kor": "이재형; 권오석; 박희남; 신항식",
+    "author_eng": "Jaehyung Lee; Oh-Seok Kwon; Hui-Nam Pak; Hangsik Shin",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "a9be57b4-b145-4ac1-880a-bd7b8bed3668",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-05-13",
+    "title_eng": "FDA-cleared home sleep apnea testing devices",
+    "journal_eng": "npj Digital Medicine",
+    "author_kor": "박지현; 왕창원; 신항식",
+    "author_eng": "Ji Hyeun Park; Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "3a5a94ad-5186-494a-a8fb-1138bb9889f9",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.nature.com/articles/s41746-024-01112-w",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "c0e967e7-4969-4ea0-a624-ff9f3c621cbe",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-10-23",
+    "title_eng": "Evaluation of Photoplethysmogram-based Vascular Age Estimation Models",
+    "title_kor": "광용적맥파 기반 혈관 나이 추정 모델의 평가",
+    "conference_eng": "Conference on Information and Control Systems",
+    "author_kor": "류가연; 최예은; 신항식",
+    "author_eng": "Gayeon Ryu; Ye Eun Choi; Hangsik Shin",
+    "author_ids": [
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "bdba12ce-ab86-4285-8d84-180fd9189006",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-07-10",
+    "title_eng": "Error Detection in Laboratory Tests using Machine Learning",
+    "title_kor": "머신러닝을 사용한 진단검사 오류 감지",
+    "conference_eng": "The 55th KIEE Summer Conference 2024",
+    "author_kor": "석현석; 유지원; 김솔잎; 신항식",
+    "author_eng": "Hyeon Seok Seok; Jiwon You; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "e428df87-b2b6-49b4-9d24-ac5b4fdfeb4a",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-07-10",
+    "title_eng": "Development of a Real-Time Upper Limb Range of Motion Measurement Method Using a Single Depth Measurement Camera",
+    "title_kor": "단일 깊이측정 카메라를 활용한 실시간 상지 관절 가동범위 측정 방법 개발",
+    "conference_eng": "The 55th KIEE Summer Conference 2024",
+    "author_kor": "김영돈; 임하민; 류가연; 한유진; 신항식",
+    "author_eng": "Yeongdon Kim; Hamin Lim; Gayeon Ryu; Yujin Han; Hangsik Shin",
+    "author_ids": [
+      "923fe812-860b-4422-9d92-1767e699fa0b",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "39e9c947-ff80-4433-8782-c1479e161d54",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-07-10",
+    "title_eng": "Development of a Patient Location Monitoring Mobile Application in Hospitals",
+    "title_kor": "병원 내 환자 위치 모니터링 모바일 어플리케이션 개발",
+    "conference_eng": "The 55th KIEE Summer Conference 2024",
+    "author_kor": "왕창원; 임하민; 신항식",
+    "author_eng": "Changwon Wang; Hamin Lim; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "cacc67b5-67ad-4753-b680-051c11d0c02f",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-06-19",
+    "title_eng": "Development of a Location Monitoring Platform for Inpatients within Closed Psychiatric Ward",
+    "title_kor": "폐쇄병동 환자 위치 모니터링 플랫폼 구축 사례",
+    "conference_eng": "KOSMI 2024 Spring conference",
+    "author_kor": "왕창원; 임하민; 주성우; 이중선; 신항식",
+    "author_eng": "Changwon Wang; Hamin Lim; Sung Woo Joo; Jungsun Lee; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "140e3b05-97fa-4c63-a649-9dc6aa692776",
+      "95c4fbbb-c06a-4457-8f76-5db67ee40176",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "688ca5a0-8312-40d0-bb81-6ae6b13b9533",
+    "category": "conference",
+    "class": "International",
+    "date": "2024-07-15",
+    "title_eng": "Demographics and Comorbidities as an Atrial Fibrillation Risk Factor: a Retrospective Study in Koreans",
+    "title_kor": "심방세동 위험 요인으로서 인구통계학적 요인과 동반질환: 한국인에 대한 후향적 연구",
+    "conference_eng": "EMBC 2024",
+    "author_kor": "최예은; 이재형; 석현석; 신항식",
+    "author_eng": "Ye Eun Choi; Jaehyung Lee; Hyeon Seok Seok; Hangsik Shin",
+    "author_ids": [
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "ff93bf0b-1866-43d0-b881-67b5400e47f3",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-10-23",
+    "title_eng": "Comparison of PANSS Total Score and K-means Clustering-Based Methods for Evaluating Schizophrenia Symptom Severity",
+    "title_kor": "Positive and Negative Syndrome Scale 총점 및 K-means Clustering 기반 조현병 증상 중증도 평가방법 비교",
+    "conference_eng": "Conference on Information and Control Systems",
+    "author_kor": "왕창원; 신항식",
+    "author_eng": "Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "748a314f-ee4c-4683-9e08-64b7bbe8287f",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-04-01",
+    "title_eng": "Calibration-free blood pressure estimation based on a convolutional neural network",
+    "journal_eng": "Psychophysiology",
+    "author_kor": "조진우; 신항식; 최아영",
+    "author_eng": "Jinwoo Jo; Hangsik Shin; Ahyoung Choi",
+    "author_ids": [
+      "b438a16a-5733-4601-b886-e6e78bce2fae",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/37971153/",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "8bf5ada9-036e-45ea-8e1b-88061cc5e1d0",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-11-07",
+    "title_eng": "Bio-signals and result feature analysis to leverage public polysomnography database  integration",
+    "title_kor": "공개 수면다원검사 데이터베이스 통합 활용을 위한 생체신호 및 결과 변수 분석",
+    "conference_eng": "대한의용생체공학회 2024년 추계학술대회",
+    "author_kor": "류가연; 한유진; 김영돈; 신항식",
+    "author_eng": "Gayeon Ryu; Yujin Han; Yeongdon Kim; Hangsik Shin",
+    "author_ids": [
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+      "923fe812-860b-4422-9d92-1767e699fa0b",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://dlab-amc.github.io/publications/conference/ibec2024/gy/ibec_gy.html#",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "a88dd95e-adb0-46cb-a2ae-ab50f1b56c45",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-08-14",
+    "title_eng": "Atrial Fibrillation Identification Using CNNs Based on Genomic Data",
+    "journal_eng": "Journal of Electrical Engineering & Technology",
+    "author_kor": "이재형; 권오석; 류가연; 신항식; 박희남",
+    "author_eng": "Jaehyung Lee; Oh-Seok Kwon; Gayeon Ryu; Hangsik Shin; Hui-Nam Pak",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba"
+    ],
+    "link": "https://link.springer.com/article/10.1007/s42835-024-01998-2",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "4fde86c3-06f0-4b09-a500-dfcf59ba538e",
+    "category": "conference",
+    "class": "International",
+    "date": "2024-03-20",
+    "title_eng": "Applying Machine Learning for Result Verification: Analysis of Five Tumor Markers",
+    "title_kor": "Applying Machine Learning for Result Verification: Analysis of Five Tumor Markers",
+    "conference_eng": "Cherry Blossom Symposium 2024 (CBS 2024) The 13th International Conference of Clinical Laboratory Automation",
+    "author_kor": "최유나; 석현석; 신항식; 이승후; 유준상; 김솔잎; 이우창; 전사일",
+    "author_eng": "Yuna Choi; Hyeon Seok Seok; Hangsik Shin; Seunghoo Lee; Joonsang Yu; Sollip Kim; Woochang Lee; Sail Chun",
+    "author_ids": [
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "68c7ac1d-b7b7-429a-9d51-432b07e593a1",
+      "15140f93-6f69-43b8-8dd4-7d0541846ec4",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "5ec9e165-f85d-4223-9e7f-038a6359d70a",
+      "c2ece990-47d8-45c5-bc8e-d2f6ea244737"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "6d8b5817-2a7b-4507-9d7f-21de5560f5a4",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-08-12",
+    "title_eng": "Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers",
+    "title_kor": "Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers",
+    "journal_eng": "Journal of Electrical Engineering & Technology",
+    "author_kor": "류가연; 최재문; 이재형; 석현석; 신항식; 최병문",
+    "author_eng": "Gayeon Ryu; Jae Moon Choi; Jaehyung Lee; Hyeon Seok Seok; Hangsik Shin; Byungmoon Choi",
+    "author_ids": [
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26"
+    ],
+    "link": "https://link.springer.com/article/10.1007/s42835-024-01999-1?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240812&utm_content=10.1007%2Fs42835-024-01999-1",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "1e67b630-51dd-4fe6-8733-7b2b92cc7c37",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-11-07",
+    "title_eng": "Analysis of Mortality Risk in Adult Sepsis Patients based on  Demographics and Underlying Diseases",
+    "title_kor": "성인 패혈증 환자 사망 위험 분석: 인구통계 및 기저질환 연구",
+    "conference_eng": "Korea Society of Medical and Biological Engineering Autumn Conference 2024",
+    "author_kor": "최예은; 신항식",
+    "author_eng": "Ye Eun Choi; Hangsik Shin",
+    "author_ids": [
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://dlab-amc.github.io/publications/conference/ibec2024/ye2/ibec_ye2.html#",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "3f037504-428d-406c-9c76-7d0fde04eb4c",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2024-04-22",
+    "title_eng": "An apparatus for creating a pain assessment model, method for creating a pain assessment model and computer readable recording medium",
+    "title_kor": "통증평가모델 생성 장치, 통증평가모델 생성 방법 및 이를 수행하는 프로그램이 저장된 기록 매체",
+    "author_kor": "신항식; 최병문; 최재문; 류가연",
+    "author_eng": "Hangsik Shin; Byungmoon Choi; Jae Moon Choi; Gayeon Ryu",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "841b7d8e-34dc-46ee-b032-b8a8cdd56a9b",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-11-26",
+    "title_eng": "Advancing laboratory medicine practice with machine learning: swift yet exact",
+    "journal_eng": "Annals of Laboratory Medicine",
+    "author_kor": "유지원; 석현석; 김솔잎; 신항식",
+    "author_eng": "Jiwon You; Hyeon Seok Seok; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.annlabmed.org/journal/view.html?uid=3598&vmd=Full",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "53d88ac1-e3ae-40ec-8c89-34f588b29266",
+    "category": "conference",
+    "class": "International",
+    "date": "2024-03-20",
+    "title_eng": "AI-based Approach for Detecting Sample Misidentification Errors in Alpha-fetoprotein with Multi-Center Validation",
+    "title_kor": "AI-based Approach for Detecting Sample Misidentification Errors in Alpha-fetoprotein with Multi-Center Validation",
+    "conference_eng": "Cherry Blossom Symposium 2024 (CBS 2024) The 13th International Conference of Clinical Laboratory Automation",
+    "author_kor": "석현석; 유신애; 신경화; 이우창; 김솔잎; 신항식",
+    "author_eng": "Hyeon Seok Seok; Shinae Yu; Kyung-Hwa Shin; Woochang Lee; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "06cd217f-5f4c-49af-9cf4-1666a5f30674",
+      "5ec9e165-f85d-4223-9e7f-038a6359d70a",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "6498cf43-a5bf-411b-a439-5f19c335728f",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2024-07-19",
+    "title_eng": "A multi-array pressure sensor with air vibration transmission type and wearable device comprising the same",
+    "title_kor": "공기 진동 전달형 다중 배열 압력 센서 및 이를 포함하는 웨어러블 장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "412b08d1-9366-4d4d-b00c-82c4126c81c8",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2024-08-07",
+    "title_eng": "A method and apparatus for vascular aging assessment model Based on photoplethysmogram incident and reflected wave",
+    "title_kor": "광용적맥파의 입사파와 반사파를 사용한 혈관노화 평가 방법 및 장치",
+    "author_kor": "신항식; 박준영",
+    "author_eng": "Hangsik Shin; Junyoung Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "6f95dc37-5a9f-4426-846c-0ce9216a6861",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2024-11-26",
+    "title_eng": "A method and apparatus for quality evaluation of photoplethysmography",
+    "title_kor": "광용적맥파의 품질 평가 방법 및 장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f4f",
+    "category": "project",
+    "date": "2024-01-01",
+    "project_name_eng": "Developing artificial intelligence for early risk predictionof atrial fibrillation using clinical information",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f51",
+    "category": "project",
+    "date": "2024-05-01",
+    "project_name_eng": " Development of autoverification and feedback method for clinical laboratory tests",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f50",
+    "category": "project",
+    "date": "2024-04-01",
+    "project_name_eng": " Development of a Telemedicine Booth Capable of Multi-Biometric Signal Measurement and Realistic Interaction Physical Examinations at the Level of In-Person Consultations",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f57",
+    "category": "project",
+    "date": "2024-01-01",
+    "project_name_eng": "Big Data Processing, and Deep Learning/Transfer Learning Model Development",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "bac6622f-7f90-5f5c-83cd-e07d87fb3a4e",
+    "category": "award",
+    "date": "2024-11-09",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "0eb62de1-347d-5834-838b-9351b39d7557",
+    "category": "extracurricular",
+    "date": "2024-03-17",
+    "year_resolved": "2024"
+  }
+]

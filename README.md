@@ -28,7 +28,7 @@ wiki/      LLM이 생성·수정하는 Markdown
 ## 핵심 동작
 
 1. **Ingest** — `raw/` → `wiki/` 반영, 관련 페이지 동시 갱신, `log.md` 기록
-2. **Query** — `index.md`부터 관련 페이지를 찾아 답변
+2. **Query** — `index.md`부터 연결 탐색·답변. 재사용 지식은 Wiki에 writeback
 3. **Lint** — 고아 링크·중복·스키마 위반 점검
 
 상세: `schema/`

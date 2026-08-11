@@ -1,0 +1,25 @@
+[
+  {
+    "id": "eccd020d-f497-4e34-9310-6e99b9bb5504",
+    "category": "conference",
+    "class": "International",
+    "date": "2007-12-01",
+    "title_eng": "Implantable Bio system design for displacement measurement of living life",
+    "title_kor": "Implantable Bio system design for displacement measurement of living life",
+    "conference_eng": "In: Advanced Communication Technology, The 9th International Conference on. IEEE Proceeding",
+    "author_kor": "최명석; 이상원; 김종철; 조준동; 김진권; 신항식; 이명호; 조우순; 김재석",
+    "author_eng": "Myung-suk Choi; Sang-won Lee; Jong-chul Kim; Jun-dong Cho; Jinkwon Kim; Hangsik shin; Myongho Lee; Uusun Cho; Jaesuk Kim",
+    "author_ids": [
+      "8eefece5-1c7c-4e74-96fa-47c135489bd2",
+      "937b3736-c2dd-4240-8ab6-3752b29eda7e",
+      "a66965ce-a990-4180-a2f3-c5adfdae5385",
+      "bca6c3eb-14b3-4ea1-97f2-5d5120b5d451",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4a05a292-1a5b-4577-91ff-87da330a9358",
+      "3236a523-6d17-4174-b293-792f42730371",
+      "05525c60-7f80-47ff-aba9-cbaed273d513"
+    ],
+    "year_resolved": "2007"
+  }
+]

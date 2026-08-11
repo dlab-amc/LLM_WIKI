@@ -1,0 +1,59 @@
+[
+  {
+    "id": "aae2974e-7859-424b-888f-51b56626143a",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2021-05-11",
+    "title_eng": "Feasibility of a Waistband-Type Wireless Wearable Electrocardiogram Monitoring System Based on a Textile Electrode: Development and Usability Study",
+    "title_kor": "Feasibility of a Waistband-Type Wireless Wearable Electrocardiogram Monitoring System Based on a Textile Electrode: Development and Usability Study",
+    "journal_eng": "JMIR mHealth and uHealth",
+    "author_kor": "권단비; 조하경; 신항식",
+    "author_eng": "Danbi Kwon; Hakyung Cho; Hangsik Shin",
+    "author_ids": [
+      "236e5d74-414b-4790-b358-619eda9557de",
+      "060492dd-a93e-46a6-bfbc-3cec066480c5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/33973860/",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "b77adbc0-19ce-473c-a37f-d9f426da49ab",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-05-09",
+    "title_eng": "Feasibility Study of Waistband-type Wearable ECG Electrode",
+    "title_kor": "허리 밴드형 웨어러블 심전도 전극 연구",
+    "conference_eng": "The 54th Korea Society of Medical and Biological Engineering Spring Conference 2019",
+    "author_kor": "권단비; 조하경; 신항식",
+    "author_eng": "Danbi Kwon; Hakyung Cho; Hangsik shin",
+    "author_ids": [
+      "236e5d74-414b-4790-b358-619eda9557de",
+      "060492dd-a93e-46a6-bfbc-3cec066480c5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "e50876f8-bf98-45be-8114-1ee863cad146",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2010-03-01",
+    "title_eng": "Respiration Measurement System using Textile Capacitive Pressure Sensor",
+    "title_kor": "전기용량성 섬유 압력센서를 이용한 호흡측정 시스템",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "민세동; 윤영현; 이충근; 신항식; 조하경; 황선철; 이명호",
+    "author_eng": "Se-Dong Min; Younghyeon Yun; Chungkeun Lee; Hangsik Shin; Hakyung Cho; Seon-Cheol Hwang; Myongho Lee",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "2eb90419-3e7b-4e65-a481-45a472b574cc",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "060492dd-a93e-46a6-bfbc-3cec066480c5",
+      "6b4affb3-8e02-43ff-a345-0c84bbca780f",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "http://journal.auric.kr/kieep/ArticleDetail/RD_R/361209",
+    "year_resolved": "2010"
+  }
+]

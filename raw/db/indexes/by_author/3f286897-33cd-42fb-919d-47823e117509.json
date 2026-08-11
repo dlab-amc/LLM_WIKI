@@ -1,0 +1,20 @@
+[
+  {
+    "id": "805b2fef-ad9f-47fd-a4aa-8b6a6f82cd5c",
+    "category": "conference",
+    "class": "International",
+    "date": "2015-12-02",
+    "title_eng": "Pulse Wave Pitch Detection Technique and Its Application to Human Sensibility Evaluation",
+    "title_kor": "Pulse Wave Pitch Detection Technique and Its Application to Human Sensibility Evaluation",
+    "conference_eng": "2015 International Conference on Mechatronics and Information Technology(ICMIT 2015)",
+    "author_kor": "김동준; 이현민; 이정환; 신항식",
+    "author_eng": "Dong-Jun Kim; Hyun-Min Lee; Jeong-Whan Lee; Hangsik shin",
+    "author_ids": [
+      "62d51eaa-e423-49c2-b058-669ba146f3fa",
+      "3f286897-33cd-42fb-919d-47823e117509",
+      "596b9b4d-31d5-43cb-b6f4-656f259b6ef5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  }
+]

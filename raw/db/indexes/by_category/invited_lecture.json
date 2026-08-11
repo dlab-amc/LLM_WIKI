@@ -1,0 +1,86 @@
+[
+  {
+    "id": "5daa2f95-80e3-52a5-aaa0-4bbf41ab5966",
+    "category": "invited_lecture",
+    "date": "2019-10-17",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "32d9e1c1-f770-5b2b-8098-2aae9dabafae",
+    "category": "invited_lecture",
+    "date": "2018-04-01",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "6980978d-9252-582d-8691-a549ff699a77",
+    "category": "invited_lecture",
+    "date": "2017-09-01",
+    "year_resolved": "2017"
+  },
+  {
+    "id": "c9608b35-b00c-5f22-847f-af51a6d541d3",
+    "category": "invited_lecture",
+    "date": "2016-07-01",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "53f34a09-3b78-5975-aa82-6e1926be636a",
+    "category": "invited_lecture",
+    "date": "2015-05-28",
+    "year_resolved": "2015"
+  },
+  {
+    "id": "1ccd07b7-0a4f-52c2-93df-07582fea4922",
+    "category": "invited_lecture",
+    "date": "2015-10-06",
+    "year_resolved": "2015"
+  },
+  {
+    "id": "be02440d-2f20-557c-9e65-babdb7eb1212",
+    "category": "invited_lecture",
+    "date": "2014-11-26",
+    "year_resolved": "2014"
+  },
+  {
+    "id": "081ee585-6539-5c6f-8a37-0435ebb7daea",
+    "category": "invited_lecture",
+    "date": "2014-11-14",
+    "year_resolved": "2014"
+  },
+  {
+    "id": "45b229d1-f2e4-595c-b757-b3d3b125547d",
+    "category": "invited_lecture",
+    "date": "2014-10-25",
+    "year_resolved": "2014"
+  },
+  {
+    "id": "ab5b558e-f6ea-5e0b-99d0-2f49a589bf49",
+    "category": "invited_lecture",
+    "date": "2014-06-01",
+    "year_resolved": "2014"
+  },
+  {
+    "id": "ff70b344-0560-56f8-84ee-f8dc7ff61e39",
+    "category": "invited_lecture",
+    "date": "2014-02-01",
+    "year_resolved": "2014"
+  },
+  {
+    "id": "d2f47152-0c45-5115-8892-2b873a93ffdb",
+    "category": "invited_lecture",
+    "date": "2013-12-01",
+    "year_resolved": "2013"
+  },
+  {
+    "id": "e3b8c18f-e332-5fda-9834-69234a797f82",
+    "category": "invited_lecture",
+    "date": "2013-12-01",
+    "year_resolved": "2013"
+  },
+  {
+    "id": "8ff4e6dc-44b2-5423-9358-d0ac53248fcb",
+    "category": "invited_lecture",
+    "date": "2012-01-10",
+    "year_resolved": "2012"
+  }
+]

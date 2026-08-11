@@ -1,0 +1,1184 @@
+[
+  {
+    "id": "6353522e-2779-456b-87f4-ee2ac4e95e2c",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2019-08-12",
+    "title_kor": "한국판 역학연구 우울척도(K-CESD)설문 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+    "author_kor": "신항식; 김도원; 석현석",
+    "author_eng": "Hangsik Shin; Do-Won Kim; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f5c5db67-7148-49a8-ae2d-6640056ea44f",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "e87e1bcb-1a56-4065-8c6c-116814a41a68",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2019-08-12",
+    "title_kor": "특성불안척도(State-Trait Anxiety Inventory, STAI-X-2)설문 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+    "author_kor": "신항식; 김도원; 석현석",
+    "author_eng": "Hangsik Shin; Do-Won Kim; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f5c5db67-7148-49a8-ae2d-6640056ea44f",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "2b5c1faf-c54b-4c3a-bbbb-aff1e49bf85a",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2019-08-12",
+    "title_kor": "상태불안척도(State-Trait Anxiety Inventory, STAI-X-1)설문 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+    "author_kor": "신항식; 김도원; 석현석",
+    "author_eng": "Hangsik Shin; Do-Won Kim; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f5c5db67-7148-49a8-ae2d-6640056ea44f",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "cec8101f-dece-4554-860b-7657a72589ae",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2019-08-12",
+    "title_kor": "벡우울척도(Beck Depression Inventory, BDI) 설문 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+    "author_kor": "신항식; 김도원; 석현석",
+    "author_eng": "Hangsik Shin; Do-Won Kim; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f5c5db67-7148-49a8-ae2d-6640056ea44f",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "fc5d01ec-ce40-4433-829e-2f9cf7efcd12",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2019-08-12",
+    "title_kor": "벡불안척도(Beck Anxiety Inventory, BAI) 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+    "author_kor": "신항식; 김도원; 석현석",
+    "author_eng": "Hangsik Shin; Do-Won Kim; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f5c5db67-7148-49a8-ae2d-6640056ea44f",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "4e7a731f-62b0-4271-acc3-1382d6e91534",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2019-08-12",
+    "title_kor": "건강관련삶의질 평가도구(WHOQOL-BREF)설문 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+    "author_kor": "신항식; 석현석",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "61ce5562-7b0c-454e-8860-f49207fe91e5",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2019-08-12",
+    "title_kor": "건강관련삶의질 평가도구(EQ-5D)설문 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+    "author_kor": "신항식; 석현석",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "2c2a396c-7847-4942-8cc8-0bad13f49cdd",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2019-08-12",
+    "title_kor": "건강관련 삶의질, 불안 및 우울 설문 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+    "author_kor": "신항식; 강지훈; 김도원; 석현석; 권주희; 한수경",
+    "author_eng": "Hangsik Shin; Jihoon Kang; Do-Won Kim; Hyeon Seok Seok; Joohee Kwon; Soo Kyeong Han",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "98a0c002-fcdc-427e-8d1f-a74d1352558e",
+      "f5c5db67-7148-49a8-ae2d-6640056ea44f",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "0850693d-255d-4682-861a-dacd212a43da",
+      "9f0069c7-dd83-4cb4-a33d-dbbda21a436a"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "3389cb13-dc67-4bbc-a323-2a66604c8aea",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-04-26",
+    "title_eng": "Unconstrained type bio signal measuring sensor and bio signal measuring system having the same",
+    "title_kor": "무구속적 생체신호 측정센서 및 이를 포함하는 생체신호 측정시스템",
+    "author_kor": "신항식; 박수지",
+    "author_eng": "Hangsik Shin; Sooji park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "d40f47c1-86ca-4a10-bc8c-f277574274d6",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-05-09",
+    "title_eng": "Trend of Blood Pressure Estimation Model based on Pulse Transit Time",
+    "title_kor": "맥파전달시간 기반 혈압 추정 모델 개발 동향",
+    "conference_eng": "The 54th Korea Society of Medical and Biological Engineering Spring Conference 2019",
+    "author_kor": "박지연; 한상진; 노동근; 신항식",
+    "author_eng": "Park Ji Yeon; Sangjin Han; Donggeun Rho; Hangsik shin",
+    "author_ids": [
+      "43a26ff6-46cb-4e1d-b2b2-a63b3c27495d",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "bfc8c9f3-b6a7-4163-a01a-6b606053ec0c",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-08-08",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "8a612fcb-ddca-440c-b691-ad6ed7dc0470",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-03-08",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "bc53d806-6056-4f67-bf0a-efe82ec8d77a",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-10-29",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "6afe2676-bccb-486c-9592-11bca331634c",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-11-04",
+    "title_eng": "System and method for estimating blood pressure based on deep learning",
+    "title_kor": "딥러닝 기반의 혈압 예측 시스템 및 방법",
+    "author_kor": "최아영; 신항식; 조진우",
+    "author_eng": "Ahyoung Choi; Hangsik Shin; Jinwoo Jo",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "b438a16a-5733-4601-b886-e6e78bce2fae"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "ffc056b3-2897-444a-a319-4c3d77f97a76",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-10-29",
+    "title_eng": "Stacking cone system",
+    "title_kor": "스태킹 콘 시스템",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "96280732-8cb3-431a-a80a-460ec293bc1b",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2019-08-12",
+    "title_kor": "SF36(건강관련삶의질 평가도구)설문 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+    "author_kor": "신항식; 석현석",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "f636f59f-ffaf-5dad-bec2-bb0087cd39a7",
+    "category": "book",
+    "year": 2019,
+    "title_eng": "Python for scientific computing",
+    "title_kor": "과학적 컴퓨팅을 위한 파이썬",
+    "author_kor": "이정환;신항식;민세동;김경호",
+    "author_eng": "Junghwan Lee;Hangsik Shin;Sedong Min;Kyungho Kim",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "75d66411-d17e-489d-8d89-31a04685811d",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-09-12",
+    "title_eng": "Preliminary Clinical Application of Textile Insole Sensor for Hemiparetic Gait Pattern Analysis",
+    "journal_eng": "Sensors",
+    "author_kor": "왕창원; 김영; 신항식; 민세동",
+    "author_eng": "Changwon Wang; Young Kim; Hangsik Shin; Se Dong Min",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "28016753-aa45-4c02-b613-aa42fe2a3581",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/31547437/",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "486ff21e-3e6a-4a3d-ab60-676384de8004",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-07-01",
+    "title_eng": "Pre-processing of Photoplethysmographic Waveform for Amplitude Regularization",
+    "journal_eng": "Journal of Electrical Engineering & Technology",
+    "author_kor": "김재필; 이정환; 신항식",
+    "author_eng": "Jaepil Kim; Jeong-Whan Lee; Hangsik Shin",
+    "author_ids": [
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "596b9b4d-31d5-43cb-b6f4-656f259b6ef5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://link.springer.com/article/10.1007/s42835-019-00185-y",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "0c93716f-831c-4ee3-b4ee-415623b8bc47",
+    "category": "conference",
+    "class": "International",
+    "date": "2019-10-24",
+    "title_eng": "Postoperative Pain Assessment Using Convolutional Neural Network",
+    "title_kor": "합성곱 신경망을 사용한 수술 후 통증 평가",
+    "conference_eng": "41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC'19)",
+    "author_kor": "석현석; 임지연; 권단비; 신항식",
+    "author_eng": "Hyeon Seok Seok; Ji Yeon Yim; Danbi Kwon; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "236e5d74-414b-4790-b358-619eda9557de",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "2748f7aa-a2eb-4e79-ae8b-e6e70bb4ef44",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-10-24",
+    "title_eng": "Postoperative Pain Assessment Using Convolutional Neural Network",
+    "title_kor": "합성곱 신경망을 사용한 수술 후 통증 평가",
+    "conference_eng": "Conference on Information and Control Systems 2019",
+    "author_kor": "석현석; 임지연; 권단비; 신항식",
+    "author_eng": "Hyeon Seok Seok; JiYoen Yim; Danbi Kwon; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "236e5d74-414b-4790-b358-619eda9557de",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "e8085f39-d7eb-4a36-b408-bf660bdd0399",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-07-10",
+    "title_eng": "Postoperative Pain Assessment Model based on Photoplethysmogram Using Multi-Layer Perceptron Network",
+    "title_kor": "광용적맥파와 MLP을 사용한 수술 후 통증 평가 모델",
+    "conference_eng": "The 50th KIEE Summer Conference 2019",
+    "author_kor": "임지연; 신항식",
+    "author_eng": "JiYoen Yim; Hangsik shin",
+    "author_ids": [
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "489f1270-d0c8-4c80-a6a3-d0cfc12e48c5",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-11-01",
+    "title_eng": "Postoperative Pain Assessment Model Based on Pulse Contour Characteristics Analysis",
+    "title_kor": "Postoperative Pain Assessment Model Based on Pulse Contour Characteristics Analysis",
+    "journal_eng": "IEEE Journal of Biomedical and Health Informatics",
+    "author_kor": "석현석; 최병문; 노규정; 신항식",
+    "author_eng": "Hyeon Seok Seok; Byungmoon Choi; Gyujeong Noh; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/8599135",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "92c80d50-fd70-4273-a4b3-d70afca8d40d",
+    "category": "journal",
+    "class": "KCI",
+    "date": "2019-10-01",
+    "title_eng": "Postoperative Pain Assessment Features Based on Derivative Photoplethysmogram",
+    "title_kor": "광용적맥파 미분 파형 기반 수술 후 통증 평가 지표",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "석현석; 신항식",
+    "author_eng": "Hyeon Seok Seok; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.researchgate.net/publication/336948869_Postoperative_Pain_Assessment_Features_Based_on_Derivative_Photoplethysmogram",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "ca88a2f2-82f9-5e42-bb3f-5c620bcda4f2",
+    "category": "award",
+    "date": "2019-10-01",
+    "title_eng": "Postoperative Pain Assessment Features Based on Derivative Photoplethysmogram",
+    "title_kor": "광용적맥파 미분 파형 기반 수술 후 통증 평가 지표",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "award_name_eng": "Best paper award",
+    "author_kor": "석현석;신항식",
+    "author_eng": "Hyeon Seok Seok;Hangsik Shin",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "1323270d-0735-4425-8a3d-ec8f2cfd2014",
+    "category": "conference",
+    "class": "International",
+    "date": "2019-12-04",
+    "title_eng": "Postoperative Pain Assesment Model based on Photoplethysmogram and Convolutional Neural Network",
+    "title_kor": "Postoperative Pain Assesment Model based on Photoplethysmogram and Convolutional Neural Network",
+    "conference_eng": "The 20th International Sysmposium on Advanced Intelligent Systems and 2019 International Conference on Biometrics and Kansei Engineering",
+    "author_kor": "임지연; 신항식",
+    "author_eng": "Ji Yeon Yim; Hangsik Shin",
+    "author_ids": [
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "bea1cf98-db84-4646-858e-370db600a69f",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-05-09",
+    "title_eng": "Novel Pulse Transit Time Estimation Method based on Temporal Delay of Photoplethysmographic Waveform",
+    "title_kor": "광용적맥파 파형의 연속된 시간 지연에 기반한 새로운 맥파전달시간 추정 방법",
+    "conference_eng": "The 54th Korea Society of Medical and Biological Engineering Spring Conference 2019",
+    "author_kor": "신항식; 윤영현",
+    "author_eng": "Hangsik shin; Younghyeon Yun",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2eb90419-3e7b-4e65-a481-45a472b574cc"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "691ba2b1-0f3a-4363-9304-5b0d631d78e3",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-11-04",
+    "title_eng": "Multi-wavelength light sensing device",
+    "title_kor": "다파장 광 감지장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "8ee42e50-d716-4ee4-9f24-ada59cf7ff35",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-01-23",
+    "title_eng": "Multi-channel capacitive pressure sensor",
+    "title_kor": "다채널 정전용량 압력 센서",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "bb57dd01-eecf-4384-b854-29c94053800e",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-07-10",
+    "title_eng": "Minimum Interval Required for Heart Rate Variability Analysis in Recovery Condition after Exercise",
+    "title_kor": "운동 후 회복시 심박변이도 분석에 요구되는 최소 신호구간 고찰",
+    "conference_eng": "The 50th KIEE Summer Conference 2019",
+    "author_kor": "김진웅; 신항식",
+    "author_eng": "Jin Woong Kim; Hangsik shin",
+    "author_ids": [
+      "e8f93f99-55d9-4bbd-8494-cb7c56526b18",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "b9b2475b-6630-490f-a4c4-e8300c6aa309",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-10-29",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "83a8142f-317c-4c4f-af0e-7a0e5dc2423c",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-10-16",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "69942838-5514-494e-b601-df5fff786d32",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-02-01",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "457231b7-9cd7-4214-a1e2-33a91ca4ec39",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-10-22",
+    "title_eng": "Method for managing of external devices, method for operating of an external device, host device, management server, and the external device",
+    "title_kor": "외부 기기 관리 방법, 외부 기기의 동작 방법, 호스트 단말, 관리 서버 및 외부 기기",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "014bc757-6c96-48eb-a7b8-5ed70b73ad9f",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-10-22",
+    "title_eng": "Method for managing of external devices, method for operating of an external device, host device, management server, and the external device",
+    "title_kor": "외부 기기 관리 방법, 외부 기기의 동작 방법, 호스트 단말, 관리 서버 및 외부 기기",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "1469c623-fdb3-4adf-8743-68e19d07a49f",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-08-09",
+    "title_eng": "Method for executing application on device and apparatus thereof",
+    "title_kor": "디바이스에서 어플리케이션을 실행하는 방법 및 그 장치",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "27685eb2-7709-40ce-8ad8-5bd65cc5fa77",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-04-26",
+    "title_eng": "Method for controlling a device and device performing the same",
+    "title_kor": "기기 제어 방법 및 이를 수행하는 기기",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "c91ed8df-bb2b-43dd-98ec-27987cedc6d4",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-08-20",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "4b1755be-3936-41fc-a872-2701c7df5ff2",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-03-26",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "c53efa90-1880-4473-b172-83a08175c175",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-11-19",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "7f4ac350-208a-44e2-9811-1096b0195971",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-11-15",
+    "title_eng": "Method and apparatus for measuring bio signal",
+    "title_kor": "Method and apparatus for measuring bio signal",
+    "author_kor": "조재걸; 김광춘; 김재필; 민진홍; 백현재; 신항식",
+    "author_eng": "Jaegeol Cho; Kwangchoon Kim; Jaepil Kim; Jinhong Min; Hyunjae Baek; Hangsik Shin",
+    "author_ids": [
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "87cf7e69-dd97-4ac4-97d6-162acf858278",
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "39afba78-7e6f-4ac0-8bc0-6d363ac3398e",
+      "52c800ad-007d-46f1-98ab-3ac1dad2f4a3",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "3b3b523a-f7d6-4aea-b855-ae8a2b750c09",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-04-09",
+    "title_eng": "Method and apparatus for measuring bio signal",
+    "title_kor": "Method and apparatus for measuring bio signal",
+    "author_kor": "조재걸; 김광춘; 김재필; 민진홍; 백현재; 신항식",
+    "author_eng": "Jaegeol Cho; Kwangchoon Kim; Jaepil Kim; Jinhong Min; Hyunjae Baek; Hangsik Shin",
+    "author_ids": [
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "87cf7e69-dd97-4ac4-97d6-162acf858278",
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "39afba78-7e6f-4ac0-8bc0-6d363ac3398e",
+      "52c800ad-007d-46f1-98ab-3ac1dad2f4a3",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "be964397-cdc0-4f59-a4a4-9be8ea0a538b",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-02-11",
+    "title_eng": "Investigation of systolic fraction of a pulse pressure waveform according to heart disease",
+    "title_kor": "심장질환에 따른 연속혈압 파형의 심장 수축기구간 비율 변화 관찰",
+    "conference_eng": "Bio-Medical System Conference 2019",
+    "author_kor": "한상진; 신항식",
+    "author_eng": "Sangjin Han; Hangsik shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "0b18c8ab-4685-43c7-9756-5270f1933588",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-05-09",
+    "title_eng": "Investigation of Pulse Rate Variability Changes by Quantization Level",
+    "title_kor": "양자화 레벨에 따른 맥박변이도 변화 고찰",
+    "conference_eng": "The 54th Korea Society of Medical and Biological Engineering Spring Conference 2019",
+    "author_kor": "석현석; 신항식",
+    "author_eng": "Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "cc1772bc-c1d0-4408-b310-c656daf69daf",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-03-01",
+    "title_eng": "Force-Sensing-Based Unobtrusive System for Awakening and Respiration Rate Analysis during Sleep",
+    "journal_eng": "IEEE Sensors Journal",
+    "author_kor": "박수지; 조형호; 양형채; 윤진상; 신항식",
+    "author_eng": "Sooji Park; Hyong-Ho Cho; Hyung Chae Yang; Jin Sang Yoon; Hangsik Shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "9d984236-dc7c-45f9-9a8c-c75bbd82b446",
+      "8c6f0895-f3b6-4fa5-a4ec-d980aef6ac82",
+      "ccb011d4-abdb-4777-9733-17090cd8acb8",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/8556368",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "dd6f5efa-adb7-43f2-91dc-fdeaa5a2930f",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2019-12-20",
+    "title_eng": "Force Sensor and MSP430-based System for Motion Detection During Sleep",
+    "title_kor": "힘 센서와 MSP430 기반 수면 중 움직임 측정 시스템 개발",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "김재필; 박수지; 신항식",
+    "author_eng": "Jaepil Kim; Sooji Park; Hangsik Shin",
+    "author_ids": [
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.researchgate.net/publication/338278476_Force_Sensor_and_MSP430-based_System_for_Motion_Detection_During_Sleep",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "6b72ba65-609a-4352-b4ea-b4bc120bc4c1",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-10-24",
+    "title_eng": "Feasibility Test of BedditTM for Heart rate and Respiration Rate Measurement",
+    "title_kor": "Beddit TM의 호흡 및 심박 측정 유효성 평가",
+    "conference_eng": "Conference on Information and Control Systems 2019",
+    "author_kor": "한상진; 박수지; 신항식",
+    "author_eng": "Sangjin Han; Sooji park; Hangsik shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "b77adbc0-19ce-473c-a37f-d9f426da49ab",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-05-09",
+    "title_eng": "Feasibility Study of Waistband-type Wearable ECG Electrode",
+    "title_kor": "허리 밴드형 웨어러블 심전도 전극 연구",
+    "conference_eng": "The 54th Korea Society of Medical and Biological Engineering Spring Conference 2019",
+    "author_kor": "권단비; 조하경; 신항식",
+    "author_eng": "Danbi Kwon; Hakyung Cho; Hangsik shin",
+    "author_ids": [
+      "236e5d74-414b-4790-b358-619eda9557de",
+      "060492dd-a93e-46a6-bfbc-3cec066480c5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "612b8432-6511-59fa-a625-fd44ac634ed1",
+    "category": "award",
+    "date": "2019-05-09",
+    "title_eng": "Feasibility Study of Waistband-type Wearable ECG Electrode",
+    "title_kor": "허리 밴드형 웨어러블 심전도 전극 연구",
+    "award_name_eng": "Best poster paper award of The 54th Korea Society of Medical and Biological Engineering Spring Conference 2019",
+    "author_kor": "권단비;조하경;신항식",
+    "author_eng": "D. Kwon;H. Cho;H. Shin",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "e6e4b822-c852-4959-8b2b-a89fd8b7be90",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-05-09",
+    "title_eng": "Feasibility Study of Time Domain Analysis of Ultra-Short-Term Pulse Rate Variability in Dynamic Conditions",
+    "title_kor": "동적 상태에서 초단기 맥박변이도 시간영역 분석 활용성 연구",
+    "conference_eng": "The 54th Korea Society of Medical and Biological Engineering Spring Conference 2019",
+    "author_kor": "김진웅; 신항식",
+    "author_eng": "Jin Woong Kim; Hangsik shin",
+    "author_ids": [
+      "e8f93f99-55d9-4bbd-8494-cb7c56526b18",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "b7656f70-e368-540f-8b50-0c70f5d656a1",
+    "category": "award",
+    "date": "2019-05-09",
+    "title_eng": "Feasibility Study of Time Domain Analysis of Ultra-Short-Term Pulse Rate Variability in Dynamic Conditions",
+    "title_kor": "동적 상태에서 초단기 맥박변이도 시간영역 분석 활용성 연구",
+    "award_name_eng": "Best poster paper award of The 54th Korea Society of Medical and Biological Engineering Spring Conference 2019",
+    "author_kor": "김진웅;신항식",
+    "author_eng": "Jin Woong Kim;Hangsik Shin",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "cc327ec6-6d8f-448c-b566-1b5c170491e7",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-05-09",
+    "title_eng": "Estimation of Radial Artery Location Using Gaussian Fitting in Multi-Channel Pressure Measurement",
+    "title_kor": "다채널 압력 측정시 가우시안 피팅을 사용한 요골동맥 위치 추정",
+    "conference_eng": "The 54th Korea Society of Medical and Biological Engineering Spring Conference 2019",
+    "author_kor": "노동근; 박준영; 신항식",
+    "author_eng": "Donggeun Rho; Junyoung Park; Hangsik shin",
+    "author_ids": [
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "9d09de27-1ce8-49c2-89a8-e38ba6270718",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-12-31",
+    "title_eng": "Electronic apparatus and method of outputting content by the electronic apparatus",
+    "title_kor": "전자장치와 전자장치에 의해 콘탠츠를 출력하는 방법",
+    "author_kor": "고재우; 신항식; 박세준; 김도영",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park; Do-young Kim",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1",
+      "ff2d7766-ad0b-435d-9009-99202178bb34"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "e7e11587-a311-4743-9a43-0b78bdf5bb18",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-12-30",
+    "title_eng": "Electronic apparatus and method of outputting content by the electronic apparatus",
+    "title_kor": "전자장치와 전자장치에 의해 콘탠츠를 출력하는 방법",
+    "author_kor": "고재우; 신항식; 박세준; 김도영",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park; Do-young Kim",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1",
+      "ff2d7766-ad0b-435d-9009-99202178bb34"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "82b9f649-2029-4ec0-9239-a6b593bca8ed",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-12-19",
+    "title_eng": "Development of a Multi-Array Pressure Sensor Module for Radial Artery Pulse Wave Measurement",
+    "journal_eng": "Sensors",
+    "author_kor": "노동근; 한상진; 박준영; 신항식",
+    "author_eng": "Donggeun Roh; Sangjin Han; Junyoung Park; Hangsik Shin",
+    "author_ids": [
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.mdpi.com/1424-8220/20/1/33",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "5e0a1e51-99cd-454f-8a8d-1fbb967dc3e5",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-10-24",
+    "title_eng": "Development of Wearable System for Hemiplegic Gait Detection",
+    "title_kor": "편마비성 보행 측정을 위한 관성센서 기반 웨어러블 시스템 개발",
+    "conference_eng": "Conference on Information and Control Systems 2019",
+    "author_kor": "박준영; 이준석; 박수지; 곽재경; 신항식",
+    "author_eng": "Junyoung Park; Jun Seok Lee; Sooji park; Jaekyung Kwak; Hangsik shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "2684cf18-a5b8-4ca2-977d-d4cbbf558f8a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "fdaaf16a-7cab-4293-94e2-9261fa264470",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-02-11",
+    "title_eng": "Development of GUI for 2-D Distribution Simulation of Radial Artery Pulse Wave",
+    "title_kor": "요골동맥 맥파 2차원 분포 시뮬레이션 GUI 개발",
+    "conference_eng": "Bio-Medical System Conference 2019",
+    "author_kor": "노동근; 박준영; 신항식",
+    "author_eng": "Donggeun Rho; Junyoung Park; Hangsik shin",
+    "author_ids": [
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "a2a9feb0-83a2-467e-a514-3134924d4b1d",
+    "category": "conference",
+    "class": "International",
+    "date": "2019-07-23",
+    "title_eng": "Design of Strip-type Force Sensor Interfacing Circuit for Body Movement during Sleep Study",
+    "title_kor": "Design of Strip-type Force Sensor Interfacing Circuit for Body Movement during Sleep Study",
+    "conference_eng": "41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC'19)",
+    "author_kor": "신항식; 윤용현",
+    "author_eng": "Hangsik Shin; Yonghyeon Yun",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "2886ce3d-a156-447b-80b4-d54c1329e25f",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-12-10",
+    "title_eng": "Design of Multi-Wavelength Optical Sensor Module for Depth-Dependent Photoplethysmography",
+    "journal_eng": "Sensors",
+    "author_kor": "한상진; 노동근; 박준영; 신항식",
+    "author_eng": "Sangjin Han; Donggeun Roh; Junyoung Park; Hangsik Shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.mdpi.com/1424-8220/19/24/5441",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "3d164f2c-c42a-48e7-8c79-ae411d8f198b",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-07-10",
+    "title_eng": "Comparison of Multiwavelength Photoplethysmogram Perfusion Index according to Activation of Sympathetic Nerve System",
+    "title_kor": "교감신경 활성에 따른 다파장 광용적맥파 관류지수 비교",
+    "conference_eng": "The 50th KIEE Summer Conference 2019",
+    "author_kor": "박준영; 한상진; 노동근; 신항식",
+    "author_eng": "Junyoung Park; Sangjin Han; Donggeun Rho; Hangsik shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "daa4933d-a474-52ee-9ab3-4e26c0080323",
+    "category": "award",
+    "date": "2019-07-10",
+    "title_eng": "Comparison of Multiwavelength Photoplethysmogram Perfusion Index according to Activation of Sympathetic Nerve System",
+    "title_kor": "교감신경 활성에 따른 다파장 광용적맥파 관류지수 비교",
+    "award_name_eng": "Best paper award of The 50th KIEE Summer Conference 2019",
+    "author_kor": "박준영;한상진;노동근;신항식",
+    "author_eng": "Junyung park;Sangjin Han;Donggeun Roh;Hangsik Shin",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "5dc5cc83-9f0b-41a4-a7e7-e67be0d55d60",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2019-12-20",
+    "title_eng": "Comparison of Classifier for Pain Assessment based on Photoplethysmogram and Machine Learning",
+    "title_kor": "광용적맥파 및 머신러닝 기반 통증 평가 분류기 성능 비교",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "임지연; 신항식",
+    "author_eng": "JiYoen Yim; Hangsik shin",
+    "author_ids": [
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.researchgate.net/publication/338278472_Comparison_of_Classifier_for_Pain_Assessment_based_on_Photoplethysmogram_and_Machine_Learning",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "85883e8a-5957-439c-9820-acf392563626",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-07-10",
+    "title_eng": "Changes of Photoplethysmography waveform by sampling rate and quantization level",
+    "title_kor": "표본화 주파수와 양자화 레벨에 따른 광용적맥파 파형 변화",
+    "conference_eng": "The 50th KIEE Summer Conference 2019",
+    "author_kor": "석현석; 신항식",
+    "author_eng": "Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "44a321e3-776e-46d6-b869-4bf5cc573676",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-05-09",
+    "title_eng": "Beats Per Minute Accuracy in Heart Rate Estimation according to the Analysis Time Interval",
+    "title_kor": "분석 시간구간에 따른 분당 심박수 추정 정확도 연구",
+    "conference_eng": "The 54th Korea Society of Medical and Biological Engineering Spring Conference 2019",
+    "author_kor": "임지연; 신항식",
+    "author_eng": "JiYoen Yim; Hangsik shin",
+    "author_ids": [
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "3e7fdca4-8100-4be0-9a3d-ab139b122e98",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-11-07",
+    "title_eng": "Analysis of stiffness and reflective index according to aging using Photoplethysmogram",
+    "title_kor": "노화에 따른 광용적맥파 기반 경직지수와 반사지수 분석",
+    "conference_eng": "The 55th Korea Society of Medical and Biological Engineering Autumn Conference 2019",
+    "author_kor": "박준영; 신항식",
+    "author_eng": "Junyoung Park; Hangsik shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "06c2622b-c8f0-4002-8367-e4abb388bd4b",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-08-16",
+    "title_eng": "A method and apparauts for classifying pain using photoplethysmograph",
+    "title_kor": "광용적맥파를 이용한 통증 분류 방법 및 장치",
+    "author_kor": "신항식; 노규정; 최병문",
+    "author_eng": "Hangsik Shin; Gyujeong Noh; Byungmoon Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "79ae23d8-345a-4892-8b9c-a76bebdac22f",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-12-24",
+    "title_eng": "A method and apparatus for estimating mean arterial pressure based on pressure and pulse wave",
+    "title_kor": "압력 및 맥파에 기반한 평균동맥압 추정 방법 및 장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "514d1cbd-e81d-4e09-b18f-560370223af7",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-02-13",
+    "title_eng": "A method and apparatus for detecting awakening and respiration rate based on force-sensor",
+    "title_kor": "힘 센서에 기반하여 각성 및 호흡률을 검출하기 위한 방법 및 장치",
+    "author_kor": "신항식; 박수지",
+    "author_eng": "Hangsik Shin; Sooji park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "ddb9b544-579a-551e-be5b-4c507a42d9c5",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "c4d55799-7a86-504c-8eca-d418edf94ce4",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "a946e5a2-ca12-50d0-a902-b33f8576c07d",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "97c6c7f6-12a6-5c02-b9a0-6e244168c2a2",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "357ceb92-b598-5902-8d5b-0bb6411eea5b",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "ae1f4a80-d419-5034-bbed-8c3447183dc1",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "075bac7f-1073-5bdb-ab50-87d9848e19ae",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "7985a668-7286-5e0e-b21c-4bcafb33404a",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "7f201ca0-998d-5063-9783-e3068a86a828",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "27cf072a-7486-5531-801f-9f2466e26005",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "7d1d05bd-b158-50e0-b613-434180ea864d",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "abca4a43-3b97-5dd6-b4ea-5fd6a1653781",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "64f1d016-0b1e-56e1-a0a5-7b298a4541cd",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "e1040071-2c42-5d1d-8979-50220329f25f",
+    "category": "career",
+    "date": "2019-09-01",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "5315455a-a7f0-5d35-9fa4-94c291107eb6",
+    "category": "extracurricular",
+    "date": "2019-02-11",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "fc1abe5c-8666-5560-97ed-f7455349c01c",
+    "category": "extracurricular",
+    "date": "2019-05-09",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "f6302158-c757-5060-8056-70fc4e42e1df",
+    "category": "extracurricular",
+    "date": "2019-01-01",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "5daa2f95-80e3-52a5-aaa0-4bbf41ab5966",
+    "category": "invited_lecture",
+    "date": "2019-10-17",
+    "year_resolved": "2019"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "4fde86c3-06f0-4b09-a500-dfcf59ba538e",
+    "category": "conference",
+    "class": "International",
+    "date": "2024-03-20",
+    "title_eng": "Applying Machine Learning for Result Verification: Analysis of Five Tumor Markers",
+    "title_kor": "Applying Machine Learning for Result Verification: Analysis of Five Tumor Markers",
+    "conference_eng": "Cherry Blossom Symposium 2024 (CBS 2024) The 13th International Conference of Clinical Laboratory Automation",
+    "author_kor": "최유나; 석현석; 신항식; 이승후; 유준상; 김솔잎; 이우창; 전사일",
+    "author_eng": "Yuna Choi; Hyeon Seok Seok; Hangsik Shin; Seunghoo Lee; Joonsang Yu; Sollip Kim; Woochang Lee; Sail Chun",
+    "author_ids": [
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "68c7ac1d-b7b7-429a-9d51-432b07e593a1",
+      "15140f93-6f69-43b8-8dd4-7d0541846ec4",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "5ec9e165-f85d-4223-9e7f-038a6359d70a",
+      "c2ece990-47d8-45c5-bc8e-d2f6ea244737"
+    ],
+    "year_resolved": "2024"
+  }
+]

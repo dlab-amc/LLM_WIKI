@@ -1,0 +1,23 @@
+[
+  {
+    "id": "537dc980-c7f7-4b4b-a328-1f984c75a46c",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2026-05-07",
+    "title_eng": "Development and Multicenter External Validation of an AI-based Screening Model for Retesting Clinical Chemistry Tests",
+    "title_kor": "임상화학검사 불필요 재검 판별을 위한 인공지능 모델 개발 및 다기관 외부 검증",
+    "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+    "author_kor": "김민소; 유지원; 최유나; 유신애; 박근열; 김솔잎; 신항식",
+    "author_eng": "Minso Kim; Jiwon You; Yuna Choi; Shinae Yu; Kuenyoul Park; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "3b530294-8839-4ba1-a4ce-0ebb6883bd86",
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "12a64dd1-9d0d-40ab-8de6-6ca43bc80795",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  }
+]

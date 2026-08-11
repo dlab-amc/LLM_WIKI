@@ -1,0 +1,73 @@
+[
+  {
+    "id": "05e7489f-d382-4b1c-ac85-04c5bde131af",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2012-11-01",
+    "title_eng": "Pulse Rate Variability as a Surrogate Method for Autonomic Nervous System assessment Comparing with Heart Rate Variability",
+    "title_kor": "Pulse Rate Variability as a Surrogate Method for Autonomic Nervous System assessment Comparing with Heart Rate Variability",
+    "journal_eng": "Advanced Science Letters",
+    "author_kor": "신항식; 이충근",
+    "author_eng": "Hangsik Shin; Chungkeun Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e"
+    ],
+    "link": "https://www.ingentaconnect.com/contentone/asp/asl/2012/00000018/00000001/art00015",
+    "year_resolved": "2012"
+  },
+  {
+    "id": "2dfbec43-5960-4f84-b398-8f18be1b2cf7",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2006-03-01",
+    "title_eng": "Detection of Atrial Tachycardia and Atrial Fibrillation Using Spectrum Analysis of Intracardiac Signal",
+    "title_kor": "Intracardiac Signal의 스펙트럼 분석을 통한 Atrial Tachycardia 및 Atrial Fibrillation 검출",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "신항식; 이충근; 정보영; 이명호",
+    "author_eng": "Hangsik shin; Chungkeun Lee; Boyoung Joung; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "675dffe2-ac2e-4994-82b2-55e96edaf6e1",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2006"
+  },
+  {
+    "id": "78d62046-2ba4-464c-9ffe-6cd9678dfc5f",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2005-12-02",
+    "title_kor": "실시간 PP간격 측정을 통한 Atrium Tachycardia 및 Atrium Fibrillation 검출 알고리즘 개발",
+    "conference_eng": "Korea Society of Medical and Biological Engineering Autumn Conference 2005",
+    "author_kor": "신항식; 이충근; 정완진; 정보영; 이명호",
+    "author_eng": "Hangsik shin; Chungkeun Lee; Wanjin Jeong; Boyoung Joung; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "13298ee3-16d7-4515-8ca0-beb372aa5077",
+      "675dffe2-ac2e-4994-82b2-55e96edaf6e1",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2005"
+  },
+  {
+    "id": "423bda2e-7ecd-42e8-ae31-f5defdd1e116",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2005-12-02",
+    "title_kor": "ICD 개발을 위한 심방 및 심실의 최적 주파수 대역에 관한 연구",
+    "conference_eng": "Korea Society of Medical and Biological Engineering Autumn Conference 2005",
+    "author_kor": "이충근; 신항식; 정완진; 정보영; 이명호",
+    "author_eng": "Chungkeun Lee; Hangsik shin; Wanjin Jeong; Boyoung Joung; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "13298ee3-16d7-4515-8ca0-beb372aa5077",
+      "675dffe2-ac2e-4994-82b2-55e96edaf6e1",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2005"
+  }
+]

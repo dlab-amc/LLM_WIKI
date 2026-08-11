@@ -1,0 +1,89 @@
+[
+  {
+    "id": "65be53c6-9dd4-438b-91aa-03e3d8030132",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2026-05-07",
+    "title_eng": "Evaluation of the Feasibility of Large Language Models for Re-test Decision in Clinical Chemistry Tests",
+    "title_kor": "임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가",
+    "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+    "author_kor": "유지원; 정성연; 최유나; 김솔잎; 신항식",
+    "author_eng": "Jiwon You; Sungyeon Chung; Yuna Choi; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "80cbf804-4efd-4173-ae46-5c210a473ded",
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "90c8f0ea-c4de-499e-b7a8-7e265e2cc8d4",
+    "category": "award",
+    "date": "2026-05-09",
+    "title_eng": "Evaluation of the Feasibility of Large Language Models for Re-test Decision in Clinical Chemistry Tests",
+    "title_kor": "임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가",
+    "author_kor": "유지원; 정성연; 최유나; 김솔잎; 신항식",
+    "author_eng": "Jiwon You; Sungyeon Chung; Yuna Choi; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "80cbf804-4efd-4173-ae46-5c210a473ded",
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "6f180265-2c3c-4b38-a172-38af22a4c516",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2026-05-07",
+    "title_eng": "Development of a Clinical Chemistry Retest Ontology through Inductive Externalization of Expert Knowledge",
+    "title_kor": "귀납적 사례 분석 기반 임상화학 재검사 전문가 지식 추출 및 온톨로지 모델링",
+    "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+    "author_kor": "정성연; 유지원; 최유나; 김솔잎; 신항식",
+    "author_eng": "Sungyeon Chung; Jiwon You; Yuna Choi; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "80cbf804-4efd-4173-ae46-5c210a473ded",
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "953bc51d-de68-43ee-a4a5-cc10a73d427a",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-11-06",
+    "title_eng": "Clinical Chemistry Report Generation with a Large Language Model",
+    "title_kor": "LLM 기반 임상화학검사 결과보고서 자동 생성",
+    "conference_eng": "2025년 대한의용생체공학회 추계학술대회",
+    "author_kor": "정성연; 유지원; 신항식",
+    "author_eng": "Sungyeon Chung; Jiwon You; Hangsik Shin",
+    "author_ids": [
+      "80cbf804-4efd-4173-ae46-5c210a473ded",
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "34dc931e-4d40-4ecd-be98-ec618d6339d4",
+    "category": "award",
+    "date": "2025-11-08",
+    "title_eng": "Clinical Chemistry Report Generation with a Large Language Model",
+    "title_kor": "LLM 기반 임상화학검사 결과보고서 자동 생성",
+    "author_kor": "정성연; 유지원; 신항식",
+    "author_eng": "Sungyeon Chung; Jiwon You; Hangsik Shin",
+    "author_ids": [
+      "80cbf804-4efd-4173-ae46-5c210a473ded",
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  }
+]

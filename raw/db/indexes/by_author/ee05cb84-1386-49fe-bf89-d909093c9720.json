@@ -1,0 +1,213 @@
+[
+  {
+    "id": "6131572d-f63a-4a5c-b2c5-9c3f82d68059",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-05-08",
+    "title_eng": "Prediction of Atrial Fibrillation Type and Recurrence Using a Multi-task Learning Model",
+    "title_kor": "다중 작업 모델(MTL)을 이용한 심방세동 유형 및 시술 후 재발 예측",
+    "conference_eng": "2025 The Korean Society of Medical and Biological Engineering",
+    "author_kor": "이재형; 권오석; 박희남; 신항식",
+    "author_eng": "Jaehyung Lee; Oh-Seok Kwon; Hui-Nam Pak; Hangsik Shin",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "f0c3dc1a-d91a-4eb4-927b-015012f0739a",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-10-23",
+    "title_eng": "Graph Neural Network for Atrial Fibrillation Classification Using Left Atrial Anatomy and Physiology",
+    "title_kor": "좌심방 해부생리 정보를 활용한 심방세동 타입 분류 그래프 신경망 모델",
+    "conference_eng": "Conference on Information and Control Systems",
+    "author_kor": "이재형; 권오석; 박희남; 신항식",
+    "author_eng": "Jaehyung Lee; Oh-Seok Kwon; Hui-Nam Pak; Hangsik Shin",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "a88dd95e-adb0-46cb-a2ae-ab50f1b56c45",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-08-14",
+    "title_eng": "Atrial Fibrillation Identification Using CNNs Based on Genomic Data",
+    "journal_eng": "Journal of Electrical Engineering & Technology",
+    "author_kor": "이재형; 권오석; 류가연; 신항식; 박희남",
+    "author_eng": "Jaehyung Lee; Oh-Seok Kwon; Gayeon Ryu; Hangsik Shin; Hui-Nam Pak",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba"
+    ],
+    "link": "https://link.springer.com/article/10.1007/s42835-024-01998-2",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "e679b80b-45ef-448b-bfa7-372245bea3a8",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-05-11",
+    "title_eng": "The Impact of Regularization Techniques on Convolutional Neural Network-based Genomic Study",
+    "title_kor": "합성곱 신경망 기반 유전체 연구에서 정규화 기법의 효과 분석",
+    "conference_eng": "KOSOMBE spring conference 2023",
+    "author_kor": "이재형; 석현석; 권오석; 박희남; 신항식",
+    "author_eng": "Jaehyung Lee; Hyeon Seok Seok; Oh-Seok Kwon; Hui-Nam Pak; Hangsik shin",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "7ea20b3e-6665-4002-8aeb-145e556b1ead",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-11-09",
+    "title_eng": "Graph Neural Network-Based Atrial Fibrillation Recurrence Prediction Using Left Atrial Three-Dimensional Anatomical and Physiology Characteristics",
+    "title_kor": "좌심방 3차원 해부생리 특징을 활용한 그래프 신경망기반 심방세동 재발 예측",
+    "conference_eng": "9th International Biomedical Engineering Conference IBEC 2023",
+    "author_kor": "이재형; 권오석; 신항식; 박희남",
+    "author_eng": "Jaehyung Lee; Oh-Seok Kwon; Hangsik shin; Hui-Nam Pak",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "0317a002-3c1e-44a2-a96a-3fc9634c429e",
+    "category": "conference",
+    "class": "International",
+    "date": "2023-12-07",
+    "title_eng": "Atrial Fibrillation Diagnosis Using Machine Learning: Leveraging Minimal Health Data from UK Biobank",
+    "title_kor": "심방세동 진단을 위한 머신 러닝 활용: 최소한의 UK 바이오뱅크 건강 데이터 활용",
+    "conference_eng": "IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine & Biology",
+    "author_kor": "이재형; 권오석; 최예은; 박희남; 신항식",
+    "author_eng": "Jaehyung Lee; Oh-Seok Kwon; Ye Eun Choi; Hui-Nam Pak; Hangsik Shin",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "dac68d01-9733-44bc-a6ff-4f9b6b02fa7e",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-07-12",
+    "title_eng": "Assessment of Atrial Fibrillation Recurrence Risk Using an Artificial Intelligence Model Based on Multiview Cardiac Images",
+    "title_kor": "멀티뷰 심방이미지 기반 인공지능 모델을 사용한 심방세동 재발 예측",
+    "conference_eng": "The 54th KIEE Summer Conference 2023",
+    "author_kor": "석현석; 권오석; 박희남; 신항식",
+    "author_eng": "Hyeon Seok Seok; Oh-Seok Kwon; Hui-Nam Pak; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "af605e41-14ec-48a6-adf1-0af158c615f2",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-07-12",
+    "title_eng": "Analyzing the Performance of a Convolutional Neural Network-based Atrial Fibrillation Classifier According to the Genetic Screening Thresholds",
+    "title_kor": "유전자 스크리닝 임계값에 따른 합성곱 신경망 기반 심방세동 분류기 성능 분석",
+    "conference_eng": "The 54th KIEE Summer Conference 2023",
+    "author_kor": "이재형; 석현석; 권오석; 박희남; 신항식",
+    "author_eng": "Jaehyung Lee; Hyeon Seok Seok; Oh-Seok Kwon; Hui-Nam Pak; Hangsik shin",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "59b997d3-ff83-4c1b-8dcb-227f62bd2900",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2022-03-16",
+    "title_eng": "Three-Dimensional Atrial Wall Thickness Measurement Algorithm From a Segmented Atrial Wall Using a Partial Differential Equation",
+    "title_kor": "Three-Dimensional Atrial Wall Thickness Measurement Algorithm From a Segmented Atrial Wall Using a Partial Differential Equation",
+    "journal_eng": "IEEE Access",
+    "author_kor": "권오석; 이지수; 박재욱; 양소현; 황인석; 유희태; 신항식; 박희남",
+    "author_eng": "Oh-Seok Kwon; Jisu Lee; Je-Wook Park; So-Hyun Yang; Inseok Hwang; Hee Tae Yu; Hangsik Shin; Hui-Nam Pak",
+    "author_ids": [
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "ef2eafdc-906d-403b-ae75-de9c2ce023b2",
+      "1e0b6bf9-c182-49fd-ad72-1011a3330da8",
+      "aa2ebd6b-4a42-4ca6-92ea-3327271e694b",
+      "036c3f0d-4619-4595-8203-c5eab2e21be4",
+      "5f2edffd-02ab-48bf-bf1d-e37e9a9a308d",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/9736959",
+    "year_resolved": "2022"
+  },
+  {
+    "id": "f8c2a899-4ecb-4ea4-8b93-d5d662a4c0dc",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2022-10-19",
+    "title_eng": "Genome-Wide Association Studies and Electronic Medical Record based Atrial Fibrillation Discriminat ion Using Ensemble Models",
+    "title_kor": "앙상블 모델을 사용한 전장유전체 및 의료정보 기반 심방세동 판별",
+    "conference_eng": "CICS'22 정보 및 제어 학술대회",
+    "author_kor": "이재형; 왕창원; 석현석; 권오석; 박희남; 신항식",
+    "author_eng": "Jaehyung Lee; Changwon Wang; Hyeon Seok Seok; Oh-Seok Kwon; Hui-Nam Pak; Hangsik shin",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "0b2b5c3b-3652-47ef-8ce0-6a26c4426726",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2022-11-03",
+    "title_eng": "GWAS-based Atrial Fibrillation Identification Using DCNN",
+    "title_kor": "전장 유전체 기반 심층 합성곱 신경망을 사용한 심방세동 식별",
+    "conference_eng": "60th KOSOMBE Autumn Conference 2022",
+    "author_kor": "이재형; 왕창원; 석현석; 권오석; 박희남; 신항식",
+    "author_eng": "Jaehyung Lee; Changwon Wang; Hyeon Seok Seok; Oh-Seok Kwon; Hui-Nam Pak; Hangsik shin",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "id": "1488e88b-6109-4435-8b1e-12951f673d7f",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-08-22",
+    "title_eng": "Machine learning-based sample misidentification error detection in clinical laboratory tests: A retrospective multicenter study",
+    "journal_eng": "Clinical Chemistry",
+    "author_kor": "석현석; 유신애; 신경화; 이우창; 전사일; 김솔잎; 신항식",
+    "author_eng": "Hyeon Seok Seok; Shinae Yu; Kyung-Hwa Shin; Woochang Lee; Sail Chun; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "06cd217f-5f4c-49af-9cf4-1666a5f30674",
+      "5ec9e165-f85d-4223-9e7f-038a6359d70a",
+      "c2ece990-47d8-45c5-bc8e-d2f6ea244737",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://academic.oup.com/clinchem/advance-article/doi/10.1093/clinchem/hvae114/7739014?utm_source=authortollfreelink&utm_campaign=clinchem&utm_medium=email&guestAccessKey=1df85bdd-2fbf-480d-97d8-d0d649a9c699",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "53d88ac1-e3ae-40ec-8c89-34f588b29266",
+    "category": "conference",
+    "class": "International",
+    "date": "2024-03-20",
+    "title_eng": "AI-based Approach for Detecting Sample Misidentification Errors in Alpha-fetoprotein with Multi-Center Validation",
+    "title_kor": "AI-based Approach for Detecting Sample Misidentification Errors in Alpha-fetoprotein with Multi-Center Validation",
+    "conference_eng": "Cherry Blossom Symposium 2024 (CBS 2024) The 13th International Conference of Clinical Laboratory Automation",
+    "author_kor": "석현석; 유신애; 신경화; 이우창; 김솔잎; 신항식",
+    "author_eng": "Hyeon Seok Seok; Shinae Yu; Kyung-Hwa Shin; Woochang Lee; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "06cd217f-5f4c-49af-9cf4-1666a5f30674",
+      "5ec9e165-f85d-4223-9e7f-038a6359d70a",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "ec82a1b1-9281-40fd-8592-925612fbb2ce",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2023-03-31",
+    "title_eng": "Practical delta check limits for tumour markers in different clinical settings",
+    "journal_eng": "Clinical Chemistry and Laboratory Medicine (CCLM)",
+    "author_kor": "유신애; 신경화; 신성환; 이혜영; 유수진; 전경란; 신항식; 김솔잎",
+    "author_eng": "Shinae Yu; Kyung-Hwa Shin; Sunghwan Shin; Hyeyoung Lee; Soo Jin Yoo; Kyung Ran Jun; Hangsik Shin; Sollip Kim",
+    "author_ids": [
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "06cd217f-5f4c-49af-9cf4-1666a5f30674",
+      "16dd67b1-53a2-4a77-b15d-d4846f5f7043",
+      "88a8d1f1-ccaa-414a-8af5-5661ce11128c",
+      "1032d1e7-0873-4e7a-b488-195b22293db1",
+      "58889578-5052-4cbc-8c74-b3ee12d9b36a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "09e01f73-363a-4780-962e-969da9578ff9"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/36994761/",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "2825a808-457d-40e2-9103-6ac3f33e66ce",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2023-12-14",
+    "title_eng": "Machine learning-based delta check method for detecting misidentification errors in tumor marker tests",
+    "journal_eng": "Clinical Chemistry and Laboratory Medicine",
+    "author_kor": "석현석; 최유나; 유신애; 신경화; 김솔잎; 신항식",
+    "author_eng": "Hyeon Seok Seok; Yuna Choi; Shinae Yu; Kyung-Hwa Shin; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "06cd217f-5f4c-49af-9cf4-1666a5f30674",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.degruyter.com/document/doi/10.1515/cclm-2023-1185/html",
+    "year_resolved": "2023"
+  }
+]

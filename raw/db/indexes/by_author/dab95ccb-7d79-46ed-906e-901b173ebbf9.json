@@ -1,0 +1,47 @@
+[
+  {
+    "id": "bbf6b105-f35f-40ac-a8dc-ee9b859e0925",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2020-04-28",
+    "title_eng": "Performance of the nasal photoplethysmographic index as an analgesic index during surgery under general anaesthesia",
+    "journal_eng": "Scientific Reports",
+    "author_kor": "박찬기; 양민호; 최보현; 전보경; 이용훈; 신항식; 이보름; 최병문; 노규정",
+    "author_eng": "Chanki Park; Min-Ho Yang; Bohyun Choi; Bokyung Jeon; Yong-Hun Lee; Hangsik Shin; Boreom Lee; Byungmoon Choi; Gyujeong Noh",
+    "author_ids": [
+      "dab95ccb-7d79-46ed-906e-901b173ebbf9",
+      "b0ea1f33-2fbe-46ea-b11a-a066b9545248",
+      "b4b26edd-ac6d-4f6f-89a8-eaad04895be7",
+      "b1acb102-efb3-4d63-9fcf-4132379fc1b4",
+      "082f270f-0c9c-49c4-b469-28f02bd990a7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "1f01825b-bf1d-4c2b-b46d-03f7dc16d1eb",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "link": "https://www.nature.com/articles/s41598-020-64033-0",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "a7a98a09-1778-4de5-bd0f-3aa1d4bdfca3",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-09-01",
+    "title_eng": "Development of a new analgesic index using nasal photoplethysmography",
+    "journal_eng": "Anaesthesia",
+    "author_kor": "최병문; 박찬기; 이용훈; 신항식; 이승후; 정승욱; 노규정; 이병우",
+    "author_eng": "Byungmoon Choi; Chanki Park; Yong-Hun Lee; Hangsik Shin; Seunghoo Lee; Seongwook Jeong; Gyujeong Noh; Byung Woo Lee",
+    "author_ids": [
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "dab95ccb-7d79-46ed-906e-901b173ebbf9",
+      "082f270f-0c9c-49c4-b469-28f02bd990a7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "68c7ac1d-b7b7-429a-9d51-432b07e593a1",
+      "545bfc0f-948a-4688-a768-9d1afa5c9cde",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/29790159/",
+    "year_resolved": "2018"
+  }
+]

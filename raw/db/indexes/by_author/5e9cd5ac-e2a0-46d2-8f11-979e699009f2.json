@@ -1,0 +1,192 @@
+[
+  {
+    "id": "a7a98a09-1778-4de5-bd0f-3aa1d4bdfca3",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-09-01",
+    "title_eng": "Development of a new analgesic index using nasal photoplethysmography",
+    "journal_eng": "Anaesthesia",
+    "author_kor": "최병문; 박찬기; 이용훈; 신항식; 이승후; 정승욱; 노규정; 이병우",
+    "author_eng": "Byungmoon Choi; Chanki Park; Yong-Hun Lee; Hangsik Shin; Seunghoo Lee; Seongwook Jeong; Gyujeong Noh; Byung Woo Lee",
+    "author_ids": [
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "dab95ccb-7d79-46ed-906e-901b173ebbf9",
+      "082f270f-0c9c-49c4-b469-28f02bd990a7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "68c7ac1d-b7b7-429a-9d51-432b07e593a1",
+      "545bfc0f-948a-4688-a768-9d1afa5c9cde",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/29790159/",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "1d50adfe-e665-4d28-aaa0-301e2112b9c9",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2016-01-01",
+    "title_eng": "Feasibility Study of Sitting Posture Monitoring Based on Piezoresistive Conductive Film-Based Flexible Force Sensor",
+    "journal_eng": "IEEE Sensors Journal",
+    "author_kor": "이병우; 신항식",
+    "author_eng": "Byung Woo Lee; Hangsik Shin",
+    "author_ids": [
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/7273819",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "4f276942-e7df-4e96-a7e6-6c2f0e55ffee",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2010-10-22",
+    "title_eng": "A study on photoplethysmographic component and arterial stiffness by body posture",
+    "title_kor": "측정자세에 따른 광용적맥파의 성분과 혈관 경직도에 관한 연구",
+    "conference_eng": "Conference on Information and Control Systems 2010",
+    "author_kor": "이충근; 신항식; 김진권; 이병우; 이명호",
+    "author_eng": "Chungkeun Lee; Hangsik shin; Jinkwon Kim; Byung Woo Lee; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2010"
+  },
+  {
+    "id": "d9eb4ce2-b6eb-4f09-abe4-427b014c0958",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2009-05-01",
+    "title_eng": "The e-Health Landscape: Current Status and Future Prospects in Korea",
+    "journal_eng": "Telemedicine and e-Health",
+    "author_kor": "이명호; 민세동; 신항식; 이병우; 김진권",
+    "author_eng": "Myongho Lee; Se Dong Min; Hangsik Shin; Byung Woo Lee; Jinkwon Kim",
+    "author_ids": [
+      "4a05a292-1a5b-4577-91ff-87da330a9358",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/19441955/",
+    "year_resolved": "2009"
+  },
+  {
+    "id": "be76a31e-fd95-41d3-af61-c27db65fb022",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2008-07-16",
+    "title_eng": "The Influence on Corelation between Photo-plethysmograph Variability and Heart Rate Variability by Temperature Variation",
+    "title_kor": "온도변이가 PV와 HRV의 상관관계에 미치는 영향에 관한 연구",
+    "conference_eng": "The 39th KIEE Summer Conference 2008",
+    "author_kor": "민세동; 이충근; 신항식; 이병우; 김진권; 박현철; 이명호",
+    "author_eng": "Se-Dong Min; Chungkeun Lee; Hangsik shin; Byung Woo Lee; Jinkwon Kim; Hyun-Chul Park; Myongho Lee",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "ed205265-0d1b-46cd-8449-42395ab1bed1",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2008"
+  },
+  {
+    "id": "8108563b-1ec9-4ea1-b294-02544c8ecb3c",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2004-11-19",
+    "title_kor": "인터넷 기반의 실시간 데이타 전송을 이용한 맥파 측정 시스템에 관한 연구",
+    "conference_eng": "The Korean Society of Medical Informatics Autumn Conference 2004",
+    "author_kor": "이병우; 신항식; 이승표; 이명호",
+    "author_eng": "Byung Woo Lee; Hangsik shin; Seungpyo Lee; Myongho Lee",
+    "author_ids": [
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "5759ebaf-3adf-4c2d-8e9d-888fa0d9c61e",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2004"
+  },
+  {
+    "id": "79efea01-c984-48d9-9cb2-e03c6757767f",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2004-11-26",
+    "title_kor": "인터넷 기반의 데이차 전송을 적용한 맥파 측정 시스템 연구",
+    "conference_eng": "Korea Society of Medical and Biological Engineering Autumn Conference 2004",
+    "author_kor": "이병우; 신항식; 박찬욱; 민세동; 이명호",
+    "author_eng": "Byung Woo Lee; Hangsik shin; Chan Ouk Park; Se-Dong Min; Myongho Lee",
+    "author_ids": [
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4f359c61-2a98-4c8c-8f33-ba05454d4302",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2004"
+  },
+  {
+    "id": "6d644e91-5177-4341-95fb-4824be9c37b7",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2004-11-26",
+    "title_kor": "원격영상진단지원을 위한 Down-Scaled 3D 오브젝트 연구",
+    "conference_eng": "Korea Society of Medical and Biological Engineering Autumn Conference 2004",
+    "author_kor": "신항식; 이병우; 윤대중; 윤성원; 이명호",
+    "author_eng": "Hangsik shin; Byung Woo Lee; Daejoong Yoon; Sung-Won Yoon; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "6cb534f4-9000-4ebb-8dcb-da609eb078ea",
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2004"
+  },
+  {
+    "id": "26e106a5-3e53-4be2-854d-adadfb678089",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2004-11-20",
+    "title_eng": "A Study on Down-Scaled 3D Medical Image Transmission System Using Instant Messenger",
+    "title_kor": "인스턴트 메신저를 사용한 축소 3D 의료영상 전송 시스템 연구",
+    "conference_eng": "Proceedings of Autumn Symposium of the Korean Institute of communications and Information Sciences 2004",
+    "author_kor": "신항식; 이병우; 박찬욱; 이충근; 이명호",
+    "author_eng": "Hangsik shin; Byung Woo Lee; Chan Ouk Park; Chungkeun Lee; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "4f359c61-2a98-4c8c-8f33-ba05454d4302",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2004"
+  },
+  {
+    "id": "fd2a9199-40b1-49a5-b44a-28488f19c870",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2003-11-07",
+    "title_kor": "트레드밀 운동 후 원적외선 온열이 심혈관계에 미치는 영향 평가 시스템 구현",
+    "conference_eng": "Korea Society of Medical and Biological Engineering Autumn Conference 2003",
+    "author_kor": "민세동; 강세구; 이충근; 윤성원; 박찬욱; 신항식; 이병우; 이명호",
+    "author_eng": "Se-Dong Min; Segoo Kang; Chungkeun Lee; Sung-Won Yoon; Chan Ouk Park; Hangsik shin; Byung Woo Lee; Myongho Lee",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "9205dde9-3c4e-49b0-8cd4-7f2e2c9999f5",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "4f359c61-2a98-4c8c-8f33-ba05454d4302",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2003"
+  }
+]

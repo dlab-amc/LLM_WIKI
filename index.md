@@ -62,6 +62,7 @@ Agent·사람 모두 **여기서 시작**한다. 상세 규칙은 `AGENTS.md`, `
 
 ## Raw (Source of Truth)
 
+- `raw/db/indexes/` — 연도·author·member 조회 인덱스 (`catalog.json`)
 - `raw/db/stats.json` — 집계
 - `raw/db/members.json`
 - `raw/db/authors.json`

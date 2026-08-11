@@ -1,0 +1,80 @@
+[
+  {
+    "id": "a429eb2e-13eb-4a76-a59c-9fa2ff658252",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2011-07-22",
+    "title_eng": "Relations between ac-dc components and optical path length in photoplethysmography",
+    "journal_eng": "Journal of Biomedical Optics",
+    "author_kor": "이충근; 신항식; 이명호",
+    "author_eng": "Chungkeun Lee; Hangsik Shin; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/21806292/",
+    "year_resolved": "2011"
+  },
+  {
+    "id": "f894c4d6-4500-4fce-afe7-34113df9cfc3",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2011-07-27",
+    "title_eng": "Finger movement recognition glove and method using conductive coated material",
+    "title_kor": "전도성 소재를 이용한 손가락 동작 인식 장갑 및 그 방법",
+    "author_kor": "신항식; 김대은; 박정훈; 이재홍; 안성주; 정은석",
+    "author_eng": "Hangsik Shin; Dae-eun Kim; Junghoon Park; Jaehong Lee; Sungjoo Ahn; Eunseak Jung",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "a23af44c-15d6-4db1-a3f1-45bcdf51b3e4",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "85046567-bdc1-405e-8e6a-daefc301736a",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "d45f506d-da87-4f6d-a11e-6d652d5d3f6c"
+    ],
+    "year_resolved": "2011"
+  },
+  {
+    "id": "75f338a9-9398-4c3e-9738-345920485222",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2011-06-09",
+    "title_eng": "Apparatus and method for providing interface in device with touch screen",
+    "title_kor": "터치 스크린을 구비한 기기의 인터페이스 제공 장치 및 방법",
+    "author_kor": "신항식; 박정훈; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2011"
+  },
+  {
+    "id": "c93b0161-f213-4982-82c2-34757a59d1d2",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2011-04-01",
+    "title_eng": "Analysis of Arterial Stiffness Variation by Photoplethysmographic DC Component",
+    "title_kor": "광용적맥파 비맥동성분에 의한 혈관경직도 변화 분석",
+    "journal_eng": "Journal of Biomedical Engineering Research",
+    "author_kor": "이충근; 신항식; 공인덕; 이명호",
+    "author_eng": "Chungkeun Lee; Hangsik shin; In-deok Kong; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "d1deeaca-ef44-4110-a9f0-a0e7ad557c7d",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://koreascience.kr/article/JAKO201123457285030.page",
+    "year_resolved": "2011"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f6a",
+    "category": "project",
+    "date": "2011-01-01",
+    "project_name_eng": "Development of the universal SW infra and application device for accessibility",
+    "year_resolved": "2011"
+  }
+]

@@ -1,0 +1,880 @@
+[
+  {
+    "id": "91d8fa78-0a32-4cd9-a9c3-53088c5e23af",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2018-06-27",
+    "title_kor": "의료용 다파장 광센서",
+    "author_kor": "신항식; 한상진; 노동근",
+    "author_eng": "Hangsik Shin; Sangjin Han; Donggeun Rho",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "2b1cd5f3-5a7b-4c63-8ed1-de76674ec1fe",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2018-06-27",
+    "title_eng": "의료용 다파장 광센서",
+    "title_kor": "의료용 다파장 광센서",
+    "author_kor": "신항식; 한상진; 노동근",
+    "author_eng": "Hangsik Shin; Sangjin Han; Donggeun Rho",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "14b7e784-59f2-4cb4-afa2-b8af7852eb1f",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-12-26",
+    "title_kor": "신호 동기화 프로그램",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "ff121d60-95ee-497e-8011-a4daa436c111",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-05-09",
+    "title_kor": "생체 신호 데이터 수집 프로그램",
+    "author_kor": "이예준; 신항식; 최아영",
+    "author_eng": "Yejoon Lee; Hangsik Shin; Ahyoung Choi",
+    "author_ids": [
+      "2a2c8f88-106c-47e8-8b34-dedb68c5336c",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "5b39433f-f2c8-48c7-98cf-674187971ea2",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-05-09",
+    "title_kor": "생체 신호 데이터 모니터링 플랫폼",
+    "author_kor": "노상우; 신항식; 최아영",
+    "author_eng": "Sangwoo Noh; Hangsik Shin; Ahyoung Choi",
+    "author_ids": [
+      "56c27a6c-adf7-4745-bbf7-2ececf7882ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "cf902e18-ee4c-4441-a0fd-04b24eed7126",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-09-10",
+    "title_kor": "삼각화된 맥파 신호의 박동별 넓이 계산 프로그램",
+    "author_kor": "신항식; 석현석",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "af1d6dc1-648f-45ef-bab6-c92268a72889",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-09-10",
+    "title_kor": "맥파의 특정 진폭에 대한 박동 폭 계산 프로그램",
+    "author_kor": "신항식; 석현석",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "7e40d3eb-6f2f-4a45-9852-c3adf6e97cbb",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-09-10",
+    "title_kor": "맥파 신호의 박동별 수축기 및 이완기 분석 프로그램",
+    "author_kor": "신항식; 석현석",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "ae66efe3-9686-40f9-bd3e-75b24474e763",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-09-10",
+    "title_kor": "맥파 신호의 박동별 넓이 계산 프로그램",
+    "author_kor": "신항식; 석현석; 양윤라",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok; Yoon La Yang",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "a691aef4-64f5-4a9f-bc5c-d837ef24d675",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-09-10",
+    "title_kor": "맥파 신호의 박동별 기울기 분석 프로그램",
+    "author_kor": "신항식; 석현석; 양윤라",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok; Yoon La Yang",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "6e686801-99ff-4b90-a9b1-32cd96efab3a",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-09-10",
+    "title_kor": "맥파 신호의 맥동별 진폭 계산 프로그램",
+    "author_kor": "신항식; 석현석",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "8225997e-933e-4540-9150-2875fe7193c7",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-05-17",
+    "title_kor": "다중 배열 요골동맥압 시뮬레이터",
+    "author_kor": "신항식; 노동근",
+    "author_eng": "Hangsik Shin; Donggeun Rho",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "b40c1ec1-a45b-4671-800d-c034093b539e",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2018-01-22",
+    "title_eng": "System for measuring bio signal usingmulti channel piezoelectric sensor of film",
+    "title_kor": "필름형 다채널 압전 센서를 이용한 생체신호 측정 시스템",
+    "author_kor": "신항식; 박수지",
+    "author_eng": "Hangsik Shin; Sooji park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "ab6b87b8-2f65-497c-b248-6eca2d10caa0",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-07-12",
+    "title_eng": "Quantitative Analysis of the Effect of an Ectopic Beat on the Heart Rate Variability in the Resting Condition",
+    "title_kor": "Quantitative Analysis of the Effect of an Ectopic Beat on the Heart Rate Variability in the Resting Condition",
+    "journal_eng": "frontiers in Physiology",
+    "author_kor": "최아영; 신항식",
+    "author_eng": "Ahyoung Choi; Hangsik Shin",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "fddd2c90-b57e-5cef-9fa3-24ee3bc68672",
+    "category": "award",
+    "date": "2018-07-12",
+    "title_eng": "Quantitative Analysis of the Effect of an Ectopic Beat on the Heart Rate Variability in the Resting Condition",
+    "journal_eng": "Frontiers in Physiology",
+    "award_name_eng": "Lutronic biomedical engineering award-young biomedical engineer award of Society for Medical Innovation and Technology-International Biomedical Engineering Conference 2018 ",
+    "author_kor": "Ahyoung Choi;Hangsik Shin",
+    "author_eng": "Ahyoung Choi;Hangsik Shin",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "fa9fa09c-4e3c-48ad-b993-400c5862c020",
+    "category": "conference",
+    "class": "International",
+    "date": "2018-11-08",
+    "title_eng": "Preliminary Study of Postoperative Pain Assessment based on Pulse Rate Variability: Investigation of the Pulse Rate Variability Changes in Postoperative Condition",
+    "title_kor": "Preliminary Study of Postoperative Pain Assessment based on Pulse Rate Variability: Investigation of the Pulse Rate Variability Changes in Postoperative Condition",
+    "conference_eng": "Society for Medical Innovation and Technology-International Biomedical Engineering Conference 2018",
+    "author_kor": "최승빈; 석현석; 신항식",
+    "author_eng": "SeungBin Choi; Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "6bcb1504-af5e-4b32-9fdb-b1a4745a0c25",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "864d3ce0-77dc-4a85-8217-904bbc83886d",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2018-07-01",
+    "title_eng": "Postoperative Pain Assessment based on Derivative Waveform of Photoplethysmogram",
+    "title_kor": "광용적맥파 미분 파형 기반 수술 후 통증 평가 가능성 고찰",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "석현석; 신항식",
+    "author_eng": "Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "http://journal.auric.kr/kiee/XmlViewer/f379178",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "b72aa89b-39a6-45bf-8cac-78e67bd97ad4",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-08-28",
+    "title_eng": "Postoperative Pain Assessment Indices Based on Photoplethysmography Waveform Analysis",
+    "journal_eng": "Frontiers in Physiology",
+    "author_kor": "양윤라; 석현석; 노규정; 최병문; 신항식",
+    "author_eng": "Yoon La Yang; Hyeon Seok Seok; Gyujeong Noh; Byungmoon Choi; Hangsik Shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "de0fc053-1a7a-40c4-a8e5-b2fe4f718706",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2018-10-25",
+    "title_eng": "Photoplethysmographic waveform modeling based on Gaussian Mixture Model with Expectation-maximization algorithm",
+    "title_kor": "EM 알고리즘과 가우시안 혼합 모델을 이용한 광용적맥파 파형 모델링",
+    "conference_eng": "Conference on Information and Control Systems 2018",
+    "author_kor": "김진웅; 석현석; 신항식",
+    "author_eng": "Jin Woong Kim; Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "e8f93f99-55d9-4bbd-8494-cb7c56526b18",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "86cd5bc0-1722-4e40-9163-b2bb3e7aa142",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2018-04-20",
+    "title_eng": "Photoplethysmographic Waveform Changes from the Surgical Pain",
+    "title_kor": "수술 중 통증 자극에 의한 광용적맥파 파형 변화",
+    "conference_eng": "Korean Institute of Intelligent Systems Sping Conference 2018",
+    "author_kor": "석현석; 신항식",
+    "author_eng": "Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "eaa6699d-65cb-493d-be30-5022d40153f2",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2018-07-11",
+    "title_eng": "Observation of the Photoplethysmography Waveform according to Light Penetration Depth of Skin",
+    "title_kor": "피부 광 침투 깊이에 따른 광용적맥파 파형 관찰",
+    "conference_eng": "The 49th KIEE Summer Conference 2018",
+    "author_kor": "한상진; 신항식",
+    "author_eng": "Sangjin Han; Hangsik shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "3bd392ee-9978-44cc-8279-143acc136dea",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-11-06",
+    "title_eng": "Numerical study to evaluate the effect of a surface-based sensor on arterial tonometry",
+    "journal_eng": "Computer Methods in Biomechanics and Biomedical Engineering",
+    "author_kor": "이욱진; 유재영; 신항식; 유홍선; 조성욱",
+    "author_eng": "Wookjin Lee; Jaiyoung Ryu; Hangsik Shin; Hong Sun Ryou; Seong Wook Cho",
+    "author_ids": [
+      "d530557f-9f6d-4ad2-be1a-74917ef8461a",
+      "a039d481-dfd4-452a-89e6-3264bbcd6b14",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "7e5c1e28-5ada-4165-813d-94ed2297a18f",
+      "b9bf1ed2-3f3a-47be-af64-1f9fae8a246d"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/30398064/",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "1c8967a4-084e-4e20-99e0-2359c6b100c3",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2018-03-05",
+    "title_eng": "Multi-wavelength light sensing device",
+    "title_kor": "다파장 광 감지장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "fd045e78-e34c-4a19-989c-2b0d497ae278",
+    "category": "patent",
+    "class": "International",
+    "date": "2018-10-30",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "42d70b9f-7458-43f1-8a1f-7d24195296be",
+    "category": "patent",
+    "class": "International",
+    "date": "2018-05-16",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "7e1ffe17-e7a1-4972-b742-8b8adbe39f33",
+    "category": "patent",
+    "class": "International",
+    "date": "2018-10-19",
+    "title_eng": "Method of executing application and terminal using the method",
+    "title_kor": "Method of executing application and terminal using the method",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "a5df538c-e89d-485d-a409-8b0930690ccf",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2018-08-18",
+    "title_eng": "Method for generating of state classifier and for deciding walking state using the same",
+    "title_kor": "상태 분류기 생성 방법 및 이를 이용한 보행상태 판단 방법",
+    "author_kor": "신항식; 이준석; 박수지",
+    "author_eng": "Hangsik Shin; Jun Seok Lee; Sooji park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "073fb747-b728-44fe-b000-4a9bba6c199d",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2018-08-08",
+    "title_eng": "Method for executing application and terminal thereof",
+    "title_kor": "애플리케이션 실행 방법 및 이를 위한 단말",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "afda268c-deee-4684-8d20-b31b5491acc9",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2018-11-06",
+    "title_eng": "Method and apparatus of converting color for color vision defectives",
+    "title_kor": "색각 이상자를 위한 색 변환 방법 및 장치",
+    "author_kor": "안성주; 고성제; 박정훈; 신항식; 김현지; 정재윤; 유현국",
+    "author_eng": "Sungjoo Ahn; Sungjea Ko; Junghoon Park; Hangsik Shin; Hyunji Kim; Jaeyun Jeong; Hyungok Yoo",
+    "author_ids": [
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "58781275-5ce2-476d-b58f-73f66081f973",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "95e28776-4d0d-4ed0-b15f-497367250ffe",
+      "f93cb6ad-8ab3-4ffa-97f7-d806961d6296",
+      "7e245481-d9e7-4e64-b771-18739a464f6d"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "1014ab12-104c-4e98-bc20-31b12399eee7",
+    "category": "patent",
+    "class": "International",
+    "date": "2018-07-20",
+    "title_eng": "Method and apparatus for executing application in device",
+    "title_kor": "Method and apparatus for executing application in device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "1b069a3a-78ff-4fdc-805b-4afefaa82f3c",
+    "category": "patent",
+    "class": "International",
+    "date": "2018-01-30",
+    "title_eng": "Method and apparatus for executing application in device",
+    "title_kor": "Method and apparatus for executing application in device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "0e693fd3-633c-4f04-bcf4-2023fd3aad42",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-09-28",
+    "title_eng": "Longitudinal Healthcare Data Management Platform of Healthcare IoT Devices for Personalized Services",
+    "journal_eng": "Journal of Universal Computer Science",
+    "author_kor": "최아영; 신항식",
+    "author_eng": "Ahyoung Choi; Hangsik Shin",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "14bbce8c-2d67-4caa-b55f-12df156e2030",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2018-08-01",
+    "title_eng": "Investigation of the pulse to pulse interval and amplitude variation of photoplethymogram as a pain assessment parameter during anesthesia",
+    "title_kor": "마취 중 통증판별을 위한 광용적맥파 박동간격 및 진폭 변화 관찰",
+    "journal_eng": "Journal of Korean Institute of Intelligent Systems",
+    "author_kor": "석현석; 신항식",
+    "author_eng": "Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "df9970df-3b5f-471f-a289-10b95689863c",
+    "category": "conference",
+    "class": "International",
+    "date": "2018-06-03",
+    "title_eng": "Investigation of the feasibility of postoperative pain assessment using frequency analysis of photoplethysmogram variability",
+    "title_kor": "Investigation of the feasibility of postoperative pain assessment using frequency analysis of photoplethysmogram variability",
+    "conference_eng": "World Congress on Medical Physics & Biomedical Engineering(IUPESM 2018)",
+    "author_kor": "양윤라; 석현석; 신항식",
+    "author_eng": "Yoon La Yang; Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "b7b22ebc-c358-4c6f-89b1-8ff45e6bbe44",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2018-06-01",
+    "title_eng": "Investigation of the Feasibility of Postoperative Pain Assessment by Analysing Photoplethysmogram Variability Analysis",
+    "title_kor": "광용적맥파 진폭변이도 시간영역 분석을 통한 술후 통증 평가 가능성 고찰",
+    "journal_eng": "Journal of Korean Institute of Intelligent Systems",
+    "author_kor": "양윤라; 신항식",
+    "author_eng": "Yoon La Yang; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.researchgate.net/publication/326153933_Investigation_of_the_Feasibility_of_Postoperative_Pain_Assessment_by_Analysing_Photoplethysmogram_Variability_Analysis",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "85d14375-3c7a-4939-80e7-cf67fb88e953",
+    "category": "conference",
+    "class": "International",
+    "date": "2018-07-17",
+    "title_eng": "Investigation of Arterial Property Changes based on Blood Pressure Waveform and Photoplethysmogram",
+    "title_kor": "Investigation of Arterial Property Changes based on Blood Pressure Waveform and Photoplethysmogram",
+    "conference_eng": "40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC’18)",
+    "author_kor": "한상진; 신항식",
+    "author_eng": "Sangjin Han; Hangsik shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "a7a98a09-1778-4de5-bd0f-3aa1d4bdfca3",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-09-01",
+    "title_eng": "Development of a new analgesic index using nasal photoplethysmography",
+    "journal_eng": "Anaesthesia",
+    "author_kor": "최병문; 박찬기; 이용훈; 신항식; 이승후; 정승욱; 노규정; 이병우",
+    "author_eng": "Byungmoon Choi; Chanki Park; Yong-Hun Lee; Hangsik Shin; Seunghoo Lee; Seongwook Jeong; Gyujeong Noh; Byung Woo Lee",
+    "author_ids": [
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "dab95ccb-7d79-46ed-906e-901b173ebbf9",
+      "082f270f-0c9c-49c4-b469-28f02bd990a7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "68c7ac1d-b7b7-429a-9d51-432b07e593a1",
+      "545bfc0f-948a-4688-a768-9d1afa5c9cde",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/29790159/",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "48b95f51-db7c-4d98-8927-d7ad0d62543f",
+    "category": "conference",
+    "class": "International",
+    "date": "2018-07-17",
+    "title_eng": "Development of Microphone Preamplifier for Recording Hearts Sound of Esophageal Stethoscope",
+    "title_kor": "Development of Microphone Preamplifier for Recording Hearts Sound of Esophageal Stethoscope",
+    "conference_eng": "40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC’18)",
+    "author_kor": "정선형; 강예원; 이득용; 신항식; 윤용현",
+    "author_eng": "Sunhyung Jung; Yewon Kang; Duek Yong Lee; Hangsik shin; Yonghyeon Yoon",
+    "author_ids": [
+      "e8a9a00f-1ff2-4a36-bcbd-094fd8535a21",
+      "1dfca53d-7c76-4644-8c41-2298e9c36fd9",
+      "f375fa5c-2169-47f1-a3fc-244499795fd2",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "9e8c9472-1595-4f70-9714-63d8eb933b96",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-05-28",
+    "title_eng": "Detection of Hemiplegic Walking Using a Wearable Inertia Sensing Device",
+    "journal_eng": "Sensors",
+    "author_kor": "이준석; 박수지; 신항식",
+    "author_eng": "Junseok Lee; Sooji Park; Hangsik Shin",
+    "author_ids": [
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022123/",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "cbf7f5ef-ffd6-420c-a4cd-df27738527fa",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2018-05-11",
+    "title_eng": "Correlation between Pulse Arrival Time Change and Blood Pressure Change according to Measurement Methods",
+    "title_kor": "측정 방법에 따른 맥파도달시간 변화와 혈압 변화 상관성 고찰",
+    "conference_eng": "The 53th Korea Society of Medical and Biological Engineering Spring Conference 2018",
+    "author_kor": "한상진; 신항식",
+    "author_eng": "Sangjin Han; Hangsik shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "c00ed65c-19db-4a71-9854-9862a187e978",
+    "category": "patent",
+    "class": "International",
+    "date": "2018-08-01",
+    "title_eng": "Connecting two devices",
+    "title_kor": "Connecting two devices",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "d1194020-164b-456a-a47e-1110655b9a52",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2018-10-25",
+    "title_eng": "Comparison of pulse rate variability and heart rate variability in postoperative condition",
+    "title_kor": "수술 후 맥박변이도와 심박변이도 비교",
+    "conference_eng": "Conference on Information and Control Systems 2018",
+    "author_kor": "최승빈; 신항식",
+    "author_eng": "SeungBin Choi; Hangsik shin",
+    "author_ids": [
+      "6bcb1504-af5e-4b32-9fdb-b1a4745a0c25",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "2b719dae-84d9-4077-83c3-76049a9256cd",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2018-10-25",
+    "title_eng": "Comparison of Signal Quality Assessment Methods for Photoplethysmograpic Waveform",
+    "title_kor": "광용적맥파 파형의 품질 평가 방법 비교",
+    "conference_eng": "Conference on Information and Control Systems 2018",
+    "author_kor": "석현석; 신항식",
+    "author_eng": "Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "01cef1cd-abbe-4985-b68e-325b44d31f03",
+    "category": "conference",
+    "class": "International",
+    "date": "2018-06-03",
+    "title_eng": "Assessment of Similarity Between Finger and Wrist Photoplethysmography According to the Light Wavelength",
+    "title_kor": "Assessment of Similarity Between Finger and Wrist Photoplethysmography According to the Light Wavelength",
+    "conference_eng": "World Congress on Medical Physics & Biomedical Engineering(IUPESM 2018)",
+    "author_kor": "한상진; 신항식",
+    "author_eng": "Sangjin Han; Hangsik shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "d2a2143c-32da-4592-8a88-03a04c9e2a35",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2018-05-18",
+    "title_eng": "Apparatus and method for providing interface in device with touch screen",
+    "title_kor": "터치 스크린을 구비한 기기의 인터페이스 제공 장치 및 방법",
+    "author_kor": "신항식; 박정훈; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "7c661e83-8067-5236-ac69-527fc1e3ccad",
+    "category": "award",
+    "date": "2018-11-30",
+    "title_eng": "A research group for developing HRQoL assessment metric pursuing individual and group wellness",
+    "title_kor": "개인 및 집단 안녕 추구를 위한 HRQoL 평가기술 연구그룹",
+    "award_name_eng": "Best research group certificate award",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "5131b181-0b9b-4a41-a49f-e7bedcc2b293",
+    "category": "conference",
+    "class": "International",
+    "date": "2018-12-05",
+    "title_eng": "A New Pulse Quality Assessment Method for Photoplethysmogram based on Similliarity Analysis",
+    "title_kor": "A New Pulse Quality Assessment Method for Photoplethysmogram based on Similliarity Analysis",
+    "conference_eng": "\"10th International Conference on Soft Computing and Intelligent Systems and ",
+    "author_kor": "석현석; 한상진; 박준영; 노동근; 신항식",
+    "author_eng": "Hyeon Seok Seok; Sangjin Han; Junyoung Park; Donggeun Rho; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f5d",
+    "category": "project",
+    "date": "2018-07-01",
+    "project_name_eng": "Walking analysis mat and system for better lifestyle",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f5e",
+    "category": "project",
+    "date": "2018-06-01",
+    "project_name_eng": "Research of photoplethysmography for mobile healthcare and clinical use",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f5f",
+    "category": "project",
+    "date": "2018-06-01",
+    "project_name_eng": "A research group for developing HRQoL assesment metric pursuing individual and group wellness",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f60",
+    "category": "project",
+    "date": "2018-01-01",
+    "project_name_eng": "Development of the WellTEC coaching service and contents for wellness life",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f72",
+    "category": "project",
+    "date": "2018-06-01",
+    "project_name_eng": "Research of photoplethysmography for mobile healthcare and clinical use",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "eb8726f5-9166-5783-9c7a-1460a66178d5",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "d831331c-e965-56b8-b92b-93e2c2a71fc8",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "24f6a996-2c92-5bab-afd2-ec1310bad722",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "fe3ba0cc-5abb-5189-8ae9-df0280a909e8",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "7ebb0662-7ee4-5dee-b7f2-17b76fe79f31",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "94346cd1-b3f1-5f65-a162-63bf0f5b4e32",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "8ca1515b-89e7-53d5-bdfd-625da3ca59d3",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "0749bc39-07cf-5581-8006-75191acf2ce7",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "f14ec39d-bae5-5c23-b929-cb522b38e14f",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "397a0423-75e0-573f-8fb2-98d07747ebab",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "d2fd5378-6e78-5f4d-b68d-0a59c4adea94",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "147a6cc2-18c4-5666-9072-55764496bb94",
+    "category": "technology_transfer",
+    "date": "2018-11-30",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "e2534eb8-d428-525d-8cde-4d0919bdf82c",
+    "category": "extracurricular",
+    "date": "2018-09-01",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "d8f81fab-aa86-5e24-97f4-d7fa5114c33a",
+    "category": "extracurricular",
+    "date": "2018-12-05",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "36da99d0-3731-579d-8316-acac3a17f69c",
+    "category": "extracurricular",
+    "date": "2018-01-01",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "38284940-f7fe-5f2e-b32d-a1a65cf6423e",
+    "category": "extracurricular",
+    "date": "2018-01-01",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "32d9e1c1-f770-5b2b-8098-2aae9dabafae",
+    "category": "invited_lecture",
+    "date": "2018-04-01",
+    "year_resolved": "2018"
+  }
+]

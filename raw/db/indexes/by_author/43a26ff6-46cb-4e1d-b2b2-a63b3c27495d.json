@@ -1,0 +1,42 @@
+[
+  {
+    "id": "d7e4094d-cc2c-450b-8fa1-f74dd6ce9f09",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-09-28",
+    "title_eng": "Orthopedic surgeon level joint angle assessment with artificial intelligence based on photography: a pilot study",
+    "journal_eng": "Biomedical Engineering Letters",
+    "author_kor": "류승민; 신기원; 도창현; 벤 후이; 박지연; 고경환; 신항식; 전인호",
+    "author_eng": "Seung Min Ryu; Keewon Shin; Chang Hyun Doh; Ben Hui; Ji Yeon Park; Kyoung-Hwan Koh; Hangsik Shin; In-ho Jeon",
+    "author_ids": [
+      "3ceb26bc-3b4c-4ad9-b1eb-030494efeb3d",
+      "6d394666-b1ce-4e53-8b45-b383a8263dc8",
+      "5678849f-e95a-4848-90d4-19fbe491ce98",
+      "4d7d4559-0e06-456f-ac81-7d332b5c7f7c",
+      "43a26ff6-46cb-4e1d-b2b2-a63b3c27495d",
+      "e160ecba-57be-4477-8fee-145762fd3c28",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4beef22e-ab05-463a-978d-5476db100747"
+    ],
+    "link": "https://link.springer.com/article/10.1007/s13534-024-00432-w",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "d40f47c1-86ca-4a10-bc8c-f277574274d6",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-05-09",
+    "title_eng": "Trend of Blood Pressure Estimation Model based on Pulse Transit Time",
+    "title_kor": "맥파전달시간 기반 혈압 추정 모델 개발 동향",
+    "conference_eng": "The 54th Korea Society of Medical and Biological Engineering Spring Conference 2019",
+    "author_kor": "박지연; 한상진; 노동근; 신항식",
+    "author_eng": "Park Ji Yeon; Sangjin Han; Donggeun Rho; Hangsik shin",
+    "author_ids": [
+      "43a26ff6-46cb-4e1d-b2b2-a63b3c27495d",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  }
+]

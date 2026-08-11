@@ -1,0 +1,21 @@
+[
+  {
+    "id": "cc1772bc-c1d0-4408-b310-c656daf69daf",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-03-01",
+    "title_eng": "Force-Sensing-Based Unobtrusive System for Awakening and Respiration Rate Analysis during Sleep",
+    "journal_eng": "IEEE Sensors Journal",
+    "author_kor": "박수지; 조형호; 양형채; 윤진상; 신항식",
+    "author_eng": "Sooji Park; Hyong-Ho Cho; Hyung Chae Yang; Jin Sang Yoon; Hangsik Shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "9d984236-dc7c-45f9-9a8c-c75bbd82b446",
+      "8c6f0895-f3b6-4fa5-a4ec-d980aef6ac82",
+      "ccb011d4-abdb-4777-9733-17090cd8acb8",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/8556368",
+    "year_resolved": "2019"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "e4317c31-4236-4a67-a345-5e619b457d29",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-07-13",
+    "title_eng": "Availability of Frequency Domain Analysis of Heart Rate Variability Using Ultra Short-term Electrocardiogram",
+    "title_kor": "초단기 심전도에 대한 심박변이도 주파수 분석법 적용 가능성 고찰",
+    "conference_eng": "The 47th KIEE Summer Conference 2016",
+    "author_kor": "신항식; 김동준",
+    "author_eng": "Hangsik shin; Dong-Jun Kim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "62d51eaa-e423-49c2-b058-669ba146f3fa"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "805b2fef-ad9f-47fd-a4aa-8b6a6f82cd5c",
+    "category": "conference",
+    "class": "International",
+    "date": "2015-12-02",
+    "title_eng": "Pulse Wave Pitch Detection Technique and Its Application to Human Sensibility Evaluation",
+    "title_kor": "Pulse Wave Pitch Detection Technique and Its Application to Human Sensibility Evaluation",
+    "conference_eng": "2015 International Conference on Mechatronics and Information Technology(ICMIT 2015)",
+    "author_kor": "김동준; 이현민; 이정환; 신항식",
+    "author_eng": "Dong-Jun Kim; Hyun-Min Lee; Jeong-Whan Lee; Hangsik shin",
+    "author_ids": [
+      "62d51eaa-e423-49c2-b058-669ba146f3fa",
+      "3f286897-33cd-42fb-919d-47823e117509",
+      "596b9b4d-31d5-43cb-b6f4-656f259b6ef5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "8237817a-be14-4124-8d0b-61cb865ee490",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-10-22",
+    "title_eng": "Development of Internet-of-Things Diffuser to Provide Aroma and Lightning Therapy based on Bio-Signal",
+    "title_kor": "생체신호기반 조명, 향기 요법 제공을 위한 IoT 디퓨져 개발",
+    "conference_eng": "Conference on Information and Control Systems 2015",
+    "author_kor": "양윤라; 강성탁; 신항식; 김동준",
+    "author_eng": "Yoon La Yang; Seongtak Kang; Hangsik shin; Dong-Jun Kim",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "2305510c-90d6-4355-99bd-7d63caa62cfb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "62d51eaa-e423-49c2-b058-669ba146f3fa"
+    ],
+    "year_resolved": "2015"
+  }
+]

@@ -39,6 +39,19 @@ LLM_WIKI/
 |---|---|
 | `raw/db/` | 연구실 DB 가공본 (members, authors, publications, links, stats) |
 | `raw/db/MAPPING_NOTES.md` | 멤버↔저자 매핑 메모 |
+| `raw/db/indexes/` | **조회 인덱스** (연도·author·member). 풀 스캔 대신 여기 우선 |
+
+#### `raw/db/indexes` 사용법
+
+| 필터 | 파일 |
+|---|---|
+| 연도 (예: 2024) | `indexes/by_year/2024.json` |
+| 카테고리 (journal, conference, …) | `indexes/by_category/<category>.json` |
+| 저자 | `indexes/by_author/<author_id>.json` |
+| 멤버 | `indexes/by_member/<member_id>.json` |
+| 카탈로그·연도/카테고리 건수 | `indexes/catalog.json` |
+
+`publications.json` 전체 로드는 **최후 수단**. 인덱스 재생성: `python raw/db/rebuild_indexes.py`
 
 앞으로 회의록·논문·매뉴얼 등이 생기면 사람이 `raw/meeting-logs/`, `raw/papers/` 등 하위 폴더를 **필요할 때** 만들어 넣는다. 빈 폴더를 미리 두지 않는다.
 

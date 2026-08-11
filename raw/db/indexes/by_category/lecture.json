@@ -1,0 +1,542 @@
+[
+  {
+    "id": "e32afce6-7ca0-5d6c-b4fd-7d5d66f6cf38",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "eadae84c-97d5-565f-83b5-634a827ae509",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "95b8aa92-7fcd-5497-94d4-4ae69bec9105",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "7e6f7e3a-c15c-5897-b1a3-e909f11e3568",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "e5ec72c4-ba96-59b1-a511-8e765d2678a0",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "93196791-e873-56d7-924f-4fab71e4f49c",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "beac59ab-3751-5b8c-8c7e-58606afbf6d9",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "10375a25-4890-50e8-8031-5a8300051af8",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "abedff1a-a2c3-5d10-a8cb-217800efe8df",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "0726ba29-c465-51be-9aa4-068cf409d867",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "069441bc-8b20-5a6c-9766-5b24cc83616c",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "97a072b4-80af-598d-acc3-874747deda89",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "cc0f690f-9cb2-53f8-adcb-022ed0d5f7fc",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "3ca8b8ce-c5af-5f5c-bac4-249cc9bcb893",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "ddb9b544-579a-551e-be5b-4c507a42d9c5",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "c4d55799-7a86-504c-8eca-d418edf94ce4",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "a946e5a2-ca12-50d0-a902-b33f8576c07d",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "97c6c7f6-12a6-5c02-b9a0-6e244168c2a2",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "357ceb92-b598-5902-8d5b-0bb6411eea5b",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "ae1f4a80-d419-5034-bbed-8c3447183dc1",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "075bac7f-1073-5bdb-ab50-87d9848e19ae",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "7985a668-7286-5e0e-b21c-4bcafb33404a",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "7f201ca0-998d-5063-9783-e3068a86a828",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "27cf072a-7486-5531-801f-9f2466e26005",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "7d1d05bd-b158-50e0-b613-434180ea864d",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "abca4a43-3b97-5dd6-b4ea-5fd6a1653781",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "64f1d016-0b1e-56e1-a0a5-7b298a4541cd",
+    "category": "lecture",
+    "year": 2019,
+    "year_resolved": "2019"
+  },
+  {
+    "id": "eb8726f5-9166-5783-9c7a-1460a66178d5",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "d831331c-e965-56b8-b92b-93e2c2a71fc8",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "24f6a996-2c92-5bab-afd2-ec1310bad722",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "fe3ba0cc-5abb-5189-8ae9-df0280a909e8",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "7ebb0662-7ee4-5dee-b7f2-17b76fe79f31",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "94346cd1-b3f1-5f65-a162-63bf0f5b4e32",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "8ca1515b-89e7-53d5-bdfd-625da3ca59d3",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "0749bc39-07cf-5581-8006-75191acf2ce7",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "f14ec39d-bae5-5c23-b929-cb522b38e14f",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "397a0423-75e0-573f-8fb2-98d07747ebab",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "d2fd5378-6e78-5f4d-b68d-0a59c4adea94",
+    "category": "lecture",
+    "year": 2018,
+    "year_resolved": "2018"
+  },
+  {
+    "id": "0d813251-1571-5ce1-b727-ec65bd61b1f1",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "44dcb3b0-6269-580d-bb90-ef64b0b8d1fb",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "012b3ab7-02c0-54aa-a473-0cf3251b9749",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "4c1cf075-8200-5bde-bc8e-368fe1bcda3a",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "6fe757e1-6acc-5d87-b19e-47057d092ced",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "09eb774c-3f1d-51b8-93c0-43e97cca1b99",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "b38a900c-e601-5edc-8138-f7d470cf179c",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "6e9c2637-dd7b-5295-9b81-ad4f3190d04f",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "1c0e4570-fbd0-53a4-af4b-b098153bc3cc",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "4fdb5c72-0fd9-5e05-b13d-6fa707c20e5f",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "f7cc78d3-8707-54ab-833b-d32cf148ab94",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "ed80c24e-8016-5373-b23c-bec0dc643ed7",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "532c8b1f-e544-5af7-a877-9c99e8be9127",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "c286ae49-0d97-5908-afee-c855c20c2abf",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "0edb5ba8-cd98-5a96-b185-596bac1b1e6d",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "e8d39320-8a36-532b-bd33-aacc12227277",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "0f6aa273-71c2-50f6-8f9b-05edf8dd0406",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "3f79a85c-6514-5d34-9d61-8b1fbe47683c",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "d662b273-e9fc-56c6-b562-d2ec4b81b5de",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "94049142-90e7-5b24-9a86-d865c85a61ca",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "aa43067b-249f-5ceb-b9f5-c32a3ae3f346",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "93234a91-fcc4-5f58-bfe4-342e5b24ad49",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "7bc95318-7135-5c3f-a0e3-051edffa5a17",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "369cad4b-9f9d-507f-972c-128bd0a6ba93",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "e7d11f03-2f4d-5244-a3c1-24d12e76ff68",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "ed0fc91b-a9c8-531e-8c6d-14ee03a657eb",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "3dd13859-840c-5e3d-9c29-aea29a5be30b",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "d9cdd0c6-082b-53f6-8a80-dd075a72d4ec",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "734166b6-0961-5ea8-99bb-6af0944c566d",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "94cfd951-b757-5211-9a28-bdd769011147",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "540b1dbc-a338-5a44-8e6c-ca6183723fc2",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "a44870ed-cf8c-5b86-9e90-557cfe6cee48",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "6753514e-1696-5d24-81ec-db3522e954a0",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "f2c05cf9-e5ee-5893-8149-62bbf043deb1",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "f7f096d8-1106-54e3-96c4-545b6c28b046",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "e6f8dcc1-bc00-583e-b4a5-00bdfdc1b7ee",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "57ba9103-608c-59ad-aee9-4671784c06de",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "70e784f0-db47-546a-8f6f-a6093a6ef33a",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "36914a35-1ee6-513c-a457-bd70f537e973",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "013d8227-f4e3-539d-8f1a-6939ab545065",
+    "category": "lecture",
+    "year": 2014,
+    "year_resolved": "2014"
+  },
+  {
+    "id": "efc41273-7b72-5701-8b4b-0be00012ef6c",
+    "category": "lecture",
+    "year": 2014,
+    "year_resolved": "2014"
+  },
+  {
+    "id": "7668a5e6-0c53-598c-9c46-275415e69671",
+    "category": "lecture",
+    "year": 2014,
+    "year_resolved": "2014"
+  },
+  {
+    "id": "b3feef34-bf98-5859-88ab-de4d2e85eb41",
+    "category": "lecture",
+    "year": 2014,
+    "year_resolved": "2014"
+  },
+  {
+    "id": "8dd8115b-776f-5e7f-87bd-4f1b972dc32d",
+    "category": "lecture",
+    "year": 2014,
+    "year_resolved": "2014"
+  },
+  {
+    "id": "f0672198-daa6-5bdc-ae3a-39b4e566db42",
+    "category": "lecture",
+    "year": 2014,
+    "year_resolved": "2014"
+  },
+  {
+    "id": "07d36e9a-9ba9-5ee9-ad9f-43e11e339c9b",
+    "category": "lecture",
+    "year": 2014,
+    "year_resolved": "2014"
+  },
+  {
+    "id": "74d055e5-83d6-5047-9891-c2696a8308b9",
+    "category": "lecture",
+    "year": 2014,
+    "year_resolved": "2014"
+  },
+  {
+    "id": "b6ab8ccd-6759-52db-8fa3-85c74efec2fd",
+    "category": "lecture",
+    "year": 2014,
+    "year_resolved": "2014"
+  },
+  {
+    "id": "2d1a2e55-0292-512f-b879-995720234f5f",
+    "category": "lecture",
+    "year": 2014,
+    "year_resolved": "2014"
+  },
+  {
+    "id": "5a8011b9-8ae2-5c5c-8be3-c4ddb76470c0",
+    "category": "lecture",
+    "year": 2013,
+    "year_resolved": "2013"
+  },
+  {
+    "id": "a87d888a-648d-5eca-9c25-92d44c3e39eb",
+    "category": "lecture",
+    "year": 2013,
+    "year_resolved": "2013"
+  },
+  {
+    "id": "f202037d-917e-58f6-9f0d-8556cd764fe2",
+    "category": "lecture",
+    "year": 2013,
+    "year_resolved": "2013"
+  }
+]

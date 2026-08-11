@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ae1610f3-aa83-4dd2-8dd6-c1afd46d6360",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-02-08",
+    "title_eng": "Music notation software based on the smart device and stylus pen",
+    "title_kor": "Music notation software based on the smart device and stylus pen",
+    "conference_eng": "PROCEEDINGS OF HCI KOREA 2017",
+    "author_kor": "곽재경; 안광덕; 신항식",
+    "author_eng": "Jaekyung Kwak; Kwangdek An; Hangsik Shin",
+    "author_ids": [
+      "2684cf18-a5b8-4ca2-977d-d4cbbf558f8a",
+      "ff74c517-7501-44c7-a017-94dd22eae94a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  }
+]

@@ -1,0 +1,1782 @@
+[
+  {
+    "id": "7766f561-9076-4a25-bfc5-c9a5af6c0b3e",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2026-01-11",
+    "title_eng": "Structural insights into clinical large language models and their barriers to translational readiness",
+    "journal_eng": "Journal of the American Medical Informatics Association",
+    "author_kor": "유지원; 신항식",
+    "author_eng": "Jiwon You; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaf230/8419921?login=true",
+    "year_resolved": "2026"
+  },
+  {
+    "id": "e3ce2af3-eb83-4a42-8119-8d75ef6a17ac",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2026-07-31",
+    "title_eng": "Multitask learning-based phonocardiogram denoising model for preserving valvular heart disease characteristics",
+    "journal_eng": "Physiological Measurement",
+    "author_kor": "이건; 신항식",
+    "author_eng": "Geon Lee; Hangsik Shin",
+    "author_ids": [
+      "75bef458-47fc-43ad-9bdb-f934cbb66beb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://iopscience.iop.org/article/10.1088/1361-6579/ae8caa",
+    "year_resolved": "2026"
+  },
+  {
+    "id": "75480fca-4d6e-4b0f-bef4-bd19409c4b34",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2026-06-18",
+    "title_eng": "Medication-specific risk of atrial fibrillation in patients with coronary artery disease",
+    "journal_eng": "Biomedical Engineering Letters",
+    "author_kor": "김태현; 류가연; 최예은; 신항식",
+    "author_eng": "Taehyun Kim; Gayeon Ryu; Ye Eun Choi; Hangsik Shin",
+    "author_ids": [
+      "125c0eac-e405-4c5b-8d4a-00eedb04a6aa",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://link.springer.com/article/10.1007/s13534-026-00589-6",
+    "year_resolved": "2026"
+  },
+  {
+    "id": "42d3a100-a8ea-4616-88c7-e7817e38f410",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2026-07-22",
+    "title_eng": "Large language models for interpretation of health checkup results",
+    "journal_eng": "npj Digital Medicine",
+    "author_kor": "유지원; 신항식",
+    "author_eng": "Jiwon You; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.nature.com/articles/s41746-026-02467-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260722&utm_content=10.1038/s41746-026-02467-y#citeas",
+    "year_resolved": "2026"
+  },
+  {
+    "id": "aa9ed85d-9d96-49ab-9897-a99041cc0389",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2026-03-03",
+    "title_eng": "Instability and performance limits of convolutional neural networks on non-sequential medical tabular data: an empirical investigation",
+    "journal_eng": "Scientific Reports",
+    "author_kor": "왕창원; 모하메드 엘젠디; 신항식",
+    "author_eng": "Changwon Wang; Mohamed Elgendi; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "afb9d7ff-1260-4ee9-a040-9e8d768382e8",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.nature.com/articles/s41598-026-39875-9",
+    "year_resolved": "2026"
+  },
+  {
+    "id": "0e4ccaf9-1e53-463e-85b2-8f90b79a5660",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2026-02-01",
+    "title_eng": "From radial to aortic pressure: In silico data-driven estimation using an autoencoder",
+    "title_kor": "From radial to aortic pressure: In silico data-driven estimation using an autoencoder",
+    "journal_eng": "Biomedical Signal Processing and Control",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.sciencedirect.com/science/article/pii/S174680942501242X",
+    "year_resolved": "2026"
+  },
+  {
+    "id": "6bca2b12-4451-4f75-9b60-106e908def25",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2025-01-17",
+    "title_eng": "Toward Objectification of Subjective Chronic Pain Based on Implicit Response in Biosignals",
+    "journal_eng": "IEEE Transactions on Biomedical Engineering",
+    "author_kor": "석현석; 김상수; 김도원; 신항식",
+    "author_eng": "Hyeon Seok Seok; Sang Su Kim; Do-Won Kim; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "fd60dc67-b59d-4404-a6e5-10d1810da012",
+      "f5c5db67-7148-49a8-ae2d-6640056ea44f",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/10663232",
+    "year_resolved": "2025"
+  },
+  {
+    "id": "4df94230-b073-4e4c-9037-277fc44342b8",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2025-01-24",
+    "title_eng": "Machine learning based quantitative pain assessment for the perioperative period",
+    "title_kor": "Machine learning based quantitative pain assessment for the perioperative period",
+    "journal_eng": "npj Digital Medicine",
+    "author_kor": "류가연; 최재문; 석현석; 이재형; 이은경; 신항식; 최병문",
+    "author_eng": "Gayeon Ryu; Jae Moon Choi; Hyeon Seok Seok; Jaehyung Lee; Eun-Kyung Lee; Hangsik Shin; Byungmoon Choi",
+    "author_ids": [
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "7f204165-939d-44e7-9ad2-cc9df84495bf",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26"
+    ],
+    "link": "https://www.nature.com/articles/s41746-024-01362-8",
+    "year_resolved": "2025"
+  },
+  {
+    "id": "25c744a8-0ba8-4012-9740-83157d327200",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-07-26",
+    "title_eng": "Signal completion using generative adversarial networks for enhanced photoplethysmography measurement accuracy",
+    "journal_eng": "Computers in Biology and Medicine",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.sciencedirect.com/science/article/pii/S0010482524010370",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "c4f6d95c-ea6d-4eba-abe8-2e4d704a9999",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-07-12",
+    "title_eng": "Recommendations for evaluating photoplethysmography-based algorithms for blood pressure assessment",
+    "journal_eng": "Communications Medicine",
+    "author_kor": "모하메드 엘젠디; 프리돌린 하우그; 리처드 리본 플레처; 존 앨런; 신항식; 아이멘 알리안; 카를로 메논",
+    "author_eng": "Mohamed Elgendi; Fridolin Haugg; Richard Ribon Fletcher; John Allen; Hangsik Shin; Aymen Alian; Carlo Menon",
+    "author_ids": [
+      "afb9d7ff-1260-4ee9-a040-9e8d768382e8",
+      "36b4d394-e23c-49ff-a5ba-a68cafc65cb7",
+      "84d31672-e421-4d67-8356-b1e8a1a3c7bc",
+      "7f0fae56-f54e-4860-bb9a-cc84c97708c4",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "46f056ed-3502-46e3-b195-decaff737dc5",
+      "841872b3-1bd2-4ee0-8294-397ab97546a3"
+    ],
+    "link": "https://www.nature.com/articles/s43856-024-00555-2",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "d7e4094d-cc2c-450b-8fa1-f74dd6ce9f09",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-09-28",
+    "title_eng": "Orthopedic surgeon level joint angle assessment with artificial intelligence based on photography: a pilot study",
+    "journal_eng": "Biomedical Engineering Letters",
+    "author_kor": "류승민; 신기원; 도창현; 벤 후이; 박지연; 고경환; 신항식; 전인호",
+    "author_eng": "Seung Min Ryu; Keewon Shin; Chang Hyun Doh; Ben Hui; Ji Yeon Park; Kyoung-Hwan Koh; Hangsik Shin; In-ho Jeon",
+    "author_ids": [
+      "3ceb26bc-3b4c-4ad9-b1eb-030494efeb3d",
+      "6d394666-b1ce-4e53-8b45-b383a8263dc8",
+      "5678849f-e95a-4848-90d4-19fbe491ce98",
+      "4d7d4559-0e06-456f-ac81-7d332b5c7f7c",
+      "43a26ff6-46cb-4e1d-b2b2-a63b3c27495d",
+      "e160ecba-57be-4477-8fee-145762fd3c28",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4beef22e-ab05-463a-978d-5476db100747"
+    ],
+    "link": "https://link.springer.com/article/10.1007/s13534-024-00432-w",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "1488e88b-6109-4435-8b1e-12951f673d7f",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-08-22",
+    "title_eng": "Machine learning-based sample misidentification error detection in clinical laboratory tests: A retrospective multicenter study",
+    "journal_eng": "Clinical Chemistry",
+    "author_kor": "석현석; 유신애; 신경화; 이우창; 전사일; 김솔잎; 신항식",
+    "author_eng": "Hyeon Seok Seok; Shinae Yu; Kyung-Hwa Shin; Woochang Lee; Sail Chun; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "06cd217f-5f4c-49af-9cf4-1666a5f30674",
+      "5ec9e165-f85d-4223-9e7f-038a6359d70a",
+      "c2ece990-47d8-45c5-bc8e-d2f6ea244737",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://academic.oup.com/clinchem/advance-article/doi/10.1093/clinchem/hvae114/7739014?utm_source=authortollfreelink&utm_campaign=clinchem&utm_medium=email&guestAccessKey=1df85bdd-2fbf-480d-97d8-d0d649a9c699",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "a9be57b4-b145-4ac1-880a-bd7b8bed3668",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-05-13",
+    "title_eng": "FDA-cleared home sleep apnea testing devices",
+    "journal_eng": "npj Digital Medicine",
+    "author_kor": "박지현; 왕창원; 신항식",
+    "author_eng": "Ji Hyeun Park; Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "3a5a94ad-5186-494a-a8fb-1138bb9889f9",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.nature.com/articles/s41746-024-01112-w",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "748a314f-ee4c-4683-9e08-64b7bbe8287f",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-04-01",
+    "title_eng": "Calibration-free blood pressure estimation based on a convolutional neural network",
+    "journal_eng": "Psychophysiology",
+    "author_kor": "조진우; 신항식; 최아영",
+    "author_eng": "Jinwoo Jo; Hangsik Shin; Ahyoung Choi",
+    "author_ids": [
+      "b438a16a-5733-4601-b886-e6e78bce2fae",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/37971153/",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "a88dd95e-adb0-46cb-a2ae-ab50f1b56c45",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-08-14",
+    "title_eng": "Atrial Fibrillation Identification Using CNNs Based on Genomic Data",
+    "journal_eng": "Journal of Electrical Engineering & Technology",
+    "author_kor": "이재형; 권오석; 류가연; 신항식; 박희남",
+    "author_eng": "Jaehyung Lee; Oh-Seok Kwon; Gayeon Ryu; Hangsik Shin; Hui-Nam Pak",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba"
+    ],
+    "link": "https://link.springer.com/article/10.1007/s42835-024-01998-2",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "6d8b5817-2a7b-4507-9d7f-21de5560f5a4",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-08-12",
+    "title_eng": "Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers",
+    "title_kor": "Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers",
+    "journal_eng": "Journal of Electrical Engineering & Technology",
+    "author_kor": "류가연; 최재문; 이재형; 석현석; 신항식; 최병문",
+    "author_eng": "Gayeon Ryu; Jae Moon Choi; Jaehyung Lee; Hyeon Seok Seok; Hangsik Shin; Byungmoon Choi",
+    "author_ids": [
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26"
+    ],
+    "link": "https://link.springer.com/article/10.1007/s42835-024-01999-1?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240812&utm_content=10.1007%2Fs42835-024-01999-1",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "841b7d8e-34dc-46ee-b032-b8a8cdd56a9b",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-11-26",
+    "title_eng": "Advancing laboratory medicine practice with machine learning: swift yet exact",
+    "journal_eng": "Annals of Laboratory Medicine",
+    "author_kor": "유지원; 석현석; 김솔잎; 신항식",
+    "author_eng": "Jiwon You; Hyeon Seok Seok; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.annlabmed.org/journal/view.html?uid=3598&vmd=Full",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "2eea3f4e-b474-41a6-acd2-3535c6441d2c",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2023-07-26",
+    "title_eng": "The 2023 wearable photoplethysmography roadmap",
+    "title_kor": "The 2023 wearable photoplethysmography roadmap",
+    "journal_eng": "Physiological measurement",
+    "author_kor": "이충근; 신항식",
+    "author_eng": "Chungkeun Lee; Hangsik Shin",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://iopscience.iop.org/article/10.1088/1361-6579/acead2",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "d6971514-180d-43ac-a9ff-cd723e5591b2",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2023-12-13",
+    "title_eng": "Smart  Hospital  Advancements  and  Future  Perspectives in South  Korea",
+    "title_kor": "국내 스마트병원 구축현황 및 발전 방안",
+    "journal_eng": "Clinical Chemistry and Laboratory Medicine (CCLM)",
+    "author_kor": "왕창원; 신항식",
+    "author_eng": "Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "ec82a1b1-9281-40fd-8592-925612fbb2ce",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2023-03-31",
+    "title_eng": "Practical delta check limits for tumour markers in different clinical settings",
+    "journal_eng": "Clinical Chemistry and Laboratory Medicine (CCLM)",
+    "author_kor": "유신애; 신경화; 신성환; 이혜영; 유수진; 전경란; 신항식; 김솔잎",
+    "author_eng": "Shinae Yu; Kyung-Hwa Shin; Sunghwan Shin; Hyeyoung Lee; Soo Jin Yoo; Kyung Ran Jun; Hangsik Shin; Sollip Kim",
+    "author_ids": [
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "06cd217f-5f4c-49af-9cf4-1666a5f30674",
+      "16dd67b1-53a2-4a77-b15d-d4846f5f7043",
+      "88a8d1f1-ccaa-414a-8af5-5661ce11128c",
+      "1032d1e7-0873-4e7a-b488-195b22293db1",
+      "58889578-5052-4cbc-8c74-b3ee12d9b36a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "09e01f73-363a-4780-962e-969da9578ff9"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/36994761/",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "2825a808-457d-40e2-9103-6ac3f33e66ce",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2023-12-14",
+    "title_eng": "Machine learning-based delta check method for detecting misidentification errors in tumor marker tests",
+    "journal_eng": "Clinical Chemistry and Laboratory Medicine",
+    "author_kor": "석현석; 최유나; 유신애; 신경화; 김솔잎; 신항식",
+    "author_eng": "Hyeon Seok Seok; Yuna Choi; Shinae Yu; Kyung-Hwa Shin; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "06cd217f-5f4c-49af-9cf4-1666a5f30674",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.degruyter.com/document/doi/10.1515/cclm-2023-1185/html",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "5ce419ea-4c49-4e0a-92be-9bd1345f3b9e",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2023-03-10",
+    "title_eng": "Digital therapeutics from bench to bedside",
+    "journal_eng": "npj Digital Medicine",
+    "author_kor": "왕창원; 이충근; 신항식",
+    "author_eng": "Changwon Wang; Chungkeun Lee; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.nature.com/articles/s41746-023-00777-z",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "88ab8925-715b-4300-9776-8b4240d4a652",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2023-11-01",
+    "title_eng": "Clustering Analysis of Activity of Daily Living based on Accelerometry",
+    "title_kor": "가속도 센서 기반 일상생활 활동 군집 특징 분석",
+    "journal_eng": "전기학회논문지(Domestic) 특집호",
+    "author_kor": "임하민; 신항식",
+    "author_eng": "Hamin Lim; Hangsik Shin",
+    "author_ids": [
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11567794",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "0caaad91-c8ef-44cd-ac06-05abbec19c25",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2023-02-01",
+    "title_eng": "A novel method for non-invasive blood pressure estimation based on continuous pulse transit time: An observational study",
+    "journal_eng": "Psychophysiology",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "3f386c0f-e85d-4e89-a558-47011c2dca03",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2022-07-01",
+    "title_eng": "XGBoost Regression of the Most Significant Photoplethysmogram Features for Assessing Vascular Aging",
+    "journal_eng": "IEEE journal of biomedical and health informatics",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/9713685",
+    "year_resolved": "2022"
+  },
+  {
+    "id": "044e9602-c69b-401f-b625-98e77912c0d0",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2022-03-17",
+    "title_eng": "Vascular Aging Estimation Based on Artificial Neural Network Using Photoplethysmogram Waveform Decomposition: Retrospective Cohort Study",
+    "journal_eng": "JMIR Medical Informatics",
+    "author_kor": "박준영; 신항식",
+    "author_eng": "Junyoung Park; Hangsik Shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8972117/",
+    "year_resolved": "2022"
+  },
+  {
+    "id": "59b997d3-ff83-4c1b-8dcb-227f62bd2900",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2022-03-16",
+    "title_eng": "Three-Dimensional Atrial Wall Thickness Measurement Algorithm From a Segmented Atrial Wall Using a Partial Differential Equation",
+    "title_kor": "Three-Dimensional Atrial Wall Thickness Measurement Algorithm From a Segmented Atrial Wall Using a Partial Differential Equation",
+    "journal_eng": "IEEE Access",
+    "author_kor": "권오석; 이지수; 박재욱; 양소현; 황인석; 유희태; 신항식; 박희남",
+    "author_eng": "Oh-Seok Kwon; Jisu Lee; Je-Wook Park; So-Hyun Yang; Inseok Hwang; Hee Tae Yu; Hangsik Shin; Hui-Nam Pak",
+    "author_ids": [
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "ef2eafdc-906d-403b-ae75-de9c2ce023b2",
+      "1e0b6bf9-c182-49fd-ad72-1011a3330da8",
+      "aa2ebd6b-4a42-4ca6-92ea-3327271e694b",
+      "036c3f0d-4619-4595-8203-c5eab2e21be4",
+      "5f2edffd-02ab-48bf-bf1d-e37e9a9a308d",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/9736959",
+    "year_resolved": "2022"
+  },
+  {
+    "id": "d0f51bd8-b239-4860-8765-ee661208083b",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2022-07-05",
+    "title_eng": "Photoplethysmogram based vascular aging assessment using the deep convolutional neural network",
+    "journal_eng": "Scientific Reports",
+    "author_kor": "신항식; 노규정; 최병문",
+    "author_eng": "Hangsik Shin; Gyujeong Noh; Byungmoon Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26"
+    ],
+    "link": "https://www.nature.com/articles/s41598-022-15240-4",
+    "year_resolved": "2022"
+  },
+  {
+    "id": "c0670fd6-112e-47af-8ebb-4d267bdaa9fa",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2022-03-01",
+    "title_eng": "Photoplethysmogram Analysis and Applications: An Integrative Review",
+    "journal_eng": "Frontiers in Physiology",
+    "author_kor": "박준영; 석현석; 김상수; 신항식",
+    "author_eng": "Junyoung Park; Hyeon Seok Seok; Sang Su Kim; Hangsik Shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "fd60dc67-b59d-4404-a6e5-10d1810da012",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.frontiersin.org/articles/10.3389/fphys.2021.808451/full",
+    "year_resolved": "2022"
+  },
+  {
+    "id": "9b70d127-4a0f-4580-891f-f572e5753cd4",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2022-07-01",
+    "title_eng": "Deep convolutional neural network-based signal quality assessment for photoplethysmogram",
+    "journal_eng": "Computers in Biology and Medicine",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "4ae1c12d-0145-4167-be66-c5d87d04c50c",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2022-03-01",
+    "title_eng": "Deep Convolutional Neural Network-Based Hemiplegic Gait Detection Using an Inertial Sensor Located Freely in a Pocket",
+    "journal_eng": "Sensors",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.mdpi.com/1424-8220/22/5/1920",
+    "year_resolved": "2022"
+  },
+  {
+    "id": "1b478bb7-f683-457b-9b8e-77a084e2b405",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2021-03-20",
+    "title_eng": "Recurrence Plot and Machine Learning for Signal Quality Assessment of Photoplethysmogram in Mobile Environment",
+    "journal_eng": "Sensors",
+    "author_kor": "노동근; 신항식",
+    "author_eng": "Donggeun Roh; Hangsik Shin",
+    "author_ids": [
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.mdpi.com/1424-8220/21/6/2188",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "16ae8eca-e68c-46a5-a864-9569c956dd3a",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2021-05-05",
+    "title_eng": "Recommendation for Measuring Digital Volume Pulse in Mobile Application: For Healthy Normal Subject",
+    "journal_eng": "IEEE Access",
+    "author_kor": "석현석; 신항식",
+    "author_eng": "Hyeon Seok Seok; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9423964",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "21fd7890-3ae3-42bf-8387-2b9b0d352c77",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2021-03-08",
+    "title_eng": "Performance of the Surgical Pleth Index and Analgesia Nociception Index in Healthy Volunteers and Parturients",
+    "journal_eng": "Frontiers in Physiology",
+    "author_kor": "최병문; 신항식; 이주현; 방지연; 이은경; 노규정",
+    "author_eng": "Byungmoon Choi; Hangsik Shin; Joo-Hyun Lee; Ji-Yeon Bang; Eun-Kyung Lee; Gyujeong Noh",
+    "author_ids": [
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "d818c191-1ea9-4f88-9ab7-5bcdf5a1a30c",
+      "c1bad407-436f-4ec8-b304-f53e5fea69b0",
+      "7f204165-939d-44e7-9ad2-cc9df84495bf",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/33762962/",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "debca9ec-7109-4687-99f5-3c7c59444f33",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2021-02-03",
+    "title_eng": "Novel Analgesic Index for Postoperative Pain Assessment Based on a Photoplethysmographic Spectrogram and Convolutional Neural Network: Observational Study",
+    "journal_eng": "Journal of Medical Internet Research",
+    "author_kor": "최병문; 임지연; 신항식; 노규정",
+    "author_eng": "Byungmoon Choi; Ji Yeon Yim; Hangsik Shin; Gyujeong Noh",
+    "author_ids": [
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/33533723/",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "2d2e4f4c-23d3-441d-b96d-af4cca4e3b92",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2021-03-30",
+    "title_eng": "Is Ultra-Short-Term Heart Rate Variability Valid in Non-static Conditions?",
+    "journal_eng": "Frontiers in Physiology",
+    "author_kor": "김진웅; 석현석; 신항식",
+    "author_eng": "Jin Woong Kim; Hyeon Seok Seok; Hangsik Shin",
+    "author_ids": [
+      "e8f93f99-55d9-4bbd-8494-cb7c56526b18",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "aae2974e-7859-424b-888f-51b56626143a",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2021-05-11",
+    "title_eng": "Feasibility of a Waistband-Type Wireless Wearable Electrocardiogram Monitoring System Based on a Textile Electrode: Development and Usability Study",
+    "title_kor": "Feasibility of a Waistband-Type Wireless Wearable Electrocardiogram Monitoring System Based on a Textile Electrode: Development and Usability Study",
+    "journal_eng": "JMIR mHealth and uHealth",
+    "author_kor": "권단비; 조하경; 신항식",
+    "author_eng": "Danbi Kwon; Hakyung Cho; Hangsik Shin",
+    "author_ids": [
+      "236e5d74-414b-4790-b358-619eda9557de",
+      "060492dd-a93e-46a6-bfbc-3cec066480c5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/33973860/",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "1f5ed4e9-af3e-4970-9b10-ec6383e28cb2",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2021-04-01",
+    "title_eng": "Development of Vascular Aging Assessment Model Based on Photoplethysmogram Incident and Reflected Wave Characteristics",
+    "title_kor": "광용적맥파 입사파와 반사파 지표 기반 혈관 노화 추정 모델 개발",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "박준영; 신항식",
+    "author_eng": "Junyoung Park; Hangsik Shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002704114",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "ca7e1b64-9f5a-48de-a0da-f17fa7f9cb4d",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2020-11-01",
+    "title_eng": "Wearable Strain Sensor Using Conductive Yarn Sewed on Clothing for Human Respiratory Monitoring",
+    "journal_eng": "IEEE Sensors Journal",
+    "author_kor": "박준영; 박상기; 안성철; 조유장; 박종진; 신항식",
+    "author_eng": "Junyoung Park; Sangki Park; Seongcheol Ahn; Yujang Cho; Jong-Jin Park; Hangsik Shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "de6b9e11-0525-4968-8b13-ad52a465de7f",
+      "9e1fffce-331b-4391-b199-b32bdd19a54b",
+      "13fed994-9ead-4133-99c3-2eb830bb2f4f",
+      "6b5e8c7d-a109-43ba-be3c-38ed3434b802",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "bbf6b105-f35f-40ac-a8dc-ee9b859e0925",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2020-04-28",
+    "title_eng": "Performance of the nasal photoplethysmographic index as an analgesic index during surgery under general anaesthesia",
+    "journal_eng": "Scientific Reports",
+    "author_kor": "박찬기; 양민호; 최보현; 전보경; 이용훈; 신항식; 이보름; 최병문; 노규정",
+    "author_eng": "Chanki Park; Min-Ho Yang; Bohyun Choi; Bokyung Jeon; Yong-Hun Lee; Hangsik Shin; Boreom Lee; Byungmoon Choi; Gyujeong Noh",
+    "author_ids": [
+      "dab95ccb-7d79-46ed-906e-901b173ebbf9",
+      "b0ea1f33-2fbe-46ea-b11a-a066b9545248",
+      "b4b26edd-ac6d-4f6f-89a8-eaad04895be7",
+      "b1acb102-efb3-4d63-9fcf-4132379fc1b4",
+      "082f270f-0c9c-49c4-b469-28f02bd990a7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "1f01825b-bf1d-4c2b-b46d-03f7dc16d1eb",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "link": "https://www.nature.com/articles/s41598-020-64033-0",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "2091d4d2-b362-473a-a712-09e9cb3caac2",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2020-04-21",
+    "title_eng": "Internet-Based Unobtrusive Tele-Monitoring System for Sleep and Respiration",
+    "journal_eng": "IEEE Access",
+    "author_kor": "최아영; 노상우; 신항식",
+    "author_eng": "Ahyoung Choi; Sangwoo Noh; Hangsik Shin",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "56c27a6c-adf7-4745-bbf7-2ececf7882ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/9075220",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "9f6b3f60-d479-4f1f-ac82-ce63e7a03c3d",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2020-01-08",
+    "title_eng": "Feasibility Study of Ultra-Short-Term Heart Rate Variability in Recovery Condition after Exercise",
+    "title_kor": "운동 후 회복 조건에서 초단기 심박변이도 활용 가능성 연구",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "김진웅; 신항식",
+    "author_eng": "Jin Woong Kim; Hangsik Shin",
+    "author_ids": [
+      "e8f93f99-55d9-4bbd-8494-cb7c56526b18",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.researchgate.net/publication/338952190_Feasibility_Study_of_Ultra-Short-Term_Heart_Rate_Variability_in_Recovery_Condition_after_Exercise",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "479b87a7-0b1f-491c-8927-462e6d53f304",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2020-12-01",
+    "title_eng": "Calculation and Validation of Continuous Pulse Transit Time Based on Normalized Pulse Wave Velocity",
+    "journal_eng": "IEEE Access",
+    "author_kor": "신항식; 최아영",
+    "author_eng": "Hangsik Shin; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/9274312",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "75d66411-d17e-489d-8d89-31a04685811d",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-09-12",
+    "title_eng": "Preliminary Clinical Application of Textile Insole Sensor for Hemiparetic Gait Pattern Analysis",
+    "journal_eng": "Sensors",
+    "author_kor": "왕창원; 김영; 신항식; 민세동",
+    "author_eng": "Changwon Wang; Young Kim; Hangsik Shin; Se Dong Min",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "28016753-aa45-4c02-b613-aa42fe2a3581",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/31547437/",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "486ff21e-3e6a-4a3d-ab60-676384de8004",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-07-01",
+    "title_eng": "Pre-processing of Photoplethysmographic Waveform for Amplitude Regularization",
+    "journal_eng": "Journal of Electrical Engineering & Technology",
+    "author_kor": "김재필; 이정환; 신항식",
+    "author_eng": "Jaepil Kim; Jeong-Whan Lee; Hangsik Shin",
+    "author_ids": [
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "596b9b4d-31d5-43cb-b6f4-656f259b6ef5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://link.springer.com/article/10.1007/s42835-019-00185-y",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "489f1270-d0c8-4c80-a6a3-d0cfc12e48c5",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-11-01",
+    "title_eng": "Postoperative Pain Assessment Model Based on Pulse Contour Characteristics Analysis",
+    "title_kor": "Postoperative Pain Assessment Model Based on Pulse Contour Characteristics Analysis",
+    "journal_eng": "IEEE Journal of Biomedical and Health Informatics",
+    "author_kor": "석현석; 최병문; 노규정; 신항식",
+    "author_eng": "Hyeon Seok Seok; Byungmoon Choi; Gyujeong Noh; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/8599135",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "92c80d50-fd70-4273-a4b3-d70afca8d40d",
+    "category": "journal",
+    "class": "KCI",
+    "date": "2019-10-01",
+    "title_eng": "Postoperative Pain Assessment Features Based on Derivative Photoplethysmogram",
+    "title_kor": "광용적맥파 미분 파형 기반 수술 후 통증 평가 지표",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "석현석; 신항식",
+    "author_eng": "Hyeon Seok Seok; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.researchgate.net/publication/336948869_Postoperative_Pain_Assessment_Features_Based_on_Derivative_Photoplethysmogram",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "cc1772bc-c1d0-4408-b310-c656daf69daf",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-03-01",
+    "title_eng": "Force-Sensing-Based Unobtrusive System for Awakening and Respiration Rate Analysis during Sleep",
+    "journal_eng": "IEEE Sensors Journal",
+    "author_kor": "박수지; 조형호; 양형채; 윤진상; 신항식",
+    "author_eng": "Sooji Park; Hyong-Ho Cho; Hyung Chae Yang; Jin Sang Yoon; Hangsik Shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "9d984236-dc7c-45f9-9a8c-c75bbd82b446",
+      "8c6f0895-f3b6-4fa5-a4ec-d980aef6ac82",
+      "ccb011d4-abdb-4777-9733-17090cd8acb8",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/8556368",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "dd6f5efa-adb7-43f2-91dc-fdeaa5a2930f",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2019-12-20",
+    "title_eng": "Force Sensor and MSP430-based System for Motion Detection During Sleep",
+    "title_kor": "힘 센서와 MSP430 기반 수면 중 움직임 측정 시스템 개발",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "김재필; 박수지; 신항식",
+    "author_eng": "Jaepil Kim; Sooji Park; Hangsik Shin",
+    "author_ids": [
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.researchgate.net/publication/338278476_Force_Sensor_and_MSP430-based_System_for_Motion_Detection_During_Sleep",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "82b9f649-2029-4ec0-9239-a6b593bca8ed",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-12-19",
+    "title_eng": "Development of a Multi-Array Pressure Sensor Module for Radial Artery Pulse Wave Measurement",
+    "journal_eng": "Sensors",
+    "author_kor": "노동근; 한상진; 박준영; 신항식",
+    "author_eng": "Donggeun Roh; Sangjin Han; Junyoung Park; Hangsik Shin",
+    "author_ids": [
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.mdpi.com/1424-8220/20/1/33",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "2886ce3d-a156-447b-80b4-d54c1329e25f",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-12-10",
+    "title_eng": "Design of Multi-Wavelength Optical Sensor Module for Depth-Dependent Photoplethysmography",
+    "journal_eng": "Sensors",
+    "author_kor": "한상진; 노동근; 박준영; 신항식",
+    "author_eng": "Sangjin Han; Donggeun Roh; Junyoung Park; Hangsik Shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.mdpi.com/1424-8220/19/24/5441",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "5dc5cc83-9f0b-41a4-a7e7-e67be0d55d60",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2019-12-20",
+    "title_eng": "Comparison of Classifier for Pain Assessment based on Photoplethysmogram and Machine Learning",
+    "title_kor": "광용적맥파 및 머신러닝 기반 통증 평가 분류기 성능 비교",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "임지연; 신항식",
+    "author_eng": "JiYoen Yim; Hangsik shin",
+    "author_ids": [
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.researchgate.net/publication/338278472_Comparison_of_Classifier_for_Pain_Assessment_based_on_Photoplethysmogram_and_Machine_Learning",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "ab6b87b8-2f65-497c-b248-6eca2d10caa0",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-07-12",
+    "title_eng": "Quantitative Analysis of the Effect of an Ectopic Beat on the Heart Rate Variability in the Resting Condition",
+    "title_kor": "Quantitative Analysis of the Effect of an Ectopic Beat on the Heart Rate Variability in the Resting Condition",
+    "journal_eng": "frontiers in Physiology",
+    "author_kor": "최아영; 신항식",
+    "author_eng": "Ahyoung Choi; Hangsik Shin",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "864d3ce0-77dc-4a85-8217-904bbc83886d",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2018-07-01",
+    "title_eng": "Postoperative Pain Assessment based on Derivative Waveform of Photoplethysmogram",
+    "title_kor": "광용적맥파 미분 파형 기반 수술 후 통증 평가 가능성 고찰",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "석현석; 신항식",
+    "author_eng": "Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "http://journal.auric.kr/kiee/XmlViewer/f379178",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "b72aa89b-39a6-45bf-8cac-78e67bd97ad4",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-08-28",
+    "title_eng": "Postoperative Pain Assessment Indices Based on Photoplethysmography Waveform Analysis",
+    "journal_eng": "Frontiers in Physiology",
+    "author_kor": "양윤라; 석현석; 노규정; 최병문; 신항식",
+    "author_eng": "Yoon La Yang; Hyeon Seok Seok; Gyujeong Noh; Byungmoon Choi; Hangsik Shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "3bd392ee-9978-44cc-8279-143acc136dea",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-11-06",
+    "title_eng": "Numerical study to evaluate the effect of a surface-based sensor on arterial tonometry",
+    "journal_eng": "Computer Methods in Biomechanics and Biomedical Engineering",
+    "author_kor": "이욱진; 유재영; 신항식; 유홍선; 조성욱",
+    "author_eng": "Wookjin Lee; Jaiyoung Ryu; Hangsik Shin; Hong Sun Ryou; Seong Wook Cho",
+    "author_ids": [
+      "d530557f-9f6d-4ad2-be1a-74917ef8461a",
+      "a039d481-dfd4-452a-89e6-3264bbcd6b14",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "7e5c1e28-5ada-4165-813d-94ed2297a18f",
+      "b9bf1ed2-3f3a-47be-af64-1f9fae8a246d"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/30398064/",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "0e693fd3-633c-4f04-bcf4-2023fd3aad42",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-09-28",
+    "title_eng": "Longitudinal Healthcare Data Management Platform of Healthcare IoT Devices for Personalized Services",
+    "journal_eng": "Journal of Universal Computer Science",
+    "author_kor": "최아영; 신항식",
+    "author_eng": "Ahyoung Choi; Hangsik Shin",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "14bbce8c-2d67-4caa-b55f-12df156e2030",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2018-08-01",
+    "title_eng": "Investigation of the pulse to pulse interval and amplitude variation of photoplethymogram as a pain assessment parameter during anesthesia",
+    "title_kor": "마취 중 통증판별을 위한 광용적맥파 박동간격 및 진폭 변화 관찰",
+    "journal_eng": "Journal of Korean Institute of Intelligent Systems",
+    "author_kor": "석현석; 신항식",
+    "author_eng": "Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "b7b22ebc-c358-4c6f-89b1-8ff45e6bbe44",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2018-06-01",
+    "title_eng": "Investigation of the Feasibility of Postoperative Pain Assessment by Analysing Photoplethysmogram Variability Analysis",
+    "title_kor": "광용적맥파 진폭변이도 시간영역 분석을 통한 술후 통증 평가 가능성 고찰",
+    "journal_eng": "Journal of Korean Institute of Intelligent Systems",
+    "author_kor": "양윤라; 신항식",
+    "author_eng": "Yoon La Yang; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.researchgate.net/publication/326153933_Investigation_of_the_Feasibility_of_Postoperative_Pain_Assessment_by_Analysing_Photoplethysmogram_Variability_Analysis",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "a7a98a09-1778-4de5-bd0f-3aa1d4bdfca3",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-09-01",
+    "title_eng": "Development of a new analgesic index using nasal photoplethysmography",
+    "journal_eng": "Anaesthesia",
+    "author_kor": "최병문; 박찬기; 이용훈; 신항식; 이승후; 정승욱; 노규정; 이병우",
+    "author_eng": "Byungmoon Choi; Chanki Park; Yong-Hun Lee; Hangsik Shin; Seunghoo Lee; Seongwook Jeong; Gyujeong Noh; Byung Woo Lee",
+    "author_ids": [
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "dab95ccb-7d79-46ed-906e-901b173ebbf9",
+      "082f270f-0c9c-49c4-b469-28f02bd990a7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "68c7ac1d-b7b7-429a-9d51-432b07e593a1",
+      "545bfc0f-948a-4688-a768-9d1afa5c9cde",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/29790159/",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "9e8c9472-1595-4f70-9714-63d8eb933b96",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-05-28",
+    "title_eng": "Detection of Hemiplegic Walking Using a Wearable Inertia Sensing Device",
+    "journal_eng": "Sensors",
+    "author_kor": "이준석; 박수지; 신항식",
+    "author_eng": "Junseok Lee; Sooji Park; Hangsik Shin",
+    "author_ids": [
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022123/",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "04b9132d-0701-437e-ad36-7f6eb13e7a7e",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2017-11-01",
+    "title_eng": "Reply to ‘Comment on Photoplethysmography sampling frequency: pilot assessment of how low can we go to analyze pulse rate variability with reliability?’",
+    "journal_eng": "Physiological Measurement",
+    "author_kor": "최아영; 신항식",
+    "author_eng": "Ahyoung Choi; Hangsik Shin",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "93881f13-28c9-430e-aeea-c56d507b0d87",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2017-03-01",
+    "title_eng": "Photoplethysmography sampling frequency: pilot assessment of how low can we go to analyze pulse rate variability with reliability?",
+    "journal_eng": "Physiological Measurement",
+    "author_kor": "최아영; 신항식",
+    "author_eng": "Ahyoung Choi; Hangsik shin",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "52ebdbae-6d43-413a-a79f-67bd52a32862",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2017-01-10",
+    "title_eng": "Feasibility study for the non-invasive blood pressure estimation based on ppg morphology: normotensive subject study",
+    "journal_eng": "BioMedical Engineering Online",
+    "author_kor": "신항식; 민세동",
+    "author_eng": "Hangsik Shin; Se Dong Min",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee"
+    ],
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5234121/",
+    "year_resolved": "2017"
+  },
+  {
+    "id": "cb919261-4474-4e91-b004-ebf47fec9930",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2017-06-01",
+    "title_eng": "Feasibility Study for Unconstrained Respiration Monitoring Based on Multi-Way Approach Using an Acceleration and Force Sensing Module",
+    "journal_eng": "IEEE Sensors Journal",
+    "author_kor": "박수지; 신항식",
+    "author_eng": "Sooji Park; Hangsik Shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "4452ca49-d691-425d-bac4-2724f53ad261",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2017-11-01",
+    "title_eng": "Evaluation of Hemiplegic Gait Using Accelerometer",
+    "title_kor": "가속도센서를 이용한 편마비성보행 평가",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "이준석; 박수지; 신항식",
+    "author_eng": "Jun Seok Lee; Sooji park; Hangsik shin",
+    "author_ids": [
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://koreascience.kr/article/JAKO201734158605923.page",
+    "year_resolved": "2017"
+  },
+  {
+    "id": "9be77e6f-6aca-4cb3-871f-8c2f9fb5a96a",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2017-12-01",
+    "title_eng": "Development of an application for correction and arrangement of pulse features of Electrocardiogram and Photoplethysmogram",
+    "title_kor": "심전도, 광용적맥파 박동 특징점 교정 및 매칭을 위한 어플리케이션 개발",
+    "journal_eng": "Journal of Korean Institute of Intelligent Systems",
+    "author_kor": "양윤라; 석현석; 신항식",
+    "author_eng": "Yoon La Yang; Hyeon Seok Seok; Hangsik Shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "6415cb28-288e-43a5-aa60-6f1bcf0cb370",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2016-03-04",
+    "title_eng": "Simple and Robust Realtime QRS Detection Algorithm Based on Spatiotemporal Characteristic of the QRS Complex",
+    "journal_eng": "PLoS One",
+    "author_kor": "김진권; 신항식",
+    "author_eng": "Jinkwon Kim; Hangsik shin",
+    "author_ids": [
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150144",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "7737f99c-8aa6-432f-b0c3-710b182fdd65",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2016-08-01",
+    "title_eng": "Reconstruction of the Undersampled Photoplethysmogram with Various Interpolation Methods",
+    "title_kor": "보간 방법에 따른 언더샘플링된 광용적맥파 복원 가능성 평가",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "신항식; 김훈",
+    "author_eng": "Hangsik shin; Hoon Kim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "68a7cea7-eb6d-4806-8658-50b7e4135546"
+    ],
+    "link": "https://www.researchgate.net/publication/307913747_Reconstruction_of_the_Undersampled_Photoplethysmogram_with_Various_Interpolation_Methods",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "1d50adfe-e665-4d28-aaa0-301e2112b9c9",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2016-01-01",
+    "title_eng": "Feasibility Study of Sitting Posture Monitoring Based on Piezoresistive Conductive Film-Based Flexible Force Sensor",
+    "journal_eng": "IEEE Sensors Journal",
+    "author_kor": "이병우; 신항식",
+    "author_eng": "Byung Woo Lee; Hangsik Shin",
+    "author_ids": [
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/7273819",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "6f93268a-6b27-42d8-a32b-268903d1b1fd",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2016-07-01",
+    "title_eng": "An Effect of Sampling Rate to the Time and Frequency Domain Analysis of Pulse Rate Variability",
+    "title_kor": "샘플링율이 맥박변이도 시간 및 주파수 영역 분석에 미치는 영향",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "양윤라; 신항식",
+    "author_eng": "Yoon La Yang; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://koreascience.kr/article/JAKO201621650895994.page",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "70dcb068-83e4-475c-b084-0c3d6623cf1b",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2016-12-01",
+    "title_eng": "Ambient temperature effect on pulse rate variability as an alternative to heart rate variability in young adult",
+    "journal_eng": "Journal of Clinical Monitoring and Computing",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/26511754/",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "288f46bd-dba9-4f76-bddd-b40a979929b4",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2015-08-01",
+    "title_eng": "Evaluation of the Ambient Temperature Effect for the Autonomic Nervous Activity through the Time Domain Analysis of the Heart Rate Variability",
+    "title_kor": "심박변이율 시간영역 분석을 통한 실내온도변화에 따른 자율신경활동 평가",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "민세동; 신항식",
+    "author_eng": "Se-Dong Min; Hangsik shin",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201529362421541",
+    "year_resolved": "2015"
+  },
+  {
+    "id": "81757627-92dc-49b8-931d-9f13d8f6feed",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2015-08-01",
+    "title_eng": "Evaluation of the Ambient Temperature Effect for the Autonomic Nervous Activity of the Young Adult through the Frequency Analysis of the Heart Rate Variability",
+    "title_kor": "심박변이율 주파수 분석을 통한 실내온도에 따른 건강한 성인의 자율신경계 활동 평가",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.researchgate.net/publication/283032236_Evaluation_of_the_Ambient_Temperature_Effect_for_the_Autonomic_Nervous_Activity_of_the_Young_Adult_through_the_Frequency_Analysis_of_the_Heart_Rate_Variability",
+    "year_resolved": "2015"
+  },
+  {
+    "id": "26d95d61-3466-4d50-884e-61a040f650e5",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2015-02-01",
+    "title_eng": "Analysis for the Fluctuation of the Photoplethysmographic Waveform derived by Temperature Stress of Measuring Position",
+    "title_kor": "측정부 온도 부하에 따른 광용적맥파 파형 요동 특성 분석",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "이충근; 신항식",
+    "author_eng": "Chungkeun Lee; Hangsik shin",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.researchgate.net/publication/273911498_Analysis_for_the_Fluctuation_of_the_Photoplethysmographic_Waveform_derived_by_Temperature_Stress_of_Measuring_Position",
+    "year_resolved": "2015"
+  },
+  {
+    "id": "b38b8c24-6ff1-48d3-aba6-98cf74bf943b",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2015-09-01",
+    "title_eng": "A Localization Method for First and Second Heart Sounds Based on Energy Detection and Interval Regulation",
+    "journal_eng": "Journal of Electrical Engineering & Technology",
+    "author_kor": "민세동; 신항식",
+    "author_eng": "Se Dong Min; Hangsik Shin",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.researchgate.net/publication/282923577_A_Localization_Method_for_First_and_Second_Heart_Sounds_Based_on_Energy_Detection_and_Interval_Regulation",
+    "year_resolved": "2015"
+  },
+  {
+    "id": "6e54e75a-b5a6-41d2-a503-b00b28d814eb",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2014-08-15",
+    "title_eng": "Unconstrained snoring detection using a smartphone during ordinary sleep",
+    "journal_eng": "BioMedical Engineering Online",
+    "author_kor": "신항식; 조재걸",
+    "author_eng": "Hangsik Shin; Jaegeol Cho",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "d34f5857-264d-403b-a59f-be03ad383be3"
+    ],
+    "link": "https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/1475-925X-13-116",
+    "year_resolved": "2014"
+  },
+  {
+    "id": "fcc46767-85c3-409c-b719-637fc44e1e92",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2014-03-01",
+    "title_eng": "The Relationship among Complex Fractionated Electrograms, Wavebreak, Phase Singularity, and Local Dominant Frequency in Fibrillation Wave-Dynamics: a Modeling Comparison Study",
+    "journal_eng": "Journal of Korean Medical Science",
+    "author_kor": "윤용현; 황민기; 박재형; 신항식; 심은보; 박희남",
+    "author_eng": "Yonghyeon Yoon; Minki Hwang; Jae Hyung Park; Hangsik shin; Eun Bo Shim; Hui-Nam Pak",
+    "author_ids": [
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "d7c7c006-681e-4a2f-ab6b-1fde3582e0a4",
+      "cd8545be-8980-44c8-8e62-84b9c62ab7b0",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "8b172b30-0a97-412a-9d45-bb3edbb82f16",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/24616586/",
+    "year_resolved": "2014"
+  },
+  {
+    "id": "5d7abe3e-a373-4f33-bdaa-b5c8079cdb50",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2014-09-01",
+    "title_eng": "Simplified Structural Textile Respiration Sensor Based on Capacitive Pressure Sensing Method",
+    "journal_eng": "IEEE Sensors Journal",
+    "author_kor": "민세동; 윤용현; 신항식",
+    "author_eng": "Se Dong Min; Yonghyeon Yun; Hangsik Shin",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/abstract/document/6837453",
+    "year_resolved": "2014"
+  },
+  {
+    "id": "bb6ab121-cb39-4691-8a14-44dcaa4bc1ad",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2014-06-01",
+    "title_eng": "Robust Sleep Quality Quantification Method for a Personal Handheld Device",
+    "journal_eng": "Telemedicine and e-Health",
+    "author_kor": "신항식; 최병훈; 김도윤; 조재걸",
+    "author_eng": "Hangsik Shin; Byunghun Choi; Doyoon Kim; Jaegeol Cho",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "e7bc9883-59e1-41b1-a52a-2a0407f076af",
+      "1aa78e02-fa57-4317-945c-b846367dc178",
+      "d34f5857-264d-403b-a59f-be03ad383be3"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/24693921/",
+    "year_resolved": "2014"
+  },
+  {
+    "id": "36e252d7-121b-4bb5-9ba0-a8dcc9e54e45",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2014-07-01",
+    "title_eng": "Movement Characteristic Analysis for Unconstrained Sleep Efficiency Analysis Based on the Smartphone",
+    "title_kor": "무구속 수면효율 분석을 위한 스마트폰 기반 움직임패턴 특성분석",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "김도윤; 신항식",
+    "author_eng": "Do Yoon Kim; Hangsik shin",
+    "author_ids": [
+      "1aa78e02-fa57-4317-945c-b846367dc178",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001894609",
+    "year_resolved": "2014"
+  },
+  {
+    "id": "36b17ccb-a975-4d9f-ab45-b5852626c489",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2012-03-01",
+    "title_eng": "Transfer Function Estimates in Derived Respiration Analysis: Retrograde Study of the Respiratory Drive Mechanism",
+    "journal_eng": "Advanced Science Letters",
+    "author_kor": "신항식; 이충근",
+    "author_eng": "Hangsik shin; Chungkeun Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e"
+    ],
+    "link": "https://www.ingentaconnect.com/contentone/asp/asl/2012/00000006/00000001/art00011?crawler=true&mimetype=application/pdf",
+    "year_resolved": "2012"
+  },
+  {
+    "id": "4dd74f51-ff09-442d-8046-e38e274dcf9b",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2012-05-01",
+    "title_eng": "The Optimal Attachment Position for a Fingertip Photoplethysmographic Sensor With Low DC",
+    "journal_eng": "IEEE Sensors Journal",
+    "author_kor": "이충근; 신항식; 박종철; 이명호",
+    "author_eng": "Chungkeun Lee; Hangsik Shin; Jongchul Park; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2f2087f8-afe5-46a5-b083-744fab3b2a17",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://ieeexplore.ieee.org/abstract/document/5985462",
+    "year_resolved": "2012"
+  },
+  {
+    "id": "0809cc1c-0419-4ebb-b780-e0d00dd72293",
+    "category": "journal",
+    "class": "None",
+    "date": "2012-10-01",
+    "title_eng": "Spatial Distribution of Wave-break, Phase Singularity, Dominullt Frequency, and Complex Fractionated Electrograms During Fibrillation: Quantitative Analysis by Simulation Modeling",
+    "title_kor": "Spatial Distribution of Wave-break, Phase Singularity, Dominullt Frequency, and Complex Fractionated Electrograms During Fibrillation: Quantitative Analysis by Simulation Modeling",
+    "journal_eng": "Journal of Arrhythmia",
+    "author_kor": "윤용현; 심은보; 신항식; 박재형; 박희남",
+    "author_eng": "Yonghyeon Yun; Eun Bo Shim; Hangsik Shin; Jae Hyung Park; Hui-Nam Pak",
+    "author_ids": [
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "8b172b30-0a97-412a-9d45-bb3edbb82f16",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "cd8545be-8980-44c8-8e62-84b9c62ab7b0",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "05e7489f-d382-4b1c-ac85-04c5bde131af",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2012-11-01",
+    "title_eng": "Pulse Rate Variability as a Surrogate Method for Autonomic Nervous System assessment Comparing with Heart Rate Variability",
+    "title_kor": "Pulse Rate Variability as a Surrogate Method for Autonomic Nervous System assessment Comparing with Heart Rate Variability",
+    "journal_eng": "Advanced Science Letters",
+    "author_kor": "신항식; 이충근",
+    "author_eng": "Hangsik Shin; Chungkeun Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e"
+    ],
+    "link": "https://www.ingentaconnect.com/contentone/asp/asl/2012/00000018/00000001/art00015",
+    "year_resolved": "2012"
+  },
+  {
+    "id": "5d080268-29b1-4c5f-a238-715923b8452a",
+    "category": "journal",
+    "class": "None",
+    "date": "2012-10-01",
+    "title_eng": "Application of Arrhythmia Simulation Modeling on Catheter Ablation of Fibrillation",
+    "title_kor": "Application of Arrhythmia Simulation Modeling on Catheter Ablation of Fibrillation",
+    "journal_eng": "Journal of Arrhythmia",
+    "author_kor": "신항식; 윤용현; 심은보; 박희남",
+    "author_eng": "Hangsik Shin; Yonghyeon Yun; Eun Bo Shim; Hui-Nam Pak",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "8b172b30-0a97-412a-9d45-bb3edbb82f16",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "a429eb2e-13eb-4a76-a59c-9fa2ff658252",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2011-07-22",
+    "title_eng": "Relations between ac-dc components and optical path length in photoplethysmography",
+    "journal_eng": "Journal of Biomedical Optics",
+    "author_kor": "이충근; 신항식; 이명호",
+    "author_eng": "Chungkeun Lee; Hangsik Shin; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/21806292/",
+    "year_resolved": "2011"
+  },
+  {
+    "id": "c93b0161-f213-4982-82c2-34757a59d1d2",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2011-04-01",
+    "title_eng": "Analysis of Arterial Stiffness Variation by Photoplethysmographic DC Component",
+    "title_kor": "광용적맥파 비맥동성분에 의한 혈관경직도 변화 분석",
+    "journal_eng": "Journal of Biomedical Engineering Research",
+    "author_kor": "이충근; 신항식; 공인덕; 이명호",
+    "author_eng": "Chungkeun Lee; Hangsik shin; In-deok Kong; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "d1deeaca-ef44-4110-a9f0-a0e7ad557c7d",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://koreascience.kr/article/JAKO201123457285030.page",
+    "year_resolved": "2011"
+  },
+  {
+    "id": "e50876f8-bf98-45be-8114-1ee863cad146",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2010-03-01",
+    "title_eng": "Respiration Measurement System using Textile Capacitive Pressure Sensor",
+    "title_kor": "전기용량성 섬유 압력센서를 이용한 호흡측정 시스템",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "민세동; 윤영현; 이충근; 신항식; 조하경; 황선철; 이명호",
+    "author_eng": "Se-Dong Min; Younghyeon Yun; Chungkeun Lee; Hangsik Shin; Hakyung Cho; Seon-Cheol Hwang; Myongho Lee",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "2eb90419-3e7b-4e65-a481-45a472b574cc",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "060492dd-a93e-46a6-bfbc-3cec066480c5",
+      "6b4affb3-8e02-43ff-a345-0c84bbca780f",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "http://journal.auric.kr/kieep/ArticleDetail/RD_R/361209",
+    "year_resolved": "2010"
+  },
+  {
+    "id": "15f9d227-cec2-4e2f-ae07-596803d0dae4",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2010-11-01",
+    "title_eng": "Noncontact Respiration Rate Measurement System Using an Ultrasonic Proximity Sensor",
+    "journal_eng": "IEEE Sensors Journal",
+    "author_kor": "민세동; 김진권; 신항식; 윤용현; 이충근; 이명호",
+    "author_eng": "Se Dong Min; Jinkwon Kim; Hangsik Shin; Yonghyeon Yun; Chungkeun Lee; Myongho Lee",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://ieeexplore.ieee.org/abstract/document/5571922",
+    "year_resolved": "2010"
+  },
+  {
+    "id": "b4234945-977e-4835-9d52-c3aa580d6e32",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2010-08-01",
+    "title_eng": "Ideal Filtering Approach on DCT Domain for Biomedical Signals: Index Blocked DCT Filtering Method (IB-DCTFM)",
+    "journal_eng": "Journal of Medical Systems",
+    "author_kor": "신항식; 이충근; 이명호",
+    "author_eng": "Hangsik Shin; Chungkeun Lee; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/20703930/",
+    "year_resolved": "2010"
+  },
+  {
+    "id": "d9eb4ce2-b6eb-4f09-abe4-427b014c0958",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2009-05-01",
+    "title_eng": "The e-Health Landscape: Current Status and Future Prospects in Korea",
+    "journal_eng": "Telemedicine and e-Health",
+    "author_kor": "이명호; 민세동; 신항식; 이병우; 김진권",
+    "author_eng": "Myongho Lee; Se Dong Min; Hangsik Shin; Byung Woo Lee; Jinkwon Kim",
+    "author_ids": [
+      "4a05a292-1a5b-4577-91ff-87da330a9358",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/19441955/",
+    "year_resolved": "2009"
+  },
+  {
+    "id": "400b3077-17af-4783-97e2-febfee001a52",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2009-10-01",
+    "title_eng": "Robust algorithm for arrhythmia classification in ECG using extreme learning machine",
+    "journal_eng": "BioMedical Engineering Online",
+    "author_kor": "김진권; 신항식; 신광수; 이명호",
+    "author_eng": "Jinkwon Kim; Hangsik Shin; Kwangsoo Shin; Myongho Lee",
+    "author_ids": [
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4d8d7c34-b50f-48f0-8859-c69ed515db32",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/1475-925X-8-31",
+    "year_resolved": "2009"
+  },
+  {
+    "id": "44aae63f-600e-4511-ac0c-36e15922ccf9",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2009-12-01",
+    "title_eng": "Adaptive threshold method for the peak detection of photoplethysmographic waveform",
+    "journal_eng": "Computers in Biology and Medicine",
+    "author_kor": "신항식; 이충근; 이명호",
+    "author_eng": "Hangsik Shin; Chungkeun Lee; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://www.sciencedirect.com/science/article/pii/S0010482509001826",
+    "year_resolved": "2009"
+  },
+  {
+    "id": "2856a49d-82b8-4a4a-b47f-161545ebb513",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2009-10-01",
+    "title_eng": "Abdominal Wall Motion-Based Respiration Rate Measurement using An Ultrasonic Proximity Sensor",
+    "title_kor": "복부 움직임에 따른 초음파 근접센서를 이용한 호흡측정에 관한 연구",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "민세동; 김진권; 신항식; 윤용현; 이충근",
+    "author_eng": "Se-Dong Min; Jinkwon Kim; Hangsik Shin; Yonghyeon Yun; Chungkeun Lee",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e"
+    ],
+    "year_resolved": "2009"
+  },
+  {
+    "id": "36cd9619-6e38-403a-8055-a702026871e3",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2009-05-01",
+    "title_eng": "A Study on the Measurement of Heart Rate Variability using the Modified Laplacian Electrodes",
+    "title_kor": "수정된 라플라시안 센서를 이용한 심박변이도 측정에 관한 연구",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "이충근; 신항식; 김홍래; 이정환; 김용준; 이명호",
+    "author_eng": "Chungkeun Lee; Hangsik shin; Hone-Rae Kim; Jeong-Whan Lee; Yong-Jun Kim; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ae72065a-4ff4-4d10-b45b-16bcdb93feac",
+      "596b9b4d-31d5-43cb-b6f4-656f259b6ef5",
+      "4936d26d-b64d-40ee-85c7-1501199e8eb8",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2009"
+  },
+  {
+    "id": "14b52a07-03e2-4a59-902a-2f5312c84b7a",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2007-07-01",
+    "title_eng": "The Analysis of Living Daily Activities by Interpreting Bi-Directional Accelerometer Signals with Extreme Learning Machine",
+    "title_kor": "2축 가속도 신호와 Extreme Learning Machine을 사용한 행동패턴 분석 알고리즘",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "신항식; 이영범; 이명호",
+    "author_eng": "Hangsik shin; Young-Bum Lee; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "c6f85a88-2d08-4559-828c-d97b95e5abf3",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2007"
+  },
+  {
+    "id": "ff7b252f-80d5-4d98-93a5-2c6fe2cfbba5",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2007-05-01",
+    "title_eng": "Adaptive motion artifacts reduction algorithm for ECG signal in textile wearable sensor",
+    "journal_eng": "IEICE Electronics Express",
+    "author_kor": "윤성원; 신항식; 민세동; 이명호",
+    "author_eng": "Sung Won Yoon; Hangsik Shin; Se Dong Min; Myongho Lee",
+    "author_ids": [
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://www.researchgate.net/publication/245405213_Adaptive_motion_artifacts_reduction_algorithm_for_ECG_signal_in_textile_wearable_sensor",
+    "year_resolved": "2007"
+  },
+  {
+    "id": "2dfbec43-5960-4f84-b398-8f18be1b2cf7",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2006-03-01",
+    "title_eng": "Detection of Atrial Tachycardia and Atrial Fibrillation Using Spectrum Analysis of Intracardiac Signal",
+    "title_kor": "Intracardiac Signal의 스펙트럼 분석을 통한 Atrial Tachycardia 및 Atrial Fibrillation 검출",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "신항식; 이충근; 정보영; 이명호",
+    "author_eng": "Hangsik shin; Chungkeun Lee; Boyoung Joung; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "675dffe2-ac2e-4994-82b2-55e96edaf6e1",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2006"
+  },
+  {
+    "id": "7bc019b0-de7d-485d-9212-d0e63f7c3d39",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2005-08-01",
+    "title_eng": "Down-Scaled 3D Object for Telediagnostic Imaging Support System",
+    "title_kor": "Down-Scaled 3D Object for Telediagnostic Imaging Support System",
+    "journal_eng": "Journal of Biomedical Engineering Research",
+    "author_kor": "신항식; 윤성원; 김재영; 이명호",
+    "author_eng": "Hangsik shin; Sung-Won Yoon; Jae-Young Kim; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "9deb9de3-37ca-47a6-8f61-41e76bb22c50",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://www.researchgate.net/publication/263401299_Down-Scaled_3D_Object_for_Telediagnostic_Imaging_Support_System",
+    "year_resolved": "2005"
+  },
+  {
+    "id": "283bb15f-bf08-4de8-b479-bfbb756840b8",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2005-03-01",
+    "title_eng": "Down-Scaled 3D Medical Image Transfer System Using Instant Messenger",
+    "title_kor": "인스턴트 메신저를 사용한 축소 3D의료영상 전송 시스템",
+    "journal_eng": "Healthcare Informatics Research",
+    "author_kor": "신항식; 민세동; 김희중; 이명호",
+    "author_eng": "Hangsik shin; Se-Dong Min; Hee-Joung Kim; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "26e14db0-0e3e-4bb0-a005-dcffb6fd6017",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://synapse.koreamed.org/articles/1103183",
+    "year_resolved": "2005"
+  }
+]

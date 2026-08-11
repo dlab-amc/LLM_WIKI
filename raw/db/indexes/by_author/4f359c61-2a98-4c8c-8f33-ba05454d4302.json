@@ -1,0 +1,82 @@
+[
+  {
+    "id": "3015e243-5e93-4b28-9236-f69d087a0829",
+    "category": "conference",
+    "class": "International",
+    "date": "2005-01-01",
+    "title_eng": "Perspectives on e-health industry in Korea Enterprise networking and Computing in Healthcare Industry",
+    "title_kor": "Perspectives on e-health industry in Korea Enterprise networking and Computing in Healthcare Industry",
+    "conference_eng": "Proceedings of 7th International Workshop on Proceeding",
+    "author_kor": "이명호; 윤성원; 민세동; 박찬욱; 신항식; 강현구; 장훈범; 이은호",
+    "author_eng": "Myongho Lee; Sung Won Yoon; Se Dong Min; Chan Ouk Park; Hangsik Shin; Hyungu Kang; Hunbeom Chang; Eunho Lee",
+    "author_ids": [
+      "4a05a292-1a5b-4577-91ff-87da330a9358",
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "4f359c61-2a98-4c8c-8f33-ba05454d4302",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4df6e789-cbfa-4a3d-8e7d-f26ffa73d781",
+      "a4bc85ea-5b01-45a4-92dd-c66ef33c7a23",
+      "1defb6b2-0701-4e8f-b06f-4bff172a0a42"
+    ],
+    "year_resolved": "2005"
+  },
+  {
+    "id": "79efea01-c984-48d9-9cb2-e03c6757767f",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2004-11-26",
+    "title_kor": "인터넷 기반의 데이차 전송을 적용한 맥파 측정 시스템 연구",
+    "conference_eng": "Korea Society of Medical and Biological Engineering Autumn Conference 2004",
+    "author_kor": "이병우; 신항식; 박찬욱; 민세동; 이명호",
+    "author_eng": "Byung Woo Lee; Hangsik shin; Chan Ouk Park; Se-Dong Min; Myongho Lee",
+    "author_ids": [
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4f359c61-2a98-4c8c-8f33-ba05454d4302",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2004"
+  },
+  {
+    "id": "26e106a5-3e53-4be2-854d-adadfb678089",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2004-11-20",
+    "title_eng": "A Study on Down-Scaled 3D Medical Image Transmission System Using Instant Messenger",
+    "title_kor": "인스턴트 메신저를 사용한 축소 3D 의료영상 전송 시스템 연구",
+    "conference_eng": "Proceedings of Autumn Symposium of the Korean Institute of communications and Information Sciences 2004",
+    "author_kor": "신항식; 이병우; 박찬욱; 이충근; 이명호",
+    "author_eng": "Hangsik shin; Byung Woo Lee; Chan Ouk Park; Chungkeun Lee; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "4f359c61-2a98-4c8c-8f33-ba05454d4302",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2004"
+  },
+  {
+    "id": "fd2a9199-40b1-49a5-b44a-28488f19c870",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2003-11-07",
+    "title_kor": "트레드밀 운동 후 원적외선 온열이 심혈관계에 미치는 영향 평가 시스템 구현",
+    "conference_eng": "Korea Society of Medical and Biological Engineering Autumn Conference 2003",
+    "author_kor": "민세동; 강세구; 이충근; 윤성원; 박찬욱; 신항식; 이병우; 이명호",
+    "author_eng": "Se-Dong Min; Segoo Kang; Chungkeun Lee; Sung-Won Yoon; Chan Ouk Park; Hangsik shin; Byung Woo Lee; Myongho Lee",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "9205dde9-3c4e-49b0-8cd4-7f2e2c9999f5",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "4f359c61-2a98-4c8c-8f33-ba05454d4302",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2003"
+  }
+]

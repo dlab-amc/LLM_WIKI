@@ -1,0 +1,580 @@
+[
+  {
+    "id": "6e603281-4a73-5218-a16e-5072c168d746",
+    "category": "award",
+    "date": "2020-11-23",
+    "title_kor": "허리밴드형 무선 심전도 측정 시스템",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "df4bdfc7-8f34-4d6c-b69b-803b326c48d2",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2020-06-15",
+    "title_eng": "Wearable blood pressure measuring device with multi-array pressure sensors",
+    "title_kor": "다중 배열 압력 센서를 포함하는 웨어러블 혈압 측정 장치",
+    "author_kor": "신항식; 박준영; 노동근; 최용순; 김도유; 최아영",
+    "author_eng": "Hangsik Shin; Junyoung Park; Donggeun Roh; Yongsoon Choi; Doyu Kim; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "65c403c8-2a42-4d96-9ef8-962c389141cb",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "ca7e1b64-9f5a-48de-a0da-f17fa7f9cb4d",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2020-11-01",
+    "title_eng": "Wearable Strain Sensor Using Conductive Yarn Sewed on Clothing for Human Respiratory Monitoring",
+    "journal_eng": "IEEE Sensors Journal",
+    "author_kor": "박준영; 박상기; 안성철; 조유장; 박종진; 신항식",
+    "author_eng": "Junyoung Park; Sangki Park; Seongcheol Ahn; Yujang Cho; Jong-Jin Park; Hangsik Shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "de6b9e11-0525-4968-8b13-ad52a465de7f",
+      "9e1fffce-331b-4391-b199-b32bdd19a54b",
+      "13fed994-9ead-4133-99c3-2eb830bb2f4f",
+      "6b5e8c7d-a109-43ba-be3c-38ed3434b802",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "75328e09-2b24-4923-a6d5-419d6d7053c6",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2020-03-25",
+    "title_eng": "System for measuring bio signal usingmulti channel piezoelectric sensor of film",
+    "title_kor": "필름형 다채널 압전 센서를 이용한 생체신호 측정 시스템",
+    "author_kor": "신항식; 박수지",
+    "author_eng": "Hangsik Shin; Sooji Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "0c6b533f-9899-4b23-ac35-dec443bc1884",
+    "category": "patent",
+    "class": "International",
+    "date": "2020-11-24",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "시스템과 장치를 연결된 외부 장치를 방제하는 방법",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "12bc44fe-502b-4ff1-bd05-3cd425865cfa",
+    "category": "patent",
+    "class": "International",
+    "date": "2020-07-21",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "eed58acf-21a9-4ad2-a257-29c274015427",
+    "category": "patent",
+    "class": "International",
+    "date": "2020-02-18",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "시스템과 장치를 연결된 외부 장치를 방제하는 방법",
+    "author_kor": "고재우; 신항식; 박세준; 김양욱; 천해인; 정재호",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park; Yangwook Kim; Haein Chun; Jaeho Jung",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1",
+      "ae26dc01-50c2-4bd4-827c-75c5b0a45255",
+      "6087851f-34e1-47bc-ac70-223bbc0b9f35",
+      "3781bf3e-a884-453b-b569-b5b28d3d621b"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "e4821428-bd69-408e-935e-ecccb9cd87fd",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2020-07-15",
+    "title_eng": "Study on Characteristics of Heart Rate Variability with Chronic Pain",
+    "title_kor": "만성통증환자의 심박변이도 특징 연구",
+    "conference_eng": "The 51th KIEE Summer Conference 2020",
+    "author_kor": "석현석; 신항식",
+    "author_eng": "Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "bbf6b105-f35f-40ac-a8dc-ee9b859e0925",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2020-04-28",
+    "title_eng": "Performance of the nasal photoplethysmographic index as an analgesic index during surgery under general anaesthesia",
+    "journal_eng": "Scientific Reports",
+    "author_kor": "박찬기; 양민호; 최보현; 전보경; 이용훈; 신항식; 이보름; 최병문; 노규정",
+    "author_eng": "Chanki Park; Min-Ho Yang; Bohyun Choi; Bokyung Jeon; Yong-Hun Lee; Hangsik Shin; Boreom Lee; Byungmoon Choi; Gyujeong Noh",
+    "author_ids": [
+      "dab95ccb-7d79-46ed-906e-901b173ebbf9",
+      "b0ea1f33-2fbe-46ea-b11a-a066b9545248",
+      "b4b26edd-ac6d-4f6f-89a8-eaad04895be7",
+      "b1acb102-efb3-4d63-9fcf-4132379fc1b4",
+      "082f270f-0c9c-49c4-b469-28f02bd990a7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "1f01825b-bf1d-4c2b-b46d-03f7dc16d1eb",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "link": "https://www.nature.com/articles/s41598-020-64033-0",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "9894a82e-6c28-4113-a803-3064e7416304",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2020-12-30",
+    "title_eng": "Method for generating of state classifier and for deciding walking state using the same",
+    "title_kor": "상태 분류기 생성 방법 및 이를 이용한 보행상태 판단 방법",
+    "author_kor": "신항식; 이준석; 박수지",
+    "author_eng": "Hangsik Shin; Junseok Lee; Sooji Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "02f58f89-da47-4ba1-95ca-a16482b05da8",
+    "category": "patent",
+    "class": "International",
+    "date": "2020-10-20",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "적용을 실행하기 위한 방법과 장치",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "d0473652-65a1-4b2e-8e68-ecfb87d35d45",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2020-08-05",
+    "title_eng": "Method and apparatus for quality measurement of sleep using a portable terminal",
+    "title_kor": "휴대 단말 장치를 이용한 수면 품질 측정 방법 및 장치",
+    "author_kor": "신항식; 김도윤; 조재걸; 최병훈",
+    "author_eng": "Hangsik Shin; Doyoon Kim; Jaegeol Cho; Byunghun Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "1aa78e02-fa57-4317-945c-b846367dc178",
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "e7bc9883-59e1-41b1-a52a-2a0407f076af"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "e5b7bbbf-2106-47d0-8d53-0d704e0b2008",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2020-08-31",
+    "title_eng": "Mask-attached breath monitoring apparatus and system",
+    "title_kor": "마스크 부착형 호흡 모니터링 장치 및 시스템",
+    "author_kor": "신항식; 권단비",
+    "author_eng": "Hangsik Shin; Danbi Kwon",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "236e5d74-414b-4790-b358-619eda9557de"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "2e00cf3a-e8c6-555a-8c71-06609f16cf64",
+    "category": "award",
+    "date": "2020-10-07",
+    "title_eng": "Mask Attachable Respiration Monitoring System",
+    "title_kor": "마스크 부착형 호흡모니터링 시스템",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "251bb977-5215-4b06-bc67-a68ca56a4aee",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2020-07-15",
+    "title_eng": "MATLAB GUI for Feature Detection of Electrocardiogram and Photoplethysmogram",
+    "title_kor": "심전도 및 광용적맥파 특징점 검출을 위한 MATLAB GUI 개발",
+    "conference_eng": "The 51th KIEE Summer Conference 2020",
+    "author_kor": "석현석; 신항식",
+    "author_eng": "Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "2091d4d2-b362-473a-a712-09e9cb3caac2",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2020-04-21",
+    "title_eng": "Internet-Based Unobtrusive Tele-Monitoring System for Sleep and Respiration",
+    "journal_eng": "IEEE Access",
+    "author_kor": "최아영; 노상우; 신항식",
+    "author_eng": "Ahyoung Choi; Sangwoo Noh; Hangsik Shin",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "56c27a6c-adf7-4745-bbf7-2ececf7882ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/9075220",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "8d19fdd5-145a-4d53-8ccc-a844edab13b7",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2020-11-16",
+    "title_eng": "INDUSTRY FOUNDATION\\nOF CHONNAM NATIONAL UNIVERSITY",
+    "title_kor": "복수 사용자의 심박변이도 동시 계산 매트랩 그래픽유저인터페이스(MATLAB GUI)",
+    "author_kor": "신항식; 석현석",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "efb09ee7-eb89-4c57-917f-99c8a9b24868",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2020-10-22",
+    "title_eng": "Frequency domain characteristics of constant pressurization-type werable pressure pulse wave measurement system",
+    "title_kor": "고정 가압형 웨어러블 압력 맥파 측정 시스템의 주파수 영역 특성 분석",
+    "conference_eng": "Conference on Information and Control Systems 2020",
+    "author_kor": "노동근; 박준영; 정은화; 신항식",
+    "author_eng": "Donggeun Rho; Junyoung Park; Eunhwa Jeoung; Hangsik shin",
+    "author_ids": [
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "930575de-9e2c-4956-b208-41dbeddb241e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "9f6b3f60-d479-4f1f-ac82-ce63e7a03c3d",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2020-01-08",
+    "title_eng": "Feasibility Study of Ultra-Short-Term Heart Rate Variability in Recovery Condition after Exercise",
+    "title_kor": "운동 후 회복 조건에서 초단기 심박변이도 활용 가능성 연구",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "김진웅; 신항식",
+    "author_eng": "Jin Woong Kim; Hangsik Shin",
+    "author_ids": [
+      "e8f93f99-55d9-4bbd-8494-cb7c56526b18",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.researchgate.net/publication/338952190_Feasibility_Study_of_Ultra-Short-Term_Heart_Rate_Variability_in_Recovery_Condition_after_Exercise",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "d15c545e-fdc8-4493-9fb7-017184da4ae1",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2020-07-15",
+    "title_eng": "Development of Mask Attachable Respiration Monitoring System",
+    "title_kor": "마스크 부착형 호흡모니터링 시스템 개발",
+    "conference_eng": "The 51th KIEE Summer Conference 2020",
+    "author_kor": "권단비; 신항식",
+    "author_eng": "Danbi Kwon; Hangsik shin",
+    "author_ids": [
+      "236e5d74-414b-4790-b358-619eda9557de",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "501997fd-ef63-4882-8246-852a028c921d",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2020-10-22",
+    "title_eng": "Correlation analysis of aging with the refelctive and stiffness index of the photoplethysmogram",
+    "title_kor": "광용적맥파 반사지수 및 경직지수와 노화 상관성 분석",
+    "conference_eng": "Conference on Information and Control Systems 2020",
+    "author_kor": "박준영; 노동근; 신항식",
+    "author_eng": "Junyoung Park; Donggeun Rho; Hangsik shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "479b87a7-0b1f-491c-8927-462e6d53f304",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2020-12-01",
+    "title_eng": "Calculation and Validation of Continuous Pulse Transit Time Based on Normalized Pulse Wave Velocity",
+    "journal_eng": "IEEE Access",
+    "author_kor": "신항식; 최아영",
+    "author_eng": "Hangsik Shin; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/9274312",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "97ecf2b4-f95a-457b-a71f-78df3bae2a52",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2020-10-28",
+    "title_eng": "Apparatus and method for measuring physiological signal",
+    "title_kor": "생체 신호를 측정하는 방법 및 장치",
+    "author_kor": "조재걸; 김광춘; 김재필; 민진홍; 백현재; 신항식",
+    "author_eng": "Jaegeol Cho; Kwangchoon Kim; Jaepil Kim; Jinhong Min; Hyunjae Baek; Hangsik Shin",
+    "author_ids": [
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "87cf7e69-dd97-4ac4-97d6-162acf858278",
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "39afba78-7e6f-4ac0-8bc0-6d363ac3398e",
+      "52c800ad-007d-46f1-98ab-3ac1dad2f4a3",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "9001fd96-d633-41ca-a44b-61c3894b822f",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2020-07-15",
+    "title_eng": "Age-related change of photoplethysmographic reflective and stiffness index",
+    "title_kor": "노화에 따른 광용적맥파 반사지수 및 경직지수 변화 분석",
+    "conference_eng": "The 51th KIEE Summer Conference 2020",
+    "author_kor": "박준영; 신항식",
+    "author_eng": "Junyoung Park; Hangsik shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "d2734e3c-cd69-5610-87a5-553744e7888b",
+    "category": "award",
+    "date": "2020-09-12",
+    "title_eng": "A new analgesic index for postoperative pain assessment based on a photoplethysmographic spectrogram and convolutional neural network",
+    "title_kor": "A new analgesic index for postoperative pain assessment based on a photoplethysmographic spectrogram and convolutional neural network",
+    "award_name_eng": "Best abstract award of Conference on Korean Society for Anesthetic Pharmacology 2020",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "f44cff49-ff09-409a-aed9-84d4cef727b3",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2020-06-03",
+    "title_eng": "A method and apparatus for postoperative pain assessment using differential index of photoplethysmogram",
+    "title_kor": "광용적맥파의 미분 지표를 이용한 수술 후 통증 평가 방법 및 장치",
+    "author_kor": "신항식; 석현석",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "8c017840-c738-43a1-8ad0-72a669d7fa9c",
+    "category": "patent",
+    "class": "International",
+    "date": "2020-09-24",
+    "title_eng": "A method and apparatus for estimating mean arterial pressure based on pressure and pulse wave",
+    "title_kor": "압력 및 맥파에 기반한 평균동맥압 추정 방법 및 장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f54",
+    "category": "project",
+    "date": "2020-07-16",
+    "project_name_eng": "Development and commercialization of next generation convergence care technology for optimization of high risk patient treatment",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f5a",
+    "category": "project",
+    "date": "2020-04-01",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f5b",
+    "category": "project",
+    "date": "2020-12-31",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f5c",
+    "category": "project",
+    "date": "2020-04-01",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "e32afce6-7ca0-5d6c-b4fd-7d5d66f6cf38",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "eadae84c-97d5-565f-83b5-634a827ae509",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "95b8aa92-7fcd-5497-94d4-4ae69bec9105",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "7e6f7e3a-c15c-5897-b1a3-e909f11e3568",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "e5ec72c4-ba96-59b1-a511-8e765d2678a0",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "93196791-e873-56d7-924f-4fab71e4f49c",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "beac59ab-3751-5b8c-8c7e-58606afbf6d9",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "10375a25-4890-50e8-8031-5a8300051af8",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "abedff1a-a2c3-5d10-a8cb-217800efe8df",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "0726ba29-c465-51be-9aa4-068cf409d867",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "069441bc-8b20-5a6c-9766-5b24cc83616c",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "97a072b4-80af-598d-acc3-874747deda89",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "cc0f690f-9cb2-53f8-adcb-022ed0d5f7fc",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "3ca8b8ce-c5af-5f5c-bac4-249cc9bcb893",
+    "category": "lecture",
+    "year": 2020,
+    "year_resolved": "2020"
+  },
+  {
+    "id": "35eb94d4-9f11-5831-9d7b-c1f3b8716833",
+    "category": "technology_transfer",
+    "date": "2020-11-02",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "082b836d-43b9-5740-b426-9ad5b6990e01",
+    "category": "award",
+    "date": "2020-08-11",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "57b79efd-aa21-5912-b007-c20a4973445c",
+    "category": "extracurricular",
+    "date": "2020-03-01",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "1bbb0b64-10ab-5c0d-97b2-f3e63eff272e",
+    "category": "extracurricular",
+    "date": "2020-03-01",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "286130f5-afa3-5ad5-9a38-89dbca07c652",
+    "category": "extracurricular",
+    "date": "2020-04-01",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "5397a8c0-d9e3-55c7-aa70-bb18d37e4a41",
+    "category": "extracurricular",
+    "date": "2020-01-01",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "e8e736c8-058c-58b2-bb82-5bd9a6c828a5",
+    "category": "extracurricular",
+    "date": "2020-01-01",
+    "year_resolved": "2020"
+  }
+]

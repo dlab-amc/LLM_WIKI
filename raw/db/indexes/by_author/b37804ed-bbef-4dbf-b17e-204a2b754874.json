@@ -1,0 +1,22 @@
+[
+  {
+    "id": "10f9a9c9-0e84-4a45-8e5a-30fdc5032c84",
+    "category": "conference",
+    "class": "International",
+    "date": "2014-11-20",
+    "title_eng": "Multiple Sensor Positioning for Mattress type Infant Heartbeat and Respiration Monitoring System",
+    "title_kor": "Multiple Sensor Positioning for Mattress type Infant Heartbeat and Respiration Monitoring System",
+    "conference_eng": "International Biomedical Engineering Conference 2014(IBEC 2014)",
+    "author_kor": "박수지; 최화진; 양윤라; 한수경; 김민아; 신항식",
+    "author_eng": "Sooji park; Hawjin Choi; Yoon La Yang; Soo Kyeong Han; Min-A Kim; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "9f0069c7-dd83-4cb4-a33d-dbbda21a436a",
+      "b37804ed-bbef-4dbf-b17e-204a2b754874",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2014"
+  }
+]

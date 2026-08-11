@@ -1,0 +1,84 @@
+[
+  {
+    "id": "2d2e4f4c-23d3-441d-b96d-af4cca4e3b92",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2021-03-30",
+    "title_eng": "Is Ultra-Short-Term Heart Rate Variability Valid in Non-static Conditions?",
+    "journal_eng": "Frontiers in Physiology",
+    "author_kor": "김진웅; 석현석; 신항식",
+    "author_eng": "Jin Woong Kim; Hyeon Seok Seok; Hangsik Shin",
+    "author_ids": [
+      "e8f93f99-55d9-4bbd-8494-cb7c56526b18",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "9f6b3f60-d479-4f1f-ac82-ce63e7a03c3d",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2020-01-08",
+    "title_eng": "Feasibility Study of Ultra-Short-Term Heart Rate Variability in Recovery Condition after Exercise",
+    "title_kor": "운동 후 회복 조건에서 초단기 심박변이도 활용 가능성 연구",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "김진웅; 신항식",
+    "author_eng": "Jin Woong Kim; Hangsik Shin",
+    "author_ids": [
+      "e8f93f99-55d9-4bbd-8494-cb7c56526b18",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.researchgate.net/publication/338952190_Feasibility_Study_of_Ultra-Short-Term_Heart_Rate_Variability_in_Recovery_Condition_after_Exercise",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "bb57dd01-eecf-4384-b854-29c94053800e",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-07-10",
+    "title_eng": "Minimum Interval Required for Heart Rate Variability Analysis in Recovery Condition after Exercise",
+    "title_kor": "운동 후 회복시 심박변이도 분석에 요구되는 최소 신호구간 고찰",
+    "conference_eng": "The 50th KIEE Summer Conference 2019",
+    "author_kor": "김진웅; 신항식",
+    "author_eng": "Jin Woong Kim; Hangsik shin",
+    "author_ids": [
+      "e8f93f99-55d9-4bbd-8494-cb7c56526b18",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "e6e4b822-c852-4959-8b2b-a89fd8b7be90",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-05-09",
+    "title_eng": "Feasibility Study of Time Domain Analysis of Ultra-Short-Term Pulse Rate Variability in Dynamic Conditions",
+    "title_kor": "동적 상태에서 초단기 맥박변이도 시간영역 분석 활용성 연구",
+    "conference_eng": "The 54th Korea Society of Medical and Biological Engineering Spring Conference 2019",
+    "author_kor": "김진웅; 신항식",
+    "author_eng": "Jin Woong Kim; Hangsik shin",
+    "author_ids": [
+      "e8f93f99-55d9-4bbd-8494-cb7c56526b18",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "de0fc053-1a7a-40c4-a8e5-b2fe4f718706",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2018-10-25",
+    "title_eng": "Photoplethysmographic waveform modeling based on Gaussian Mixture Model with Expectation-maximization algorithm",
+    "title_kor": "EM 알고리즘과 가우시안 혼합 모델을 이용한 광용적맥파 파형 모델링",
+    "conference_eng": "Conference on Information and Control Systems 2018",
+    "author_kor": "김진웅; 석현석; 신항식",
+    "author_eng": "Jin Woong Kim; Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "e8f93f99-55d9-4bbd-8494-cb7c56526b18",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  }
+]

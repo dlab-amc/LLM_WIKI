@@ -1,0 +1,20 @@
+[
+  {
+    "id": "5008954c-0b8e-45bd-b5cb-6f374b65e5ab",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-04-28",
+    "title_eng": "Development of Rollable Smartpad for Management of the Sitting Behavior",
+    "title_kor": "착좌 행동 관리를 위한 롤러블 스마트패드 개발",
+    "conference_eng": "The 2017 Spring Conference of the Korea Information Processing Society",
+    "author_kor": "강성탁; 이재근; 박수지; 신항식",
+    "author_eng": "Seongtak Kang; Jaegeun Lee; Sooji park; Hangsik shin",
+    "author_ids": [
+      "2305510c-90d6-4355-99bd-7d63caa62cfb",
+      "b1a577ea-2a99-4079-99a7-49ed4064cfc2",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  }
+]

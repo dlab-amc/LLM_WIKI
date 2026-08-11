@@ -1,0 +1,24 @@
+[
+  {
+    "id": "3015e243-5e93-4b28-9236-f69d087a0829",
+    "category": "conference",
+    "class": "International",
+    "date": "2005-01-01",
+    "title_eng": "Perspectives on e-health industry in Korea Enterprise networking and Computing in Healthcare Industry",
+    "title_kor": "Perspectives on e-health industry in Korea Enterprise networking and Computing in Healthcare Industry",
+    "conference_eng": "Proceedings of 7th International Workshop on Proceeding",
+    "author_kor": "이명호; 윤성원; 민세동; 박찬욱; 신항식; 강현구; 장훈범; 이은호",
+    "author_eng": "Myongho Lee; Sung Won Yoon; Se Dong Min; Chan Ouk Park; Hangsik Shin; Hyungu Kang; Hunbeom Chang; Eunho Lee",
+    "author_ids": [
+      "4a05a292-1a5b-4577-91ff-87da330a9358",
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "4f359c61-2a98-4c8c-8f33-ba05454d4302",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4df6e789-cbfa-4a3d-8e7d-f26ffa73d781",
+      "a4bc85ea-5b01-45a4-92dd-c66ef33c7a23",
+      "1defb6b2-0701-4e8f-b06f-4bff172a0a42"
+    ],
+    "year_resolved": "2005"
+  }
+]

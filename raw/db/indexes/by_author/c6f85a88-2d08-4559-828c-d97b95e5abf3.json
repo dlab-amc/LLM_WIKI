@@ -1,0 +1,56 @@
+[
+  {
+    "id": "f3952950-2a6a-4db7-85fd-8f7a546419a6",
+    "category": "conference",
+    "class": "International",
+    "date": "2009-01-01",
+    "title_eng": "Verification of Spectrum Analysis for Finger Plethysmography Based on Standing Wave and Harmonics",
+    "title_kor": "Verification of Spectrum Analysis for Finger Plethysmography Based on Standing Wave and Harmonics",
+    "conference_eng": "International Union for Physical and Engineering Sciences in Medicine IFMBE Proceedings",
+    "author_kor": "신항식; 이충근; 윤용현; 이영범; 이명호",
+    "author_eng": "Hangsik Shin; Chungkeun Lee; Yonghyeon Yun; Young-Bum Lee; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "c6f85a88-2d08-4559-828c-d97b95e5abf3",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2009"
+  },
+  {
+    "id": "14b52a07-03e2-4a59-902a-2f5312c84b7a",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2007-07-01",
+    "title_eng": "The Analysis of Living Daily Activities by Interpreting Bi-Directional Accelerometer Signals with Extreme Learning Machine",
+    "title_kor": "2축 가속도 신호와 Extreme Learning Machine을 사용한 행동패턴 분석 알고리즘",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "신항식; 이영범; 이명호",
+    "author_eng": "Hangsik shin; Young-Bum Lee; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "c6f85a88-2d08-4559-828c-d97b95e5abf3",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2007"
+  },
+  {
+    "id": "18e87edf-547e-45a7-bdc6-5b1835df229c",
+    "category": "conference",
+    "class": "International",
+    "date": "2007-08-01",
+    "title_eng": "Algorithm for classifying arrhythmia using Extreme Learning Machine and principal component analysis",
+    "title_kor": "Algorithm for classifying arrhythmia using Extreme Learning Machine and principal component analysis",
+    "conference_eng": "Engineering in Medicine and Biology Society, 2007. EMBS 2007. 29th Annual International Conference of the IEEE Proceeding",
+    "author_kor": "김진권; 신항식; 이영범; 이명호",
+    "author_eng": "Jinkwon Kim; Hangsik shin; Young-Bum Lee; Myongho Lee",
+    "author_ids": [
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "c6f85a88-2d08-4559-828c-d97b95e5abf3",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2007"
+  }
+]

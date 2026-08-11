@@ -27,3 +27,21 @@ Wiki 변경 이력. 최신 항목을 **아래에 append**한다.
 ## 2026-08-11 09:15 (KST)
 - Added: `CLAUDE.md` (Claude Code 세션 자동 진입점; `AGENTS.md`/`schema`로 위임)
 - Updated: `README.md`, `index.md` (Claude Code 안내)
+
+## 2026-08-11 10:10 (KST)
+- Updated: `schema/QUERY.md` — Query 답변 형식(답변/근거/공백)을 **필수**로 명시
+- Updated: `CLAUDE.md` — Query 시 해당 형식 준수 안내
+
+## 2026-08-11 10:15 (KST)
+- Added: 전 멤버 `wiki/people/*`에 **Recent Work** (카테고리 링크 + 최근 8건, claimed vs resolved)
+- Updated: `schema/QUERY.md` — Query **writeback** 정책 (재사용 지식은 Wiki 반영)
+- Updated: `CLAUDE.md`, `AGENTS.md`, `schema/PAGE-TYPES.md`, `README.md`
+
+## 2026-08-11 10:25 (KST)
+- Added: `raw/db/indexes/` — `by_year` / `by_author` / `by_member` + `catalog.json` (LLM 조회용)
+- Added: `raw/db/rebuild_indexes.py` (인덱스 재생성)
+- Updated: `schema/OVERVIEW.md`, `schema/QUERY.md`, `CLAUDE.md`, `index.md` — 풀 스캔 대신 인덱스 우선
+
+## 2026-08-11 10:35 (KST)
+- Added: `raw/db/indexes/by_category/` (journal, conference, patent, …) + catalog `category_labels`
+- Updated: schema / CLAUDE — 카테고리 필터도 인덱스 우선

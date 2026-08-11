@@ -1,0 +1,225 @@
+{
+  "generated_at": "2026-08-11T01:30:54.076428+00:00",
+  "source": "raw/db/publications.json (+ authors.achievement_ids)",
+  "usage": {
+    "by_year": "raw/db/indexes/by_year/YYYY.json",
+    "by_category": "raw/db/indexes/by_category/<category>.json  # journal, conference, patent, ...",
+    "by_author": "raw/db/indexes/by_author/<author_id>.json",
+    "by_member": "raw/db/indexes/by_member/<member_id>.json",
+    "prefer_over": "Do NOT scan full publications.json for year/category/author filters."
+  },
+  "category_labels": {
+    "journal": "학술지 논문",
+    "conference": "학술대회/학회",
+    "patent": "특허 등",
+    "lecture": "강의",
+    "invited_lecture": "초청 강연",
+    "award": "수상",
+    "project": "과제",
+    "extracurricular": "비교과",
+    "career": "진로/경력",
+    "membership": "학회·단체",
+    "technology_transfer": "기술이전",
+    "book": "저서",
+    "education": "교육"
+  },
+  "years": {
+    "1998": 1,
+    "2003": 6,
+    "2004": 5,
+    "2005": 17,
+    "2006": 9,
+    "2007": 9,
+    "2008": 8,
+    "2009": 10,
+    "2010": 5,
+    "2011": 5,
+    "2012": 62,
+    "2013": 53,
+    "2014": 66,
+    "2015": 68,
+    "2016": 73,
+    "2017": 74,
+    "2018": 69,
+    "2019": 86,
+    "2020": 52,
+    "2021": 42,
+    "2022": 25,
+    "2023": 53,
+    "2024": 47,
+    "2025": 45,
+    "2026": 29
+  },
+  "categories": {
+    "patent": 321,
+    "conference": 240,
+    "journal": 101,
+    "lecture": 90,
+    "award": 50,
+    "project": 38,
+    "extracurricular": 38,
+    "career": 15,
+    "invited_lecture": 14,
+    "membership": 9,
+    "technology_transfer": 6,
+    "book": 3,
+    "education": 3
+  },
+  "unknown_year_count": 9,
+  "author_index_count": 201,
+  "member_summaries": {
+    "68590514c33c441ee93e974d": {
+      "name": "한유진",
+      "author_id": "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+      "count": 16,
+      "by_year": {
+        "2026": 7,
+        "2025": 7,
+        "2024": 2
+      }
+    },
+    "68590514c33c441ee93e974f": {
+      "name": "김영돈",
+      "author_id": "923fe812-860b-4422-9d92-1767e699fa0b",
+      "count": 8,
+      "by_year": {
+        "2026": 4,
+        "2025": 2,
+        "2024": 2
+      }
+    },
+    "68590514c33c441ee93e974b": {
+      "name": "이재형",
+      "author_id": "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "count": 17,
+      "by_year": {
+        "2025": 4,
+        "2024": 6,
+        "2023": 5,
+        "2022": 2
+      }
+    },
+    "68590514c33c441ee93e974c": {
+      "name": "최예은",
+      "author_id": "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "count": 22,
+      "by_year": {
+        "2026": 8,
+        "2025": 8,
+        "2024": 5,
+        "2023": 1
+      }
+    },
+    "68590514c33c441ee93e9751": {
+      "name": "이건",
+      "author_id": "75bef458-47fc-43ad-9bdb-f934cbb66beb",
+      "count": 8,
+      "by_year": {
+        "2026": 5,
+        "2025": 3
+      }
+    },
+    "68590514c33c441ee93e9750": {
+      "name": "유지원",
+      "author_id": "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "count": 15,
+      "by_year": {
+        "2026": 6,
+        "2025": 5,
+        "2024": 4
+      }
+    },
+    "68590514c33c441ee93e9755": {
+      "name": "이연진",
+      "author_id": "5443481d-379f-4af6-8ef2-1d61bd2dfbe8",
+      "count": 4,
+      "by_year": {
+        "2026": 4
+      }
+    },
+    "68590514c33c441ee93e9749": {
+      "name": "진재욱",
+      "author_id": "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+      "count": 10,
+      "by_year": {
+        "2026": 1,
+        "2025": 9
+      }
+    },
+    "68590514c33c441ee93e974a": {
+      "name": "류가연",
+      "author_id": "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "count": 34,
+      "by_year": {
+        "2026": 9,
+        "2025": 9,
+        "2024": 8,
+        "2023": 6,
+        "2022": 2
+      }
+    },
+    "68590514c33c441ee93e9748": {
+      "name": "신항식",
+      "author_id": "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "count": 675,
+      "by_year": {
+        "2026": 27,
+        "2025": 42,
+        "2024": 38,
+        "2023": 42,
+        "2022": 18,
+        "2021": 36,
+        "2020": 24,
+        "2019": 63,
+        "2018": 45,
+        "2017": 50,
+        "2016": 45,
+        "2015": 45,
+        "2014": 41,
+        "2013": 45,
+        "2012": 61,
+        "2011": 4,
+        "2010": 4,
+        "2009": 8,
+        "2008": 5,
+        "2007": 6,
+        "2006": 7,
+        "2005": 14,
+        "2004": 4,
+        "2003": 1
+      }
+    },
+    "68ecd0deea1b5da5f6269a45": {
+      "name": "김민소",
+      "author_id": "3b530294-8839-4ba1-a4ce-0ebb6883bd86",
+      "count": 6,
+      "by_year": {
+        "2026": 6
+      }
+    },
+    "69a7ecf644ceb0c688474516": {
+      "name": "남윤찬",
+      "author_id": "8e349a5d-83ae-4b77-881c-26d384d25a86",
+      "count": 2,
+      "by_year": {
+        "2026": 2
+      }
+    },
+    "69a6691644ceb0c6884744df": {
+      "name": "강주현",
+      "author_id": "5fd4da55-6e2b-4776-999f-172029c3c1e1",
+      "count": 2,
+      "by_year": {
+        "2026": 2
+      }
+    },
+    "6980082ff963fb0cda56d745": {
+      "name": "김희영",
+      "author_id": "b2164403-05f7-400c-bad4-3dcdec5e9c77",
+      "count": 2,
+      "by_year": {
+        "2026": 2
+      }
+    }
+  }
+}

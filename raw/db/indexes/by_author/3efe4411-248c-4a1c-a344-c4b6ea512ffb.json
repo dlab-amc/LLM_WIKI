@@ -1,0 +1,589 @@
+[
+  {
+    "id": "3fa1e816-8085-43a5-bdf6-7afda40f4bf9",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-02-23",
+    "title_eng": "A method and apparatus for detecting awakening and respiration rate based on force-sensor",
+    "title_kor": "힘 센서에 기반하여 각성 및 호흡률을 검출하기 위한 방법 및 장치",
+    "author_kor": "신항식; 박수지",
+    "author_eng": "Hangsik Shin; Sooji Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "75328e09-2b24-4923-a6d5-419d6d7053c6",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2020-03-25",
+    "title_eng": "System for measuring bio signal usingmulti channel piezoelectric sensor of film",
+    "title_kor": "필름형 다채널 압전 센서를 이용한 생체신호 측정 시스템",
+    "author_kor": "신항식; 박수지",
+    "author_eng": "Hangsik Shin; Sooji Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "9894a82e-6c28-4113-a803-3064e7416304",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2020-12-30",
+    "title_eng": "Method for generating of state classifier and for deciding walking state using the same",
+    "title_kor": "상태 분류기 생성 방법 및 이를 이용한 보행상태 판단 방법",
+    "author_kor": "신항식; 이준석; 박수지",
+    "author_eng": "Hangsik Shin; Junseok Lee; Sooji Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "3389cb13-dc67-4bbc-a323-2a66604c8aea",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-04-26",
+    "title_eng": "Unconstrained type bio signal measuring sensor and bio signal measuring system having the same",
+    "title_kor": "무구속적 생체신호 측정센서 및 이를 포함하는 생체신호 측정시스템",
+    "author_kor": "신항식; 박수지",
+    "author_eng": "Hangsik Shin; Sooji park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "cc1772bc-c1d0-4408-b310-c656daf69daf",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-03-01",
+    "title_eng": "Force-Sensing-Based Unobtrusive System for Awakening and Respiration Rate Analysis during Sleep",
+    "journal_eng": "IEEE Sensors Journal",
+    "author_kor": "박수지; 조형호; 양형채; 윤진상; 신항식",
+    "author_eng": "Sooji Park; Hyong-Ho Cho; Hyung Chae Yang; Jin Sang Yoon; Hangsik Shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "9d984236-dc7c-45f9-9a8c-c75bbd82b446",
+      "8c6f0895-f3b6-4fa5-a4ec-d980aef6ac82",
+      "ccb011d4-abdb-4777-9733-17090cd8acb8",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/8556368",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "dd6f5efa-adb7-43f2-91dc-fdeaa5a2930f",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2019-12-20",
+    "title_eng": "Force Sensor and MSP430-based System for Motion Detection During Sleep",
+    "title_kor": "힘 센서와 MSP430 기반 수면 중 움직임 측정 시스템 개발",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "김재필; 박수지; 신항식",
+    "author_eng": "Jaepil Kim; Sooji Park; Hangsik Shin",
+    "author_ids": [
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.researchgate.net/publication/338278476_Force_Sensor_and_MSP430-based_System_for_Motion_Detection_During_Sleep",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "6b72ba65-609a-4352-b4ea-b4bc120bc4c1",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-10-24",
+    "title_eng": "Feasibility Test of BedditTM for Heart rate and Respiration Rate Measurement",
+    "title_kor": "Beddit TM의 호흡 및 심박 측정 유효성 평가",
+    "conference_eng": "Conference on Information and Control Systems 2019",
+    "author_kor": "한상진; 박수지; 신항식",
+    "author_eng": "Sangjin Han; Sooji park; Hangsik shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "5e0a1e51-99cd-454f-8a8d-1fbb967dc3e5",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-10-24",
+    "title_eng": "Development of Wearable System for Hemiplegic Gait Detection",
+    "title_kor": "편마비성 보행 측정을 위한 관성센서 기반 웨어러블 시스템 개발",
+    "conference_eng": "Conference on Information and Control Systems 2019",
+    "author_kor": "박준영; 이준석; 박수지; 곽재경; 신항식",
+    "author_eng": "Junyoung Park; Jun Seok Lee; Sooji park; Jaekyung Kwak; Hangsik shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "2684cf18-a5b8-4ca2-977d-d4cbbf558f8a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "514d1cbd-e81d-4e09-b18f-560370223af7",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-02-13",
+    "title_eng": "A method and apparatus for detecting awakening and respiration rate based on force-sensor",
+    "title_kor": "힘 센서에 기반하여 각성 및 호흡률을 검출하기 위한 방법 및 장치",
+    "author_kor": "신항식; 박수지",
+    "author_eng": "Hangsik Shin; Sooji park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "b40c1ec1-a45b-4671-800d-c034093b539e",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2018-01-22",
+    "title_eng": "System for measuring bio signal usingmulti channel piezoelectric sensor of film",
+    "title_kor": "필름형 다채널 압전 센서를 이용한 생체신호 측정 시스템",
+    "author_kor": "신항식; 박수지",
+    "author_eng": "Hangsik Shin; Sooji park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "a5df538c-e89d-485d-a409-8b0930690ccf",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2018-08-18",
+    "title_eng": "Method for generating of state classifier and for deciding walking state using the same",
+    "title_kor": "상태 분류기 생성 방법 및 이를 이용한 보행상태 판단 방법",
+    "author_kor": "신항식; 이준석; 박수지",
+    "author_eng": "Hangsik Shin; Jun Seok Lee; Sooji park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "9e8c9472-1595-4f70-9714-63d8eb933b96",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-05-28",
+    "title_eng": "Detection of Hemiplegic Walking Using a Wearable Inertia Sensing Device",
+    "journal_eng": "Sensors",
+    "author_kor": "이준석; 박수지; 신항식",
+    "author_eng": "Junseok Lee; Sooji Park; Hangsik Shin",
+    "author_ids": [
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022123/",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "804e6d84-ed95-4741-995c-705589901995",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2017-06-16",
+    "title_eng": "Unconstrained type bio signal measuring sensor and bio signal measuring system having the same",
+    "title_kor": "무구속적 생체신호 측정센서 및 이를 포함하는 생체신호 측정시스템",
+    "author_kor": "신항식; 박수지",
+    "author_eng": "Hangsik Shin; Sooji park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "bd8cec93-9cb3-467a-b16a-ddcce0e2bf48",
+    "category": "conference",
+    "class": "International",
+    "date": "2017-07-11",
+    "title_eng": "Feasibility Test of Strip-type Unconstrained Sleep Monitoring System with Polysomnography",
+    "title_kor": "Feasibility Test of Strip-type Unconstrained Sleep Monitoring System with Polysomnography",
+    "conference_eng": "39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC’17)",
+    "author_kor": "박수지; 신항식",
+    "author_eng": "Sooji park; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "ab686ade-f187-434d-bc09-74a6f7ce3099",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-02-13",
+    "title_eng": "Feasibility Test of Respiratory Measurement Using the Shirt Embroidered Conductive Yarn",
+    "title_kor": "전도사 자수 셔츠를 사용한 호흡측정 가능성 평가",
+    "conference_eng": "Bio-Medical System Conference 2017",
+    "author_kor": "박수지; 신항식",
+    "author_eng": "Sooji park; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "cb919261-4474-4e91-b004-ebf47fec9930",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2017-06-01",
+    "title_eng": "Feasibility Study for Unconstrained Respiration Monitoring Based on Multi-Way Approach Using an Acceleration and Force Sensing Module",
+    "journal_eng": "IEEE Sensors Journal",
+    "author_kor": "박수지; 신항식",
+    "author_eng": "Sooji Park; Hangsik Shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "abfaf2dd-fa57-4bac-8c94-de48ecca18b0",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-11-10",
+    "title_eng": "Evaluation of Significance of Photoplethysmograpy Amplitude Variation by Harmonic Rejection",
+    "title_kor": "고조파 제거에 따른 광용적맥파 진폭 변화 유의성 평가",
+    "conference_eng": "The 52th Korea Society of Medical and Biological Engineering Autumn Conference 2017",
+    "author_kor": "박수지; 신항식",
+    "author_eng": "Sooji park; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "4452ca49-d691-425d-bac4-2724f53ad261",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2017-11-01",
+    "title_eng": "Evaluation of Hemiplegic Gait Using Accelerometer",
+    "title_kor": "가속도센서를 이용한 편마비성보행 평가",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "이준석; 박수지; 신항식",
+    "author_eng": "Jun Seok Lee; Sooji park; Hangsik shin",
+    "author_ids": [
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://koreascience.kr/article/JAKO201734158605923.page",
+    "year_resolved": "2017"
+  },
+  {
+    "id": "5008954c-0b8e-45bd-b5cb-6f374b65e5ab",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-04-28",
+    "title_eng": "Development of Rollable Smartpad for Management of the Sitting Behavior",
+    "title_kor": "착좌 행동 관리를 위한 롤러블 스마트패드 개발",
+    "conference_eng": "The 2017 Spring Conference of the Korea Information Processing Society",
+    "author_kor": "강성탁; 이재근; 박수지; 신항식",
+    "author_eng": "Seongtak Kang; Jaegeun Lee; Sooji park; Hangsik shin",
+    "author_ids": [
+      "2305510c-90d6-4355-99bd-7d63caa62cfb",
+      "b1a577ea-2a99-4079-99a7-49ed4064cfc2",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "40dba5fd-01b0-4460-8365-e1fd20dbffc4",
+    "category": "conference",
+    "class": "International",
+    "date": "2017-07-11",
+    "title_eng": "Detection of Hemiplegic Gait Using 6-axis Inertial Sensor",
+    "title_kor": "Detection of Hemiplegic Gait Using 6-axis Inertial Sensor",
+    "conference_eng": "39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC’17)",
+    "author_kor": "이준석; 박수지; 신항식",
+    "author_eng": "Junseok Lee; Sooji Park; Hangsik Shin",
+    "author_ids": [
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "286d468f-fa6b-4e4b-b74b-ae296a1d8f1f",
+    "category": "conference",
+    "class": "International",
+    "date": "2017-07-11",
+    "title_eng": "Design of the Wearable Device for Hemiplegic Gait Detection Using an Accelerometer and a Gyroscope",
+    "title_kor": "Design of the Wearable Device for Hemiplegic Gait Detection Using an Accelerometer and a Gyroscope",
+    "conference_eng": "39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC’17)",
+    "author_kor": "박수지; 이준석; 곽재경; 신항식",
+    "author_eng": "Sooji Park; Junseok Lee; Jaekyung Kwak; Hangsik Shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "2684cf18-a5b8-4ca2-977d-d4cbbf558f8a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "a3a0d3a5-9f6e-4670-8211-461f68e9b4b7",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-05-13",
+    "title_eng": "Unconstrained Respiration Monitoring System based on Strip-type Force Sensor",
+    "title_kor": "스트립형 힘센서 기반 무구속 호흡 측정 시스템",
+    "conference_eng": "The 51th Korea Society of Medical and Biological Engineering Spring Conference 2016",
+    "author_kor": "박수지; 김훈; 신항식",
+    "author_eng": "Sooji park; Hoon Kim; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "68a7cea7-eb6d-4806-8658-50b7e4135546",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "70dfa84d-6328-474d-945e-60f1f20e01a2",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-07-13",
+    "title_eng": "The Prototype Development of a Wearable Device for Lower Limb Balance Evaluation During Walking",
+    "title_kor": "보행시 하지균형 평가를 위한 웨어러블 시스템 프로토타입 개발",
+    "conference_eng": "The 47th KIEE Summer Conference 2016",
+    "author_kor": "이진석; 박수지; 신항식",
+    "author_eng": "Jin_Seok Lee; Sooji park; Hangsik shin",
+    "author_ids": [
+      "3efb670a-39dc-48a8-86de-303f334a8c06",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "0f9fb924-bc18-43c0-8c81-2eac0c8e5d05",
+    "category": "conference",
+    "class": "International",
+    "date": "2016-08-16",
+    "title_eng": "Feasibility Study of Respiration Monitoring based on Strip-Type Force Sensing Platform in Various Lying Positions",
+    "title_kor": "Feasibility Study of Respiration Monitoring based on Strip-Type Force Sensing Platform in Various Lying Positions",
+    "conference_eng": "38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC 2016)",
+    "author_kor": "박수지; 김훈; 신항식",
+    "author_eng": "Sooji park; Hoon Kim; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "68a7cea7-eb6d-4806-8658-50b7e4135546",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "d21e74a3-dbdc-4f37-989e-9085b3d4c524",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-07-13",
+    "title_eng": "Development of Realtime Unconstrained Respiratory Monitoring System based on Strip-type Force-sensor",
+    "title_kor": "스트립형 힘센서를 이용한 실시간 무구속 호흡 측정 시스템 개발",
+    "conference_eng": "The 47th KIEE Summer Conference 2016",
+    "author_kor": "박수지; 김훈; 신항식",
+    "author_eng": "Sooji park; Hoon Kim; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "68a7cea7-eb6d-4806-8658-50b7e4135546",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "88e7d100-28e2-46ed-be3e-0ef1c96c944e",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-10-20",
+    "title_eng": "An Investigation of the Characteristic of Force Sensors in Biomedical Measurement",
+    "title_kor": "생체 계측에서 사용되는 힘센서의 종류별 특성 고찰",
+    "conference_eng": "Conference on Information and Control Systems 2016",
+    "author_kor": "박수지; 최민주; 강성탁; 신항식",
+    "author_eng": "Sooji park; Min Ju Choi; Seongtak Kang; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "19ac2461-2574-41b8-902c-4deb91d42bb9",
+      "2305510c-90d6-4355-99bd-7d63caa62cfb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "36f04aac-a103-4aad-989b-e1112204f4a7",
+    "category": "conference",
+    "class": "International",
+    "date": "2015-11-12",
+    "title_eng": "Relation between the Maximum Systolic Location of Photoplethysmography Waveform and Sampling Frequency",
+    "title_kor": "Relation between the Maximum Systolic Location of Photoplethysmography Waveform and Sampling Frequency",
+    "conference_eng": "International Biomedical Engineering Conference 2015(IBEC 2015)",
+    "author_kor": "신항식; 박수지",
+    "author_eng": "Hangsik shin; Sooji park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "0120800c-7c6b-4904-bad3-18ee9564edf5",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-07-15",
+    "title_eng": "Preliminary Study of IoT Module for Monitoring of Abnormal Respiratory Activity during Sleep",
+    "title_kor": "수면 중 비정상호흡 모니터링을 위한 IoT 모듈 사전연구",
+    "conference_eng": "The 46th KIEE Summer Conference 2015",
+    "author_kor": "박수지; 신항식; 김훈",
+    "author_eng": "Sooji park; Hangsik shin; Hoon Kim",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "68a7cea7-eb6d-4806-8658-50b7e4135546"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "973df1ec-dc2e-4671-abb7-89f4905c0195",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-07-15",
+    "title_eng": "Investigation of Optimal Position of Strip-type Force Sensor to Detect Respiration",
+    "title_kor": "호흡 검출을 위한 스트립 힘센서 최적위치 고찰",
+    "conference_eng": "The 46th KIEE Summer Conference 2015",
+    "author_kor": "최화진; 박수지; 신항식",
+    "author_eng": "Hawjin Choi; Sooji park; Hangsik shin",
+    "author_ids": [
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "e3ba3ebc-cf7b-4844-bb32-2e2af0e4f34d",
+    "category": "conference",
+    "class": "International",
+    "date": "2015-08-25",
+    "title_eng": "Feasibility Study of the Respiratory Activity Monitoring based on Acceleration and Pressure Measurement Inside Pillow",
+    "title_kor": "Feasibility Study of the Respiratory Activity Monitoring based on Acceleration and Pressure Measurement Inside Pillow",
+    "conference_eng": "37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC 2015)",
+    "author_kor": "박수지; 신항식",
+    "author_eng": "Sooji park; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "32db1b35-527e-42d1-8453-ec9f9965744b",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-10-22",
+    "title_eng": "Development of Pillow Insertable Multiple Sensor Platform for Sleep Monitoring",
+    "title_kor": "수면 모니터링을 위한 베개삽입형 복합 센서 플랫폼 개발",
+    "conference_eng": "Conference on Information and Control Systems 2015",
+    "author_kor": "박수지; 양윤라; 김훈; 신항식",
+    "author_eng": "Sooji park; Yoon La Yang; Hoon Kim; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "68a7cea7-eb6d-4806-8658-50b7e4135546",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "618537b6-15bc-4ea2-ae80-542b580d3113",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-05-08",
+    "title_eng": "Development of Belt-type Pressure Sensor Module and Evaluation the Respiration Waveform according to the Measuring Site",
+    "title_kor": "벨트형 압력센서 모듈 제작 및 측정 위치에 따른 호흡 파형 비교",
+    "conference_eng": "The 50th Korea Society of Medical and Biological Engineering Spring Conference 2015",
+    "author_kor": "박수지; 최화진; 신항식",
+    "author_eng": "Sooji park; Hawjin Choi; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "e16d9e8d-89ad-4fc1-95a3-355fe9c096b4",
+    "category": "conference",
+    "class": "International",
+    "date": "2014-12-17",
+    "title_eng": "Unconstrained Continuous Infants Monitoring System Based on Mattress-Type Force Sensing Platform: A Pilot Study",
+    "title_kor": "Unconstrained Continuous Infants Monitoring System Based on Mattress-Type Force Sensing Platform: A Pilot Study",
+    "conference_eng": "The 6th FTRA International Conference on Computer Science and its Applications(CSA 2014)",
+    "author_kor": "신항식; 최화진; 박수지",
+    "author_eng": "Hangsik shin; Hawjin Choi; Sooji park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "10f9a9c9-0e84-4a45-8e5a-30fdc5032c84",
+    "category": "conference",
+    "class": "International",
+    "date": "2014-11-20",
+    "title_eng": "Multiple Sensor Positioning for Mattress type Infant Heartbeat and Respiration Monitoring System",
+    "title_kor": "Multiple Sensor Positioning for Mattress type Infant Heartbeat and Respiration Monitoring System",
+    "conference_eng": "International Biomedical Engineering Conference 2014(IBEC 2014)",
+    "author_kor": "박수지; 최화진; 양윤라; 한수경; 김민아; 신항식",
+    "author_eng": "Sooji park; Hawjin Choi; Yoon La Yang; Soo Kyeong Han; Min-A Kim; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "9f0069c7-dd83-4cb4-a33d-dbbda21a436a",
+      "b37804ed-bbef-4dbf-b17e-204a2b754874",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "46df37c1-ee43-4e8e-ab78-f79d903e4929",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2014-10-16",
+    "title_eng": "Development of the Infant Mattress for the Environment and the Pressure Monitoring",
+    "title_kor": "환경 및 압력센서를 포함하는 영아 모니터링 매트리스 개발",
+    "conference_eng": "Conference on Information and Control Systems 2014",
+    "author_kor": "최화진; 박수지; 신항식",
+    "author_eng": "Hawjin Choi; Sooji park; Hangsik shin",
+    "author_ids": [
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2014"
+  }
+]

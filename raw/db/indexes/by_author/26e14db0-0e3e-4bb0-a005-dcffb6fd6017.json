@@ -1,0 +1,21 @@
+[
+  {
+    "id": "283bb15f-bf08-4de8-b479-bfbb756840b8",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2005-03-01",
+    "title_eng": "Down-Scaled 3D Medical Image Transfer System Using Instant Messenger",
+    "title_kor": "인스턴트 메신저를 사용한 축소 3D의료영상 전송 시스템",
+    "journal_eng": "Healthcare Informatics Research",
+    "author_kor": "신항식; 민세동; 김희중; 이명호",
+    "author_eng": "Hangsik shin; Se-Dong Min; Hee-Joung Kim; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "26e14db0-0e3e-4bb0-a005-dcffb6fd6017",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://synapse.koreamed.org/articles/1103183",
+    "year_resolved": "2005"
+  }
+]

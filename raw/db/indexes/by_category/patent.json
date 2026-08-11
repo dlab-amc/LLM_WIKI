@@ -1,0 +1,5071 @@
+[
+  {
+    "id": "f691c0c4-7803-4650-8cd1-1c53f0ea5cb3",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2025-10-23",
+    "title_eng": "인공지능 보정 기반의 블루투스 위치 추정 방법, 장치 및 프로그램",
+    "title_kor": "인공지능 보정 기반의 블루투스 위치 추정 방법, 장치 및 프로그램",
+    "author_kor": "이재형; 신항식; 임하민; 왕창원",
+    "author_eng": "Jaehyung Lee; Hangsik Shin; Hamin Lim; Changwon Wang",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "ad98337a-712a-4d40-a163-4ac540834245"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "44529fa4-e591-47bf-b088-15889379a27c",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2025-09-26",
+    "title_eng": "다기관에서 수집된 데이터를 전처리하는 장치 및 방법",
+    "title_kor": "다기관에서 수집된 데이터를 전처리하는 장치 및 방법",
+    "author_kor": "신항식; 한유진",
+    "author_eng": "Hangsik Shin; Yujin Han",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "c6afaed1-66e1-4f24-96b3-3a3a323defbb",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2025-10-28",
+    "title_eng": "뇌 질환 진단 장치 및 방법",
+    "title_kor": "뇌 질환 진단 장치 및 방법",
+    "author_kor": "신항식; 주성우; 이중선; 한유진",
+    "author_eng": "Hangsik Shin; Sung Woo Joo; Jungsun Lee; Yujin Han",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "140e3b05-97fa-4c63-a649-9dc6aa692776",
+      "95c4fbbb-c06a-4457-8f76-5db67ee40176",
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "988763c0-0777-4788-bb2f-a54b835a668d",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2025-12-31",
+    "title_eng": "건물 내 사용자의 실시간 위치 추정 장치 및 방법",
+    "title_kor": "건물 내 사용자의 실시간 위치 추정 장치 및 방법",
+    "author_kor": "임하민; 신항식",
+    "author_eng": "Hamin Lim; Hangsik Shin",
+    "author_ids": [
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "37dad17b-7342-427e-abc3-16bf38f67e38",
+    "category": "patent",
+    "class": "International",
+    "date": "2025-03-25",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "56050b92-dd16-4742-a9de-5a2530fed2c8",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2025-01-15",
+    "title_eng": "A program to integrate and convert multiple three-dimensional data into three-dimensional graph information",
+    "title_kor": "복수의 3차원 데이터를 3차원 그래프 정보로 통합 변환하는 프로그램",
+    "author_kor": "신항식; 이재형",
+    "author_eng": "Hangsik Shin; Jaehyung Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "2be7d822-a98c-48a7-8ce3-a53b2c9bb786",
+    "category": "patent",
+    "class": "International",
+    "date": "2024-01-16",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "외장 기기, 운영상 외장 기기, 호스트 디바이스, 관리 서버와 외장 기기의 방법을 다루는 방법",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "f6f4aaf9-2e48-49d7-8ee2-babcf0cb65b7",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2024-12-30",
+    "title_eng": "Method for Improving indoor positioning Accuracy based ob bluetooth",
+    "title_kor": "블루투스 기반 실내 위치 추정 정확도 향상을 위한 방법",
+    "author_kor": "이재형; 신항식; 임하민; 왕창원",
+    "author_eng": "Jaehyung Lee; Hangsik Shin; Hamin Lim; Changwon Wang",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "ad98337a-712a-4d40-a163-4ac540834245"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "a17b2ab4-24b5-4beb-b4f6-f8af8d413ece",
+    "category": "patent",
+    "class": "International",
+    "date": "2024-07-09",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "적용을 실행하기 위한 방법과 장치",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "3f037504-428d-406c-9c76-7d0fde04eb4c",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2024-04-22",
+    "title_eng": "An apparatus for creating a pain assessment model, method for creating a pain assessment model and computer readable recording medium",
+    "title_kor": "통증평가모델 생성 장치, 통증평가모델 생성 방법 및 이를 수행하는 프로그램이 저장된 기록 매체",
+    "author_kor": "신항식; 최병문; 최재문; 류가연",
+    "author_eng": "Hangsik Shin; Byungmoon Choi; Jae Moon Choi; Gayeon Ryu",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "6498cf43-a5bf-411b-a439-5f19c335728f",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2024-07-19",
+    "title_eng": "A multi-array pressure sensor with air vibration transmission type and wearable device comprising the same",
+    "title_kor": "공기 진동 전달형 다중 배열 압력 센서 및 이를 포함하는 웨어러블 장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "412b08d1-9366-4d4d-b00c-82c4126c81c8",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2024-08-07",
+    "title_eng": "A method and apparatus for vascular aging assessment model Based on photoplethysmogram incident and reflected wave",
+    "title_kor": "광용적맥파의 입사파와 반사파를 사용한 혈관노화 평가 방법 및 장치",
+    "author_kor": "신항식; 박준영",
+    "author_eng": "Hangsik Shin; Junyoung Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "6f95dc37-5a9f-4426-846c-0ce9216a6861",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2024-11-26",
+    "title_eng": "A method and apparatus for quality evaluation of photoplethysmography",
+    "title_kor": "광용적맥파의 품질 평가 방법 및 장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "e401d263-72e8-4304-a79d-d829488b7d8d",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2023-12-29",
+    "title_eng": "monitoring system for people in the facility",
+    "title_kor": "시설 내 대상자 모니터링 시스템",
+    "author_kor": "신항식; 왕창원; 이중선; 주성우; 임하민",
+    "author_eng": "Hangsik Shin; Changwon Wang; Jungsun Lee; Sung Woo Joo; Hamin Lim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "95c4fbbb-c06a-4457-8f76-5db67ee40176",
+      "140e3b05-97fa-4c63-a649-9dc6aa692776",
+      "e556ed57-f679-4685-a592-767ec3a64f46"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "aa2c9aaf-e5d8-4595-9290-e5da3e26e0a0",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-05-25",
+    "title_eng": "Web-based biosignal display program",
+    "title_kor": "웹 기반 생체정보 디스플레이 프로그램",
+    "author_kor": "신항식; 왕창원; 최아영; 류관곤; 방근호; 황정연",
+    "author_eng": "Hangsik Shin; Changwon Wang; Ahyoung Choi; KwanKon Ryu; Geunho Bang; Jeongyeon Hwang",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "841977d8-32ee-41ce-9032-8c50c3c74f06",
+      "34aa57f5-c474-4d02-b12d-d593e963e420",
+      "abf2eaf0-b6d8-49e0-b7a5-8ab05d86f53d"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "8b8fb1d8-4152-49c6-b141-74e4f4dc7e55",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-12-13",
+    "title_eng": "Web application for user biometric and location information monitoring and risk notification",
+    "title_kor": "사용자 생체정보 및 위치정보 모니터링, 위험 알림을 위한 웹 응용프로그램",
+    "author_kor": "신항식; 왕창원; 임하민",
+    "author_eng": "Hangsik Shin; Changwon Wang; Hamin Lim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "d9faa601-2a16-4028-bf71-11ab78b22a2e",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-12-13",
+    "title_eng": "Wearable device application for measuring heart rate, acceleration, and indoor location information",
+    "title_kor": "심박수, 가속도, 실내 위치 정보 측정을 위한 웨어러블 기기 어플리케이션",
+    "author_kor": "신항식; 왕창원; 임하민",
+    "author_eng": "Hangsik Shin; Changwon Wang; Hamin Lim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "b4cdfea8-d74e-46ba-b46b-23c806fb4078",
+    "category": "patent",
+    "class": "International",
+    "date": "2023-05-16",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "시스템과 장치를 연결된 외부 장치를 방제하는 방법",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "647f9bd0-aa84-41ba-a6c4-99eeb0554b61",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-12-13",
+    "title_eng": "Sever program for biometric and location information collection, user risk analysis, and alarm control",
+    "title_kor": "생체정보 및 위치정보 수집, 사용자 위험 분석, 알람 제어를 위한 서버 프로그램",
+    "author_kor": "신항식; 왕창원; 임하민",
+    "author_eng": "Hangsik Shin; Changwon Wang; Hamin Lim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "62eac829-8ba2-4a31-9cbd-7b4f5a15db39",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-05-25",
+    "title_eng": "Server program for storing and transmitting heart rate and acceleration signals",
+    "title_kor": "심박수와 가속도 신호 저장 및 전송을 위한 서버 프로그램",
+    "author_kor": "신항식; 왕창원; 최아영; 방근호; 황정연; 류관곤",
+    "author_eng": "Hangsik Shin; Changwon Wang; Ahyoung Choi; Geunho Bang; Jeongyeon Hwang; KwanKon Ryu",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "34aa57f5-c474-4d02-b12d-d593e963e420",
+      "abf2eaf0-b6d8-49e0-b7a5-8ab05d86f53d",
+      "841977d8-32ee-41ce-9032-8c50c3c74f06"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "fc03d603-79e0-45f6-a92c-155613ea8fe1",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2023-01-30",
+    "title_eng": "Method for blood pressure estimation based on continuous pulse transit time and a server performing the method",
+    "title_kor": "연속맥파 도달시간 기반 혈압 추정 방법 및 그 방법을 수행 하는 서버",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "a21dc4b9-d781-4382-b08e-add9fedaf479",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2023-01-18",
+    "title_eng": "Method and apparatus for physiological aging estimation",
+    "title_kor": "생리적 나이 추정 방법 및 장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "00c11128-93cb-42b0-b955-7e9d364d107c",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2023-01-30",
+    "title_eng": "Method and apparatus for bio-signal quality evaluation",
+    "title_kor": "생체신호 품질 평가 방법 및 장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "3312af4f-0f30-450f-a561-5e27deb07417",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2023-10-13",
+    "title_eng": "METHOD AND APPARATUS FOR TRAINING WAVEFORM RESTORATION MODEL TO RESTORE QUASI-PERIODIC BIOSIGNAL WAVEFORMS",
+    "title_kor": "준주기적 생체 신호 파형을 복원하기 위한 파형 복원 모델 학습 방법 및 장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "55078441-f6a7-4eac-ad08-c10488c2a1aa",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-05-25",
+    "title_eng": "Heart rate, acceleration signal measurement, transmission program for wearable devices",
+    "title_kor": "웨어러블 기기용 심박수, 가속도 신호 측정, 전송 프로그램",
+    "author_kor": "신항식; 왕창원; 최아영; 방근호; 황정연; 류관곤",
+    "author_eng": "Hangsik Shin; Changwon Wang; Ahyoung Choi; Geunho Bang; Jeongyeon Hwang; KwanKon Ryu",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "34aa57f5-c474-4d02-b12d-d593e963e420",
+      "abf2eaf0-b6d8-49e0-b7a5-8ab05d86f53d",
+      "841977d8-32ee-41ce-9032-8c50c3c74f06"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "7fece762-85cc-4c24-9624-c27843c785ef",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2023-10-30",
+    "title_eng": "ELECTRONIC DEVICE FOR INTERPOLATING HEART RATE USING\\n INTERPOLATED POSITION AND NUMBER OF INTERPOLATED SAMPLES AND METHOD FOR CORRECTING ECTOPIC RHYTHM THEREOF",
+    "title_kor": "보간 위치 및 보간 샘플 수를 이용하여 심장 박동을 보간하는 전자 장치 및 이의 이소성 박동 교정 방법",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "49da5bb1-4762-42b2-a5cd-00cc17a5e4eb",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2023-09-08",
+    "title_eng": "APPARATUS COMPRISING MULTIPLE ARRAY OF PRESSURE SENSORS AND DEVICE COMPRISING THE SAME",
+    "title_kor": "다중배열 압력센서를 포함하는 장치 및 이를 포함하는 웨어러블 기기",
+    "author_kor": "신항식; 박준영; 노동근; 최용순; 김도유; 최아영",
+    "author_eng": "Hangsik Shin; Junyoung Park; Donggeun Rho; Yongsoon Choi; Doyu Kim; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "65c403c8-2a42-4d96-9ef8-962c389141cb",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "fb68311e-5892-4acf-8beb-3903f421a8a0",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-12-15",
+    "title_eng": "A program for correcting ectopic heart beat",
+    "title_kor": "이소성 박동 교정 프로그램",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "71830e62-250c-4957-848f-9deddca9ec65",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-12-15",
+    "title_eng": "A program for converting three-dimensional graph data",
+    "title_kor": "3차원 그래프 데이터 변환 프로그램",
+    "author_kor": "신항식; 이재형",
+    "author_eng": "Hangsik Shin; Jaehyung Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "8a4d751d-b46f-47e2-afbe-5e52dda4b5ed",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2023-10-26",
+    "title_eng": "A method and an apparatus for estimating the aortic pressure waveform",
+    "title_kor": "대동맥 압력 파형을 추정하는 방법 및 장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "8bca95f2-8ec3-44ab-a585-64db04b28408",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2022-08-08",
+    "title_kor": "압력 및 맥파에 기반한 평균동맥압 추정 방법 및 장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "78c2ce35-58a4-4af5-8677-f6ce2df6803d",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-02-15",
+    "title_eng": "Wearable blood pressure measuring device with multi-array pressure sensors",
+    "title_kor": "다중 배열 압력 센서를 포함하는 웨어러블 혈압 측정 장치",
+    "author_kor": "신항식; 박준영; 노동근; 최용순; 김도유; 최아영",
+    "author_eng": "Hangsik Shin; Junyoung Park; Donggeun Rho; Yongsoon Choi; Doyu Kim; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "65c403c8-2a42-4d96-9ef8-962c389141cb",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "663f7860-b349-4223-9810-94e408a7c757",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-02-15",
+    "title_eng": "Wearable blood pressure measurement device comprising multi-array pressure sensor",
+    "title_kor": "다층 어레이 압력 센서를 포함하는 착용할 수 있는 혈압 측정 장치",
+    "author_kor": "신항식; 박준영; 노동근; 최용순; 김도유; 최아영",
+    "author_eng": "Hangsik Shin; Junyoung Park; Donggeun Rho; Yongsoon Choi; Doyu Kim; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "65c403c8-2a42-4d96-9ef8-962c389141cb",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "1185fd01-188d-48ec-ac45-014fa0f95b13",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-03-04",
+    "title_eng": "Waistband-type wearable electrocardiogram measurement apparatus, and method and apparatus for measuring heartbeat using same",
+    "title_kor": "이를 이용하는 하트비트를 측정하는 WAISTBAND-TYPE 착용할 수 있는 심전도 측정 장치 및 방법과 장치",
+    "author_kor": "신항식; 권단비",
+    "author_eng": "Hangsik Shin; Danbi Kwon",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "236e5d74-414b-4790-b358-619eda9557de"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "60ec73b2-b427-482f-a248-3bdc6b4823b9",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-04-27",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "시스템과 장치를 연결된 외부 장치를 방제하는 방법",
+    "author_kor": "고재우; 신항식; 박세준; 김양욱; 천해인; 정재호",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park; Yangwook Kim; Haein Chun; Jaeho Jung",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1",
+      "ae26dc01-50c2-4bd4-827c-75c5b0a45255",
+      "6087851f-34e1-47bc-ac70-223bbc0b9f35",
+      "3781bf3e-a884-453b-b569-b5b28d3d621b"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "fec326cf-165f-4f5d-ae92-06bb61090a14",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-05-10",
+    "title_eng": "Stacking cone system",
+    "title_kor": "스태킹 콘 시스템",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "2e0fbd54-d86b-4614-99dc-7a71f8ed4149",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-10-01",
+    "title_eng": "Stacking cone system",
+    "title_kor": "스태킹 콘 시스템",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "1b25019e-5e44-4de9-b10d-c94355d27674",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-02-08",
+    "title_eng": "Portable wearable respiratory monitoring unit and mask comprising the same",
+    "title_kor": "휴대용 웨어러블 호흡 모니터링 장치 및 이를 포함하는 마스크",
+    "author_kor": "신항식; 권단비",
+    "author_eng": "Hangsik Shin; Danbi Kwon",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "236e5d74-414b-4790-b358-619eda9557de"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "dfdea2b9-0376-4b00-a168-344daf816500",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-01-28",
+    "title_eng": "Portable wearable respiratory monitoring unit and mask comprising the same",
+    "title_kor": "휴대용 웨어러블 호흡 모니터링 장치 및 이를 포함하는 마스크",
+    "author_kor": "신항식; 권단비",
+    "author_eng": "Hangsik Shin; Danbi Kwon",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "236e5d74-414b-4790-b358-619eda9557de"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "e6db1fa1-99d8-4a36-bf9a-7a7ea6773488",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-07-06",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "외장 기기, 운영상 외장 기기, 호스트 디바이스, 관리 서버와 외장 기기의 방법을 다루는 방법",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "2c198d4c-d78c-4f49-8f4a-083a9462b0e7",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-06-09",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "외장 기기, 운영상 외장 기기, 호스트 디바이스, 관리 서버와 외장 기기의 방법을 다루는 방법",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "5357d1ab-9cf8-4127-8841-8d5afabe14bb",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-07-06",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "f3b26f03-f812-4c58-b2ea-162c7ae42010",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-03-04",
+    "title_eng": "Method and apparatus for pain evaluation based on ppg-based spectrogram and cnn",
+    "title_kor": "PPG-BASED 스펙트로그램과 CNN을 기반으로 하는 통증 평가에 대한 방법과 장치",
+    "author_kor": "신항식; 임지연; 노규정",
+    "author_eng": "Hangsik Shin; JiYeon Yim; Gyujeong Noh",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "c506ef10-079d-49eb-9877-d1dc6957c17d",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-06-29",
+    "title_eng": "Electronic apparatus and method of outputting content by the electronic apparatus",
+    "title_kor": "전자장치와 전자장치에 의해 콘탠츠를 출력하는 방법",
+    "author_kor": "고재우; 신항식; 박세준; 김도영",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park; Do-young Kim",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1",
+      "ff2d7766-ad0b-435d-9009-99202178bb34"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "ebf4813c-4c3a-4768-8417-af5040b67bfd",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-06-29",
+    "title_eng": "Electronic apparatus and method of outputting content by the electronic apparatus",
+    "title_kor": "전자장치와 전자장치에 의해 콘탠츠를 출력하는 방법",
+    "author_kor": "고재우; 신항식; 박세준; 김도영",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park; Do-young Kim",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1",
+      "ff2d7766-ad0b-435d-9009-99202178bb34"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "2e52b971-68a6-477e-81f9-d75c4c9ab47a",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-01-28",
+    "title_eng": "Apparatus comprising multiple array of pressure sensors and device comprising the same",
+    "title_kor": "다중배열 압력센서를 포함하는 장치 및 이를 포함하는 웨어러블 기기",
+    "author_kor": "신항식; 박준영; 노동근; 최용순; 김도유; 최아영",
+    "author_eng": "Hangsik Shin; Junyoung Park; Donggeun Roh; Yongsoon Choi; Doyu Kim; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "65c403c8-2a42-4d96-9ef8-962c389141cb",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "864acce6-7ca3-49af-89a9-6ef916f58d24",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-02-05",
+    "title_eng": "A waistband wearable electrocardiogram measuring apparatus and method and apparatus for heart rate measurement using the same",
+    "title_kor": "허리밴드형 웨어러블 심전도 측정 장치 및 이를 이용한 심박 측정 방법 및 장치",
+    "author_kor": "신항식; 권단비",
+    "author_eng": "Hangsik Shin; Danbi Kwon",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "236e5d74-414b-4790-b358-619eda9557de"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "3eb391b0-6b48-4486-83bc-179300e01f6a",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-12-31",
+    "title_eng": "A multi-array pressure sensor with air vibration transmission type and wearable deivce comprising the same",
+    "title_kor": "공기 진동 전달형 다중 배열 압력 센서 및 이를 포함하는 웨어러블 장치",
+    "author_kor": "신항식; 박준영; 최용순; 정진",
+    "author_eng": "Hangsik Shin; Junyoung Park; Yongsoon Choi; Jin Jung",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "3d4b62bc-9d79-4f5c-9d99-d602e9fcfc3a"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "4173ebdb-f818-486d-bfb6-bee33fc3e13f",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-10-29",
+    "title_eng": "A method and apparauts for classifying pain using photoplethysmograph",
+    "title_kor": "광용적맥파를 이용한 통증 분류 방법 및 장치",
+    "author_kor": "신항식; 노규정; 최병문",
+    "author_eng": "Hangsik Shin; Gyujeong Noh; Byungmoon Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "fe8e7c61-da65-408b-a6a6-ac8ebcd4a82a",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-12-30",
+    "title_eng": "A method and apparatus for vascular aging assessment model Based on photoplethysmogram incident and reflected wave",
+    "title_kor": "광용적맥파의 입사파와 반사파를 사용한 혈관노화 평가 방법 및 장치",
+    "author_kor": "신항식; 박준영",
+    "author_eng": "Hangsik Shin; Junyoung Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "e4a56844-65c7-4f83-b203-e9362104a8a8",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-12-30",
+    "title_eng": "A method and apparatus for quality evaluation of photoplethysmography",
+    "title_kor": "광용적맥파의 품질 평가 방법 및 장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "4976a23d-976f-42b5-9a57-828d963d0dd5",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-03-04",
+    "title_eng": "A method and apparatus for pain assessment based on a photoplethysmographic based spectrogram and convolutional neural network",
+    "title_kor": "PPG-BASED 스펙트로그램과 CNN을 기반으로 하는 통증 평가에 대한 방법과 장치",
+    "author_kor": "신항식; 임지연; 최병문; 노규정",
+    "author_eng": "Hangsik Shin; JiYeon Yim; Byungmoon Choi; Gyujeong Noh",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "72fa4a5f-5287-4140-a8ca-b20d3cb21184",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-02-08",
+    "title_eng": "A method and apparatus for pain assessment based on a photoplethysmographic based spectrogram and convolutional neural network",
+    "title_kor": "PPG 기반 스펙트로그램 및 CNN에 기반하는 통증 평가 방법 및 장치",
+    "author_kor": "신항식; 임지연; 최병문; 노규정",
+    "author_eng": "Hangsik Shin; Ji Yeon Yim; Byungmoon Choi; Gyujeong Noh",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "3fa1e816-8085-43a5-bdf6-7afda40f4bf9",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-02-23",
+    "title_eng": "A method and apparatus for detecting awakening and respiration rate based on force-sensor",
+    "title_kor": "힘 센서에 기반하여 각성 및 호흡률을 검출하기 위한 방법 및 장치",
+    "author_kor": "신항식; 박수지",
+    "author_eng": "Hangsik Shin; Sooji Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "df4bdfc7-8f34-4d6c-b69b-803b326c48d2",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2020-06-15",
+    "title_eng": "Wearable blood pressure measuring device with multi-array pressure sensors",
+    "title_kor": "다중 배열 압력 센서를 포함하는 웨어러블 혈압 측정 장치",
+    "author_kor": "신항식; 박준영; 노동근; 최용순; 김도유; 최아영",
+    "author_eng": "Hangsik Shin; Junyoung Park; Donggeun Roh; Yongsoon Choi; Doyu Kim; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "65c403c8-2a42-4d96-9ef8-962c389141cb",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "75328e09-2b24-4923-a6d5-419d6d7053c6",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2020-03-25",
+    "title_eng": "System for measuring bio signal usingmulti channel piezoelectric sensor of film",
+    "title_kor": "필름형 다채널 압전 센서를 이용한 생체신호 측정 시스템",
+    "author_kor": "신항식; 박수지",
+    "author_eng": "Hangsik Shin; Sooji Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "0c6b533f-9899-4b23-ac35-dec443bc1884",
+    "category": "patent",
+    "class": "International",
+    "date": "2020-11-24",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "시스템과 장치를 연결된 외부 장치를 방제하는 방법",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "12bc44fe-502b-4ff1-bd05-3cd425865cfa",
+    "category": "patent",
+    "class": "International",
+    "date": "2020-07-21",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "eed58acf-21a9-4ad2-a257-29c274015427",
+    "category": "patent",
+    "class": "International",
+    "date": "2020-02-18",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "시스템과 장치를 연결된 외부 장치를 방제하는 방법",
+    "author_kor": "고재우; 신항식; 박세준; 김양욱; 천해인; 정재호",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park; Yangwook Kim; Haein Chun; Jaeho Jung",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1",
+      "ae26dc01-50c2-4bd4-827c-75c5b0a45255",
+      "6087851f-34e1-47bc-ac70-223bbc0b9f35",
+      "3781bf3e-a884-453b-b569-b5b28d3d621b"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "9894a82e-6c28-4113-a803-3064e7416304",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2020-12-30",
+    "title_eng": "Method for generating of state classifier and for deciding walking state using the same",
+    "title_kor": "상태 분류기 생성 방법 및 이를 이용한 보행상태 판단 방법",
+    "author_kor": "신항식; 이준석; 박수지",
+    "author_eng": "Hangsik Shin; Junseok Lee; Sooji Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "02f58f89-da47-4ba1-95ca-a16482b05da8",
+    "category": "patent",
+    "class": "International",
+    "date": "2020-10-20",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "적용을 실행하기 위한 방법과 장치",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "d0473652-65a1-4b2e-8e68-ecfb87d35d45",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2020-08-05",
+    "title_eng": "Method and apparatus for quality measurement of sleep using a portable terminal",
+    "title_kor": "휴대 단말 장치를 이용한 수면 품질 측정 방법 및 장치",
+    "author_kor": "신항식; 김도윤; 조재걸; 최병훈",
+    "author_eng": "Hangsik Shin; Doyoon Kim; Jaegeol Cho; Byunghun Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "1aa78e02-fa57-4317-945c-b846367dc178",
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "e7bc9883-59e1-41b1-a52a-2a0407f076af"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "e5b7bbbf-2106-47d0-8d53-0d704e0b2008",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2020-08-31",
+    "title_eng": "Mask-attached breath monitoring apparatus and system",
+    "title_kor": "마스크 부착형 호흡 모니터링 장치 및 시스템",
+    "author_kor": "신항식; 권단비",
+    "author_eng": "Hangsik Shin; Danbi Kwon",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "236e5d74-414b-4790-b358-619eda9557de"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "8d19fdd5-145a-4d53-8ccc-a844edab13b7",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2020-11-16",
+    "title_eng": "INDUSTRY FOUNDATION\\nOF CHONNAM NATIONAL UNIVERSITY",
+    "title_kor": "복수 사용자의 심박변이도 동시 계산 매트랩 그래픽유저인터페이스(MATLAB GUI)",
+    "author_kor": "신항식; 석현석",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "97ecf2b4-f95a-457b-a71f-78df3bae2a52",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2020-10-28",
+    "title_eng": "Apparatus and method for measuring physiological signal",
+    "title_kor": "생체 신호를 측정하는 방법 및 장치",
+    "author_kor": "조재걸; 김광춘; 김재필; 민진홍; 백현재; 신항식",
+    "author_eng": "Jaegeol Cho; Kwangchoon Kim; Jaepil Kim; Jinhong Min; Hyunjae Baek; Hangsik Shin",
+    "author_ids": [
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "87cf7e69-dd97-4ac4-97d6-162acf858278",
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "39afba78-7e6f-4ac0-8bc0-6d363ac3398e",
+      "52c800ad-007d-46f1-98ab-3ac1dad2f4a3",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "f44cff49-ff09-409a-aed9-84d4cef727b3",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2020-06-03",
+    "title_eng": "A method and apparatus for postoperative pain assessment using differential index of photoplethysmogram",
+    "title_kor": "광용적맥파의 미분 지표를 이용한 수술 후 통증 평가 방법 및 장치",
+    "author_kor": "신항식; 석현석",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "8c017840-c738-43a1-8ad0-72a669d7fa9c",
+    "category": "patent",
+    "class": "International",
+    "date": "2020-09-24",
+    "title_eng": "A method and apparatus for estimating mean arterial pressure based on pressure and pulse wave",
+    "title_kor": "압력 및 맥파에 기반한 평균동맥압 추정 방법 및 장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "6353522e-2779-456b-87f4-ee2ac4e95e2c",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2019-08-12",
+    "title_kor": "한국판 역학연구 우울척도(K-CESD)설문 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+    "author_kor": "신항식; 김도원; 석현석",
+    "author_eng": "Hangsik Shin; Do-Won Kim; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f5c5db67-7148-49a8-ae2d-6640056ea44f",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "e87e1bcb-1a56-4065-8c6c-116814a41a68",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2019-08-12",
+    "title_kor": "특성불안척도(State-Trait Anxiety Inventory, STAI-X-2)설문 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+    "author_kor": "신항식; 김도원; 석현석",
+    "author_eng": "Hangsik Shin; Do-Won Kim; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f5c5db67-7148-49a8-ae2d-6640056ea44f",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "2b5c1faf-c54b-4c3a-bbbb-aff1e49bf85a",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2019-08-12",
+    "title_kor": "상태불안척도(State-Trait Anxiety Inventory, STAI-X-1)설문 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+    "author_kor": "신항식; 김도원; 석현석",
+    "author_eng": "Hangsik Shin; Do-Won Kim; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f5c5db67-7148-49a8-ae2d-6640056ea44f",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "cec8101f-dece-4554-860b-7657a72589ae",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2019-08-12",
+    "title_kor": "벡우울척도(Beck Depression Inventory, BDI) 설문 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+    "author_kor": "신항식; 김도원; 석현석",
+    "author_eng": "Hangsik Shin; Do-Won Kim; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f5c5db67-7148-49a8-ae2d-6640056ea44f",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "fc5d01ec-ce40-4433-829e-2f9cf7efcd12",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2019-08-12",
+    "title_kor": "벡불안척도(Beck Anxiety Inventory, BAI) 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+    "author_kor": "신항식; 김도원; 석현석",
+    "author_eng": "Hangsik Shin; Do-Won Kim; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f5c5db67-7148-49a8-ae2d-6640056ea44f",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "4e7a731f-62b0-4271-acc3-1382d6e91534",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2019-08-12",
+    "title_kor": "건강관련삶의질 평가도구(WHOQOL-BREF)설문 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+    "author_kor": "신항식; 석현석",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "61ce5562-7b0c-454e-8860-f49207fe91e5",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2019-08-12",
+    "title_kor": "건강관련삶의질 평가도구(EQ-5D)설문 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+    "author_kor": "신항식; 석현석",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "2c2a396c-7847-4942-8cc8-0bad13f49cdd",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2019-08-12",
+    "title_kor": "건강관련 삶의질, 불안 및 우울 설문 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+    "author_kor": "신항식; 강지훈; 김도원; 석현석; 권주희; 한수경",
+    "author_eng": "Hangsik Shin; Jihoon Kang; Do-Won Kim; Hyeon Seok Seok; Joohee Kwon; Soo Kyeong Han",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "98a0c002-fcdc-427e-8d1f-a74d1352558e",
+      "f5c5db67-7148-49a8-ae2d-6640056ea44f",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "0850693d-255d-4682-861a-dacd212a43da",
+      "9f0069c7-dd83-4cb4-a33d-dbbda21a436a"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "3389cb13-dc67-4bbc-a323-2a66604c8aea",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-04-26",
+    "title_eng": "Unconstrained type bio signal measuring sensor and bio signal measuring system having the same",
+    "title_kor": "무구속적 생체신호 측정센서 및 이를 포함하는 생체신호 측정시스템",
+    "author_kor": "신항식; 박수지",
+    "author_eng": "Hangsik Shin; Sooji park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "bfc8c9f3-b6a7-4163-a01a-6b606053ec0c",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-08-08",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "8a612fcb-ddca-440c-b691-ad6ed7dc0470",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-03-08",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "bc53d806-6056-4f67-bf0a-efe82ec8d77a",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-10-29",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "6afe2676-bccb-486c-9592-11bca331634c",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-11-04",
+    "title_eng": "System and method for estimating blood pressure based on deep learning",
+    "title_kor": "딥러닝 기반의 혈압 예측 시스템 및 방법",
+    "author_kor": "최아영; 신항식; 조진우",
+    "author_eng": "Ahyoung Choi; Hangsik Shin; Jinwoo Jo",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "b438a16a-5733-4601-b886-e6e78bce2fae"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "ffc056b3-2897-444a-a319-4c3d77f97a76",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-10-29",
+    "title_eng": "Stacking cone system",
+    "title_kor": "스태킹 콘 시스템",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "96280732-8cb3-431a-a80a-460ec293bc1b",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2019-08-12",
+    "title_kor": "SF36(건강관련삶의질 평가도구)설문 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+    "author_kor": "신항식; 석현석",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "691ba2b1-0f3a-4363-9304-5b0d631d78e3",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-11-04",
+    "title_eng": "Multi-wavelength light sensing device",
+    "title_kor": "다파장 광 감지장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "8ee42e50-d716-4ee4-9f24-ada59cf7ff35",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-01-23",
+    "title_eng": "Multi-channel capacitive pressure sensor",
+    "title_kor": "다채널 정전용량 압력 센서",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "b9b2475b-6630-490f-a4c4-e8300c6aa309",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-10-29",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "83a8142f-317c-4c4f-af0e-7a0e5dc2423c",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-10-16",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "69942838-5514-494e-b601-df5fff786d32",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-02-01",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "457231b7-9cd7-4214-a1e2-33a91ca4ec39",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-10-22",
+    "title_eng": "Method for managing of external devices, method for operating of an external device, host device, management server, and the external device",
+    "title_kor": "외부 기기 관리 방법, 외부 기기의 동작 방법, 호스트 단말, 관리 서버 및 외부 기기",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "014bc757-6c96-48eb-a7b8-5ed70b73ad9f",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-10-22",
+    "title_eng": "Method for managing of external devices, method for operating of an external device, host device, management server, and the external device",
+    "title_kor": "외부 기기 관리 방법, 외부 기기의 동작 방법, 호스트 단말, 관리 서버 및 외부 기기",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "1469c623-fdb3-4adf-8743-68e19d07a49f",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-08-09",
+    "title_eng": "Method for executing application on device and apparatus thereof",
+    "title_kor": "디바이스에서 어플리케이션을 실행하는 방법 및 그 장치",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "27685eb2-7709-40ce-8ad8-5bd65cc5fa77",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-04-26",
+    "title_eng": "Method for controlling a device and device performing the same",
+    "title_kor": "기기 제어 방법 및 이를 수행하는 기기",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "c91ed8df-bb2b-43dd-98ec-27987cedc6d4",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-08-20",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "4b1755be-3936-41fc-a872-2701c7df5ff2",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-03-26",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "c53efa90-1880-4473-b172-83a08175c175",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-11-19",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "7f4ac350-208a-44e2-9811-1096b0195971",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-11-15",
+    "title_eng": "Method and apparatus for measuring bio signal",
+    "title_kor": "Method and apparatus for measuring bio signal",
+    "author_kor": "조재걸; 김광춘; 김재필; 민진홍; 백현재; 신항식",
+    "author_eng": "Jaegeol Cho; Kwangchoon Kim; Jaepil Kim; Jinhong Min; Hyunjae Baek; Hangsik Shin",
+    "author_ids": [
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "87cf7e69-dd97-4ac4-97d6-162acf858278",
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "39afba78-7e6f-4ac0-8bc0-6d363ac3398e",
+      "52c800ad-007d-46f1-98ab-3ac1dad2f4a3",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "3b3b523a-f7d6-4aea-b855-ae8a2b750c09",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-04-09",
+    "title_eng": "Method and apparatus for measuring bio signal",
+    "title_kor": "Method and apparatus for measuring bio signal",
+    "author_kor": "조재걸; 김광춘; 김재필; 민진홍; 백현재; 신항식",
+    "author_eng": "Jaegeol Cho; Kwangchoon Kim; Jaepil Kim; Jinhong Min; Hyunjae Baek; Hangsik Shin",
+    "author_ids": [
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "87cf7e69-dd97-4ac4-97d6-162acf858278",
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "39afba78-7e6f-4ac0-8bc0-6d363ac3398e",
+      "52c800ad-007d-46f1-98ab-3ac1dad2f4a3",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "9d09de27-1ce8-49c2-89a8-e38ba6270718",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-12-31",
+    "title_eng": "Electronic apparatus and method of outputting content by the electronic apparatus",
+    "title_kor": "전자장치와 전자장치에 의해 콘탠츠를 출력하는 방법",
+    "author_kor": "고재우; 신항식; 박세준; 김도영",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park; Do-young Kim",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1",
+      "ff2d7766-ad0b-435d-9009-99202178bb34"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "e7e11587-a311-4743-9a43-0b78bdf5bb18",
+    "category": "patent",
+    "class": "International",
+    "date": "2019-12-30",
+    "title_eng": "Electronic apparatus and method of outputting content by the electronic apparatus",
+    "title_kor": "전자장치와 전자장치에 의해 콘탠츠를 출력하는 방법",
+    "author_kor": "고재우; 신항식; 박세준; 김도영",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park; Do-young Kim",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1",
+      "ff2d7766-ad0b-435d-9009-99202178bb34"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "06c2622b-c8f0-4002-8367-e4abb388bd4b",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-08-16",
+    "title_eng": "A method and apparauts for classifying pain using photoplethysmograph",
+    "title_kor": "광용적맥파를 이용한 통증 분류 방법 및 장치",
+    "author_kor": "신항식; 노규정; 최병문",
+    "author_eng": "Hangsik Shin; Gyujeong Noh; Byungmoon Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "79ae23d8-345a-4892-8b9c-a76bebdac22f",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-12-24",
+    "title_eng": "A method and apparatus for estimating mean arterial pressure based on pressure and pulse wave",
+    "title_kor": "압력 및 맥파에 기반한 평균동맥압 추정 방법 및 장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "514d1cbd-e81d-4e09-b18f-560370223af7",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-02-13",
+    "title_eng": "A method and apparatus for detecting awakening and respiration rate based on force-sensor",
+    "title_kor": "힘 센서에 기반하여 각성 및 호흡률을 검출하기 위한 방법 및 장치",
+    "author_kor": "신항식; 박수지",
+    "author_eng": "Hangsik Shin; Sooji park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "91d8fa78-0a32-4cd9-a9c3-53088c5e23af",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2018-06-27",
+    "title_kor": "의료용 다파장 광센서",
+    "author_kor": "신항식; 한상진; 노동근",
+    "author_eng": "Hangsik Shin; Sangjin Han; Donggeun Rho",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "2b1cd5f3-5a7b-4c63-8ed1-de76674ec1fe",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2018-06-27",
+    "title_eng": "의료용 다파장 광센서",
+    "title_kor": "의료용 다파장 광센서",
+    "author_kor": "신항식; 한상진; 노동근",
+    "author_eng": "Hangsik Shin; Sangjin Han; Donggeun Rho",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "14b7e784-59f2-4cb4-afa2-b8af7852eb1f",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-12-26",
+    "title_kor": "신호 동기화 프로그램",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "ff121d60-95ee-497e-8011-a4daa436c111",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-05-09",
+    "title_kor": "생체 신호 데이터 수집 프로그램",
+    "author_kor": "이예준; 신항식; 최아영",
+    "author_eng": "Yejoon Lee; Hangsik Shin; Ahyoung Choi",
+    "author_ids": [
+      "2a2c8f88-106c-47e8-8b34-dedb68c5336c",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "5b39433f-f2c8-48c7-98cf-674187971ea2",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-05-09",
+    "title_kor": "생체 신호 데이터 모니터링 플랫폼",
+    "author_kor": "노상우; 신항식; 최아영",
+    "author_eng": "Sangwoo Noh; Hangsik Shin; Ahyoung Choi",
+    "author_ids": [
+      "56c27a6c-adf7-4745-bbf7-2ececf7882ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "cf902e18-ee4c-4441-a0fd-04b24eed7126",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-09-10",
+    "title_kor": "삼각화된 맥파 신호의 박동별 넓이 계산 프로그램",
+    "author_kor": "신항식; 석현석",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "af1d6dc1-648f-45ef-bab6-c92268a72889",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-09-10",
+    "title_kor": "맥파의 특정 진폭에 대한 박동 폭 계산 프로그램",
+    "author_kor": "신항식; 석현석",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "7e40d3eb-6f2f-4a45-9852-c3adf6e97cbb",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-09-10",
+    "title_kor": "맥파 신호의 박동별 수축기 및 이완기 분석 프로그램",
+    "author_kor": "신항식; 석현석",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "ae66efe3-9686-40f9-bd3e-75b24474e763",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-09-10",
+    "title_kor": "맥파 신호의 박동별 넓이 계산 프로그램",
+    "author_kor": "신항식; 석현석; 양윤라",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok; Yoon La Yang",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "a691aef4-64f5-4a9f-bc5c-d837ef24d675",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-09-10",
+    "title_kor": "맥파 신호의 박동별 기울기 분석 프로그램",
+    "author_kor": "신항식; 석현석; 양윤라",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok; Yoon La Yang",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "6e686801-99ff-4b90-a9b1-32cd96efab3a",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-09-10",
+    "title_kor": "맥파 신호의 맥동별 진폭 계산 프로그램",
+    "author_kor": "신항식; 석현석",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "8225997e-933e-4540-9150-2875fe7193c7",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-05-17",
+    "title_kor": "다중 배열 요골동맥압 시뮬레이터",
+    "author_kor": "신항식; 노동근",
+    "author_eng": "Hangsik Shin; Donggeun Rho",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "b40c1ec1-a45b-4671-800d-c034093b539e",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2018-01-22",
+    "title_eng": "System for measuring bio signal usingmulti channel piezoelectric sensor of film",
+    "title_kor": "필름형 다채널 압전 센서를 이용한 생체신호 측정 시스템",
+    "author_kor": "신항식; 박수지",
+    "author_eng": "Hangsik Shin; Sooji park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "1c8967a4-084e-4e20-99e0-2359c6b100c3",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2018-03-05",
+    "title_eng": "Multi-wavelength light sensing device",
+    "title_kor": "다파장 광 감지장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "fd045e78-e34c-4a19-989c-2b0d497ae278",
+    "category": "patent",
+    "class": "International",
+    "date": "2018-10-30",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "42d70b9f-7458-43f1-8a1f-7d24195296be",
+    "category": "patent",
+    "class": "International",
+    "date": "2018-05-16",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "7e1ffe17-e7a1-4972-b742-8b8adbe39f33",
+    "category": "patent",
+    "class": "International",
+    "date": "2018-10-19",
+    "title_eng": "Method of executing application and terminal using the method",
+    "title_kor": "Method of executing application and terminal using the method",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "a5df538c-e89d-485d-a409-8b0930690ccf",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2018-08-18",
+    "title_eng": "Method for generating of state classifier and for deciding walking state using the same",
+    "title_kor": "상태 분류기 생성 방법 및 이를 이용한 보행상태 판단 방법",
+    "author_kor": "신항식; 이준석; 박수지",
+    "author_eng": "Hangsik Shin; Jun Seok Lee; Sooji park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "073fb747-b728-44fe-b000-4a9bba6c199d",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2018-08-08",
+    "title_eng": "Method for executing application and terminal thereof",
+    "title_kor": "애플리케이션 실행 방법 및 이를 위한 단말",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "afda268c-deee-4684-8d20-b31b5491acc9",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2018-11-06",
+    "title_eng": "Method and apparatus of converting color for color vision defectives",
+    "title_kor": "색각 이상자를 위한 색 변환 방법 및 장치",
+    "author_kor": "안성주; 고성제; 박정훈; 신항식; 김현지; 정재윤; 유현국",
+    "author_eng": "Sungjoo Ahn; Sungjea Ko; Junghoon Park; Hangsik Shin; Hyunji Kim; Jaeyun Jeong; Hyungok Yoo",
+    "author_ids": [
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "58781275-5ce2-476d-b58f-73f66081f973",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "95e28776-4d0d-4ed0-b15f-497367250ffe",
+      "f93cb6ad-8ab3-4ffa-97f7-d806961d6296",
+      "7e245481-d9e7-4e64-b771-18739a464f6d"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "1014ab12-104c-4e98-bc20-31b12399eee7",
+    "category": "patent",
+    "class": "International",
+    "date": "2018-07-20",
+    "title_eng": "Method and apparatus for executing application in device",
+    "title_kor": "Method and apparatus for executing application in device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "1b069a3a-78ff-4fdc-805b-4afefaa82f3c",
+    "category": "patent",
+    "class": "International",
+    "date": "2018-01-30",
+    "title_eng": "Method and apparatus for executing application in device",
+    "title_kor": "Method and apparatus for executing application in device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "c00ed65c-19db-4a71-9854-9862a187e978",
+    "category": "patent",
+    "class": "International",
+    "date": "2018-08-01",
+    "title_eng": "Connecting two devices",
+    "title_kor": "Connecting two devices",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "d2a2143c-32da-4592-8a88-03a04c9e2a35",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2018-05-18",
+    "title_eng": "Apparatus and method for providing interface in device with touch screen",
+    "title_kor": "터치 스크린을 구비한 기기의 인터페이스 제공 장치 및 방법",
+    "author_kor": "신항식; 박정훈; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "c57f8a8e-8946-412a-9fe6-bff46a0a2445",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-05-23",
+    "title_kor": "호흡 특성 분석 프로그램",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "29824644-1d7f-412a-a28b-37a96b8d3609",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-05-23",
+    "title_kor": "준주기신호 극점 검출을 위한 MATLAB(매트랩) 함수",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "242b6189-7a85-488e-9360-bb9cc41e745f",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-05-23",
+    "title_kor": "심전도 QRS(큐-알-에스)검출을 위한 MATLAB(매트랩) 함수",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "95bfaba0-a72a-464b-8d17-946dcd114116",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-12-21",
+    "title_kor": "실시간 압력파형 디스플레이를 위한 안드로이드 어플리케이션",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "706bbe7c-5241-4f5a-9f41-25d8931256cb",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-05-23",
+    "title_kor": "맥파도달시간(Pulse Transit Time) 측정을 위한 심전도, 광용적맥파(ECG, PPG) 극점 검출 및 교정 프로그램",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "6d20674d-3dce-4932-bdc5-3c6c33004da6",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-05-23",
+    "title_kor": "두 표본간 정규성 검정, 등분산 검정, 가설검정을 위한 One-step GUI(원스텝 그래픽유저인터페이스)",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "fa9fe87d-4391-43bc-9da8-697a5bac80ec",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-11-22",
+    "title_kor": "다파장 광용적맥파 데이터 수집 및 표시를 위한 프로그램",
+    "author_kor": "신항식; 조진우; 최아영",
+    "author_eng": "Hangsik Shin; Jinwoo Jo; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "b438a16a-5733-4601-b886-e6e78bce2fae",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "dc99c9d7-e837-410e-b15a-43a4609a09fa",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-11-24",
+    "title_kor": "다파장 광용적맥파 데이터 수집 및 표시를 위한 매트랩 프로그램",
+    "author_kor": "신항식; 조진우; 최아영",
+    "author_eng": "Hangsik Shin; Jinwoo Jo; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "b438a16a-5733-4601-b886-e6e78bce2fae",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "804e6d84-ed95-4741-995c-705589901995",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2017-06-16",
+    "title_eng": "Unconstrained type bio signal measuring sensor and bio signal measuring system having the same",
+    "title_kor": "무구속적 생체신호 측정센서 및 이를 포함하는 생체신호 측정시스템",
+    "author_kor": "신항식; 박수지",
+    "author_eng": "Hangsik Shin; Sooji park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "8b91c30e-08d5-40d4-ab97-409106b5a951",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2017-11-27",
+    "title_eng": "System and program for evaluating cardiovascular function based on interaction between smart device and wearable device",
+    "title_kor": "스마트 기기 및 웨어러블 디바이스 인터렉션 기반 심혈관 평가 시스템 및 심혈관 평가 프로그램",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "9c540e3f-7dae-4b9a-b68a-787299c1058e",
+    "category": "patent",
+    "class": "International",
+    "date": "2017-12-12",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "2435e0cf-ebb5-463f-a4b8-f091646a8c07",
+    "category": "patent",
+    "class": "International",
+    "date": "2017-11-02",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "e111aed9-2e59-4011-8af0-cc7e560b2a59",
+    "category": "patent",
+    "class": "International",
+    "date": "2017-08-01",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "고재우; 신항식; 박세준; 김양욱; 천해인; 정재호",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park; Yangwook Kim; Haein Chun; Jaeho Jung",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1",
+      "ae26dc01-50c2-4bd4-827c-75c5b0a45255",
+      "6087851f-34e1-47bc-ac70-223bbc0b9f35",
+      "3781bf3e-a884-453b-b569-b5b28d3d621b"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "aa3783be-2aaa-4551-8eaf-8b0462b798f1",
+    "category": "patent",
+    "class": "International",
+    "date": "2017-07-20",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "고재우; 신항식; 박세준; 김양욱; 천해인; 정재호",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park; Yangwook Kim; Haein Chun; Jaeho Jung",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1",
+      "ae26dc01-50c2-4bd4-827c-75c5b0a45255",
+      "6087851f-34e1-47bc-ac70-223bbc0b9f35",
+      "3781bf3e-a884-453b-b569-b5b28d3d621b"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "5675ca89-8271-4bfe-acb7-60dafd9eb166",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2017-11-17",
+    "title_eng": "System and method for estimating blood pressure based on deep learning",
+    "title_kor": "딥러닝 기반의 혈압 예측 시스템 및 방법",
+    "author_kor": "최아영; 신항식; 조진우",
+    "author_eng": "Ahyoung Choi; Hangsik Shin; Jinwoo Jo",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "b438a16a-5733-4601-b886-e6e78bce2fae"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "e8a8ba30-7a65-4f65-9da9-4ebbd0d469ba",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-05-23",
+    "title_kor": "S5(에스5) 환자감시장치에서 추출된 심전도, 맥파의 극점 추출을 위한 프로그램",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "46c9d64e-c318-44fe-bde2-ea0062568cc3",
+    "category": "patent",
+    "class": "International",
+    "date": "2017-08-22",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "145b7958-245f-4ef7-81ca-d0beadbb3c4c",
+    "category": "patent",
+    "class": "International",
+    "date": "2017-07-06",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "91b697e3-caa1-4476-9a68-14ddac799d24",
+    "category": "patent",
+    "class": "International",
+    "date": "2017-04-25",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "9e6970cc-2a43-4fea-927e-8877f0eef78a",
+    "category": "patent",
+    "class": "International",
+    "date": "2017-04-26",
+    "title_eng": "Method and apparatus for executing an application in a device",
+    "title_kor": "Method and apparatus for executing an applicatin in a device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "7aa861c5-a993-4898-88a3-3875b0143bcf",
+    "category": "patent",
+    "class": "International",
+    "date": "2017-03-28",
+    "title_eng": "METHOD AND DEVICE FOR EXECUTING APPLICATION",
+    "title_kor": "METHOD AND DEVICE FOR EXECUTING APPLICATION",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "4869b5bf-4dc1-422c-86ac-2ee4ca425911",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2017-09-20",
+    "title_eng": "Finger movement recognition glove and method using conductive coated material",
+    "title_kor": "전도성 소재를 이용한 손가락 동작 인식 장갑 및 그 방법",
+    "author_kor": "신항식; 김대은; 박정훈; 이재홍; 안성주; 정은석",
+    "author_eng": "Hangsik Shin; Dae-eun Kim; Junghoon Park; Jaehong Lee; Sungjoo Ahn; Eunseak Jung",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "a23af44c-15d6-4db1-a3f1-45bcdf51b3e4",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "85046567-bdc1-405e-8e6a-daefc301736a",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "d45f506d-da87-4f6d-a11e-6d652d5d3f6c"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "92d829e3-8366-45f3-ada8-2eb985ed1d03",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2017-10-18",
+    "title_eng": "Contactless height measuring method based on image and system thereof",
+    "title_kor": "영상에 기반한 비접촉 신장 측정 방법 및 그 시스템",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "97807d3a-66c7-438e-b7fc-9706140b1b07",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2017-12-11",
+    "title_eng": "Biosignal monitoring system using multi-channel sensor patch",
+    "title_kor": "다채널 센서를 이용한 생체 신호 모니터링 시스템",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "b31099a0-1657-49f8-b5cc-c1499e09f651",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-12-21",
+    "title_kor": "2채널 실시간 데이터 수집 및 표시를 위한 프로그램",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "6eb2419f-8d29-4460-9252-ab3ce28432bd",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2016-06-28",
+    "title_kor": "심박변이도 주파수영역 분석을 위한 Matlab(매트랩) 라이브러리",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "b0143141-c911-4df2-b005-a7fa294dd2a8",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2016-06-28",
+    "title_kor": "심박변이도 시간영역 분석을 위한 Matlab(매트랩) 라이브러리",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "1ace171b-11ab-45be-8fbf-1480aeaf69e3",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2016-11-04",
+    "title_eng": "Wearable appaaratus, server, system, and method for extracting parameters of cardiovascular",
+    "title_kor": "웨어러블 생체신호측정 기기, 서버, 시스템 및 방법",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "ebced44e-8f92-490d-8b87-b5256925d34d",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2016-06-21",
+    "title_eng": "Quasi-periodic signal pole detection method of quasi-periodic signal and program thereof",
+    "title_kor": "준주기 신호의 실시간 극점 검출 방법 및 그 프로그램",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "4510f362-178e-4e55-9f02-9357298d3e41",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2016-12-30",
+    "title_eng": "Multi-channel capacitive pressure sensor",
+    "title_kor": "다채널 정전용량 압력 센서",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "11f1d4c1-6f26-45dc-a0fa-65395d1cfa90",
+    "category": "patent",
+    "class": "International",
+    "date": "2016-01-07",
+    "title_eng": "Method of executing application and terminal using the method",
+    "title_kor": "Method of executing application and terminal using the method",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "d82cdf15-8385-419c-bfa2-1893f6ed1c79",
+    "category": "patent",
+    "class": "International",
+    "date": "2016-01-07",
+    "title_eng": "Method of executing application and terminal using the method",
+    "title_kor": "Method of executing application and terminal using the method",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "2a8e9c18-bae6-4ce3-b843-075c4ad6e42f",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2016-08-23",
+    "title_eng": "Method for real-time QRS-complex detection and program thereof",
+    "title_kor": "실시간 QRS파 검출 방법 및 그 프로그램",
+    "author_kor": "신항식; 김진권",
+    "author_eng": "Hangsik Shin; Jinkwon Kim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "aeb9a6cf-3223-4406-aa7e-554c059c5aeb",
+    "category": "patent",
+    "class": "International",
+    "date": "2016-03-01",
+    "title_eng": "Method and divice for excuting application",
+    "title_kor": "Method and divice for excuting application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "324b1e7e-65dd-4b94-8bdc-4a38c4c663ee",
+    "category": "patent",
+    "class": "International",
+    "date": "2016-01-29",
+    "title_eng": "Method and divice for excuting application",
+    "title_kor": "Method and divice for excuting application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "9631348b-4e15-4d25-9c48-83eb49abb163",
+    "category": "patent",
+    "class": "International",
+    "date": "2016-10-12",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "c6368e46-7270-41e1-8393-1bb5c36244a9",
+    "category": "patent",
+    "class": "International",
+    "date": "2016-05-27",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "c1c7efe5-cdd5-4581-a855-e38b38223bda",
+    "category": "patent",
+    "class": "International",
+    "date": "2016-10-05",
+    "title_eng": "Method and apparatus for measuring bio signal",
+    "title_kor": "Method and apparatus for measuring bio signal",
+    "author_kor": "조재걸; 김광춘; 김재필; 민진홍; 백현재; 신항식",
+    "author_eng": "Jaegeol Cho; Kwangchoon Kim; Jaepil Kim; Jinhong Min; Hyunjae Baek; Hangsik Shin",
+    "author_ids": [
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "87cf7e69-dd97-4ac4-97d6-162acf858278",
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "39afba78-7e6f-4ac0-8bc0-6d363ac3398e",
+      "52c800ad-007d-46f1-98ab-3ac1dad2f4a3",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "e3a0f951-a861-4ea5-8a7a-531046c06974",
+    "category": "patent",
+    "class": "International",
+    "date": "2016-05-24",
+    "title_eng": "Method and apparatus for measuring bio signal",
+    "title_kor": "Method and apparatus for measuring bio signal",
+    "author_kor": "조재걸; 김광춘; 김재필; 민진홍; 백현재; 신항식",
+    "author_eng": "Jaegeol Cho; Kwangchoon Kim; Jaepil Kim; Jinhong Min; Hyunjae Baek; Hangsik Shin",
+    "author_ids": [
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "87cf7e69-dd97-4ac4-97d6-162acf858278",
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "39afba78-7e6f-4ac0-8bc0-6d363ac3398e",
+      "52c800ad-007d-46f1-98ab-3ac1dad2f4a3",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "fa0a8f20-8d75-4964-b3e0-58828b25e8f1",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2016-01-12",
+    "title_eng": "Display of a handheld terminal with graphical user interface",
+    "title_kor": "Display of a handheld terminal with graphical user interface",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "a6eda51e-ce65-4e50-a1e9-429dba45992f",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2016-04-25",
+    "title_eng": "Contactless height measuring method based on image and system thereof",
+    "title_kor": "영상에 기반한 비접촉 신장 측정 방법 및 그 시스템",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "b085a216-3143-4945-bc56-ea333b5f4d1b",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2016-07-29",
+    "title_eng": "Braille input and output device",
+    "title_kor": "점자 입출력 장치",
+    "author_kor": "신항식; 박정훈; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "d370bcba-01f1-4ced-a546-740e85b13027",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2016-05-16",
+    "title_eng": "Biosignal monitoring system using multi-channel sensor patch",
+    "title_kor": "다채널 센서를 이용한 생체 신호 모니터링 시스템",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "fe9e31fd-20ff-49ec-9388-4742b1045656",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2015-04-24",
+    "title_eng": "Wearable appaaratus, server, system, and method for extracting parameters of cardiovascular",
+    "title_kor": "웨어러블 생체신호측정 기기, 서버, 시스템 및 방법",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "076319c8-b335-4cc8-b0c8-3c936acd600f",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2015-06-22",
+    "title_eng": "System and program for evaluating cardiovascular function based on interaction between smart device and wearable device",
+    "title_kor": "스마트 기기 및 웨어러블 디바이스 인터렉션 기반 심혈관 평가 시스템 및 심혈관 평가 프로그램",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "688e106f-8bee-42b9-8984-62dcbda7358b",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-05-13",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "fb15668c-e740-44a8-8ddb-b449ff12c9e8",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-04-06",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "고재우; 신항식; 박세준; 김양욱; 천해인; 정재호",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park; Yangwook Kim; Haein Chun; Jaeho Jung",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1",
+      "ae26dc01-50c2-4bd4-827c-75c5b0a45255",
+      "6087851f-34e1-47bc-ac70-223bbc0b9f35",
+      "3781bf3e-a884-453b-b569-b5b28d3d621b"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "ab9facc4-ae3f-4d2f-85e6-00322e62feb6",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-03-05",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "c0ad3b45-ac85-4525-9ace-c3f0c3fd8628",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-03-04",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "ac8ae4e3-e8f7-44ac-8805-9e412688251e",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2015-09-17",
+    "title_eng": "Quasi-periodic signal pole detection method of quasi-periodic signal and program thereof",
+    "title_kor": "준주기 신호의 실시간 극점 검출 방법 및 그 프로그램",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "f56aab27-6a2d-4d32-985d-0e7e9dc99971",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2015-09-08",
+    "title_eng": "Portable electronic device with animated GUI",
+    "title_kor": "Portable electronic device with animated GUI",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "6fcae3c0-d570-4cf6-8744-8cc4617bbf26",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2015-08-25",
+    "title_eng": "Portable electronic device with animated GUI",
+    "title_kor": "Portable electronic device with animated GUI",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "09459841-56f8-4ff9-b35f-85f2d25fc568",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2015-03-17",
+    "title_eng": "Portable electronic device with an animated graphical user interface",
+    "title_kor": "Portable electronic device with an animated graphical user interface",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "905a5ea4-9228-49c8-9102-8e87b3a7bde7",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2015-03-17",
+    "title_eng": "Portable electronic device with a graphical user interface",
+    "title_kor": "Portable electronic device with a graphical user interface",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "89186b99-3c56-4b0c-a82f-ef27cac950ee",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2015-09-22",
+    "title_eng": "Portable electronic device with GUI",
+    "title_kor": "휴대용 전자장치 GUI",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "791d3c60-fc61-4ac9-a01e-23a09f22b89f",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2015-09-22",
+    "title_eng": "Portable electronic device with GUI",
+    "title_kor": "Portable electronic device with GUI",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "c3e80893-1c76-4f1e-a8ad-923e0ae118be",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-01-30",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "a5660f33-7948-42ec-8699-60d1a103e749",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-06-24",
+    "title_eng": "Method of managing external devices method of operating external device host device anagement server and external device",
+    "title_kor": "Method of managing external devices method of operating external device host device anagement server and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "e8d267e3-5eaa-42e1-b354-8ade35c6bc3f",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2015-03-06",
+    "title_eng": "Method of executing application and terminal using the method",
+    "title_kor": "Method of executing application and terminal using the method",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "064e5412-7e34-4365-94fa-0f1b0eb3296a",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2015-08-04",
+    "title_eng": "Method for real-time QRS-complex detection and program thereof",
+    "title_kor": "실시간 QRS파 검출 방법 및 그 프로그램",
+    "author_kor": "신항식; 김진권",
+    "author_eng": "Hangsik Shin; Jinkwon Kim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "cd0381b1-d804-4603-b4c7-1744fab9ab1c",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-12-03",
+    "title_eng": "Method and divice for excuting application",
+    "title_kor": "Method and divice for excuting application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "234961bc-084b-44f1-9553-a4ca9f9a685c",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-05-13",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "6b331d2a-9732-4be4-9f9b-808a9b5bee17",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-03-05",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "f97659e2-e136-47ed-8c6c-b17dce7a9530",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-03-04",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "e043aa68-eca0-4e79-825a-e0533558504f",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-05-28",
+    "title_eng": "Method and apparatus for measuring bio signal",
+    "title_kor": "Method and apparatus for measuring bio signal",
+    "author_kor": "조재걸; 김광춘; 김재필; 민진홍; 백현재; 신항식",
+    "author_eng": "Jaegeol Cho; Kwangchoon Kim; Jaepil Kim; Jinhong Min; Hyunjae Baek; Hangsik Shin",
+    "author_ids": [
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "87cf7e69-dd97-4ac4-97d6-162acf858278",
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "39afba78-7e6f-4ac0-8bc0-6d363ac3398e",
+      "52c800ad-007d-46f1-98ab-3ac1dad2f4a3",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "3877be5b-b94f-40d6-9ff4-fdc6f07e70cb",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-05-13",
+    "title_eng": "Method and apparatus for executing application in device",
+    "title_kor": "Method and apparatus for executing application in device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "a30f93ec-1a92-4519-bfed-4425bc17a1f0",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-04-02",
+    "title_eng": "Method and apparatus for executing application in device",
+    "title_kor": "Method and apparatus for executing application in device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "0ca83652-49a5-4f2e-94fd-a4a7ce1600a6",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2015-04-28",
+    "title_eng": "Graphical user interface for a display screen or portion thereof",
+    "title_kor": "Graphical user interface for a display screen or portion thereof",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "da33dbec-940a-46ce-8d1c-b517f5c42a31",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-06-18",
+    "title_eng": "Electronic apparatus and method of outputting content by the electronic apparatus",
+    "title_kor": "전자장치와 전자장치에 의해 콘탠츠를 출력하는 방법",
+    "author_kor": "고재우; 신항식; 박세준; 김도영",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park; Do-young Kim",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1",
+      "ff2d7766-ad0b-435d-9009-99202178bb34"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "26c7446b-514c-4ace-be2a-1d9caf0844d6",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2014-11-04",
+    "title_eng": "Tablet PC with graphical user interface",
+    "title_kor": "Tablet PC with graphical user interface",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "334c47ba-4f8f-4dc8-a1a2-da539ef89afd",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-03-13",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "0777f505-ec8b-4cff-8137-9d1905e374ed",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-03-13",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "58871efe-f308-4d83-8d5f-ce484d399c76",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2014-03-19",
+    "title_eng": "System and method for controlling external apparatus connected with device",
+    "title_kor": "디바이스에 연결된 외부 기기를 제어하는 시스템 및 방법",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "20233c1c-befd-4fc1-90bc-c805a5969810",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2014-11-25",
+    "title_eng": "Portable electronic device with an animated graphical user interface",
+    "title_kor": "Portable electronic device with an animated graphical user interface",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "fb0bd990-4d76-42cf-9dd7-6e7719536991",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2014-11-25",
+    "title_eng": "Portable electronic device with an animated graphical user interface",
+    "title_kor": "Portable electronic device with an animated graphical user interface",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "45b2ffb1-500c-4818-b649-0410e30664ab",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2014-12-09",
+    "title_eng": "Portable electronic device displaying graphical user interface",
+    "title_kor": "Portable electronic device displaying graphical user interface",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "a5f8b403-f6d8-45bb-a9c9-3ef2c8101590",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2014-12-09",
+    "title_eng": "Portable electronic device displaying graphical user interface",
+    "title_kor": "Portable electronic device displaying graphical user interface",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "2e9bd27e-aabb-44ac-9f62-78b856006e2e",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2014-12-02",
+    "title_eng": "Portable electronic device displaying graphic user interface",
+    "title_kor": "Portable electronic device displaying graphic user interface",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "faf53eb3-658f-40d3-8081-5d0f195708d9",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-12-01",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "3d49e7b6-9a28-4cf8-83bb-75d2c2d23cdb",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-06-26",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "c79c4d35-f859-4070-8828-5e9ae5f02326",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-06-18",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "750f08d1-3d6d-4a81-b16a-6cdad361992a",
+    "category": "patent",
+    "class": "Unknown",
+    "date": "2014-06-19",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "07213226-65b1-4d66-b8d5-2d272faca10d",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-03-26",
+    "title_eng": "Method of executing application and terminal using the method",
+    "title_kor": "Method of executing application and terminal using the method",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "17cf7da5-5fe5-4924-8426-9ed24594f743",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-03-20",
+    "title_eng": "Method of executing application and terminal using the method",
+    "title_kor": "Method of executing application and terminal using the method",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "c013c855-e9a4-4045-8812-d9167fcf817f",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-03-13",
+    "title_eng": "Method of executing application and terminal using the method",
+    "title_kor": "Method of executing application and terminal using the method",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "aaa38bea-cdf4-40b9-beef-1c914dc6f85d",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-03-13",
+    "title_eng": "Method and divice for excuting application",
+    "title_kor": "Method and divice for excuting application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "995c025f-33c1-4953-b504-6a0bdaf846f6",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-03-13",
+    "title_eng": "Method and divice for excuting application",
+    "title_kor": "Method and divice for excuting application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "fc147ac9-9670-4c17-b1a4-744b0e1d4c4f",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-03-12",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "492de833-35ad-4c3f-a6bd-7521b90dfdd1",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-03-11",
+    "title_eng": "Method and appratus for measuring bio signal",
+    "title_kor": "Method and appratus for measuring bio signal",
+    "author_kor": "조재걸; 김광춘; 김재필; 민진홍; 백현재; 신항식",
+    "author_eng": "Jaegeol Cho; Kwangchoon Kim; Jaepil Kim; Jinhong Min; Hyunjae Baek; Hangsik Shin",
+    "author_ids": [
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "87cf7e69-dd97-4ac4-97d6-162acf858278",
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "39afba78-7e6f-4ac0-8bc0-6d363ac3398e",
+      "52c800ad-007d-46f1-98ab-3ac1dad2f4a3",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "93435d72-55a9-4dc7-a7dd-0a7a3b9c7e0b",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-03-11",
+    "title_eng": "Method and apparatus for measuring bio signal",
+    "title_kor": "Method and apparatus for measuring bio signal",
+    "author_kor": "조재걸; 김광춘; 김재필; 민진홍; 백현재; 신항식",
+    "author_eng": "Jaegeol Cho; Kwangchoon Kim; Jaepil Kim; Jinhong Min; Hyunjae Baek; Hangsik Shin",
+    "author_ids": [
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "87cf7e69-dd97-4ac4-97d6-162acf858278",
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "39afba78-7e6f-4ac0-8bc0-6d363ac3398e",
+      "52c800ad-007d-46f1-98ab-3ac1dad2f4a3",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "2f1ab0cd-b4a9-496c-bc9b-13c79d2c5db1",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-03-11",
+    "title_eng": "Method and apparatus for measuring bio signal",
+    "title_kor": "Method and apparatus for measuring bio signal",
+    "author_kor": "조재걸; 김광춘; 김재필; 민진홍; 백현재; 신항식",
+    "author_eng": "Jaegeol Cho; Kwangchoon Kim; Jaepil Kim; Jinhong Min; Hyunjae Baek; Hangsik Shin",
+    "author_ids": [
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "87cf7e69-dd97-4ac4-97d6-162acf858278",
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "39afba78-7e6f-4ac0-8bc0-6d363ac3398e",
+      "52c800ad-007d-46f1-98ab-3ac1dad2f4a3",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "815d5b3b-47cc-4142-b575-013cbf49dc7e",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-03-11",
+    "title_eng": "Method and apparatus for measuring bio signal",
+    "title_kor": "Method and apparatus for measuring bio signal",
+    "author_kor": "조재걸; 김광춘; 김재필; 민진홍; 백현재; 신항식",
+    "author_eng": "Jaegeol Cho; Kwangchoon Kim; Jaepil Kim; Jinhong Min; Hyunjae Baek; Hangsik Shin",
+    "author_ids": [
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "87cf7e69-dd97-4ac4-97d6-162acf858278",
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "39afba78-7e6f-4ac0-8bc0-6d363ac3398e",
+      "52c800ad-007d-46f1-98ab-3ac1dad2f4a3",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "81643142-be4d-4fb4-9e46-f549e47c4c9c",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-03-13",
+    "title_eng": "Method and apparatus for executing application in device",
+    "title_kor": "Method and apparatus for executing application in device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "be255815-b2c7-4b16-81a2-6fc58184e037",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-03-13",
+    "title_eng": "Method and apparatus for executing application in device",
+    "title_kor": "Method and apparatus for executing application in device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "b038f7c1-6a41-4478-bae6-9d758b6a7935",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-01-30",
+    "title_eng": "Finger motion recognition glove using conductive materials and method thereof",
+    "title_kor": "Finger motion recognition glove using conductive materials and method thereof",
+    "author_kor": "신항식; 박정훈; 안성주; 김대은; 이재홍; 정은석",
+    "author_eng": "Hangsik Shin; Junghoon Park; Sungjoo Ahn; Dae-eun Kim; Jaehong Lee; Eunseak Jung",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "a23af44c-15d6-4db1-a3f1-45bcdf51b3e4",
+      "85046567-bdc1-405e-8e6a-daefc301736a",
+      "d45f506d-da87-4f6d-a11e-6d652d5d3f6c"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "c1c4c2fb-6617-4975-a757-19b3ca922e08",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-01-16",
+    "title_eng": "Color transformation method and apparatus for person with color vision defect",
+    "title_kor": "Color transformation method and apparatus for person with color vision defect",
+    "author_kor": "안성주; 고성제; 박정훈; 신항식; 김현지; 정재윤; 유현국",
+    "author_eng": "Sungjoo Ahn; Sungjea Ko; Junghoon Park; Hangsik Shin; Hyunji Kim; Jaeyun Jeong; Hyungok Yoo",
+    "author_ids": [
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "58781275-5ce2-476d-b58f-73f66081f973",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "95e28776-4d0d-4ed0-b15f-497367250ffe",
+      "f93cb6ad-8ab3-4ffa-97f7-d806961d6296",
+      "7e245481-d9e7-4e64-b771-18739a464f6d"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "41140e2b-38bb-448e-8402-02ddc442628a",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-10",
+    "title_eng": "System and method of controlling external device connected with device",
+    "title_kor": "System and method of controlling external device connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "31f4edc5-c762-4e8a-896a-cb363ead7ae9",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-10",
+    "title_eng": "System and method of controlling external device connected with device",
+    "title_kor": "System and method of controlling external device connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "5818489d-1311-4e9e-89c2-0947c389b792",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-10",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "3e026269-a001-4323-915a-b31a3207a109",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-10",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "46115f1f-ca76-43b5-8af1-72926a01ff4b",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-10",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "98ef4f84-c11a-4cbc-a9e4-0a412d54001b",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-10",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "dae945a7-85c9-468b-b0e0-d0c08f6624a4",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-12-17",
+    "title_eng": "Method of managing external devices, method of perating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of perating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "607ce126-6bff-4b54-ad4a-33468d5a5ee2",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-12-17",
+    "title_eng": "Method of managing external devices, method of perating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of perating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "6752c8a1-cba8-4817-9d29-6fdc796d68d4",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-12-17",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "865ace72-e098-47f6-a321-67bb52d27d6e",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-12-17",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "751eb2e8-5916-4465-8c7b-3de4d2a9880e",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-12-13",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "6f4ed803-7144-488d-bc04-be020adeab41",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-12-13",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "c58208c8-85ac-4612-adcf-2a913c93bb72",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-12-13",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "33669679-e21a-4d07-ad5a-729fb0b7bd5c",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-09",
+    "title_eng": "Method of executing application and terminal using the method",
+    "title_kor": "Method of executing application and terminal using the method",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "7653319e-7fb9-4270-86f1-6774755d72d4",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-09",
+    "title_eng": "Method of executing application and terminal using the method",
+    "title_kor": "Method of executing application and terminal using the method",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "cccb7f47-5f34-4976-8477-70393a91d2b3",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-06",
+    "title_eng": "Method of executing application and terminal using the method",
+    "title_kor": "Method of executing application and terminal using the method",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "546ba86a-c67f-4ec3-8326-67a73afcdfc7",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-06",
+    "title_eng": "Method of executing application and terminal using the method",
+    "title_kor": "Method of executing application and terminal using the method",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "4ff40411-5ae5-4c5a-a92b-4f54ffe54025",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-05",
+    "title_eng": "Method of executing application and terminal using the method",
+    "title_kor": "Method of executing application and terminal using the method",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "85d334ab-fe47-4015-8c9c-72fac0b35e1b",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-05",
+    "title_eng": "Method of executing application and terminal using the method",
+    "title_kor": "Method of executing application and terminal using the method",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "52299952-e5e3-4fec-9706-ce91a8ac54f4",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2013-05-09",
+    "title_eng": "Method for managing of external devices, method for operating of an external device, host device, management server, and the external device",
+    "title_kor": "외부 기기 관리 방법, 외부 기기의 동작 방법, 호스트 단말, 관리 서버 및 외부 기기",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "d3f832f0-ffb4-4ea7-8af2-826a59ac1bef",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-10",
+    "title_eng": "Method and divice for excuting application",
+    "title_kor": "Method and divice for excuting application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "609008db-5d8d-4a3b-916c-2cbfd22a93ce",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-09",
+    "title_eng": "Method and divice for excuting application",
+    "title_kor": "Method and divice for excuting application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "8cab7acf-951d-4df6-83e9-0c9b33af7647",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-09",
+    "title_eng": "Method and divice for excuting application",
+    "title_kor": "Method and divice for excuting application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "c7dc9223-9b7b-47dd-9a0e-86a878c1708f",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-09",
+    "title_eng": "Method and divice for excuting application",
+    "title_kor": "Method and divice for excuting application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "1a2cb4fc-8aea-471f-beaf-eaa837f0fb3b",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-10",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "51f00c06-488b-4004-ac58-50d4dd66bd44",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-09",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "71c2e027-5c28-40a0-afc0-029e7aeee082",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-09",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "76c466ed-cf52-4df8-bbc8-e9e3eceabcc4",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-10",
+    "title_eng": "Method and device for controlling an external apparatus",
+    "title_kor": "Method and device for controlling an external apparatus",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "50dcbe8c-1790-4b5a-bcd0-008615810318",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2013-06-11",
+    "title_eng": "Method and apparatus for quality measurement of sleep using a portable terminal",
+    "title_kor": "휴대 단말 장치를 이용한 수면 품질 측정 방법 및 장치",
+    "author_kor": "신항식; 김도윤; 조재걸; 최병훈",
+    "author_eng": "Hangsik Shin; Do Yoon Kim; Jaegeol Cho; Byunghun Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "1aa78e02-fa57-4317-945c-b846367dc178",
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "e7bc9883-59e1-41b1-a52a-2a0407f076af"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "988fc77c-5a07-45bd-810a-e35fda6336cd",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-03-22",
+    "title_eng": "Method and apparatus for providing floating user interface",
+    "title_kor": "Method and apparatus for providing floating user interface",
+    "author_kor": "신항식; 안성주; 박정훈; 유현국",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Junghoon Park; Hyungok Yoo",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "250ab501-3a40-4a8f-8a35-aeeada08aee8",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-03-22",
+    "title_eng": "Method and apparatus for providing floating user interface",
+    "title_kor": "Method and apparatus for providing floating user interface",
+    "author_kor": "신항식; 안성주; 박정훈; 유현국",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Junghoon Park; Hyungok Yoo",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "1d3c3898-8ae0-43ee-9c1a-ac1c159c623e",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-03",
+    "title_eng": "Method and apparatus for executing application in device",
+    "title_kor": "Method and apparatus for executing application in device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "7261d6a9-7380-446b-99de-8e9f08cae7cf",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-03",
+    "title_eng": "Method and apparatus for executing application in device",
+    "title_kor": "Method and apparatus for executing application in device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "ecfe2786-51fb-4fcd-a16b-a63d45a84766",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-08-26",
+    "title_eng": "Method and apparatus for executing application in device",
+    "title_kor": "Method and apparatus for executing application in device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "a98f1885-1c97-4ace-9411-0aba2eb66630",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-06",
+    "title_eng": "Method and apparatus for executing an applicatin in a device",
+    "title_kor": "Method and apparatus for executing an applicatin in a device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "c0d0cfe3-f7ed-4366-ac7b-aecff3821e30",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-06",
+    "title_eng": "Method and apparatus for executing an applicatin in a device",
+    "title_kor": "Method and apparatus for executing an applicatin in a device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "4fd9b1fb-9b51-469c-851e-4778f54eeff4",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-12-16",
+    "title_eng": "Management of managing external devices, method of operating external devices, host terminal, management server, and external devices",
+    "title_kor": "Management of managing external devices, method of operating external devices, host terminal, management server, and external devices",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "13e0178e-5bea-42f2-80da-1b2764c56c5e",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2013-10-02",
+    "title_eng": "Device and method for providing floating user interface",
+    "title_kor": "플로팅 사용자 인터페이스 제공 장치 및 방법",
+    "author_kor": "신항식; 안성주; 박정훈; 유현국",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Junghoon Park; Hyungok Yoo",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "67d6e7c6-ab87-4511-af4d-b5d8ef6e0c5e",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-10",
+    "title_eng": "Connecting two devices",
+    "title_kor": "Connecting two devices",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "e926fdd6-eb1d-4db3-8f6f-a668f241983a",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-10",
+    "title_eng": "Connecting two devices",
+    "title_kor": "Connecting two devices",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "e6004bd1-bfbe-4b38-b444-ede3c28c9789",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-07-11",
+    "title_eng": "Color transformation method and apparatus for person with color vision defect",
+    "title_kor": "Color transformation method and apparatus for person with color vision defect",
+    "author_kor": "안성주; 고성제; 박정훈; 신항식; 김현지; 정재윤; 유현국",
+    "author_eng": "Sungjoo Ahn; Sungjea Ko; Junghoon Park; Hangsik Shin; Hyunji Kim; Jaeyun Jeong; Hyungok Yoo",
+    "author_ids": [
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "58781275-5ce2-476d-b58f-73f66081f973",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "95e28776-4d0d-4ed0-b15f-497367250ffe",
+      "f93cb6ad-8ab3-4ffa-97f7-d806961d6296",
+      "7e245481-d9e7-4e64-b771-18739a464f6d"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "d1b5ff9f-abba-42f0-9925-3063b7434040",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-05",
+    "title_eng": "Application execution method and terminal thereof",
+    "title_kor": "Application execution method and terminal thereof",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "4e62a305-1cac-4c71-82fd-0c50ed6f3c24",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-09-05",
+    "title_eng": "Application execution method and terminal thereof",
+    "title_kor": "Application execution method and terminal thereof",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "9120ce21-95b5-432b-8fcd-d4b068e3ae9a",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2013-11-25",
+    "title_eng": "Apparatus and method for measuring physiological signal",
+    "title_kor": "생체 신호를 측정하는 방법 및 장치",
+    "author_kor": "조재걸; 김광춘; 김재필; 민진홍; 백현재; 신항식",
+    "author_eng": "Jaegeol Cho; Kwangchoon Kim; Jaepil Kim; Jinhong Min; Hyunjae Baek; Hangsik Shin",
+    "author_ids": [
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "87cf7e69-dd97-4ac4-97d6-162acf858278",
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "39afba78-7e6f-4ac0-8bc0-6d363ac3398e",
+      "52c800ad-007d-46f1-98ab-3ac1dad2f4a3",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "bfb9f517-d68b-49f2-bcb7-33ec591c6315",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-09-04",
+    "title_eng": "화상디자인이 표시된 휴대용 단말기",
+    "title_kor": "화상디자인이 표시된 휴대용 단말기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "34b6e352-1d1b-44fc-aafa-84544965c38c",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-05-17",
+    "title_eng": "화상디자인이 표시된 휴대용 단말기",
+    "title_kor": "화상디자인이 표시된 휴대용 단말기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "b9cb61dc-92a6-4bc0-afd4-a687cb4d8ff2",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-06-14",
+    "title_eng": "화상디자인이 표시된 태블릿 피씨(Tablet PC)",
+    "title_kor": "화상디자인이 표시된 태블릿 피씨(Tablet PC)",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "14215f03-d995-4e79-b7ee-5d06dd070e5a",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-06-14",
+    "title_eng": "화상디자인이 표시된 태블릿 피씨(Tablet PC)",
+    "title_kor": "화상디자인이 표시된 태블릿 피씨(Tablet PC)",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "f2cfa816-c6a4-4674-9bdc-bf38f8f35986",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-11-14",
+    "title_eng": "화상디자인이 표시된 컴퓨터모니터",
+    "title_kor": "화상디자인이 표시된 컴퓨터모니터",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "0e23a43e-15fa-40dd-809c-6949c7558713",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-05-21",
+    "title_eng": "화상디자인이 표시된 컴퓨터모니터",
+    "title_kor": "화상디자인이 표시된 컴퓨터모니터",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "bee2aaf2-f0b6-4bac-9e0a-70d4276ec5b4",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-11-14",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "dd7b54ef-1603-4239-bf67-c684a857e6af",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-10-23",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "8b39ede3-4dab-4ba1-b613-5a51b84a38f3",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-10-10",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "f369efdc-9925-4ece-96ee-35a9b57d30d9",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-10-10",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "45cfc979-8deb-4698-8495-8707ceb5c85a",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-10-10",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "4cafb49f-4915-43fd-8b4d-8dcc6d6a6628",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-07-24",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "434c39ea-5d75-4b0e-b24a-5b867812377d",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-07-24",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "e690c4c4-418e-4306-9d50-c021d5a562ae",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-07-24",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "a543d40f-4004-4cb8-8042-646a609bc8f9",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-07-24",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "a7ad53ed-622a-4cf0-a299-48e223f053b8",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-07-24",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "43a14c6e-616c-4754-bb49-f4041ec0ab48",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-06-15",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "c3064fd9-7367-427f-8e26-a4d76d5c6bb2",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-06-15",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "411b6253-a9d6-4135-8082-ba8acabadde9",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2012-06-15",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "a09adf11-7f69-4768-a62f-756f59c83bd5",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-07-24",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "41d63ede-6c60-4748-bae3-cc141e7a1b94",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-06-14",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "06eda343-cc47-4922-beb9-112fd74a7207",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-06-14",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "d261f547-7a66-4374-afc5-5eea215c89e4",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-06-14",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "00224a28-dde0-4ab9-93ab-b980aa7942f5",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-06-13",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "b33298a0-30a2-4e6e-81be-92b2e99b47b2",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-06-13",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "c287b6d4-cae2-4b5c-b6dd-6416a34a9f51",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-06-13",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "f29c1809-a2fe-4bcb-b591-48774948e3ae",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-06-13",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "4563fd37-232e-42bd-ab3f-e697c30fe42d",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-06-13",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "7e74493b-b3a9-4acb-9d68-ce6a1b83e9a6",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-06-28",
+    "title_eng": "Tablet PC with graphical user interface",
+    "title_kor": "Tablet PC with graphical user interface",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "63834861-ae51-443f-895b-8f5430dc7f6e",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2012-09-10",
+    "title_eng": "System and method for controlling external apparatus connected with device",
+    "title_kor": "디바이스에 연결된 외부 기기를 제어하는 시스템 및 방법",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "acc22474-6d11-4b00-8627-437a344b086a",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-06-28",
+    "title_eng": "Portable electronic device with animated GUI",
+    "title_kor": "Portable electronic device with animated GUI",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "b772b2f1-750d-43d1-b5f3-875dcf8ca655",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-06-28",
+    "title_eng": "Portable electronic device with animated GUI",
+    "title_kor": "Portable electronic device with animated GUI",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "02afad14-fec9-4e8e-8c84-f21b871686f5",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-06-28",
+    "title_eng": "Portable electronic device with an animated graphical user interface",
+    "title_kor": "Portable electronic device with an animated graphical user interface",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "6efde23e-761c-40ed-8d31-3539b9752b22",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-06-28",
+    "title_eng": "Portable electronic device with an animated graphical user interface",
+    "title_kor": "Portable electronic device with an animated graphical user interface",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "12afa98d-6cb6-4e18-b9d4-e5af93a95791",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-06-28",
+    "title_eng": "Portable electronic device with an animated graphical user interface",
+    "title_kor": "Portable electronic device with an animated graphical user interface",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "662023df-717f-44cd-afac-b145e8ac8556",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-06-28",
+    "title_eng": "Portable electronic device with a graphical user interface",
+    "title_kor": "Portable electronic device with a graphical user interface",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "91d5b450-95be-49cd-9e42-d320f8429ede",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-06-28",
+    "title_eng": "Portable electronic device with GUI",
+    "title_kor": "Portable electronic device with GUI",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "86023da1-0782-41de-b7c1-819048dc7cc8",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-06-28",
+    "title_eng": "Portable electronic device with GUI",
+    "title_kor": "Portable electronic device with GUI",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "3296c2c2-e9ef-4771-8cb7-2edb2b6340a4",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-06-29",
+    "title_eng": "Portable electronic device displaying graphical user interface",
+    "title_kor": "Portable electronic device displaying graphical user interface",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "a6c6d277-4281-47fe-a0a1-8d956a7a0d98",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-06-29",
+    "title_eng": "Portable electronic device displaying graphical user interface",
+    "title_kor": "Portable electronic device displaying graphical user interface",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "7d79738e-f353-463d-a99c-9ba2114e43e8",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-06-29",
+    "title_eng": "Portable electronic device displaying graphic user interface",
+    "title_kor": "Portable electronic device displaying graphic user interface",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "09d20266-289d-4283-a34f-5d7599b72a88",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2012-09-10",
+    "title_eng": "Method for executing application on device and apparatus thereof",
+    "title_kor": "디바이스에서 어플리케이션을 실행하는 방법 및 그 장치",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "15abaa80-58d8-4006-8a83-635d1e444f05",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2012-09-07",
+    "title_eng": "Method for executing application and terminal thereof",
+    "title_kor": "애플리케이션 실행 방법 및 이를 위한 단말",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "0d30eaf0-4b06-4ae2-99db-21b92dbd954e",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2012-09-10",
+    "title_eng": "Method for controlling a device and device performing the same",
+    "title_kor": "기기 제어 방법 및 이를 수행하는 기기",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "afd2d1ed-5a7f-4b5d-81ba-bb99b15a16b8",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2012-08-08",
+    "title_eng": "Method and apparatus of converting color for color vision defectives",
+    "title_kor": "색각 이상자를 위한 색 변환 방법 및 장치",
+    "author_kor": "안성주; 고성제; 박정훈; 신항식; 김현지; 정재윤; 유현국",
+    "author_eng": "Sungjoo Ahn; Sungjea Ko; Junghoon Park; Hangsik Shin; Hyunji Kim; Jaeyun Jeong; Hyungok Yoo",
+    "author_ids": [
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "58781275-5ce2-476d-b58f-73f66081f973",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "95e28776-4d0d-4ed0-b15f-497367250ffe",
+      "f93cb6ad-8ab3-4ffa-97f7-d806961d6296",
+      "7e245481-d9e7-4e64-b771-18739a464f6d"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "539a3f09-4983-440d-bbce-b5a82194cd34",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-05-30",
+    "title_eng": "Graphical user interface for a display screen or portion thereof",
+    "title_kor": "Graphical user interface for a display screen or portion thereof",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "807164c4-a3eb-40ee-8d55-17aa01dd0715",
+    "category": "patent",
+    "class": "International",
+    "date": "2012-07-27",
+    "title_eng": "Finger motion recognition glove using conductive materials and method thereof",
+    "title_kor": "Finger motion recognition glove using conductive materials and method thereof",
+    "author_kor": "신항식; 박정훈; 안성주; 김대은; 이재홍; 정은석",
+    "author_eng": "Hangsik Shin; Junghoon Park; Sungjoo Ahn; Dae-eun Kim; Jaehong Lee; Eunseak Jung",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "a23af44c-15d6-4db1-a3f1-45bcdf51b3e4",
+      "85046567-bdc1-405e-8e6a-daefc301736a",
+      "d45f506d-da87-4f6d-a11e-6d652d5d3f6c"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "503cab3b-56c7-4081-82fe-be83bc1ec580",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-10-18",
+    "title_eng": "Display of a handheld terminal with graphical user interface",
+    "title_kor": "Display of a handheld terminal with graphical user interface",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "feb892cd-2b11-4266-9f2a-05ed8ea65f0f",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2012-03-23",
+    "title_eng": "Device and method for providing floating user interface",
+    "title_kor": "플로팅 사용자 인터페이스 제공 장치 및 방법",
+    "author_kor": "신항식; 안성주; 박정훈; 유현국",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Junghoon Park; Hyungok Yoo",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "8ea150e4-47e3-4b45-9ddc-71d8b4b0572e",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2012-07-12",
+    "title_eng": "Braille input and output device",
+    "title_kor": "점자 입출력 장치",
+    "author_kor": "신항식; 박정훈; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "e180f950-e823-4b77-924d-43f4561ee619",
+    "category": "patent",
+    "class": "International",
+    "date": "2012-06-08",
+    "title_eng": "Apparatus and method for providing an interface in a device with touch screen",
+    "title_kor": "터치 화면을 가진 장치에서 인터페이스를 제공하기 위한 장치와 방법",
+    "author_kor": "신항식; 박정훈; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "c9458666-a640-46fc-80e6-e9da75aaa7d1",
+    "category": "patent",
+    "class": "International",
+    "date": "2012-06-08",
+    "title_eng": "Apparatus and method for providing an interface in a device with touch screen",
+    "title_kor": "Apparatus and method for providing an interface in a device with touch screen",
+    "author_kor": "신항식; 박정훈; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "f894c4d6-4500-4fce-afe7-34113df9cfc3",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2011-07-27",
+    "title_eng": "Finger movement recognition glove and method using conductive coated material",
+    "title_kor": "전도성 소재를 이용한 손가락 동작 인식 장갑 및 그 방법",
+    "author_kor": "신항식; 김대은; 박정훈; 이재홍; 안성주; 정은석",
+    "author_eng": "Hangsik Shin; Dae-eun Kim; Junghoon Park; Jaehong Lee; Sungjoo Ahn; Eunseak Jung",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "a23af44c-15d6-4db1-a3f1-45bcdf51b3e4",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "85046567-bdc1-405e-8e6a-daefc301736a",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "d45f506d-da87-4f6d-a11e-6d652d5d3f6c"
+    ],
+    "year_resolved": "2011"
+  },
+  {
+    "id": "75f338a9-9398-4c3e-9738-345920485222",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2011-06-09",
+    "title_eng": "Apparatus and method for providing interface in device with touch screen",
+    "title_kor": "터치 스크린을 구비한 기기의 인터페이스 제공 장치 및 방법",
+    "author_kor": "신항식; 박정훈; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2011"
+  },
+  {
+    "id": "0ff8db41-3ff3-405f-a09b-eef0b213b3e0",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2009-01-29",
+    "title_eng": "Calculating method of actual size of object and systemthereof",
+    "title_kor": "영상의 실물 크기 계산 방법 및 그 시스템",
+    "author_kor": "이명호; 윤성원; 윤용현; 신항식; 주영민; 정완진",
+    "author_eng": "Myongho Lee; Sung-Won Yoon; Yonghyeon Yoon; Hangsik Shin; Youngmin Choo; Wanjin Jeong",
+    "author_ids": [
+      "4a05a292-1a5b-4577-91ff-87da330a9358",
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "b791b76d-98f1-494b-b426-4f745e088d64",
+      "13298ee3-16d7-4515-8ca0-beb372aa5077"
+    ],
+    "year_resolved": "2009"
+  },
+  {
+    "id": "aace2be3-bd38-442a-9f72-fc5e585f0312",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2007-04-25",
+    "title_eng": "Calculating method of actual size of object and systemthereof",
+    "title_kor": "영상의 실물 크기 계산 방법 및 그 시스템",
+    "author_kor": "이명호; 윤성원; 윤용현; 신항식; 주영민; 정완진",
+    "author_eng": "Myongho Lee; Sung-Won Yoon; Yonghyeon Yoon; Hangsik Shin; Youngmin Choo; Wanjin Jeong",
+    "author_ids": [
+      "4a05a292-1a5b-4577-91ff-87da330a9358",
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "b791b76d-98f1-494b-b426-4f745e088d64",
+      "13298ee3-16d7-4515-8ca0-beb372aa5077"
+    ],
+    "year_resolved": "2007"
+  }
+]

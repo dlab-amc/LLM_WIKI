@@ -1,0 +1,289 @@
+[
+  {
+    "id": "65be53c6-9dd4-438b-91aa-03e3d8030132",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2026-05-07",
+    "title_eng": "Evaluation of the Feasibility of Large Language Models for Re-test Decision in Clinical Chemistry Tests",
+    "title_kor": "임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가",
+    "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+    "author_kor": "유지원; 정성연; 최유나; 김솔잎; 신항식",
+    "author_eng": "Jiwon You; Sungyeon Chung; Yuna Choi; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "80cbf804-4efd-4173-ae46-5c210a473ded",
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "90c8f0ea-c4de-499e-b7a8-7e265e2cc8d4",
+    "category": "award",
+    "date": "2026-05-09",
+    "title_eng": "Evaluation of the Feasibility of Large Language Models for Re-test Decision in Clinical Chemistry Tests",
+    "title_kor": "임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가",
+    "author_kor": "유지원; 정성연; 최유나; 김솔잎; 신항식",
+    "author_eng": "Jiwon You; Sungyeon Chung; Yuna Choi; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "80cbf804-4efd-4173-ae46-5c210a473ded",
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "6f180265-2c3c-4b38-a172-38af22a4c516",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2026-05-07",
+    "title_eng": "Development of a Clinical Chemistry Retest Ontology through Inductive Externalization of Expert Knowledge",
+    "title_kor": "귀납적 사례 분석 기반 임상화학 재검사 전문가 지식 추출 및 온톨로지 모델링",
+    "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+    "author_kor": "정성연; 유지원; 최유나; 김솔잎; 신항식",
+    "author_eng": "Sungyeon Chung; Jiwon You; Yuna Choi; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "80cbf804-4efd-4173-ae46-5c210a473ded",
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "537dc980-c7f7-4b4b-a328-1f984c75a46c",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2026-05-07",
+    "title_eng": "Development and Multicenter External Validation of an AI-based Screening Model for Retesting Clinical Chemistry Tests",
+    "title_kor": "임상화학검사 불필요 재검 판별을 위한 인공지능 모델 개발 및 다기관 외부 검증",
+    "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+    "author_kor": "김민소; 유지원; 최유나; 유신애; 박근열; 김솔잎; 신항식",
+    "author_eng": "Minso Kim; Jiwon You; Yuna Choi; Shinae Yu; Kuenyoul Park; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "3b530294-8839-4ba1-a4ce-0ebb6883bd86",
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "12a64dd1-9d0d-40ab-8de6-6ca43bc80795",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "0f8ca978-e12a-49e6-be3a-8fc5cf7da97b",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-11-06",
+    "title_eng": "LLM-based Re-test Decision System for Clinical Chemistry Test",
+    "title_kor": "LLM 기반 임상화학검사 재검사 판정 시스템",
+    "conference_eng": "2025년 대한의용생체공학회 추계학술대회",
+    "author_kor": "유지원; 김솔잎; 신항식",
+    "author_eng": "Jiwon You; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "cfc8007b-d815-49b8-bfea-f66cf26e3dcc",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-06-19",
+    "title_eng": "Types and Frequencies of Errors in Clinical Chemistry Tests at the University Hospital Clinical Laboratory",
+    "title_kor": "대학병원 임상화학검사에서 보고된 오류 유형과 빈도",
+    "conference_eng": "The Korean Society of Medical Informatics",
+    "author_kor": "유지원; 김솔잎; 이우창; 전사일; 신항식",
+    "author_eng": "Jiwon You; Sollip Kim; Woochang Lee; Sail Chun; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "5ec9e165-f85d-4223-9e7f-038a6359d70a",
+      "c2ece990-47d8-45c5-bc8e-d2f6ea244737",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "1488e88b-6109-4435-8b1e-12951f673d7f",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-08-22",
+    "title_eng": "Machine learning-based sample misidentification error detection in clinical laboratory tests: A retrospective multicenter study",
+    "journal_eng": "Clinical Chemistry",
+    "author_kor": "석현석; 유신애; 신경화; 이우창; 전사일; 김솔잎; 신항식",
+    "author_eng": "Hyeon Seok Seok; Shinae Yu; Kyung-Hwa Shin; Woochang Lee; Sail Chun; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "06cd217f-5f4c-49af-9cf4-1666a5f30674",
+      "5ec9e165-f85d-4223-9e7f-038a6359d70a",
+      "c2ece990-47d8-45c5-bc8e-d2f6ea244737",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://academic.oup.com/clinchem/advance-article/doi/10.1093/clinchem/hvae114/7739014?utm_source=authortollfreelink&utm_campaign=clinchem&utm_medium=email&guestAccessKey=1df85bdd-2fbf-480d-97d8-d0d649a9c699",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "bdba12ce-ab86-4285-8d84-180fd9189006",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-07-10",
+    "title_eng": "Error Detection in Laboratory Tests using Machine Learning",
+    "title_kor": "머신러닝을 사용한 진단검사 오류 감지",
+    "conference_eng": "The 55th KIEE Summer Conference 2024",
+    "author_kor": "석현석; 유지원; 김솔잎; 신항식",
+    "author_eng": "Hyeon Seok Seok; Jiwon You; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "4fde86c3-06f0-4b09-a500-dfcf59ba538e",
+    "category": "conference",
+    "class": "International",
+    "date": "2024-03-20",
+    "title_eng": "Applying Machine Learning for Result Verification: Analysis of Five Tumor Markers",
+    "title_kor": "Applying Machine Learning for Result Verification: Analysis of Five Tumor Markers",
+    "conference_eng": "Cherry Blossom Symposium 2024 (CBS 2024) The 13th International Conference of Clinical Laboratory Automation",
+    "author_kor": "최유나; 석현석; 신항식; 이승후; 유준상; 김솔잎; 이우창; 전사일",
+    "author_eng": "Yuna Choi; Hyeon Seok Seok; Hangsik Shin; Seunghoo Lee; Joonsang Yu; Sollip Kim; Woochang Lee; Sail Chun",
+    "author_ids": [
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "68c7ac1d-b7b7-429a-9d51-432b07e593a1",
+      "15140f93-6f69-43b8-8dd4-7d0541846ec4",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "5ec9e165-f85d-4223-9e7f-038a6359d70a",
+      "c2ece990-47d8-45c5-bc8e-d2f6ea244737"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "841b7d8e-34dc-46ee-b032-b8a8cdd56a9b",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-11-26",
+    "title_eng": "Advancing laboratory medicine practice with machine learning: swift yet exact",
+    "journal_eng": "Annals of Laboratory Medicine",
+    "author_kor": "유지원; 석현석; 김솔잎; 신항식",
+    "author_eng": "Jiwon You; Hyeon Seok Seok; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.annlabmed.org/journal/view.html?uid=3598&vmd=Full",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "53d88ac1-e3ae-40ec-8c89-34f588b29266",
+    "category": "conference",
+    "class": "International",
+    "date": "2024-03-20",
+    "title_eng": "AI-based Approach for Detecting Sample Misidentification Errors in Alpha-fetoprotein with Multi-Center Validation",
+    "title_kor": "AI-based Approach for Detecting Sample Misidentification Errors in Alpha-fetoprotein with Multi-Center Validation",
+    "conference_eng": "Cherry Blossom Symposium 2024 (CBS 2024) The 13th International Conference of Clinical Laboratory Automation",
+    "author_kor": "석현석; 유신애; 신경화; 이우창; 김솔잎; 신항식",
+    "author_eng": "Hyeon Seok Seok; Shinae Yu; Kyung-Hwa Shin; Woochang Lee; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "06cd217f-5f4c-49af-9cf4-1666a5f30674",
+      "5ec9e165-f85d-4223-9e7f-038a6359d70a",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "ec82a1b1-9281-40fd-8592-925612fbb2ce",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2023-03-31",
+    "title_eng": "Practical delta check limits for tumour markers in different clinical settings",
+    "journal_eng": "Clinical Chemistry and Laboratory Medicine (CCLM)",
+    "author_kor": "유신애; 신경화; 신성환; 이혜영; 유수진; 전경란; 신항식; 김솔잎",
+    "author_eng": "Shinae Yu; Kyung-Hwa Shin; Sunghwan Shin; Hyeyoung Lee; Soo Jin Yoo; Kyung Ran Jun; Hangsik Shin; Sollip Kim",
+    "author_ids": [
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "06cd217f-5f4c-49af-9cf4-1666a5f30674",
+      "16dd67b1-53a2-4a77-b15d-d4846f5f7043",
+      "88a8d1f1-ccaa-414a-8af5-5661ce11128c",
+      "1032d1e7-0873-4e7a-b488-195b22293db1",
+      "58889578-5052-4cbc-8c74-b3ee12d9b36a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "09e01f73-363a-4780-962e-969da9578ff9"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/36994761/",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "bd793ff9-17c0-4320-8977-6dfb8a0aa634",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-10-23",
+    "title_eng": "Performance Analysis of Diagnostic Test Error Detection Using Artificial Intelligence in Class Imbalance Scenarios",
+    "title_kor": "클래스 불균형 시나리오에서 진단검사 오류 감지 인공지능 기술 성능 분석",
+    "conference_eng": "Conference on Information and Control Systems",
+    "author_kor": "석현석; 김솔잎; 신항식",
+    "author_eng": "Hyeon Seok Seok; Sollip Kim; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "2825a808-457d-40e2-9103-6ac3f33e66ce",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2023-12-14",
+    "title_eng": "Machine learning-based delta check method for detecting misidentification errors in tumor marker tests",
+    "journal_eng": "Clinical Chemistry and Laboratory Medicine",
+    "author_kor": "석현석; 최유나; 유신애; 신경화; 김솔잎; 신항식",
+    "author_eng": "Hyeon Seok Seok; Yuna Choi; Shinae Yu; Kyung-Hwa Shin; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "06cd217f-5f4c-49af-9cf4-1666a5f30674",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.degruyter.com/document/doi/10.1515/cclm-2023-1185/html",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "69f04561-092e-4ac0-af64-b4090dec017a",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-11-09",
+    "title_eng": "Deep Learning for Tumor Marker Misidentification Error Detection: inter-center model performance comparison",
+    "title_kor": "Deep Learning for Tumor Marker Misidentification Error Detection: inter-center model performance comparison",
+    "conference_eng": "9th International Biomedical Engineering Conference IBEC 2023",
+    "author_kor": "석현석; 김솔잎; 신항식",
+    "author_eng": "Hyeon Seok Seok; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  }
+]

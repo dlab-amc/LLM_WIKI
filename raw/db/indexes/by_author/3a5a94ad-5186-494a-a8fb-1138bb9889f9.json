@@ -1,0 +1,36 @@
+[
+  {
+    "id": "a9be57b4-b145-4ac1-880a-bd7b8bed3668",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-05-13",
+    "title_eng": "FDA-cleared home sleep apnea testing devices",
+    "journal_eng": "npj Digital Medicine",
+    "author_kor": "박지현; 왕창원; 신항식",
+    "author_eng": "Ji Hyeun Park; Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "3a5a94ad-5186-494a-a8fb-1138bb9889f9",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.nature.com/articles/s41746-024-01112-w",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "4e35e50b-ce2c-4788-8e1f-366f4fd41d96",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-11-09",
+    "title_eng": "Standard Specifications for Testing of U.S. FDA-Cleared Home Sleep Apnea Testing Device",
+    "title_kor": "U.S. FDA 인증 가정용 수면 무호흡증 검사 기기의 시험검사 기준 규격",
+    "conference_eng": "9th International Biomedical Engineering Conference IBEC 2023",
+    "author_kor": "박지현; 이충근; 신항식",
+    "author_eng": "Ji Hyeun Park; Chungkeun Lee; Hangsik shin",
+    "author_ids": [
+      "3a5a94ad-5186-494a-a8fb-1138bb9889f9",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  }
+]

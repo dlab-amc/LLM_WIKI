@@ -1,0 +1,171 @@
+[
+  {
+    "id": "debca9ec-7109-4687-99f5-3c7c59444f33",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2021-02-03",
+    "title_eng": "Novel Analgesic Index for Postoperative Pain Assessment Based on a Photoplethysmographic Spectrogram and Convolutional Neural Network: Observational Study",
+    "journal_eng": "Journal of Medical Internet Research",
+    "author_kor": "최병문; 임지연; 신항식; 노규정",
+    "author_eng": "Byungmoon Choi; Ji Yeon Yim; Hangsik Shin; Gyujeong Noh",
+    "author_ids": [
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/33533723/",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "f3b26f03-f812-4c58-b2ea-162c7ae42010",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-03-04",
+    "title_eng": "Method and apparatus for pain evaluation based on ppg-based spectrogram and cnn",
+    "title_kor": "PPG-BASED 스펙트로그램과 CNN을 기반으로 하는 통증 평가에 대한 방법과 장치",
+    "author_kor": "신항식; 임지연; 노규정",
+    "author_eng": "Hangsik Shin; JiYeon Yim; Gyujeong Noh",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "4976a23d-976f-42b5-9a57-828d963d0dd5",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-03-04",
+    "title_eng": "A method and apparatus for pain assessment based on a photoplethysmographic based spectrogram and convolutional neural network",
+    "title_kor": "PPG-BASED 스펙트로그램과 CNN을 기반으로 하는 통증 평가에 대한 방법과 장치",
+    "author_kor": "신항식; 임지연; 최병문; 노규정",
+    "author_eng": "Hangsik Shin; JiYeon Yim; Byungmoon Choi; Gyujeong Noh",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "72fa4a5f-5287-4140-a8ca-b20d3cb21184",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-02-08",
+    "title_eng": "A method and apparatus for pain assessment based on a photoplethysmographic based spectrogram and convolutional neural network",
+    "title_kor": "PPG 기반 스펙트로그램 및 CNN에 기반하는 통증 평가 방법 및 장치",
+    "author_kor": "신항식; 임지연; 최병문; 노규정",
+    "author_eng": "Hangsik Shin; Ji Yeon Yim; Byungmoon Choi; Gyujeong Noh",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "0c93716f-831c-4ee3-b4ee-415623b8bc47",
+    "category": "conference",
+    "class": "International",
+    "date": "2019-10-24",
+    "title_eng": "Postoperative Pain Assessment Using Convolutional Neural Network",
+    "title_kor": "합성곱 신경망을 사용한 수술 후 통증 평가",
+    "conference_eng": "41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC'19)",
+    "author_kor": "석현석; 임지연; 권단비; 신항식",
+    "author_eng": "Hyeon Seok Seok; Ji Yeon Yim; Danbi Kwon; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "236e5d74-414b-4790-b358-619eda9557de",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "2748f7aa-a2eb-4e79-ae8b-e6e70bb4ef44",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-10-24",
+    "title_eng": "Postoperative Pain Assessment Using Convolutional Neural Network",
+    "title_kor": "합성곱 신경망을 사용한 수술 후 통증 평가",
+    "conference_eng": "Conference on Information and Control Systems 2019",
+    "author_kor": "석현석; 임지연; 권단비; 신항식",
+    "author_eng": "Hyeon Seok Seok; JiYoen Yim; Danbi Kwon; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "236e5d74-414b-4790-b358-619eda9557de",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "e8085f39-d7eb-4a36-b408-bf660bdd0399",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-07-10",
+    "title_eng": "Postoperative Pain Assessment Model based on Photoplethysmogram Using Multi-Layer Perceptron Network",
+    "title_kor": "광용적맥파와 MLP을 사용한 수술 후 통증 평가 모델",
+    "conference_eng": "The 50th KIEE Summer Conference 2019",
+    "author_kor": "임지연; 신항식",
+    "author_eng": "JiYoen Yim; Hangsik shin",
+    "author_ids": [
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "1323270d-0735-4425-8a3d-ec8f2cfd2014",
+    "category": "conference",
+    "class": "International",
+    "date": "2019-12-04",
+    "title_eng": "Postoperative Pain Assesment Model based on Photoplethysmogram and Convolutional Neural Network",
+    "title_kor": "Postoperative Pain Assesment Model based on Photoplethysmogram and Convolutional Neural Network",
+    "conference_eng": "The 20th International Sysmposium on Advanced Intelligent Systems and 2019 International Conference on Biometrics and Kansei Engineering",
+    "author_kor": "임지연; 신항식",
+    "author_eng": "Ji Yeon Yim; Hangsik Shin",
+    "author_ids": [
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "5dc5cc83-9f0b-41a4-a7e7-e67be0d55d60",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2019-12-20",
+    "title_eng": "Comparison of Classifier for Pain Assessment based on Photoplethysmogram and Machine Learning",
+    "title_kor": "광용적맥파 및 머신러닝 기반 통증 평가 분류기 성능 비교",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "임지연; 신항식",
+    "author_eng": "JiYoen Yim; Hangsik shin",
+    "author_ids": [
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.researchgate.net/publication/338278472_Comparison_of_Classifier_for_Pain_Assessment_based_on_Photoplethysmogram_and_Machine_Learning",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "44a321e3-776e-46d6-b869-4bf5cc573676",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-05-09",
+    "title_eng": "Beats Per Minute Accuracy in Heart Rate Estimation according to the Analysis Time Interval",
+    "title_kor": "분석 시간구간에 따른 분당 심박수 추정 정확도 연구",
+    "conference_eng": "The 54th Korea Society of Medical and Biological Engineering Spring Conference 2019",
+    "author_kor": "임지연; 신항식",
+    "author_eng": "JiYoen Yim; Hangsik shin",
+    "author_ids": [
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  }
+]

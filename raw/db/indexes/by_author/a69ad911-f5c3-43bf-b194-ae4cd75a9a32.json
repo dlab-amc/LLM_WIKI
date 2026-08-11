@@ -1,0 +1,323 @@
+[
+  {
+    "id": "d40f47c1-86ca-4a10-bc8c-f277574274d6",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-05-09",
+    "title_eng": "Trend of Blood Pressure Estimation Model based on Pulse Transit Time",
+    "title_kor": "맥파전달시간 기반 혈압 추정 모델 개발 동향",
+    "conference_eng": "The 54th Korea Society of Medical and Biological Engineering Spring Conference 2019",
+    "author_kor": "박지연; 한상진; 노동근; 신항식",
+    "author_eng": "Park Ji Yeon; Sangjin Han; Donggeun Rho; Hangsik shin",
+    "author_ids": [
+      "43a26ff6-46cb-4e1d-b2b2-a63b3c27495d",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "be964397-cdc0-4f59-a4a4-9be8ea0a538b",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-02-11",
+    "title_eng": "Investigation of systolic fraction of a pulse pressure waveform according to heart disease",
+    "title_kor": "심장질환에 따른 연속혈압 파형의 심장 수축기구간 비율 변화 관찰",
+    "conference_eng": "Bio-Medical System Conference 2019",
+    "author_kor": "한상진; 신항식",
+    "author_eng": "Sangjin Han; Hangsik shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "6b72ba65-609a-4352-b4ea-b4bc120bc4c1",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-10-24",
+    "title_eng": "Feasibility Test of BedditTM for Heart rate and Respiration Rate Measurement",
+    "title_kor": "Beddit TM의 호흡 및 심박 측정 유효성 평가",
+    "conference_eng": "Conference on Information and Control Systems 2019",
+    "author_kor": "한상진; 박수지; 신항식",
+    "author_eng": "Sangjin Han; Sooji park; Hangsik shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "82b9f649-2029-4ec0-9239-a6b593bca8ed",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-12-19",
+    "title_eng": "Development of a Multi-Array Pressure Sensor Module for Radial Artery Pulse Wave Measurement",
+    "journal_eng": "Sensors",
+    "author_kor": "노동근; 한상진; 박준영; 신항식",
+    "author_eng": "Donggeun Roh; Sangjin Han; Junyoung Park; Hangsik Shin",
+    "author_ids": [
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.mdpi.com/1424-8220/20/1/33",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "2886ce3d-a156-447b-80b4-d54c1329e25f",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-12-10",
+    "title_eng": "Design of Multi-Wavelength Optical Sensor Module for Depth-Dependent Photoplethysmography",
+    "journal_eng": "Sensors",
+    "author_kor": "한상진; 노동근; 박준영; 신항식",
+    "author_eng": "Sangjin Han; Donggeun Roh; Junyoung Park; Hangsik Shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.mdpi.com/1424-8220/19/24/5441",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "3d164f2c-c42a-48e7-8c79-ae411d8f198b",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-07-10",
+    "title_eng": "Comparison of Multiwavelength Photoplethysmogram Perfusion Index according to Activation of Sympathetic Nerve System",
+    "title_kor": "교감신경 활성에 따른 다파장 광용적맥파 관류지수 비교",
+    "conference_eng": "The 50th KIEE Summer Conference 2019",
+    "author_kor": "박준영; 한상진; 노동근; 신항식",
+    "author_eng": "Junyoung Park; Sangjin Han; Donggeun Rho; Hangsik shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "91d8fa78-0a32-4cd9-a9c3-53088c5e23af",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2018-06-27",
+    "title_kor": "의료용 다파장 광센서",
+    "author_kor": "신항식; 한상진; 노동근",
+    "author_eng": "Hangsik Shin; Sangjin Han; Donggeun Rho",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "2b1cd5f3-5a7b-4c63-8ed1-de76674ec1fe",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2018-06-27",
+    "title_eng": "의료용 다파장 광센서",
+    "title_kor": "의료용 다파장 광센서",
+    "author_kor": "신항식; 한상진; 노동근",
+    "author_eng": "Hangsik Shin; Sangjin Han; Donggeun Rho",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "eaa6699d-65cb-493d-be30-5022d40153f2",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2018-07-11",
+    "title_eng": "Observation of the Photoplethysmography Waveform according to Light Penetration Depth of Skin",
+    "title_kor": "피부 광 침투 깊이에 따른 광용적맥파 파형 관찰",
+    "conference_eng": "The 49th KIEE Summer Conference 2018",
+    "author_kor": "한상진; 신항식",
+    "author_eng": "Sangjin Han; Hangsik shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "85d14375-3c7a-4939-80e7-cf67fb88e953",
+    "category": "conference",
+    "class": "International",
+    "date": "2018-07-17",
+    "title_eng": "Investigation of Arterial Property Changes based on Blood Pressure Waveform and Photoplethysmogram",
+    "title_kor": "Investigation of Arterial Property Changes based on Blood Pressure Waveform and Photoplethysmogram",
+    "conference_eng": "40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC’18)",
+    "author_kor": "한상진; 신항식",
+    "author_eng": "Sangjin Han; Hangsik shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "cbf7f5ef-ffd6-420c-a4cd-df27738527fa",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2018-05-11",
+    "title_eng": "Correlation between Pulse Arrival Time Change and Blood Pressure Change according to Measurement Methods",
+    "title_kor": "측정 방법에 따른 맥파도달시간 변화와 혈압 변화 상관성 고찰",
+    "conference_eng": "The 53th Korea Society of Medical and Biological Engineering Spring Conference 2018",
+    "author_kor": "한상진; 신항식",
+    "author_eng": "Sangjin Han; Hangsik shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "01cef1cd-abbe-4985-b68e-325b44d31f03",
+    "category": "conference",
+    "class": "International",
+    "date": "2018-06-03",
+    "title_eng": "Assessment of Similarity Between Finger and Wrist Photoplethysmography According to the Light Wavelength",
+    "title_kor": "Assessment of Similarity Between Finger and Wrist Photoplethysmography According to the Light Wavelength",
+    "conference_eng": "World Congress on Medical Physics & Biomedical Engineering(IUPESM 2018)",
+    "author_kor": "한상진; 신항식",
+    "author_eng": "Sangjin Han; Hangsik shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "5131b181-0b9b-4a41-a49f-e7bedcc2b293",
+    "category": "conference",
+    "class": "International",
+    "date": "2018-12-05",
+    "title_eng": "A New Pulse Quality Assessment Method for Photoplethysmogram based on Similliarity Analysis",
+    "title_kor": "A New Pulse Quality Assessment Method for Photoplethysmogram based on Similliarity Analysis",
+    "conference_eng": "\"10th International Conference on Soft Computing and Intelligent Systems and ",
+    "author_kor": "석현석; 한상진; 박준영; 노동근; 신항식",
+    "author_eng": "Hyeon Seok Seok; Sangjin Han; Junyoung Park; Donggeun Rho; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "bd5b6998-7690-420d-bded-f9258d90e75a",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-11-10",
+    "title_eng": "Preliminary Study on Comparison of Forced Blood Pressure Change by Hemodynamic Maneuver",
+    "title_kor": "혈역학적 조작법에 따른 강제혈압변화 비교 기초연구",
+    "conference_eng": "The 52th Korea Society of Medical and Biological Engineering Autumn Conference 2017",
+    "author_kor": "한상진; 신항식",
+    "author_eng": "Sangjin Han; Hangsik shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "b0113b5b-46ba-4889-b9db-895d2c5e6394",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-10-26",
+    "title_eng": "Observation of radial tono-arteriogram according to the external pressure using partial cuff",
+    "title_kor": "부분 커프 사용시 외부 가압조건에 따른 요골동맥 압력파형 관찰",
+    "conference_eng": "Conference on Information and Control Systems 2017",
+    "author_kor": "노동근; 한상진; 신항식",
+    "author_eng": "Donggeun Rho; Sangjin Han; Hangsik shin",
+    "author_ids": [
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "2eea0198-ab0d-468e-b033-e18c308b1a16",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-10-26",
+    "title_eng": "Investigation of Optical Conditioning for Multi-wavelength PPG measurement onf Wrist",
+    "title_kor": "손목형 다파장 PPG측정을 위한 광학적 조건 고찰",
+    "conference_eng": "Conference on Information and Control Systems 2017",
+    "author_kor": "한상진; 노동근; 신항식",
+    "author_eng": "Sangjin Han; Donggeun Rho; Hangsik shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "a17adb43-d9dd-4a29-92a4-a9e927f79408",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-04-28",
+    "title_eng": "Gait Measurement based on Differential Capacitive Textile Force Sensor",
+    "title_kor": "차동 용량형 섬유 힘센서 기반 보행 측정 연구",
+    "conference_eng": "The 2017 Spring Conference of the Korea Information Processing Society",
+    "author_kor": "노동근; 한상진; 최화진; 신항식",
+    "author_eng": "Donggeun Rho; Sangjin Han; Hawjin Choi; Hangsik shin",
+    "author_ids": [
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "310623fe-4563-44c6-95bf-0a8d9d5e1305",
+    "category": "conference",
+    "class": "International",
+    "date": "2017-07-11",
+    "title_eng": "Effect of Low Sampling Rate on the First Derivative of the PPG Waveform",
+    "title_kor": "Effect of Low Sampling Rate on the First Derivative of the PPG Waveform",
+    "conference_eng": "39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC’17)",
+    "author_kor": "한상진; 신항식",
+    "author_eng": "Sangjin Han; Hangsik shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "f18e4b84-4299-4cf6-ab92-6e877e6c0755",
+    "category": "conference",
+    "class": "International",
+    "date": "2014-11-20",
+    "title_eng": "Preliminary Study for Posture Monitoring in Driving Condition Using Piezoresistive Film-based Force Sensor",
+    "title_kor": "Preliminary Study for Posture Monitoring in Driving Condition Using Piezoresistive Film-based Force Sensor",
+    "conference_eng": "International Biomedical Engineering Conference 2014(IBEC 2014)",
+    "author_kor": "한상진; 손제원; 김미리; 신항식",
+    "author_eng": "Sangjin Han; Jaewon Son; Miri Kim; Hangsik shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c59f4359-6b52-4820-9244-6c85930dcb9a",
+      "dc41de57-52cf-472e-95ea-8824cb924d79",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2014"
+  }
+]

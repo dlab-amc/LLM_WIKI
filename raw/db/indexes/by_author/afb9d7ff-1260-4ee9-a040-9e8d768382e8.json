@@ -1,0 +1,40 @@
+[
+  {
+    "id": "aa9ed85d-9d96-49ab-9897-a99041cc0389",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2026-03-03",
+    "title_eng": "Instability and performance limits of convolutional neural networks on non-sequential medical tabular data: an empirical investigation",
+    "journal_eng": "Scientific Reports",
+    "author_kor": "왕창원; 모하메드 엘젠디; 신항식",
+    "author_eng": "Changwon Wang; Mohamed Elgendi; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "afb9d7ff-1260-4ee9-a040-9e8d768382e8",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.nature.com/articles/s41598-026-39875-9",
+    "year_resolved": "2026"
+  },
+  {
+    "id": "c4f6d95c-ea6d-4eba-abe8-2e4d704a9999",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-07-12",
+    "title_eng": "Recommendations for evaluating photoplethysmography-based algorithms for blood pressure assessment",
+    "journal_eng": "Communications Medicine",
+    "author_kor": "모하메드 엘젠디; 프리돌린 하우그; 리처드 리본 플레처; 존 앨런; 신항식; 아이멘 알리안; 카를로 메논",
+    "author_eng": "Mohamed Elgendi; Fridolin Haugg; Richard Ribon Fletcher; John Allen; Hangsik Shin; Aymen Alian; Carlo Menon",
+    "author_ids": [
+      "afb9d7ff-1260-4ee9-a040-9e8d768382e8",
+      "36b4d394-e23c-49ff-a5ba-a68cafc65cb7",
+      "84d31672-e421-4d67-8356-b1e8a1a3c7bc",
+      "7f0fae56-f54e-4860-bb9a-cc84c97708c4",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "46f056ed-3502-46e3-b195-decaff737dc5",
+      "841872b3-1bd2-4ee0-8294-397ab97546a3"
+    ],
+    "link": "https://www.nature.com/articles/s43856-024-00555-2",
+    "year_resolved": "2024"
+  }
+]

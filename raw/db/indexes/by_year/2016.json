@@ -1,0 +1,909 @@
+[
+  {
+    "id": "6eb2419f-8d29-4460-9252-ab3ce28432bd",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2016-06-28",
+    "title_kor": "심박변이도 주파수영역 분석을 위한 Matlab(매트랩) 라이브러리",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "b0143141-c911-4df2-b005-a7fa294dd2a8",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2016-06-28",
+    "title_kor": "심박변이도 시간영역 분석을 위한 Matlab(매트랩) 라이브러리",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "495414b2-dc6d-40eb-828c-92b25f4ed4c1",
+    "category": "conference",
+    "class": "International",
+    "date": "2016-11-11",
+    "title_eng": "What sampling rate would be necessary to analyze of differentiated photoplethysmographic waveform morphologically?",
+    "title_kor": "What sampling rate would be necessary to analyze of differentiated photoplethysmographic waveform morphologically?",
+    "conference_eng": "International Biomedical Engineering Conference 2016 (IBEC 2016)",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "1ace171b-11ab-45be-8fbf-1480aeaf69e3",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2016-11-04",
+    "title_eng": "Wearable appaaratus, server, system, and method for extracting parameters of cardiovascular",
+    "title_kor": "웨어러블 생체신호측정 기기, 서버, 시스템 및 방법",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "a3a0d3a5-9f6e-4670-8211-461f68e9b4b7",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-05-13",
+    "title_eng": "Unconstrained Respiration Monitoring System based on Strip-type Force Sensor",
+    "title_kor": "스트립형 힘센서 기반 무구속 호흡 측정 시스템",
+    "conference_eng": "The 51th Korea Society of Medical and Biological Engineering Spring Conference 2016",
+    "author_kor": "박수지; 김훈; 신항식",
+    "author_eng": "Sooji park; Hoon Kim; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "68a7cea7-eb6d-4806-8658-50b7e4135546",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "099bb88c-2677-49a9-8c87-f7fd312466ee",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-04-08",
+    "title_eng": "Time Domain Analysis of Pulse Rate Variability according to the Sampling Rate Change",
+    "title_kor": "Time Domain Analysis of Pulse Rate Variability according to the Sampling Rate Change",
+    "conference_eng": "Proceedings of Korean Institute of Intelligent Systems Spring Conference 2016",
+    "author_kor": "양윤라; 신항식",
+    "author_eng": "Yoon La Yang; Hangsik Shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "7b3a6efe-d787-4837-8fde-3d5e9d366007",
+    "category": "conference",
+    "class": "International",
+    "date": "2016-08-16",
+    "title_eng": "Time Domain Analysis of Heart Rate Variability for Nociceptive Pain Assessment",
+    "title_kor": "Time Domain Analysis of Heart Rate Variability for Nociceptive Pain Assessment",
+    "conference_eng": "38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC 2016)",
+    "author_kor": "신항식; 이용훈; 방지연; 최병문; 노규정",
+    "author_eng": "Hangsik shin; Yong-Hun Lee; Ji-Yeon Bang; Byungmoon Choi; Gyujeong Noh",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "082f270f-0c9c-49c4-b469-28f02bd990a7",
+      "c1bad407-436f-4ec8-b304-f53e5fea69b0",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "70dfa84d-6328-474d-945e-60f1f20e01a2",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-07-13",
+    "title_eng": "The Prototype Development of a Wearable Device for Lower Limb Balance Evaluation During Walking",
+    "title_kor": "보행시 하지균형 평가를 위한 웨어러블 시스템 프로토타입 개발",
+    "conference_eng": "The 47th KIEE Summer Conference 2016",
+    "author_kor": "이진석; 박수지; 신항식",
+    "author_eng": "Jin_Seok Lee; Sooji park; Hangsik shin",
+    "author_ids": [
+      "3efb670a-39dc-48a8-86de-303f334a8c06",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "6415cb28-288e-43a5-aa60-6f1bcf0cb370",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2016-03-04",
+    "title_eng": "Simple and Robust Realtime QRS Detection Algorithm Based on Spatiotemporal Characteristic of the QRS Complex",
+    "journal_eng": "PLoS One",
+    "author_kor": "김진권; 신항식",
+    "author_eng": "Jinkwon Kim; Hangsik shin",
+    "author_ids": [
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150144",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "7737f99c-8aa6-432f-b0c3-710b182fdd65",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2016-08-01",
+    "title_eng": "Reconstruction of the Undersampled Photoplethysmogram with Various Interpolation Methods",
+    "title_kor": "보간 방법에 따른 언더샘플링된 광용적맥파 복원 가능성 평가",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "신항식; 김훈",
+    "author_eng": "Hangsik shin; Hoon Kim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "68a7cea7-eb6d-4806-8658-50b7e4135546"
+    ],
+    "link": "https://www.researchgate.net/publication/307913747_Reconstruction_of_the_Undersampled_Photoplethysmogram_with_Various_Interpolation_Methods",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "ebced44e-8f92-490d-8b87-b5256925d34d",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2016-06-21",
+    "title_eng": "Quasi-periodic signal pole detection method of quasi-periodic signal and program thereof",
+    "title_kor": "준주기 신호의 실시간 극점 검출 방법 및 그 프로그램",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "b1e605bb-a39b-4ed6-b7e6-592b4129f553",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-10-28",
+    "title_eng": "Preliminary Study for Non-invasive Plasma Volume Estimation based on Plethysmograpic Waveform",
+    "title_kor": "용적맥파 파형특성 기반 비침습 혈장량 변화 추정을 위한 기초연구",
+    "conference_eng": "Proceedings of Korean Institute of Intelligent Systems Autumn Conference 2016",
+    "author_kor": "양윤라; 신항식",
+    "author_eng": "Yoon La Yang; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "7a652f89-2477-4790-9c06-3174bfb8e330",
+    "category": "conference",
+    "class": "International",
+    "date": "2016-08-25",
+    "title_eng": "Preliminary Study for Biometric based on Gait Pattern Analysis Using Insole-Type Force Sensor",
+    "title_kor": "Preliminary Study for Biometric based on Gait Pattern Analysis Using Insole-Type Force Sensor",
+    "conference_eng": "Joint 8th International Conference on Soft Computing and Intelligent Systems and 17th International Symposium on Advanced Inteligent Systems ",
+    "author_kor": "신항식; 정화영; 민세동",
+    "author_eng": "Hangsik Shin; Hwa Young Jung; Se Dong Min",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "08dd0c93-5bf2-44aa-8980-fb987eeae53f",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "4510f362-178e-4e55-9f02-9357298d3e41",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2016-12-30",
+    "title_eng": "Multi-channel capacitive pressure sensor",
+    "title_kor": "다채널 정전용량 압력 센서",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "11f1d4c1-6f26-45dc-a0fa-65395d1cfa90",
+    "category": "patent",
+    "class": "International",
+    "date": "2016-01-07",
+    "title_eng": "Method of executing application and terminal using the method",
+    "title_kor": "Method of executing application and terminal using the method",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "d82cdf15-8385-419c-bfa2-1893f6ed1c79",
+    "category": "patent",
+    "class": "International",
+    "date": "2016-01-07",
+    "title_eng": "Method of executing application and terminal using the method",
+    "title_kor": "Method of executing application and terminal using the method",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "2a8e9c18-bae6-4ce3-b843-075c4ad6e42f",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2016-08-23",
+    "title_eng": "Method for real-time QRS-complex detection and program thereof",
+    "title_kor": "실시간 QRS파 검출 방법 및 그 프로그램",
+    "author_kor": "신항식; 김진권",
+    "author_eng": "Hangsik Shin; Jinkwon Kim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "aeb9a6cf-3223-4406-aa7e-554c059c5aeb",
+    "category": "patent",
+    "class": "International",
+    "date": "2016-03-01",
+    "title_eng": "Method and divice for excuting application",
+    "title_kor": "Method and divice for excuting application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "324b1e7e-65dd-4b94-8bdc-4a38c4c663ee",
+    "category": "patent",
+    "class": "International",
+    "date": "2016-01-29",
+    "title_eng": "Method and divice for excuting application",
+    "title_kor": "Method and divice for excuting application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "9631348b-4e15-4d25-9c48-83eb49abb163",
+    "category": "patent",
+    "class": "International",
+    "date": "2016-10-12",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "c6368e46-7270-41e1-8393-1bb5c36244a9",
+    "category": "patent",
+    "class": "International",
+    "date": "2016-05-27",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "c1c7efe5-cdd5-4581-a855-e38b38223bda",
+    "category": "patent",
+    "class": "International",
+    "date": "2016-10-05",
+    "title_eng": "Method and apparatus for measuring bio signal",
+    "title_kor": "Method and apparatus for measuring bio signal",
+    "author_kor": "조재걸; 김광춘; 김재필; 민진홍; 백현재; 신항식",
+    "author_eng": "Jaegeol Cho; Kwangchoon Kim; Jaepil Kim; Jinhong Min; Hyunjae Baek; Hangsik Shin",
+    "author_ids": [
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "87cf7e69-dd97-4ac4-97d6-162acf858278",
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "39afba78-7e6f-4ac0-8bc0-6d363ac3398e",
+      "52c800ad-007d-46f1-98ab-3ac1dad2f4a3",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "e3a0f951-a861-4ea5-8a7a-531046c06974",
+    "category": "patent",
+    "class": "International",
+    "date": "2016-05-24",
+    "title_eng": "Method and apparatus for measuring bio signal",
+    "title_kor": "Method and apparatus for measuring bio signal",
+    "author_kor": "조재걸; 김광춘; 김재필; 민진홍; 백현재; 신항식",
+    "author_eng": "Jaegeol Cho; Kwangchoon Kim; Jaepil Kim; Jinhong Min; Hyunjae Baek; Hangsik Shin",
+    "author_ids": [
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "87cf7e69-dd97-4ac4-97d6-162acf858278",
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "39afba78-7e6f-4ac0-8bc0-6d363ac3398e",
+      "52c800ad-007d-46f1-98ab-3ac1dad2f4a3",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "38558748-eff4-4a34-b7cf-c252da88797f",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-02-15",
+    "title_eng": "Investigation of Peak Location Changes of Photoplethysmography according to the Sampling Frequency Changes",
+    "title_kor": "샘플링주파수에 따른 광용적맥파 극점 위치 변화 관찰",
+    "conference_eng": "Bio-Medical System Conference 2016",
+    "author_kor": "신항식; 강성탁",
+    "author_eng": "Hangsik shin; Seongtak Kang",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2305510c-90d6-4355-99bd-7d63caa62cfb"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "8545e9a7-785e-4d05-8c41-71d5e2b27275",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-12-16",
+    "title_eng": "Implementation of composition application based on smart device-pen interaction",
+    "title_kor": "스마트기기-펜 인터랙션 기반 작곡 기능 구현",
+    "conference_eng": "Advanced Intelligent Systems Conference: AISC2016",
+    "author_kor": "곽재경; 신항식",
+    "author_eng": "Jaekyung Kwak; Hangsik shin",
+    "author_ids": [
+      "2684cf18-a5b8-4ca2-977d-d4cbbf558f8a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "ba221311-8ff1-5cfc-b20e-78f35ffec6d9",
+    "category": "award",
+    "date": "2016-07-21",
+    "title_eng": "Feature Location Restoration for Under-Sampled Photoplethysmogram Using Spline Interpolation ",
+    "title_kor": "Feature Location Restoration for Under-Sampled Photoplethysmogram Using Spline Interpolation ",
+    "award_name_eng": "Best presentation award of 18th International Conference on Medical Physics and Biomedical Engineering(ICMPBE 2016)",
+    "author_kor": "Hangsik Shin",
+    "author_eng": "Hangsik Shin",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "f9194a64-cd5e-497c-90ef-2d6067b2cbe1",
+    "category": "conference",
+    "class": "International",
+    "date": "2016-07-21",
+    "title_eng": "Feature Location Restoration for Under-Sampled Photoplethysmogram Using Spline Interpolation",
+    "title_kor": "Feature Location Restoration for Under-Sampled Photoplethysmogram Using Spline Interpolation",
+    "conference_eng": "18th International Conference on Medical Physics and Biomedical Engineering(ICMPBE 2016)",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "1d50adfe-e665-4d28-aaa0-301e2112b9c9",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2016-01-01",
+    "title_eng": "Feasibility Study of Sitting Posture Monitoring Based on Piezoresistive Conductive Film-Based Flexible Force Sensor",
+    "journal_eng": "IEEE Sensors Journal",
+    "author_kor": "이병우; 신항식",
+    "author_eng": "Byung Woo Lee; Hangsik Shin",
+    "author_ids": [
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/7273819",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "0f9fb924-bc18-43c0-8c81-2eac0c8e5d05",
+    "category": "conference",
+    "class": "International",
+    "date": "2016-08-16",
+    "title_eng": "Feasibility Study of Respiration Monitoring based on Strip-Type Force Sensing Platform in Various Lying Positions",
+    "title_kor": "Feasibility Study of Respiration Monitoring based on Strip-Type Force Sensing Platform in Various Lying Positions",
+    "conference_eng": "38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC 2016)",
+    "author_kor": "박수지; 김훈; 신항식",
+    "author_eng": "Sooji park; Hoon Kim; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "68a7cea7-eb6d-4806-8658-50b7e4135546",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "fa0a8f20-8d75-4964-b3e0-58828b25e8f1",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2016-01-12",
+    "title_eng": "Display of a handheld terminal with graphical user interface",
+    "title_kor": "Display of a handheld terminal with graphical user interface",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "d21e74a3-dbdc-4f37-989e-9085b3d4c524",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-07-13",
+    "title_eng": "Development of Realtime Unconstrained Respiratory Monitoring System based on Strip-type Force-sensor",
+    "title_kor": "스트립형 힘센서를 이용한 실시간 무구속 호흡 측정 시스템 개발",
+    "conference_eng": "The 47th KIEE Summer Conference 2016",
+    "author_kor": "박수지; 김훈; 신항식",
+    "author_eng": "Sooji park; Hoon Kim; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "68a7cea7-eb6d-4806-8658-50b7e4135546",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "46e2ce97-de4a-5a92-b216-a022a1461e51",
+    "category": "award",
+    "date": "2016-07-13",
+    "title_eng": "Development of Realtime Unconstrained Respiratory Monitoring System based on Strip-type Force-sensor",
+    "title_kor": "스트립형 힘센서를 이용한 실시간 무구속 호흡 측정 시스템 개발",
+    "award_name_eng": "Best paper award of The 47th KIEE Summer Conference 2016",
+    "author_kor": "박수지;김훈;신항식",
+    "author_eng": "Sooji Park;Hoon Kim;Hangsik Shin",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "e5f3d465-d421-46dc-877e-80fb61fc1b5c",
+    "category": "conference",
+    "class": "International",
+    "date": "2016-11-11",
+    "title_eng": "Development of Mastication Monitoring System for Assessment of the Mandibular Asymmetry",
+    "title_kor": "Development of Mastication Monitoring System for Assessment of the Mandibular Asymmetry",
+    "conference_eng": "International Biomedical Engineering Conference 2016 (IBEC 2016)",
+    "author_kor": "양윤라; 석현석; 신항식",
+    "author_eng": "Yoon La Yang; Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "a6eda51e-ce65-4e50-a1e9-429dba45992f",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2016-04-25",
+    "title_eng": "Contactless height measuring method based on image and system thereof",
+    "title_kor": "영상에 기반한 비접촉 신장 측정 방법 및 그 시스템",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "b085a216-3143-4945-bc56-ea333b5f4d1b",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2016-07-29",
+    "title_eng": "Braille input and output device",
+    "title_kor": "점자 입출력 장치",
+    "author_kor": "신항식; 박정훈; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "d370bcba-01f1-4ced-a546-740e85b13027",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2016-05-16",
+    "title_eng": "Biosignal monitoring system using multi-channel sensor patch",
+    "title_kor": "다채널 센서를 이용한 생체 신호 모니터링 시스템",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "e4317c31-4236-4a67-a345-5e619b457d29",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-07-13",
+    "title_eng": "Availability of Frequency Domain Analysis of Heart Rate Variability Using Ultra Short-term Electrocardiogram",
+    "title_kor": "초단기 심전도에 대한 심박변이도 주파수 분석법 적용 가능성 고찰",
+    "conference_eng": "The 47th KIEE Summer Conference 2016",
+    "author_kor": "신항식; 김동준",
+    "author_eng": "Hangsik shin; Dong-Jun Kim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "62d51eaa-e423-49c2-b058-669ba146f3fa"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "e94a1582-c497-4776-ad82-4c2e2553c8c5",
+    "category": "conference",
+    "class": "International",
+    "date": "2016-08-16",
+    "title_eng": "An Investigation of the Time Domain Analysis of Ultra-Short Term Heart Rate Variability in Resting Condition",
+    "title_kor": "An Investigation of the Time Domain Analysis of Ultra-Short Term Heart Rate Variability in Resting Condition",
+    "conference_eng": "38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC 2016)",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "408cc39f-6574-4a04-adad-20603f79acf1",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-07-11",
+    "title_eng": "An Investigation of the Photoplethysmography for Clinical and Healthcare Use",
+    "title_kor": "광용적맥파 특성 기반 임상, 건강관리 적용 연구",
+    "conference_eng": "Optical Society of Korea Summer Meeting 2016",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "87a63d7d-4e79-408c-a0bd-10256501618f",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-05-13",
+    "title_eng": "An Investigation of the Peak Location Restoration of the Photoplethysmogram based on the Linear Interpolation",
+    "title_kor": "선형보간에 의한 광용적맥파 극점위치복원 특성 고찰",
+    "conference_eng": "The 51th Korea Society of Medical and Biological Engineering Spring Conference 2016",
+    "author_kor": "강성탁; 노동근; 최민주; 신항식",
+    "author_eng": "Seongtak Kang; Donggeun Rho; Min Ju Choi; Hangsik shin",
+    "author_ids": [
+      "2305510c-90d6-4355-99bd-7d63caa62cfb",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "19ac2461-2574-41b8-902c-4deb91d42bb9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "fbd3871b-1fa6-4fe0-8875-9da338074edb",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-07-13",
+    "title_eng": "An Investigation of the Feature Point Restoration of Undersampled Photoplethysmogram Using Interpolation",
+    "title_kor": "언더샘플링된 광용적맥파 신호의 보간을 통한 극점 위치 복원 가능성 고찰",
+    "conference_eng": "The 47th KIEE Summer Conference 2016",
+    "author_kor": "강성탁; 신항식",
+    "author_eng": "Seongtak Kang; Hangsik shin",
+    "author_ids": [
+      "2305510c-90d6-4355-99bd-7d63caa62cfb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "81552009-58e1-40a6-b552-ec71c2cf1fdf",
+    "category": "conference",
+    "class": "International",
+    "date": "2016-08-16",
+    "title_eng": "An Investigation of the Effect of Sampling Frequency to the Frequency Domain Analysis of Pulse Rate Variability",
+    "title_kor": "An Investigation of the Effect of Sampling Frequency to the Frequency Domain Analysis of Pulse Rate Variability",
+    "conference_eng": "38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC 2016)",
+    "author_kor": "양윤라; 신항식",
+    "author_eng": "Yoon La Yang; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "88e7d100-28e2-46ed-be3e-0ef1c96c944e",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-10-20",
+    "title_eng": "An Investigation of the Characteristic of Force Sensors in Biomedical Measurement",
+    "title_kor": "생체 계측에서 사용되는 힘센서의 종류별 특성 고찰",
+    "conference_eng": "Conference on Information and Control Systems 2016",
+    "author_kor": "박수지; 최민주; 강성탁; 신항식",
+    "author_eng": "Sooji park; Min Ju Choi; Seongtak Kang; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "19ac2461-2574-41b8-902c-4deb91d42bb9",
+      "2305510c-90d6-4355-99bd-7d63caa62cfb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "6f93268a-6b27-42d8-a32b-268903d1b1fd",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2016-07-01",
+    "title_eng": "An Effect of Sampling Rate to the Time and Frequency Domain Analysis of Pulse Rate Variability",
+    "title_kor": "샘플링율이 맥박변이도 시간 및 주파수 영역 분석에 미치는 영향",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "양윤라; 신항식",
+    "author_eng": "Yoon La Yang; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://koreascience.kr/article/JAKO201621650895994.page",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "7dd4e9df-cb57-407c-b72e-9dfae37d1e50",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-05-13",
+    "title_eng": "An Effect of Sampling Rate to the Time Domain Analysis Result of Pulse Rate Variability",
+    "title_kor": "샘플링율이 맥박변이도 시간영역 분석에 미치는 영향 분석",
+    "conference_eng": "The 51th Korea Society of Medical and Biological Engineering Spring Conference 2016",
+    "author_kor": "양윤라; 강성탁; 노동근; 최민주; 신항식",
+    "author_eng": "Yoon La Yang; Seongtak Kang; Donggeun Rho; Min Ju Choi; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "2305510c-90d6-4355-99bd-7d63caa62cfb",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "19ac2461-2574-41b8-902c-4deb91d42bb9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "8b4af64e-3ab5-4d15-9fd8-3eb8fa7e57a2",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-07-13",
+    "title_eng": "An Effect of Sampling Rate to the Sample Entropy Analysis of Pulse Rate Variability",
+    "title_kor": "샘플링율이 맥박변이도 Sample Entropy 분석 결과에 미치는 영향 분석",
+    "conference_eng": "The 47th KIEE Summer Conference 2016",
+    "author_kor": "양윤라; 신항식",
+    "author_eng": "Yoon La Yang; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "70dcb068-83e4-475c-b084-0c3d6623cf1b",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2016-12-01",
+    "title_eng": "Ambient temperature effect on pulse rate variability as an alternative to heart rate variability in young adult",
+    "journal_eng": "Journal of Clinical Monitoring and Computing",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/26511754/",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f62",
+    "category": "project",
+    "date": "2016-11-01",
+    "project_name_eng": "Development of the cuffless blood pressure measurement technology for continuous blood pressure monitoring",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f64",
+    "category": "project",
+    "date": "2016-06-01",
+    "project_name_eng": "Develpment of the Smart Health Cushion",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f63",
+    "category": "project",
+    "date": "2016-09-01",
+    "project_name_eng": "Smart device connected and textile-based smart function mounted outdoor garment for smart life with ergonomic design",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f65",
+    "category": "project",
+    "date": "2016-05-01",
+    "project_name_eng": "Unconstrained monitoring system for constructing biomedical big-data and bio-signal monitoring during sleep",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "532c8b1f-e544-5af7-a877-9c99e8be9127",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "c286ae49-0d97-5908-afee-c855c20c2abf",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "0edb5ba8-cd98-5a96-b185-596bac1b1e6d",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "e8d39320-8a36-532b-bd33-aacc12227277",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "0f6aa273-71c2-50f6-8f9b-05edf8dd0406",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "3f79a85c-6514-5d34-9d61-8b1fbe47683c",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "d662b273-e9fc-56c6-b562-d2ec4b81b5de",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "94049142-90e7-5b24-9a86-d865c85a61ca",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "aa43067b-249f-5ceb-b9f5-c32a3ae3f346",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "93234a91-fcc4-5f58-bfe4-342e5b24ad49",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "7bc95318-7135-5c3f-a0e3-051edffa5a17",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "369cad4b-9f9d-507f-972c-128bd0a6ba93",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "e7d11f03-2f4d-5244-a3c1-24d12e76ff68",
+    "category": "lecture",
+    "year": 2016,
+    "year_resolved": "2016"
+  },
+  {
+    "id": "17ae0b58-e00d-502c-be68-1d82387fb8ed",
+    "category": "technology_transfer",
+    "date": "2016-09-30",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "2612b7f7-c78d-56d9-8c2d-0701a6451b91",
+    "category": "technology_transfer",
+    "date": "2016-10-31",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "78708064-9490-525c-b8af-36a5c4e25a2b",
+    "category": "award",
+    "date": "2016-10-29",
+    "award_name_eng": "Young researcher academic activity award ",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "1877cad9-4d98-584a-a0ed-99ae5d4d9340",
+    "category": "award",
+    "date": "2016-12-09",
+    "award_name_eng": "Academic award",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "3f491481-4c1a-5a8b-a14f-5603647aba13",
+    "category": "extracurricular",
+    "date": "2016-01-01",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "c33b064b-0cf8-5754-991b-b59418d9ea61",
+    "category": "extracurricular",
+    "date": "2016-01-01",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "a98bfa1e-a276-544a-a13e-e1c63a409a50",
+    "category": "extracurricular",
+    "date": "2016-01-01",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "73a9778e-0c46-5973-99f8-06f3331dfd90",
+    "category": "extracurricular",
+    "date": "2016-01-01",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "c9608b35-b00c-5f22-847f-af51a6d541d3",
+    "category": "invited_lecture",
+    "date": "2016-07-01",
+    "year_resolved": "2016"
+  }
+]

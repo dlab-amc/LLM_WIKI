@@ -1,0 +1,78 @@
+[
+  {
+    "id": "4869b5bf-4dc1-422c-86ac-2ee4ca425911",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2017-09-20",
+    "title_eng": "Finger movement recognition glove and method using conductive coated material",
+    "title_kor": "전도성 소재를 이용한 손가락 동작 인식 장갑 및 그 방법",
+    "author_kor": "신항식; 김대은; 박정훈; 이재홍; 안성주; 정은석",
+    "author_eng": "Hangsik Shin; Dae-eun Kim; Junghoon Park; Jaehong Lee; Sungjoo Ahn; Eunseak Jung",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "a23af44c-15d6-4db1-a3f1-45bcdf51b3e4",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "85046567-bdc1-405e-8e6a-daefc301736a",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "d45f506d-da87-4f6d-a11e-6d652d5d3f6c"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "b038f7c1-6a41-4478-bae6-9d758b6a7935",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-01-30",
+    "title_eng": "Finger motion recognition glove using conductive materials and method thereof",
+    "title_kor": "Finger motion recognition glove using conductive materials and method thereof",
+    "author_kor": "신항식; 박정훈; 안성주; 김대은; 이재홍; 정은석",
+    "author_eng": "Hangsik Shin; Junghoon Park; Sungjoo Ahn; Dae-eun Kim; Jaehong Lee; Eunseak Jung",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "a23af44c-15d6-4db1-a3f1-45bcdf51b3e4",
+      "85046567-bdc1-405e-8e6a-daefc301736a",
+      "d45f506d-da87-4f6d-a11e-6d652d5d3f6c"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "807164c4-a3eb-40ee-8d55-17aa01dd0715",
+    "category": "patent",
+    "class": "International",
+    "date": "2012-07-27",
+    "title_eng": "Finger motion recognition glove using conductive materials and method thereof",
+    "title_kor": "Finger motion recognition glove using conductive materials and method thereof",
+    "author_kor": "신항식; 박정훈; 안성주; 김대은; 이재홍; 정은석",
+    "author_eng": "Hangsik Shin; Junghoon Park; Sungjoo Ahn; Dae-eun Kim; Jaehong Lee; Eunseak Jung",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "a23af44c-15d6-4db1-a3f1-45bcdf51b3e4",
+      "85046567-bdc1-405e-8e6a-daefc301736a",
+      "d45f506d-da87-4f6d-a11e-6d652d5d3f6c"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "f894c4d6-4500-4fce-afe7-34113df9cfc3",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2011-07-27",
+    "title_eng": "Finger movement recognition glove and method using conductive coated material",
+    "title_kor": "전도성 소재를 이용한 손가락 동작 인식 장갑 및 그 방법",
+    "author_kor": "신항식; 김대은; 박정훈; 이재홍; 안성주; 정은석",
+    "author_eng": "Hangsik Shin; Dae-eun Kim; Junghoon Park; Jaehong Lee; Sungjoo Ahn; Eunseak Jung",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "a23af44c-15d6-4db1-a3f1-45bcdf51b3e4",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "85046567-bdc1-405e-8e6a-daefc301736a",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "d45f506d-da87-4f6d-a11e-6d652d5d3f6c"
+    ],
+    "year_resolved": "2011"
+  }
+]

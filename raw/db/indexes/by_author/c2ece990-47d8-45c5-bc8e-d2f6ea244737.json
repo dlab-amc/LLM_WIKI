@@ -1,0 +1,64 @@
+[
+  {
+    "id": "cfc8007b-d815-49b8-bfea-f66cf26e3dcc",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-06-19",
+    "title_eng": "Types and Frequencies of Errors in Clinical Chemistry Tests at the University Hospital Clinical Laboratory",
+    "title_kor": "대학병원 임상화학검사에서 보고된 오류 유형과 빈도",
+    "conference_eng": "The Korean Society of Medical Informatics",
+    "author_kor": "유지원; 김솔잎; 이우창; 전사일; 신항식",
+    "author_eng": "Jiwon You; Sollip Kim; Woochang Lee; Sail Chun; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "5ec9e165-f85d-4223-9e7f-038a6359d70a",
+      "c2ece990-47d8-45c5-bc8e-d2f6ea244737",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "1488e88b-6109-4435-8b1e-12951f673d7f",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-08-22",
+    "title_eng": "Machine learning-based sample misidentification error detection in clinical laboratory tests: A retrospective multicenter study",
+    "journal_eng": "Clinical Chemistry",
+    "author_kor": "석현석; 유신애; 신경화; 이우창; 전사일; 김솔잎; 신항식",
+    "author_eng": "Hyeon Seok Seok; Shinae Yu; Kyung-Hwa Shin; Woochang Lee; Sail Chun; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "06cd217f-5f4c-49af-9cf4-1666a5f30674",
+      "5ec9e165-f85d-4223-9e7f-038a6359d70a",
+      "c2ece990-47d8-45c5-bc8e-d2f6ea244737",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://academic.oup.com/clinchem/advance-article/doi/10.1093/clinchem/hvae114/7739014?utm_source=authortollfreelink&utm_campaign=clinchem&utm_medium=email&guestAccessKey=1df85bdd-2fbf-480d-97d8-d0d649a9c699",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "4fde86c3-06f0-4b09-a500-dfcf59ba538e",
+    "category": "conference",
+    "class": "International",
+    "date": "2024-03-20",
+    "title_eng": "Applying Machine Learning for Result Verification: Analysis of Five Tumor Markers",
+    "title_kor": "Applying Machine Learning for Result Verification: Analysis of Five Tumor Markers",
+    "conference_eng": "Cherry Blossom Symposium 2024 (CBS 2024) The 13th International Conference of Clinical Laboratory Automation",
+    "author_kor": "최유나; 석현석; 신항식; 이승후; 유준상; 김솔잎; 이우창; 전사일",
+    "author_eng": "Yuna Choi; Hyeon Seok Seok; Hangsik Shin; Seunghoo Lee; Joonsang Yu; Sollip Kim; Woochang Lee; Sail Chun",
+    "author_ids": [
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "68c7ac1d-b7b7-429a-9d51-432b07e593a1",
+      "15140f93-6f69-43b8-8dd4-7d0541846ec4",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "5ec9e165-f85d-4223-9e7f-038a6359d70a",
+      "c2ece990-47d8-45c5-bc8e-d2f6ea244737"
+    ],
+    "year_resolved": "2024"
+  }
+]

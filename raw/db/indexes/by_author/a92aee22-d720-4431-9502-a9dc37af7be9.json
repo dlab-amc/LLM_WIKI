@@ -1,0 +1,120 @@
+[
+  {
+    "id": "65be53c6-9dd4-438b-91aa-03e3d8030132",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2026-05-07",
+    "title_eng": "Evaluation of the Feasibility of Large Language Models for Re-test Decision in Clinical Chemistry Tests",
+    "title_kor": "임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가",
+    "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+    "author_kor": "유지원; 정성연; 최유나; 김솔잎; 신항식",
+    "author_eng": "Jiwon You; Sungyeon Chung; Yuna Choi; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "80cbf804-4efd-4173-ae46-5c210a473ded",
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "90c8f0ea-c4de-499e-b7a8-7e265e2cc8d4",
+    "category": "award",
+    "date": "2026-05-09",
+    "title_eng": "Evaluation of the Feasibility of Large Language Models for Re-test Decision in Clinical Chemistry Tests",
+    "title_kor": "임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가",
+    "author_kor": "유지원; 정성연; 최유나; 김솔잎; 신항식",
+    "author_eng": "Jiwon You; Sungyeon Chung; Yuna Choi; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "80cbf804-4efd-4173-ae46-5c210a473ded",
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "6f180265-2c3c-4b38-a172-38af22a4c516",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2026-05-07",
+    "title_eng": "Development of a Clinical Chemistry Retest Ontology through Inductive Externalization of Expert Knowledge",
+    "title_kor": "귀납적 사례 분석 기반 임상화학 재검사 전문가 지식 추출 및 온톨로지 모델링",
+    "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+    "author_kor": "정성연; 유지원; 최유나; 김솔잎; 신항식",
+    "author_eng": "Sungyeon Chung; Jiwon You; Yuna Choi; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "80cbf804-4efd-4173-ae46-5c210a473ded",
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "537dc980-c7f7-4b4b-a328-1f984c75a46c",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2026-05-07",
+    "title_eng": "Development and Multicenter External Validation of an AI-based Screening Model for Retesting Clinical Chemistry Tests",
+    "title_kor": "임상화학검사 불필요 재검 판별을 위한 인공지능 모델 개발 및 다기관 외부 검증",
+    "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+    "author_kor": "김민소; 유지원; 최유나; 유신애; 박근열; 김솔잎; 신항식",
+    "author_eng": "Minso Kim; Jiwon You; Yuna Choi; Shinae Yu; Kuenyoul Park; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "3b530294-8839-4ba1-a4ce-0ebb6883bd86",
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "12a64dd1-9d0d-40ab-8de6-6ca43bc80795",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "4fde86c3-06f0-4b09-a500-dfcf59ba538e",
+    "category": "conference",
+    "class": "International",
+    "date": "2024-03-20",
+    "title_eng": "Applying Machine Learning for Result Verification: Analysis of Five Tumor Markers",
+    "title_kor": "Applying Machine Learning for Result Verification: Analysis of Five Tumor Markers",
+    "conference_eng": "Cherry Blossom Symposium 2024 (CBS 2024) The 13th International Conference of Clinical Laboratory Automation",
+    "author_kor": "최유나; 석현석; 신항식; 이승후; 유준상; 김솔잎; 이우창; 전사일",
+    "author_eng": "Yuna Choi; Hyeon Seok Seok; Hangsik Shin; Seunghoo Lee; Joonsang Yu; Sollip Kim; Woochang Lee; Sail Chun",
+    "author_ids": [
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "68c7ac1d-b7b7-429a-9d51-432b07e593a1",
+      "15140f93-6f69-43b8-8dd4-7d0541846ec4",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "5ec9e165-f85d-4223-9e7f-038a6359d70a",
+      "c2ece990-47d8-45c5-bc8e-d2f6ea244737"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "2825a808-457d-40e2-9103-6ac3f33e66ce",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2023-12-14",
+    "title_eng": "Machine learning-based delta check method for detecting misidentification errors in tumor marker tests",
+    "journal_eng": "Clinical Chemistry and Laboratory Medicine",
+    "author_kor": "석현석; 최유나; 유신애; 신경화; 김솔잎; 신항식",
+    "author_eng": "Hyeon Seok Seok; Yuna Choi; Shinae Yu; Kyung-Hwa Shin; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "06cd217f-5f4c-49af-9cf4-1666a5f30674",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.degruyter.com/document/doi/10.1515/cclm-2023-1185/html",
+    "year_resolved": "2023"
+  }
+]

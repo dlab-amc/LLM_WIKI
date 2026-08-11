@@ -1,0 +1,96 @@
+[
+  {
+    "id": "fcc46767-85c3-409c-b719-637fc44e1e92",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2014-03-01",
+    "title_eng": "The Relationship among Complex Fractionated Electrograms, Wavebreak, Phase Singularity, and Local Dominant Frequency in Fibrillation Wave-Dynamics: a Modeling Comparison Study",
+    "journal_eng": "Journal of Korean Medical Science",
+    "author_kor": "윤용현; 황민기; 박재형; 신항식; 심은보; 박희남",
+    "author_eng": "Yonghyeon Yoon; Minki Hwang; Jae Hyung Park; Hangsik shin; Eun Bo Shim; Hui-Nam Pak",
+    "author_ids": [
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "d7c7c006-681e-4a2f-ab6b-1fde3582e0a4",
+      "cd8545be-8980-44c8-8e62-84b9c62ab7b0",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "8b172b30-0a97-412a-9d45-bb3edbb82f16",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/24616586/",
+    "year_resolved": "2014"
+  },
+  {
+    "id": "b21b4d39-6cb0-4d48-aae9-6273e1d07db3",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2012-11-16",
+    "title_eng": "The Meaning of Complex Fractionated Electrograms in Fibrillation Wave-Dynamics: Modeling Study Comparing With Wavebreak, Phase Singularity, and Dominullt Frequency ",
+    "title_kor": "The Meaning of Complex Fractionated Electrograms in Fibrillation Wave-Dynamics: Modeling Study Comparing With Wavebreak, Phase Singularity, and Dominullt Frequency ",
+    "conference_eng": "56th Annual Scientific Meeting of the Korean Society of Cardiology, 2012",
+    "author_kor": "윤용현; 신항식; 박재형; 심은보",
+    "author_eng": "Yonghyeon Yoon; Hangsik Shin; Jae Hyung Park; Eun Bo Shim",
+    "author_ids": [
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "cd8545be-8980-44c8-8e62-84b9c62ab7b0",
+      "8b172b30-0a97-412a-9d45-bb3edbb82f16"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "1fec23fd-5912-48f0-b623-c2f672b3a937",
+    "category": "conference",
+    "class": "International",
+    "date": "2012-11-16",
+    "title_eng": "The Meaning of Complex Fractionated Electrograms in Fibrillation Wave-Dynamics: Modeling Study Comparing With Wavebreak, Phase Singularity, and Dominant Frequency",
+    "title_kor": "The Meaning of Complex Fractionated Electrograms in Fibrillation Wave-Dynamics: Modeling Study Comparing With Wavebreak, Phase Singularity, and Dominant Frequency",
+    "conference_eng": "the 56th annual scientific meeting of the Korean society of cardiology",
+    "author_kor": "윤용현; 신항식; 박재형; 심은보",
+    "author_eng": "Yonghyeon Yun; Hangsik Shin; Jae Hyung Park; Eun Bo Shim",
+    "author_ids": [
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "cd8545be-8980-44c8-8e62-84b9c62ab7b0",
+      "8b172b30-0a97-412a-9d45-bb3edbb82f16"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "0809cc1c-0419-4ebb-b780-e0d00dd72293",
+    "category": "journal",
+    "class": "None",
+    "date": "2012-10-01",
+    "title_eng": "Spatial Distribution of Wave-break, Phase Singularity, Dominullt Frequency, and Complex Fractionated Electrograms During Fibrillation: Quantitative Analysis by Simulation Modeling",
+    "title_kor": "Spatial Distribution of Wave-break, Phase Singularity, Dominullt Frequency, and Complex Fractionated Electrograms During Fibrillation: Quantitative Analysis by Simulation Modeling",
+    "journal_eng": "Journal of Arrhythmia",
+    "author_kor": "윤용현; 심은보; 신항식; 박재형; 박희남",
+    "author_eng": "Yonghyeon Yun; Eun Bo Shim; Hangsik Shin; Jae Hyung Park; Hui-Nam Pak",
+    "author_ids": [
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "8b172b30-0a97-412a-9d45-bb3edbb82f16",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "cd8545be-8980-44c8-8e62-84b9c62ab7b0",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "0a5d4c4a-92ab-48e7-9a72-8cc6e85808e6",
+    "category": "conference",
+    "class": "International",
+    "date": "2012-10-01",
+    "title_eng": "Spatial Distribution of Wave-break, Phase Singularity, Dominullt Frequency, and Complex Fractionated Electrograms During Fibrillation: Quantitative Analysis by Simulation Modeling",
+    "title_kor": "Spatial Distribution of Wave-break, Phase Singularity, Dominullt Frequency, and Complex Fractionated Electrograms During Fibrillation: Quantitative Analysis by Simulation Modeling",
+    "conference_eng": "Journal of Arrhythmia, 28 (Supplement),",
+    "author_kor": "윤용현; 심은보; 신항식; 박재형; 박희남",
+    "author_eng": "Yonghyeon Yun; Eun Bo Shim; Hangsik Shin; Jae Hyung Park; Hui-Nam Pak",
+    "author_ids": [
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "8b172b30-0a97-412a-9d45-bb3edbb82f16",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "cd8545be-8980-44c8-8e62-84b9c62ab7b0",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba"
+    ],
+    "year_resolved": "2012"
+  }
+]

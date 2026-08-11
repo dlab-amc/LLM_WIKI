@@ -1,0 +1,23 @@
+[
+  {
+    "id": "6a2e10cf-aceb-4563-9118-3e71b89cefbb",
+    "category": "conference",
+    "class": "International",
+    "date": "2025-07-14",
+    "title_eng": "Preliminary Research on the Development of Digital Therapeutics for Performing Rehabilitation Exercise Programs",
+    "title_kor": "Preliminary Research on the Development of Digital Therapeutics for Performing Rehabilitation Exercise Programs",
+    "conference_eng": "The 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+    "author_kor": "윤용현; 박상아; 류창희; 김소연; 김현지; 정희석; 신항식",
+    "author_eng": "Yonghyeon Yun; Sangah Park; Changhee Ryu; Soyeon Kim; Hyunji Kim; Hee Seok Jeong; Hangsik Shin",
+    "author_ids": [
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "1e901da9-90fd-4033-805d-7cae7c6e597f",
+      "046e0155-ebc5-46d3-9548-da526deea4a1",
+      "bc4f26fd-9155-4172-8e03-e997f4601e95",
+      "95e28776-4d0d-4ed0-b15f-497367250ffe",
+      "26c3de97-d194-49cf-a624-fb03eb18e950",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  }
+]

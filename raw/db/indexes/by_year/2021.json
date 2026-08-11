@@ -1,0 +1,639 @@
+[
+  {
+    "id": "78c2ce35-58a4-4af5-8677-f6ce2df6803d",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-02-15",
+    "title_eng": "Wearable blood pressure measuring device with multi-array pressure sensors",
+    "title_kor": "다중 배열 압력 센서를 포함하는 웨어러블 혈압 측정 장치",
+    "author_kor": "신항식; 박준영; 노동근; 최용순; 김도유; 최아영",
+    "author_eng": "Hangsik Shin; Junyoung Park; Donggeun Rho; Yongsoon Choi; Doyu Kim; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "65c403c8-2a42-4d96-9ef8-962c389141cb",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "663f7860-b349-4223-9810-94e408a7c757",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-02-15",
+    "title_eng": "Wearable blood pressure measurement device comprising multi-array pressure sensor",
+    "title_kor": "다층 어레이 압력 센서를 포함하는 착용할 수 있는 혈압 측정 장치",
+    "author_kor": "신항식; 박준영; 노동근; 최용순; 김도유; 최아영",
+    "author_eng": "Hangsik Shin; Junyoung Park; Donggeun Rho; Yongsoon Choi; Doyu Kim; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "65c403c8-2a42-4d96-9ef8-962c389141cb",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "1185fd01-188d-48ec-ac45-014fa0f95b13",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-03-04",
+    "title_eng": "Waistband-type wearable electrocardiogram measurement apparatus, and method and apparatus for measuring heartbeat using same",
+    "title_kor": "이를 이용하는 하트비트를 측정하는 WAISTBAND-TYPE 착용할 수 있는 심전도 측정 장치 및 방법과 장치",
+    "author_kor": "신항식; 권단비",
+    "author_eng": "Hangsik Shin; Danbi Kwon",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "236e5d74-414b-4790-b358-619eda9557de"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "d662dae8-9e17-48f0-87d6-051449b2bfda",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2021-07-14",
+    "title_eng": "Vascular aging estimation based on artificial neural network using photoplethysmogram",
+    "title_kor": "광용적맥파를 이용한 인공신경망 기반 혈관 노화 추정",
+    "conference_eng": "The 52th KIEE Summer Conference 2021",
+    "author_kor": "박준영; 신항식",
+    "author_eng": "Junyoung Park; Hangsik shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "60ec73b2-b427-482f-a248-3bdc6b4823b9",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-04-27",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "시스템과 장치를 연결된 외부 장치를 방제하는 방법",
+    "author_kor": "고재우; 신항식; 박세준; 김양욱; 천해인; 정재호",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park; Yangwook Kim; Haein Chun; Jaeho Jung",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1",
+      "ae26dc01-50c2-4bd4-827c-75c5b0a45255",
+      "6087851f-34e1-47bc-ac70-223bbc0b9f35",
+      "3781bf3e-a884-453b-b569-b5b28d3d621b"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "fec326cf-165f-4f5d-ae92-06bb61090a14",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-05-10",
+    "title_eng": "Stacking cone system",
+    "title_kor": "스태킹 콘 시스템",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "2e0fbd54-d86b-4614-99dc-7a71f8ed4149",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-10-01",
+    "title_eng": "Stacking cone system",
+    "title_kor": "스태킹 콘 시스템",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "1b478bb7-f683-457b-9b8e-77a084e2b405",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2021-03-20",
+    "title_eng": "Recurrence Plot and Machine Learning for Signal Quality Assessment of Photoplethysmogram in Mobile Environment",
+    "journal_eng": "Sensors",
+    "author_kor": "노동근; 신항식",
+    "author_eng": "Donggeun Roh; Hangsik Shin",
+    "author_ids": [
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.mdpi.com/1424-8220/21/6/2188",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "16ae8eca-e68c-46a5-a864-9569c956dd3a",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2021-05-05",
+    "title_eng": "Recommendation for Measuring Digital Volume Pulse in Mobile Application: For Healthy Normal Subject",
+    "journal_eng": "IEEE Access",
+    "author_kor": "석현석; 신항식",
+    "author_eng": "Hyeon Seok Seok; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9423964",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "1b25019e-5e44-4de9-b10d-c94355d27674",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-02-08",
+    "title_eng": "Portable wearable respiratory monitoring unit and mask comprising the same",
+    "title_kor": "휴대용 웨어러블 호흡 모니터링 장치 및 이를 포함하는 마스크",
+    "author_kor": "신항식; 권단비",
+    "author_eng": "Hangsik Shin; Danbi Kwon",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "236e5d74-414b-4790-b358-619eda9557de"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "dfdea2b9-0376-4b00-a168-344daf816500",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-01-28",
+    "title_eng": "Portable wearable respiratory monitoring unit and mask comprising the same",
+    "title_kor": "휴대용 웨어러블 호흡 모니터링 장치 및 이를 포함하는 마스크",
+    "author_kor": "신항식; 권단비",
+    "author_eng": "Hangsik Shin; Danbi Kwon",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "236e5d74-414b-4790-b358-619eda9557de"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "21fd7890-3ae3-42bf-8387-2b9b0d352c77",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2021-03-08",
+    "title_eng": "Performance of the Surgical Pleth Index and Analgesia Nociception Index in Healthy Volunteers and Parturients",
+    "journal_eng": "Frontiers in Physiology",
+    "author_kor": "최병문; 신항식; 이주현; 방지연; 이은경; 노규정",
+    "author_eng": "Byungmoon Choi; Hangsik Shin; Joo-Hyun Lee; Ji-Yeon Bang; Eun-Kyung Lee; Gyujeong Noh",
+    "author_ids": [
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "d818c191-1ea9-4f88-9ab7-5bcdf5a1a30c",
+      "c1bad407-436f-4ec8-b304-f53e5fea69b0",
+      "7f204165-939d-44e7-9ad2-cc9df84495bf",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/33762962/",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "debca9ec-7109-4687-99f5-3c7c59444f33",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2021-02-03",
+    "title_eng": "Novel Analgesic Index for Postoperative Pain Assessment Based on a Photoplethysmographic Spectrogram and Convolutional Neural Network: Observational Study",
+    "journal_eng": "Journal of Medical Internet Research",
+    "author_kor": "최병문; 임지연; 신항식; 노규정",
+    "author_eng": "Byungmoon Choi; Ji Yeon Yim; Hangsik Shin; Gyujeong Noh",
+    "author_ids": [
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/33533723/",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "e6db1fa1-99d8-4a36-bf9a-7a7ea6773488",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-07-06",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "외장 기기, 운영상 외장 기기, 호스트 디바이스, 관리 서버와 외장 기기의 방법을 다루는 방법",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "2c198d4c-d78c-4f49-8f4a-083a9462b0e7",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-06-09",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "외장 기기, 운영상 외장 기기, 호스트 디바이스, 관리 서버와 외장 기기의 방법을 다루는 방법",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "5357d1ab-9cf8-4127-8841-8d5afabe14bb",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-07-06",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "f3b26f03-f812-4c58-b2ea-162c7ae42010",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-03-04",
+    "title_eng": "Method and apparatus for pain evaluation based on ppg-based spectrogram and cnn",
+    "title_kor": "PPG-BASED 스펙트로그램과 CNN을 기반으로 하는 통증 평가에 대한 방법과 장치",
+    "author_kor": "신항식; 임지연; 노규정",
+    "author_eng": "Hangsik Shin; JiYeon Yim; Gyujeong Noh",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "2d2e4f4c-23d3-441d-b96d-af4cca4e3b92",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2021-03-30",
+    "title_eng": "Is Ultra-Short-Term Heart Rate Variability Valid in Non-static Conditions?",
+    "journal_eng": "Frontiers in Physiology",
+    "author_kor": "김진웅; 석현석; 신항식",
+    "author_eng": "Jin Woong Kim; Hyeon Seok Seok; Hangsik Shin",
+    "author_ids": [
+      "e8f93f99-55d9-4bbd-8494-cb7c56526b18",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "184325d9-2827-41f9-8984-39ccd12b356e",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2021-07-14",
+    "title_eng": "Investigation of changes in ANS activity through PPG morphological changes according to emotional video stimulation",
+    "title_kor": "감정 자극으로 유발되는 자율신경활동에 따른 광용적맥파 파형 변화 고찰",
+    "conference_eng": "The 52th KIEE Summer Conference 2021",
+    "author_kor": "석현석; 신항식",
+    "author_eng": "Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "aae2974e-7859-424b-888f-51b56626143a",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2021-05-11",
+    "title_eng": "Feasibility of a Waistband-Type Wireless Wearable Electrocardiogram Monitoring System Based on a Textile Electrode: Development and Usability Study",
+    "title_kor": "Feasibility of a Waistband-Type Wireless Wearable Electrocardiogram Monitoring System Based on a Textile Electrode: Development and Usability Study",
+    "journal_eng": "JMIR mHealth and uHealth",
+    "author_kor": "권단비; 조하경; 신항식",
+    "author_eng": "Danbi Kwon; Hakyung Cho; Hangsik Shin",
+    "author_ids": [
+      "236e5d74-414b-4790-b358-619eda9557de",
+      "060492dd-a93e-46a6-bfbc-3cec066480c5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/33973860/",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "70ed4f37-ce03-4639-b910-9cfec00730c3",
+    "category": "conference",
+    "class": "International",
+    "date": "2021-12-15",
+    "title_eng": "Feasibility Study for Local Pulse Transit Time as an Alternative of Pulse Arrival Time",
+    "title_kor": "Feasibility Study for Local Pulse Transit Time as an Alternative of Pulse Arrival Time",
+    "conference_eng": "The 22nd International Symposium on Advanced Intelligent Systems(ISIS 2021)",
+    "author_kor": "박준영; 신항식",
+    "author_eng": "Junyoung Park; Hangsik Shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "77a256e9-d011-5d3d-b98d-00c8020c2529",
+    "category": "award",
+    "date": "2021-12-15",
+    "title_eng": "Feasibility Study for Local Pulse Transit Time as an Alternative of Pulse Arrival Time",
+    "title_kor": "Feasibility Study for Local Pulse Transit Time as an Alternative of Pulse Arrival Time",
+    "award_name_eng": "Best Session Award of The 22nd International Symposium on Advanced Intelligent Systems(ISIS 2021)",
+    "author_kor": "Junyung Park;Hangsik Shin",
+    "author_eng": "Junyung Park;Hangsik Shin",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "c506ef10-079d-49eb-9877-d1dc6957c17d",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-06-29",
+    "title_eng": "Electronic apparatus and method of outputting content by the electronic apparatus",
+    "title_kor": "전자장치와 전자장치에 의해 콘탠츠를 출력하는 방법",
+    "author_kor": "고재우; 신항식; 박세준; 김도영",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park; Do-young Kim",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1",
+      "ff2d7766-ad0b-435d-9009-99202178bb34"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "ebf4813c-4c3a-4768-8417-af5040b67bfd",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-06-29",
+    "title_eng": "Electronic apparatus and method of outputting content by the electronic apparatus",
+    "title_kor": "전자장치와 전자장치에 의해 콘탠츠를 출력하는 방법",
+    "author_kor": "고재우; 신항식; 박세준; 김도영",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park; Do-young Kim",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1",
+      "ff2d7766-ad0b-435d-9009-99202178bb34"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "1f5ed4e9-af3e-4970-9b10-ec6383e28cb2",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2021-04-01",
+    "title_eng": "Development of Vascular Aging Assessment Model Based on Photoplethysmogram Incident and Reflected Wave Characteristics",
+    "title_kor": "광용적맥파 입사파와 반사파 지표 기반 혈관 노화 추정 모델 개발",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "박준영; 신항식",
+    "author_eng": "Junyoung Park; Hangsik Shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002704114",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "18d80606-c7c9-4bf7-b1e2-5cf3f7ba569e",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2021-05-12",
+    "title_eng": "Blood pressure estimation based on CNN regression model using multi-wavelength photoplethysmogram",
+    "title_kor": "다파장 광용적맥파를 이용한 CNN 회귀 모델 기반 혈압 추정",
+    "conference_eng": "The 57th Korea Society of Medical and Biological Engineering Spring Conference 2021",
+    "author_kor": "박준영; 신항식",
+    "author_eng": "Junyoung Park; Hangsik shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "9a8f2667-2f4c-4c0e-8a9c-655ccc01016a",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2021-05-12",
+    "title_eng": "Autonomic Balance Changes of the Chronic Pains According to the Emotional Stimulation",
+    "title_kor": "감정자극에 따른 만성통증군의 자율신경활동 균형 변화",
+    "conference_eng": "The 57th Korea Society of Medical and Biological Engineering Spring Conference 2021",
+    "author_kor": "석현석; 신항식",
+    "author_eng": "Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "1597c619-2f82-5ba5-a332-31b6be50f3ca",
+    "category": "award",
+    "date": "2021-05-12",
+    "title_eng": "Autonomic Balance Changes of the Chronic Pains According to the Emotional Stimulation",
+    "title_kor": "감정자극에 따른 만성통증군의 자율신경활동 균형 변화",
+    "award_name_eng": "Best poster paper award of The 57th Korea Society of Medical and Biological Engineering Spring Conference 2021",
+    "author_kor": "석현석;신항식",
+    "author_eng": "Hyeon Seok Seok;Hangsik Shin",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "2e52b971-68a6-477e-81f9-d75c4c9ab47a",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-01-28",
+    "title_eng": "Apparatus comprising multiple array of pressure sensors and device comprising the same",
+    "title_kor": "다중배열 압력센서를 포함하는 장치 및 이를 포함하는 웨어러블 기기",
+    "author_kor": "신항식; 박준영; 노동근; 최용순; 김도유; 최아영",
+    "author_eng": "Hangsik Shin; Junyoung Park; Donggeun Roh; Yongsoon Choi; Doyu Kim; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "65c403c8-2a42-4d96-9ef8-962c389141cb",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "f638cd68-8630-4a4a-b42f-9a55a2cce0f8",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2021-04-23",
+    "title_eng": "An Evaluation of Emotion Induced by Static and Dynamic Audio-Visual Stimulation",
+    "title_kor": "정적 및 동적 시청각 자극에 의한 감성 유발 평가",
+    "conference_eng": "Proceedings of Korean Institute of Intelligent Systems Sping Conference 2021",
+    "author_kor": "권단비; 석현석; 권주희; 김상수; 강송협; 김도원; 강지훈; 신항식",
+    "author_eng": "Danbi Kwon; Hyeon Seok Seok; Joohee Kwon; Sang Su Kim; Songhyup Kang; Do-Won Kim; Jihoon Kang; Hangsik shin",
+    "author_ids": [
+      "236e5d74-414b-4790-b358-619eda9557de",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "0850693d-255d-4682-861a-dacd212a43da",
+      "fd60dc67-b59d-4404-a6e5-10d1810da012",
+      "3e427217-a2af-49d7-b24a-0c56e8c62b24",
+      "f5c5db67-7148-49a8-ae2d-6640056ea44f",
+      "98a0c002-fcdc-427e-8d1f-a74d1352558e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "864acce6-7ca3-49af-89a9-6ef916f58d24",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-02-05",
+    "title_eng": "A waistband wearable electrocardiogram measuring apparatus and method and apparatus for heart rate measurement using the same",
+    "title_kor": "허리밴드형 웨어러블 심전도 측정 장치 및 이를 이용한 심박 측정 방법 및 장치",
+    "author_kor": "신항식; 권단비",
+    "author_eng": "Hangsik Shin; Danbi Kwon",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "236e5d74-414b-4790-b358-619eda9557de"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "3eb391b0-6b48-4486-83bc-179300e01f6a",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-12-31",
+    "title_eng": "A multi-array pressure sensor with air vibration transmission type and wearable deivce comprising the same",
+    "title_kor": "공기 진동 전달형 다중 배열 압력 센서 및 이를 포함하는 웨어러블 장치",
+    "author_kor": "신항식; 박준영; 최용순; 정진",
+    "author_eng": "Hangsik Shin; Junyoung Park; Yongsoon Choi; Jin Jung",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "3d4b62bc-9d79-4f5c-9d99-d602e9fcfc3a"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "4173ebdb-f818-486d-bfb6-bee33fc3e13f",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-10-29",
+    "title_eng": "A method and apparauts for classifying pain using photoplethysmograph",
+    "title_kor": "광용적맥파를 이용한 통증 분류 방법 및 장치",
+    "author_kor": "신항식; 노규정; 최병문",
+    "author_eng": "Hangsik Shin; Gyujeong Noh; Byungmoon Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "fe8e7c61-da65-408b-a6a6-ac8ebcd4a82a",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-12-30",
+    "title_eng": "A method and apparatus for vascular aging assessment model Based on photoplethysmogram incident and reflected wave",
+    "title_kor": "광용적맥파의 입사파와 반사파를 사용한 혈관노화 평가 방법 및 장치",
+    "author_kor": "신항식; 박준영",
+    "author_eng": "Hangsik Shin; Junyoung Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "e4a56844-65c7-4f83-b203-e9362104a8a8",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-12-30",
+    "title_eng": "A method and apparatus for quality evaluation of photoplethysmography",
+    "title_kor": "광용적맥파의 품질 평가 방법 및 장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "4976a23d-976f-42b5-9a57-828d963d0dd5",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-03-04",
+    "title_eng": "A method and apparatus for pain assessment based on a photoplethysmographic based spectrogram and convolutional neural network",
+    "title_kor": "PPG-BASED 스펙트로그램과 CNN을 기반으로 하는 통증 평가에 대한 방법과 장치",
+    "author_kor": "신항식; 임지연; 최병문; 노규정",
+    "author_eng": "Hangsik Shin; JiYeon Yim; Byungmoon Choi; Gyujeong Noh",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "72fa4a5f-5287-4140-a8ca-b20d3cb21184",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-02-08",
+    "title_eng": "A method and apparatus for pain assessment based on a photoplethysmographic based spectrogram and convolutional neural network",
+    "title_kor": "PPG 기반 스펙트로그램 및 CNN에 기반하는 통증 평가 방법 및 장치",
+    "author_kor": "신항식; 임지연; 최병문; 노규정",
+    "author_eng": "Hangsik Shin; Ji Yeon Yim; Byungmoon Choi; Gyujeong Noh",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "3fa1e816-8085-43a5-bdf6-7afda40f4bf9",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-02-23",
+    "title_eng": "A method and apparatus for detecting awakening and respiration rate based on force-sensor",
+    "title_kor": "힘 센서에 기반하여 각성 및 호흡률을 검출하기 위한 방법 및 장치",
+    "author_kor": "신항식; 박수지",
+    "author_eng": "Hangsik Shin; Sooji Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f59",
+    "category": "project",
+    "date": "2021-03-01",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f58",
+    "category": "project",
+    "date": "2021-04-01",
+    "project_name_eng": "Development, optimization and clinical verification of software for early diagnosis and prognosis of atrial fibrillation integrating gene, electrocardiogram and clinical information based on artificial intelligence",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "a977d439-119f-53ed-b2f1-608031aed2af",
+    "category": "technology_transfer",
+    "date": "2021-02-26",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "116dac08-b059-5853-b918-054368c6e021",
+    "category": "extracurricular",
+    "date": "2021-01-01",
+    "year_resolved": "2021"
+  }
+]

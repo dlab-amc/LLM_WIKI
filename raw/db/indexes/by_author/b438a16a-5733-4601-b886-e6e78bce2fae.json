@@ -1,0 +1,81 @@
+[
+  {
+    "id": "748a314f-ee4c-4683-9e08-64b7bbe8287f",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-04-01",
+    "title_eng": "Calibration-free blood pressure estimation based on a convolutional neural network",
+    "journal_eng": "Psychophysiology",
+    "author_kor": "조진우; 신항식; 최아영",
+    "author_eng": "Jinwoo Jo; Hangsik Shin; Ahyoung Choi",
+    "author_ids": [
+      "b438a16a-5733-4601-b886-e6e78bce2fae",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/37971153/",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "6afe2676-bccb-486c-9592-11bca331634c",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-11-04",
+    "title_eng": "System and method for estimating blood pressure based on deep learning",
+    "title_kor": "딥러닝 기반의 혈압 예측 시스템 및 방법",
+    "author_kor": "최아영; 신항식; 조진우",
+    "author_eng": "Ahyoung Choi; Hangsik Shin; Jinwoo Jo",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "b438a16a-5733-4601-b886-e6e78bce2fae"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "fa9fe87d-4391-43bc-9da8-697a5bac80ec",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-11-22",
+    "title_kor": "다파장 광용적맥파 데이터 수집 및 표시를 위한 프로그램",
+    "author_kor": "신항식; 조진우; 최아영",
+    "author_eng": "Hangsik Shin; Jinwoo Jo; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "b438a16a-5733-4601-b886-e6e78bce2fae",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "dc99c9d7-e837-410e-b15a-43a4609a09fa",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-11-24",
+    "title_kor": "다파장 광용적맥파 데이터 수집 및 표시를 위한 매트랩 프로그램",
+    "author_kor": "신항식; 조진우; 최아영",
+    "author_eng": "Hangsik Shin; Jinwoo Jo; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "b438a16a-5733-4601-b886-e6e78bce2fae",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "5675ca89-8271-4bfe-acb7-60dafd9eb166",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2017-11-17",
+    "title_eng": "System and method for estimating blood pressure based on deep learning",
+    "title_kor": "딥러닝 기반의 혈압 예측 시스템 및 방법",
+    "author_kor": "최아영; 신항식; 조진우",
+    "author_eng": "Ahyoung Choi; Hangsik Shin; Jinwoo Jo",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "b438a16a-5733-4601-b886-e6e78bce2fae"
+    ],
+    "year_resolved": "2017"
+  }
+]

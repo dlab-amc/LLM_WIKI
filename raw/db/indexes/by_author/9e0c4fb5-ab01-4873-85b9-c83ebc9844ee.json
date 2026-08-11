@@ -1,0 +1,393 @@
+[
+  {
+    "id": "75d66411-d17e-489d-8d89-31a04685811d",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-09-12",
+    "title_eng": "Preliminary Clinical Application of Textile Insole Sensor for Hemiparetic Gait Pattern Analysis",
+    "journal_eng": "Sensors",
+    "author_kor": "왕창원; 김영; 신항식; 민세동",
+    "author_eng": "Changwon Wang; Young Kim; Hangsik Shin; Se Dong Min",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "28016753-aa45-4c02-b613-aa42fe2a3581",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/31547437/",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "52ebdbae-6d43-413a-a79f-67bd52a32862",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2017-01-10",
+    "title_eng": "Feasibility study for the non-invasive blood pressure estimation based on ppg morphology: normotensive subject study",
+    "journal_eng": "BioMedical Engineering Online",
+    "author_kor": "신항식; 민세동",
+    "author_eng": "Hangsik Shin; Se Dong Min",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee"
+    ],
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5234121/",
+    "year_resolved": "2017"
+  },
+  {
+    "id": "7a652f89-2477-4790-9c06-3174bfb8e330",
+    "category": "conference",
+    "class": "International",
+    "date": "2016-08-25",
+    "title_eng": "Preliminary Study for Biometric based on Gait Pattern Analysis Using Insole-Type Force Sensor",
+    "title_kor": "Preliminary Study for Biometric based on Gait Pattern Analysis Using Insole-Type Force Sensor",
+    "conference_eng": "Joint 8th International Conference on Soft Computing and Intelligent Systems and 17th International Symposium on Advanced Inteligent Systems ",
+    "author_kor": "신항식; 정화영; 민세동",
+    "author_eng": "Hangsik Shin; Hwa Young Jung; Se Dong Min",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "08dd0c93-5bf2-44aa-8980-fb987eeae53f",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "288f46bd-dba9-4f76-bddd-b40a979929b4",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2015-08-01",
+    "title_eng": "Evaluation of the Ambient Temperature Effect for the Autonomic Nervous Activity through the Time Domain Analysis of the Heart Rate Variability",
+    "title_kor": "심박변이율 시간영역 분석을 통한 실내온도변화에 따른 자율신경활동 평가",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "민세동; 신항식",
+    "author_eng": "Se-Dong Min; Hangsik shin",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201529362421541",
+    "year_resolved": "2015"
+  },
+  {
+    "id": "b38b8c24-6ff1-48d3-aba6-98cf74bf943b",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2015-09-01",
+    "title_eng": "A Localization Method for First and Second Heart Sounds Based on Energy Detection and Interval Regulation",
+    "journal_eng": "Journal of Electrical Engineering & Technology",
+    "author_kor": "민세동; 신항식",
+    "author_eng": "Se Dong Min; Hangsik Shin",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.researchgate.net/publication/282923577_A_Localization_Method_for_First_and_Second_Heart_Sounds_Based_on_Energy_Detection_and_Interval_Regulation",
+    "year_resolved": "2015"
+  },
+  {
+    "id": "5d7abe3e-a373-4f33-bdaa-b5c8079cdb50",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2014-09-01",
+    "title_eng": "Simplified Structural Textile Respiration Sensor Based on Capacitive Pressure Sensing Method",
+    "journal_eng": "IEEE Sensors Journal",
+    "author_kor": "민세동; 윤용현; 신항식",
+    "author_eng": "Se Dong Min; Yonghyeon Yun; Hangsik Shin",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/abstract/document/6837453",
+    "year_resolved": "2014"
+  },
+  {
+    "id": "e50876f8-bf98-45be-8114-1ee863cad146",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2010-03-01",
+    "title_eng": "Respiration Measurement System using Textile Capacitive Pressure Sensor",
+    "title_kor": "전기용량성 섬유 압력센서를 이용한 호흡측정 시스템",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "민세동; 윤영현; 이충근; 신항식; 조하경; 황선철; 이명호",
+    "author_eng": "Se-Dong Min; Younghyeon Yun; Chungkeun Lee; Hangsik Shin; Hakyung Cho; Seon-Cheol Hwang; Myongho Lee",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "2eb90419-3e7b-4e65-a481-45a472b574cc",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "060492dd-a93e-46a6-bfbc-3cec066480c5",
+      "6b4affb3-8e02-43ff-a345-0c84bbca780f",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "http://journal.auric.kr/kieep/ArticleDetail/RD_R/361209",
+    "year_resolved": "2010"
+  },
+  {
+    "id": "15f9d227-cec2-4e2f-ae07-596803d0dae4",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2010-11-01",
+    "title_eng": "Noncontact Respiration Rate Measurement System Using an Ultrasonic Proximity Sensor",
+    "journal_eng": "IEEE Sensors Journal",
+    "author_kor": "민세동; 김진권; 신항식; 윤용현; 이충근; 이명호",
+    "author_eng": "Se Dong Min; Jinkwon Kim; Hangsik Shin; Yonghyeon Yun; Chungkeun Lee; Myongho Lee",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://ieeexplore.ieee.org/abstract/document/5571922",
+    "year_resolved": "2010"
+  },
+  {
+    "id": "d9eb4ce2-b6eb-4f09-abe4-427b014c0958",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2009-05-01",
+    "title_eng": "The e-Health Landscape: Current Status and Future Prospects in Korea",
+    "journal_eng": "Telemedicine and e-Health",
+    "author_kor": "이명호; 민세동; 신항식; 이병우; 김진권",
+    "author_eng": "Myongho Lee; Se Dong Min; Hangsik Shin; Byung Woo Lee; Jinkwon Kim",
+    "author_ids": [
+      "4a05a292-1a5b-4577-91ff-87da330a9358",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/19441955/",
+    "year_resolved": "2009"
+  },
+  {
+    "id": "2856a49d-82b8-4a4a-b47f-161545ebb513",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2009-10-01",
+    "title_eng": "Abdominal Wall Motion-Based Respiration Rate Measurement using An Ultrasonic Proximity Sensor",
+    "title_kor": "복부 움직임에 따른 초음파 근접센서를 이용한 호흡측정에 관한 연구",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "민세동; 김진권; 신항식; 윤용현; 이충근",
+    "author_eng": "Se-Dong Min; Jinkwon Kim; Hangsik Shin; Yonghyeon Yun; Chungkeun Lee",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e"
+    ],
+    "year_resolved": "2009"
+  },
+  {
+    "id": "d6b224c9-c0a6-47d1-9233-07f008a60309",
+    "category": "conference",
+    "class": "International",
+    "date": "2009-01-01",
+    "title_eng": "A Study on Comparison PPG Variability with Heart Rate Variability in the Sitting Position During Paced Respiration",
+    "title_kor": "A Study on Comparison PPG Variability with Heart Rate Variability in the Sitting Position During Paced Respiration",
+    "conference_eng": "International Union for Physical and Engineering Sciences in Medicine IFMBE Proceedings",
+    "author_kor": "이충근; 신항식; 민세동; 이명호",
+    "author_eng": "Chungkeun Lee; Hangsik Shin; Se Dong Min; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2009"
+  },
+  {
+    "id": "be76a31e-fd95-41d3-af61-c27db65fb022",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2008-07-16",
+    "title_eng": "The Influence on Corelation between Photo-plethysmograph Variability and Heart Rate Variability by Temperature Variation",
+    "title_kor": "온도변이가 PV와 HRV의 상관관계에 미치는 영향에 관한 연구",
+    "conference_eng": "The 39th KIEE Summer Conference 2008",
+    "author_kor": "민세동; 이충근; 신항식; 이병우; 김진권; 박현철; 이명호",
+    "author_eng": "Se-Dong Min; Chungkeun Lee; Hangsik shin; Byung Woo Lee; Jinkwon Kim; Hyun-Chul Park; Myongho Lee",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "ed205265-0d1b-46cd-8449-42395ab1bed1",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2008"
+  },
+  {
+    "id": "fd93fc4e-7f7f-49f8-8aa6-99fe5f049248",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2008-07-16",
+    "title_eng": "A Study on Correlation of Photoplethysmogram Variability and Heart Rate Variability using Exercise Test",
+    "title_kor": "운동부하를 통한 PPGV와 HRV 상관성 평가에 관한 연구",
+    "conference_eng": "The 39th KIEE Summer Conference 2008",
+    "author_kor": "이충근; 민세동; 신항식; 윤용현; 이명호",
+    "author_eng": "Chungkeun Lee; Se-Dong Min; Hangsik shin; Yonghyeon Yoon; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2008"
+  },
+  {
+    "id": "074f8d0f-9fe4-45d7-a535-ba5836537f91",
+    "category": "conference",
+    "class": "International",
+    "date": "2007-01-01",
+    "title_eng": "Medical Endoscopic Image Segmentation with Multi-resolution Deformation e-Health Networking",
+    "title_kor": "Medical Endoscopic Image Segmentation with Multi-resolution Deformation e-Health Networking",
+    "conference_eng": "Application and Services, 2007 9th International Conference on Proceeding",
+    "author_kor": "윤성원; 신항식; 민세동; 이명호",
+    "author_eng": "Sung Won Yoon; Hangsik Shin; Se Dong Min; Myongho Lee",
+    "author_ids": [
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2007"
+  },
+  {
+    "id": "ff7b252f-80d5-4d98-93a5-2c6fe2cfbba5",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2007-05-01",
+    "title_eng": "Adaptive motion artifacts reduction algorithm for ECG signal in textile wearable sensor",
+    "journal_eng": "IEICE Electronics Express",
+    "author_kor": "윤성원; 신항식; 민세동; 이명호",
+    "author_eng": "Sung Won Yoon; Hangsik Shin; Se Dong Min; Myongho Lee",
+    "author_ids": [
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://www.researchgate.net/publication/245405213_Adaptive_motion_artifacts_reduction_algorithm_for_ECG_signal_in_textile_wearable_sensor",
+    "year_resolved": "2007"
+  },
+  {
+    "id": "3015e243-5e93-4b28-9236-f69d087a0829",
+    "category": "conference",
+    "class": "International",
+    "date": "2005-01-01",
+    "title_eng": "Perspectives on e-health industry in Korea Enterprise networking and Computing in Healthcare Industry",
+    "title_kor": "Perspectives on e-health industry in Korea Enterprise networking and Computing in Healthcare Industry",
+    "conference_eng": "Proceedings of 7th International Workshop on Proceeding",
+    "author_kor": "이명호; 윤성원; 민세동; 박찬욱; 신항식; 강현구; 장훈범; 이은호",
+    "author_eng": "Myongho Lee; Sung Won Yoon; Se Dong Min; Chan Ouk Park; Hangsik Shin; Hyungu Kang; Hunbeom Chang; Eunho Lee",
+    "author_ids": [
+      "4a05a292-1a5b-4577-91ff-87da330a9358",
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "4f359c61-2a98-4c8c-8f33-ba05454d4302",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4df6e789-cbfa-4a3d-8e7d-f26ffa73d781",
+      "a4bc85ea-5b01-45a4-92dd-c66ef33c7a23",
+      "1defb6b2-0701-4e8f-b06f-4bff172a0a42"
+    ],
+    "year_resolved": "2005"
+  },
+  {
+    "id": "261cc909-7837-45c9-ad9a-d58f439e4ccd",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2005-10-20",
+    "title_eng": "Medical Endoscopic Image Segmentation with Multi-resolution Deformation",
+    "title_kor": "다중 해상도 변형을 통한 내시경 의료영상의 분할",
+    "conference_eng": "Proceedings of the Korea Automatic Control Conference 2005",
+    "author_kor": "윤성원; 민세동; 신항식; 이명호",
+    "author_eng": "Sung-Won Yoon; Se-Dong Min; Hangsik shin; Myongho Lee",
+    "author_ids": [
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2005"
+  },
+  {
+    "id": "283bb15f-bf08-4de8-b479-bfbb756840b8",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2005-03-01",
+    "title_eng": "Down-Scaled 3D Medical Image Transfer System Using Instant Messenger",
+    "title_kor": "인스턴트 메신저를 사용한 축소 3D의료영상 전송 시스템",
+    "journal_eng": "Healthcare Informatics Research",
+    "author_kor": "신항식; 민세동; 김희중; 이명호",
+    "author_eng": "Hangsik shin; Se-Dong Min; Hee-Joung Kim; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "26e14db0-0e3e-4bb0-a005-dcffb6fd6017",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://synapse.koreamed.org/articles/1103183",
+    "year_resolved": "2005"
+  },
+  {
+    "id": "0a89ed4e-a89c-4cb8-b8e0-3aef38d12b9b",
+    "category": "conference",
+    "class": "International",
+    "date": "2005-04-01",
+    "title_eng": "A Study of the Down-Scaled 3D Objects for Telediagnostic Imaging Support System",
+    "title_kor": "A Study of the Down-Scaled 3D Objects for Telediagnostic Imaging Support System",
+    "conference_eng": "6th Asian-Pacific Conference on Medical and Biological Engineering(APCMBE2005),",
+    "author_kor": "신항식; 윤성원; 민세동; 이명호",
+    "author_eng": "Hangsik Shin; Sung Won Yoon; Se Dong Min; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2005"
+  },
+  {
+    "id": "79efea01-c984-48d9-9cb2-e03c6757767f",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2004-11-26",
+    "title_kor": "인터넷 기반의 데이차 전송을 적용한 맥파 측정 시스템 연구",
+    "conference_eng": "Korea Society of Medical and Biological Engineering Autumn Conference 2004",
+    "author_kor": "이병우; 신항식; 박찬욱; 민세동; 이명호",
+    "author_eng": "Byung Woo Lee; Hangsik shin; Chan Ouk Park; Se-Dong Min; Myongho Lee",
+    "author_ids": [
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4f359c61-2a98-4c8c-8f33-ba05454d4302",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2004"
+  },
+  {
+    "id": "fd2a9199-40b1-49a5-b44a-28488f19c870",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2003-11-07",
+    "title_kor": "트레드밀 운동 후 원적외선 온열이 심혈관계에 미치는 영향 평가 시스템 구현",
+    "conference_eng": "Korea Society of Medical and Biological Engineering Autumn Conference 2003",
+    "author_kor": "민세동; 강세구; 이충근; 윤성원; 박찬욱; 신항식; 이병우; 이명호",
+    "author_eng": "Se-Dong Min; Segoo Kang; Chungkeun Lee; Sung-Won Yoon; Chan Ouk Park; Hangsik shin; Byung Woo Lee; Myongho Lee",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "9205dde9-3c4e-49b0-8cd4-7f2e2c9999f5",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "4f359c61-2a98-4c8c-8f33-ba05454d4302",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2003"
+  }
+]

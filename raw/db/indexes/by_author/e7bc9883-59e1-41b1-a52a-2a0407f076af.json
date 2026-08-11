@@ -1,0 +1,54 @@
+[
+  {
+    "id": "d0473652-65a1-4b2e-8e68-ecfb87d35d45",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2020-08-05",
+    "title_eng": "Method and apparatus for quality measurement of sleep using a portable terminal",
+    "title_kor": "휴대 단말 장치를 이용한 수면 품질 측정 방법 및 장치",
+    "author_kor": "신항식; 김도윤; 조재걸; 최병훈",
+    "author_eng": "Hangsik Shin; Doyoon Kim; Jaegeol Cho; Byunghun Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "1aa78e02-fa57-4317-945c-b846367dc178",
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "e7bc9883-59e1-41b1-a52a-2a0407f076af"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "bb6ab121-cb39-4691-8a14-44dcaa4bc1ad",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2014-06-01",
+    "title_eng": "Robust Sleep Quality Quantification Method for a Personal Handheld Device",
+    "journal_eng": "Telemedicine and e-Health",
+    "author_kor": "신항식; 최병훈; 김도윤; 조재걸",
+    "author_eng": "Hangsik Shin; Byunghun Choi; Doyoon Kim; Jaegeol Cho",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "e7bc9883-59e1-41b1-a52a-2a0407f076af",
+      "1aa78e02-fa57-4317-945c-b846367dc178",
+      "d34f5857-264d-403b-a59f-be03ad383be3"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/24693921/",
+    "year_resolved": "2014"
+  },
+  {
+    "id": "50dcbe8c-1790-4b5a-bcd0-008615810318",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2013-06-11",
+    "title_eng": "Method and apparatus for quality measurement of sleep using a portable terminal",
+    "title_kor": "휴대 단말 장치를 이용한 수면 품질 측정 방법 및 장치",
+    "author_kor": "신항식; 김도윤; 조재걸; 최병훈",
+    "author_eng": "Hangsik Shin; Do Yoon Kim; Jaegeol Cho; Byunghun Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "1aa78e02-fa57-4317-945c-b846367dc178",
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "e7bc9883-59e1-41b1-a52a-2a0407f076af"
+    ],
+    "year_resolved": "2013"
+  }
+]

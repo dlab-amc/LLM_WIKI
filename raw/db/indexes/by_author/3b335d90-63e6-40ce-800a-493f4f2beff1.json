@@ -1,0 +1,377 @@
+[
+  {
+    "id": "748a314f-ee4c-4683-9e08-64b7bbe8287f",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-04-01",
+    "title_eng": "Calibration-free blood pressure estimation based on a convolutional neural network",
+    "journal_eng": "Psychophysiology",
+    "author_kor": "조진우; 신항식; 최아영",
+    "author_eng": "Jinwoo Jo; Hangsik Shin; Ahyoung Choi",
+    "author_ids": [
+      "b438a16a-5733-4601-b886-e6e78bce2fae",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/37971153/",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "aa2c9aaf-e5d8-4595-9290-e5da3e26e0a0",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-05-25",
+    "title_eng": "Web-based biosignal display program",
+    "title_kor": "웹 기반 생체정보 디스플레이 프로그램",
+    "author_kor": "신항식; 왕창원; 최아영; 류관곤; 방근호; 황정연",
+    "author_eng": "Hangsik Shin; Changwon Wang; Ahyoung Choi; KwanKon Ryu; Geunho Bang; Jeongyeon Hwang",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "841977d8-32ee-41ce-9032-8c50c3c74f06",
+      "34aa57f5-c474-4d02-b12d-d593e963e420",
+      "abf2eaf0-b6d8-49e0-b7a5-8ab05d86f53d"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "62eac829-8ba2-4a31-9cbd-7b4f5a15db39",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-05-25",
+    "title_eng": "Server program for storing and transmitting heart rate and acceleration signals",
+    "title_kor": "심박수와 가속도 신호 저장 및 전송을 위한 서버 프로그램",
+    "author_kor": "신항식; 왕창원; 최아영; 방근호; 황정연; 류관곤",
+    "author_eng": "Hangsik Shin; Changwon Wang; Ahyoung Choi; Geunho Bang; Jeongyeon Hwang; KwanKon Ryu",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "34aa57f5-c474-4d02-b12d-d593e963e420",
+      "abf2eaf0-b6d8-49e0-b7a5-8ab05d86f53d",
+      "841977d8-32ee-41ce-9032-8c50c3c74f06"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "55078441-f6a7-4eac-ad08-c10488c2a1aa",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-05-25",
+    "title_eng": "Heart rate, acceleration signal measurement, transmission program for wearable devices",
+    "title_kor": "웨어러블 기기용 심박수, 가속도 신호 측정, 전송 프로그램",
+    "author_kor": "신항식; 왕창원; 최아영; 방근호; 황정연; 류관곤",
+    "author_eng": "Hangsik Shin; Changwon Wang; Ahyoung Choi; Geunho Bang; Jeongyeon Hwang; KwanKon Ryu",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "34aa57f5-c474-4d02-b12d-d593e963e420",
+      "abf2eaf0-b6d8-49e0-b7a5-8ab05d86f53d",
+      "841977d8-32ee-41ce-9032-8c50c3c74f06"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "8a592eca-d630-43cf-93a2-83e989334ef6",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-07-12",
+    "title_eng": "Development of a Real-time Abnormal Heart rate and Physical activity Platform Using Wearable Watches for Monitoring Psychiatric Inpatients",
+    "title_kor": "정신과 폐쇄 병동 입원환자 모니터링을 위한 웨어러블 워치 기반 실시간 이상 심박수 및 신체활동 플랫폼 개발",
+    "conference_eng": "The 54th KIEE Summer Conference 2023",
+    "author_kor": "왕창원; 방근호; 류관곤; 황정연; 최아영; 신항식",
+    "author_eng": "Changwon Wang; Geunho Bang; KwanKon Ryu; Jeongyeon Hwang; Ahyoung Choi; Hangsik shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "34aa57f5-c474-4d02-b12d-d593e963e420",
+      "841977d8-32ee-41ce-9032-8c50c3c74f06",
+      "abf2eaf0-b6d8-49e0-b7a5-8ab05d86f53d",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "49da5bb1-4762-42b2-a5cd-00cc17a5e4eb",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2023-09-08",
+    "title_eng": "APPARATUS COMPRISING MULTIPLE ARRAY OF PRESSURE SENSORS AND DEVICE COMPRISING THE SAME",
+    "title_kor": "다중배열 압력센서를 포함하는 장치 및 이를 포함하는 웨어러블 기기",
+    "author_kor": "신항식; 박준영; 노동근; 최용순; 김도유; 최아영",
+    "author_eng": "Hangsik Shin; Junyoung Park; Donggeun Rho; Yongsoon Choi; Doyu Kim; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "65c403c8-2a42-4d96-9ef8-962c389141cb",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "78c2ce35-58a4-4af5-8677-f6ce2df6803d",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-02-15",
+    "title_eng": "Wearable blood pressure measuring device with multi-array pressure sensors",
+    "title_kor": "다중 배열 압력 센서를 포함하는 웨어러블 혈압 측정 장치",
+    "author_kor": "신항식; 박준영; 노동근; 최용순; 김도유; 최아영",
+    "author_eng": "Hangsik Shin; Junyoung Park; Donggeun Rho; Yongsoon Choi; Doyu Kim; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "65c403c8-2a42-4d96-9ef8-962c389141cb",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "663f7860-b349-4223-9810-94e408a7c757",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-02-15",
+    "title_eng": "Wearable blood pressure measurement device comprising multi-array pressure sensor",
+    "title_kor": "다층 어레이 압력 센서를 포함하는 착용할 수 있는 혈압 측정 장치",
+    "author_kor": "신항식; 박준영; 노동근; 최용순; 김도유; 최아영",
+    "author_eng": "Hangsik Shin; Junyoung Park; Donggeun Rho; Yongsoon Choi; Doyu Kim; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "65c403c8-2a42-4d96-9ef8-962c389141cb",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "2e52b971-68a6-477e-81f9-d75c4c9ab47a",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-01-28",
+    "title_eng": "Apparatus comprising multiple array of pressure sensors and device comprising the same",
+    "title_kor": "다중배열 압력센서를 포함하는 장치 및 이를 포함하는 웨어러블 기기",
+    "author_kor": "신항식; 박준영; 노동근; 최용순; 김도유; 최아영",
+    "author_eng": "Hangsik Shin; Junyoung Park; Donggeun Roh; Yongsoon Choi; Doyu Kim; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "65c403c8-2a42-4d96-9ef8-962c389141cb",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "df4bdfc7-8f34-4d6c-b69b-803b326c48d2",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2020-06-15",
+    "title_eng": "Wearable blood pressure measuring device with multi-array pressure sensors",
+    "title_kor": "다중 배열 압력 센서를 포함하는 웨어러블 혈압 측정 장치",
+    "author_kor": "신항식; 박준영; 노동근; 최용순; 김도유; 최아영",
+    "author_eng": "Hangsik Shin; Junyoung Park; Donggeun Roh; Yongsoon Choi; Doyu Kim; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "65c403c8-2a42-4d96-9ef8-962c389141cb",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "2091d4d2-b362-473a-a712-09e9cb3caac2",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2020-04-21",
+    "title_eng": "Internet-Based Unobtrusive Tele-Monitoring System for Sleep and Respiration",
+    "journal_eng": "IEEE Access",
+    "author_kor": "최아영; 노상우; 신항식",
+    "author_eng": "Ahyoung Choi; Sangwoo Noh; Hangsik Shin",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "56c27a6c-adf7-4745-bbf7-2ececf7882ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/9075220",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "479b87a7-0b1f-491c-8927-462e6d53f304",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2020-12-01",
+    "title_eng": "Calculation and Validation of Continuous Pulse Transit Time Based on Normalized Pulse Wave Velocity",
+    "journal_eng": "IEEE Access",
+    "author_kor": "신항식; 최아영",
+    "author_eng": "Hangsik Shin; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/9274312",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "6afe2676-bccb-486c-9592-11bca331634c",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-11-04",
+    "title_eng": "System and method for estimating blood pressure based on deep learning",
+    "title_kor": "딥러닝 기반의 혈압 예측 시스템 및 방법",
+    "author_kor": "최아영; 신항식; 조진우",
+    "author_eng": "Ahyoung Choi; Hangsik Shin; Jinwoo Jo",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "b438a16a-5733-4601-b886-e6e78bce2fae"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "ff121d60-95ee-497e-8011-a4daa436c111",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-05-09",
+    "title_kor": "생체 신호 데이터 수집 프로그램",
+    "author_kor": "이예준; 신항식; 최아영",
+    "author_eng": "Yejoon Lee; Hangsik Shin; Ahyoung Choi",
+    "author_ids": [
+      "2a2c8f88-106c-47e8-8b34-dedb68c5336c",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "5b39433f-f2c8-48c7-98cf-674187971ea2",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-05-09",
+    "title_kor": "생체 신호 데이터 모니터링 플랫폼",
+    "author_kor": "노상우; 신항식; 최아영",
+    "author_eng": "Sangwoo Noh; Hangsik Shin; Ahyoung Choi",
+    "author_ids": [
+      "56c27a6c-adf7-4745-bbf7-2ececf7882ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "ab6b87b8-2f65-497c-b248-6eca2d10caa0",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-07-12",
+    "title_eng": "Quantitative Analysis of the Effect of an Ectopic Beat on the Heart Rate Variability in the Resting Condition",
+    "title_kor": "Quantitative Analysis of the Effect of an Ectopic Beat on the Heart Rate Variability in the Resting Condition",
+    "journal_eng": "frontiers in Physiology",
+    "author_kor": "최아영; 신항식",
+    "author_eng": "Ahyoung Choi; Hangsik Shin",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "0e693fd3-633c-4f04-bcf4-2023fd3aad42",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-09-28",
+    "title_eng": "Longitudinal Healthcare Data Management Platform of Healthcare IoT Devices for Personalized Services",
+    "journal_eng": "Journal of Universal Computer Science",
+    "author_kor": "최아영; 신항식",
+    "author_eng": "Ahyoung Choi; Hangsik Shin",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "fa9fe87d-4391-43bc-9da8-697a5bac80ec",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-11-22",
+    "title_kor": "다파장 광용적맥파 데이터 수집 및 표시를 위한 프로그램",
+    "author_kor": "신항식; 조진우; 최아영",
+    "author_eng": "Hangsik Shin; Jinwoo Jo; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "b438a16a-5733-4601-b886-e6e78bce2fae",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "dc99c9d7-e837-410e-b15a-43a4609a09fa",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-11-24",
+    "title_kor": "다파장 광용적맥파 데이터 수집 및 표시를 위한 매트랩 프로그램",
+    "author_kor": "신항식; 조진우; 최아영",
+    "author_eng": "Hangsik Shin; Jinwoo Jo; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "b438a16a-5733-4601-b886-e6e78bce2fae",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "5675ca89-8271-4bfe-acb7-60dafd9eb166",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2017-11-17",
+    "title_eng": "System and method for estimating blood pressure based on deep learning",
+    "title_kor": "딥러닝 기반의 혈압 예측 시스템 및 방법",
+    "author_kor": "최아영; 신항식; 조진우",
+    "author_eng": "Ahyoung Choi; Hangsik Shin; Jinwoo Jo",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "b438a16a-5733-4601-b886-e6e78bce2fae"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "04b9132d-0701-437e-ad36-7f6eb13e7a7e",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2017-11-01",
+    "title_eng": "Reply to ‘Comment on Photoplethysmography sampling frequency: pilot assessment of how low can we go to analyze pulse rate variability with reliability?’",
+    "journal_eng": "Physiological Measurement",
+    "author_kor": "최아영; 신항식",
+    "author_eng": "Ahyoung Choi; Hangsik Shin",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "93881f13-28c9-430e-aeea-c56d507b0d87",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2017-03-01",
+    "title_eng": "Photoplethysmography sampling frequency: pilot assessment of how low can we go to analyze pulse rate variability with reliability?",
+    "journal_eng": "Physiological Measurement",
+    "author_kor": "최아영; 신항식",
+    "author_eng": "Ahyoung Choi; Hangsik shin",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  }
+]

@@ -1,0 +1,172 @@
+{
+  "member_id": "68590514c33c441ee93e9749",
+  "member_name_kor": "진재욱",
+  "author_id": "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+  "count": 10,
+  "publications": [
+    {
+      "id": "611557ad-9346-42f9-a88b-bcda04e67cd4",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2026-05-07",
+      "title_eng": "Development and External Validation of a Machine Learning Model for Predicting Postoperative Length of Stay",
+      "title_kor": "수술 후 재원 기간 예측을 위한 머신러닝 모델 개발 및 다기관 외부 검증",
+      "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+      "author_kor": "진재욱; 류가연; 심지훈; 신항식",
+      "author_eng": "Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin",
+      "author_ids": [
+        "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "2fa67677-ac83-41f4-9f07-d202a6195909",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026"
+    },
+    {
+      "id": "e7f50914-9069-4843-a9e8-675b99ffc3a2",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2025-10-22",
+      "title_eng": "PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측",
+      "title_kor": "PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측",
+      "conference_eng": "CICS’25 정보 및 제어 학술대회",
+      "author_kor": "진재욱; 류가연; 심지훈; 신항식",
+      "author_eng": "Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin",
+      "author_ids": [
+        "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "2fa67677-ac83-41f4-9f07-d202a6195909",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    },
+    {
+      "id": "8cd9638b-94ac-4ee4-9283-6266d38535cb",
+      "category": "conference",
+      "class": "International",
+      "date": "2025-12-21",
+      "title_eng": "PubMedBERT-Based Terminology Mapping for Surgical Procedure Types",
+      "conference_eng": "The 7th International Conference on Advanced Bioinformatics and Biomedical Engineering",
+      "author_kor": "진재욱; 류가연; 심지훈; 신항식",
+      "author_eng": "Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin",
+      "author_ids": [
+        "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "2fa67677-ac83-41f4-9f07-d202a6195909",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    },
+    {
+      "id": "f2b46502-eba0-4b55-b98d-1b1f088f9869",
+      "category": "award",
+      "date": "2025-10-23",
+      "title_eng": "Prolonged Length of Stay Prediction with PubMedBERT-Deep Neural Network Fusion Model",
+      "title_kor": "PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측",
+      "author_kor": "진재욱; 류가연; 심지훈; 신항식",
+      "author_eng": "Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin",
+      "author_ids": [
+        "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "2fa67677-ac83-41f4-9f07-d202a6195909",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    },
+    {
+      "id": "8540829d-f74d-46b9-964b-55c3d4497911",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2025-05-08",
+      "title_eng": "Prediction of Postoperative Pain Based on Preoperative Stress Assessment",
+      "title_kor": "수술 전 스트레스 평가를 통한 수술 후 통증 예측",
+      "conference_eng": "KOSOMBE",
+      "author_kor": "진재욱; 신항식",
+      "author_eng": "Jaewook Jin; Hangsik Shin",
+      "author_ids": [
+        "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    },
+    {
+      "id": "1882265d-f7bd-4226-a005-3881b0fd3648",
+      "category": "award",
+      "date": "2025-07-18",
+      "title_eng": "Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal",
+      "title_kor": "수술 전 생체신호 기반 수술 후 통증 예측 인공지능 모델 개발",
+      "award_name_eng": "2025 KIEE Summer Conference Paper Award",
+      "author_kor": "진재욱; 신항식",
+      "author_eng": "Jaewook Jin; Hangsik shin",
+      "author_ids": [
+        "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    },
+    {
+      "id": "4f2e1e24-4da0-44dc-9d7b-b3de65087e47",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2025-07-16",
+      "title_eng": "Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal",
+      "title_kor": "수술 전 생체신호 기반 수술 후 통증 예측 인공지능 모델 개발",
+      "conference_eng": "The 56th KIEE Summer Conference 2025",
+      "author_kor": "진재욱; 신항식",
+      "author_eng": "Jaewook Jin; Hangsik Shin",
+      "author_ids": [
+        "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    },
+    {
+      "id": "08ca5407-b74a-405a-8314-43f496d08c68",
+      "category": "award",
+      "date": "2025-12-12",
+      "title_eng": "Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal",
+      "title_kor": "수술 전 생체신호 기반 수술 후 통증 예측 인공지능 모델 개발",
+      "author_kor": "진재욱; 신항식",
+      "author_eng": "Jaewook Jin; Hangsik Shin",
+      "author_ids": [
+        "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    },
+    {
+      "id": "7d64f21d-e836-4a19-adad-39e7a05d212d",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2025-11-06",
+      "title_eng": "Development of a BioclinicalBERT-Deep Neural Network Fusion Model for Predicting Postoperative Length of Stay",
+      "title_kor": "수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발",
+      "conference_eng": "2025년 대한의용생체공학회 추계학술대회",
+      "author_kor": "진재욱; 류가연; 심지훈; 신항식",
+      "author_eng": "Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin",
+      "author_ids": [
+        "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "2fa67677-ac83-41f4-9f07-d202a6195909",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    },
+    {
+      "id": "f2282795-e0d3-4dcb-93e0-a04a2aef2032",
+      "category": "award",
+      "date": "2025-11-08",
+      "title_eng": "Development of a BioclinicalBERT-Deep Neural Network Fusion Model for Predicting Postoperative Length of Stay",
+      "title_kor": "수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발",
+      "author_kor": "진재욱; 류가연; 심지훈; 신항식",
+      "author_eng": "Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin",
+      "author_ids": [
+        "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "2fa67677-ac83-41f4-9f07-d202a6195909",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    }
+  ]
+}

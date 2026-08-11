@@ -1,0 +1,20 @@
+[
+  {
+    "id": "75d66411-d17e-489d-8d89-31a04685811d",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-09-12",
+    "title_eng": "Preliminary Clinical Application of Textile Insole Sensor for Hemiparetic Gait Pattern Analysis",
+    "journal_eng": "Sensors",
+    "author_kor": "왕창원; 김영; 신항식; 민세동",
+    "author_eng": "Changwon Wang; Young Kim; Hangsik Shin; Se Dong Min",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "28016753-aa45-4c02-b613-aa42fe2a3581",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/31547437/",
+    "year_resolved": "2019"
+  }
+]

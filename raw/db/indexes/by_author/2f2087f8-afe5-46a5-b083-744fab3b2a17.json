@@ -1,0 +1,20 @@
+[
+  {
+    "id": "4dd74f51-ff09-442d-8046-e38e274dcf9b",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2012-05-01",
+    "title_eng": "The Optimal Attachment Position for a Fingertip Photoplethysmographic Sensor With Low DC",
+    "journal_eng": "IEEE Sensors Journal",
+    "author_kor": "이충근; 신항식; 박종철; 이명호",
+    "author_eng": "Chungkeun Lee; Hangsik Shin; Jongchul Park; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2f2087f8-afe5-46a5-b083-744fab3b2a17",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://ieeexplore.ieee.org/abstract/document/5985462",
+    "year_resolved": "2012"
+  }
+]

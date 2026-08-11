@@ -1,0 +1,79 @@
+[
+  {
+    "id": "aa2c9aaf-e5d8-4595-9290-e5da3e26e0a0",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-05-25",
+    "title_eng": "Web-based biosignal display program",
+    "title_kor": "웹 기반 생체정보 디스플레이 프로그램",
+    "author_kor": "신항식; 왕창원; 최아영; 류관곤; 방근호; 황정연",
+    "author_eng": "Hangsik Shin; Changwon Wang; Ahyoung Choi; KwanKon Ryu; Geunho Bang; Jeongyeon Hwang",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "841977d8-32ee-41ce-9032-8c50c3c74f06",
+      "34aa57f5-c474-4d02-b12d-d593e963e420",
+      "abf2eaf0-b6d8-49e0-b7a5-8ab05d86f53d"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "62eac829-8ba2-4a31-9cbd-7b4f5a15db39",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-05-25",
+    "title_eng": "Server program for storing and transmitting heart rate and acceleration signals",
+    "title_kor": "심박수와 가속도 신호 저장 및 전송을 위한 서버 프로그램",
+    "author_kor": "신항식; 왕창원; 최아영; 방근호; 황정연; 류관곤",
+    "author_eng": "Hangsik Shin; Changwon Wang; Ahyoung Choi; Geunho Bang; Jeongyeon Hwang; KwanKon Ryu",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "34aa57f5-c474-4d02-b12d-d593e963e420",
+      "abf2eaf0-b6d8-49e0-b7a5-8ab05d86f53d",
+      "841977d8-32ee-41ce-9032-8c50c3c74f06"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "55078441-f6a7-4eac-ad08-c10488c2a1aa",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-05-25",
+    "title_eng": "Heart rate, acceleration signal measurement, transmission program for wearable devices",
+    "title_kor": "웨어러블 기기용 심박수, 가속도 신호 측정, 전송 프로그램",
+    "author_kor": "신항식; 왕창원; 최아영; 방근호; 황정연; 류관곤",
+    "author_eng": "Hangsik Shin; Changwon Wang; Ahyoung Choi; Geunho Bang; Jeongyeon Hwang; KwanKon Ryu",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "34aa57f5-c474-4d02-b12d-d593e963e420",
+      "abf2eaf0-b6d8-49e0-b7a5-8ab05d86f53d",
+      "841977d8-32ee-41ce-9032-8c50c3c74f06"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "8a592eca-d630-43cf-93a2-83e989334ef6",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-07-12",
+    "title_eng": "Development of a Real-time Abnormal Heart rate and Physical activity Platform Using Wearable Watches for Monitoring Psychiatric Inpatients",
+    "title_kor": "정신과 폐쇄 병동 입원환자 모니터링을 위한 웨어러블 워치 기반 실시간 이상 심박수 및 신체활동 플랫폼 개발",
+    "conference_eng": "The 54th KIEE Summer Conference 2023",
+    "author_kor": "왕창원; 방근호; 류관곤; 황정연; 최아영; 신항식",
+    "author_eng": "Changwon Wang; Geunho Bang; KwanKon Ryu; Jeongyeon Hwang; Ahyoung Choi; Hangsik shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "34aa57f5-c474-4d02-b12d-d593e963e420",
+      "841977d8-32ee-41ce-9032-8c50c3c74f06",
+      "abf2eaf0-b6d8-49e0-b7a5-8ab05d86f53d",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  }
+]

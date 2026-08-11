@@ -1,0 +1,830 @@
+[
+  {
+    "id": "afda268c-deee-4684-8d20-b31b5491acc9",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2018-11-06",
+    "title_eng": "Method and apparatus of converting color for color vision defectives",
+    "title_kor": "색각 이상자를 위한 색 변환 방법 및 장치",
+    "author_kor": "안성주; 고성제; 박정훈; 신항식; 김현지; 정재윤; 유현국",
+    "author_eng": "Sungjoo Ahn; Sungjea Ko; Junghoon Park; Hangsik Shin; Hyunji Kim; Jaeyun Jeong; Hyungok Yoo",
+    "author_ids": [
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "58781275-5ce2-476d-b58f-73f66081f973",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "95e28776-4d0d-4ed0-b15f-497367250ffe",
+      "f93cb6ad-8ab3-4ffa-97f7-d806961d6296",
+      "7e245481-d9e7-4e64-b771-18739a464f6d"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "fa0a8f20-8d75-4964-b3e0-58828b25e8f1",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2016-01-12",
+    "title_eng": "Display of a handheld terminal with graphical user interface",
+    "title_kor": "Display of a handheld terminal with graphical user interface",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "6fcae3c0-d570-4cf6-8744-8cc4617bbf26",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2015-08-25",
+    "title_eng": "Portable electronic device with animated GUI",
+    "title_kor": "Portable electronic device with animated GUI",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "09459841-56f8-4ff9-b35f-85f2d25fc568",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2015-03-17",
+    "title_eng": "Portable electronic device with an animated graphical user interface",
+    "title_kor": "Portable electronic device with an animated graphical user interface",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "89186b99-3c56-4b0c-a82f-ef27cac950ee",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2015-09-22",
+    "title_eng": "Portable electronic device with GUI",
+    "title_kor": "휴대용 전자장치 GUI",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "791d3c60-fc61-4ac9-a01e-23a09f22b89f",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2015-09-22",
+    "title_eng": "Portable electronic device with GUI",
+    "title_kor": "Portable electronic device with GUI",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "0ca83652-49a5-4f2e-94fd-a4a7ce1600a6",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2015-04-28",
+    "title_eng": "Graphical user interface for a display screen or portion thereof",
+    "title_kor": "Graphical user interface for a display screen or portion thereof",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "fb0bd990-4d76-42cf-9dd7-6e7719536991",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2014-11-25",
+    "title_eng": "Portable electronic device with an animated graphical user interface",
+    "title_kor": "Portable electronic device with an animated graphical user interface",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "45b2ffb1-500c-4818-b649-0410e30664ab",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2014-12-09",
+    "title_eng": "Portable electronic device displaying graphical user interface",
+    "title_kor": "Portable electronic device displaying graphical user interface",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "a5f8b403-f6d8-45bb-a9c9-3ef2c8101590",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2014-12-09",
+    "title_eng": "Portable electronic device displaying graphical user interface",
+    "title_kor": "Portable electronic device displaying graphical user interface",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "2e9bd27e-aabb-44ac-9f62-78b856006e2e",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2014-12-02",
+    "title_eng": "Portable electronic device displaying graphic user interface",
+    "title_kor": "Portable electronic device displaying graphic user interface",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "c1c4c2fb-6617-4975-a757-19b3ca922e08",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-01-16",
+    "title_eng": "Color transformation method and apparatus for person with color vision defect",
+    "title_kor": "Color transformation method and apparatus for person with color vision defect",
+    "author_kor": "안성주; 고성제; 박정훈; 신항식; 김현지; 정재윤; 유현국",
+    "author_eng": "Sungjoo Ahn; Sungjea Ko; Junghoon Park; Hangsik Shin; Hyunji Kim; Jaeyun Jeong; Hyungok Yoo",
+    "author_ids": [
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "58781275-5ce2-476d-b58f-73f66081f973",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "95e28776-4d0d-4ed0-b15f-497367250ffe",
+      "f93cb6ad-8ab3-4ffa-97f7-d806961d6296",
+      "7e245481-d9e7-4e64-b771-18739a464f6d"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "988fc77c-5a07-45bd-810a-e35fda6336cd",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-03-22",
+    "title_eng": "Method and apparatus for providing floating user interface",
+    "title_kor": "Method and apparatus for providing floating user interface",
+    "author_kor": "신항식; 안성주; 박정훈; 유현국",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Junghoon Park; Hyungok Yoo",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "250ab501-3a40-4a8f-8a35-aeeada08aee8",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-03-22",
+    "title_eng": "Method and apparatus for providing floating user interface",
+    "title_kor": "Method and apparatus for providing floating user interface",
+    "author_kor": "신항식; 안성주; 박정훈; 유현국",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Junghoon Park; Hyungok Yoo",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "13e0178e-5bea-42f2-80da-1b2764c56c5e",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2013-10-02",
+    "title_eng": "Device and method for providing floating user interface",
+    "title_kor": "플로팅 사용자 인터페이스 제공 장치 및 방법",
+    "author_kor": "신항식; 안성주; 박정훈; 유현국",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Junghoon Park; Hyungok Yoo",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "e6004bd1-bfbe-4b38-b444-ede3c28c9789",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-07-11",
+    "title_eng": "Color transformation method and apparatus for person with color vision defect",
+    "title_kor": "Color transformation method and apparatus for person with color vision defect",
+    "author_kor": "안성주; 고성제; 박정훈; 신항식; 김현지; 정재윤; 유현국",
+    "author_eng": "Sungjoo Ahn; Sungjea Ko; Junghoon Park; Hangsik Shin; Hyunji Kim; Jaeyun Jeong; Hyungok Yoo",
+    "author_ids": [
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "58781275-5ce2-476d-b58f-73f66081f973",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "95e28776-4d0d-4ed0-b15f-497367250ffe",
+      "f93cb6ad-8ab3-4ffa-97f7-d806961d6296",
+      "7e245481-d9e7-4e64-b771-18739a464f6d"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "bfb9f517-d68b-49f2-bcb7-33ec591c6315",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-09-04",
+    "title_eng": "화상디자인이 표시된 휴대용 단말기",
+    "title_kor": "화상디자인이 표시된 휴대용 단말기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "34b6e352-1d1b-44fc-aafa-84544965c38c",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-05-17",
+    "title_eng": "화상디자인이 표시된 휴대용 단말기",
+    "title_kor": "화상디자인이 표시된 휴대용 단말기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "f2cfa816-c6a4-4674-9bdc-bf38f8f35986",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-11-14",
+    "title_eng": "화상디자인이 표시된 컴퓨터모니터",
+    "title_kor": "화상디자인이 표시된 컴퓨터모니터",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "0e23a43e-15fa-40dd-809c-6949c7558713",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-05-21",
+    "title_eng": "화상디자인이 표시된 컴퓨터모니터",
+    "title_kor": "화상디자인이 표시된 컴퓨터모니터",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "bee2aaf2-f0b6-4bac-9e0a-70d4276ec5b4",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-11-14",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "8b39ede3-4dab-4ba1-b613-5a51b84a38f3",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-10-10",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "f369efdc-9925-4ece-96ee-35a9b57d30d9",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-10-10",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "45cfc979-8deb-4698-8495-8707ceb5c85a",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-10-10",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "434c39ea-5d75-4b0e-b24a-5b867812377d",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-07-24",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "a543d40f-4004-4cb8-8042-646a609bc8f9",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-07-24",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "a7ad53ed-622a-4cf0-a299-48e223f053b8",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-07-24",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "c3064fd9-7367-427f-8e26-a4d76d5c6bb2",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-06-15",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "a09adf11-7f69-4768-a62f-756f59c83bd5",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-07-24",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "41d63ede-6c60-4748-bae3-cc141e7a1b94",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-06-14",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "06eda343-cc47-4922-beb9-112fd74a7207",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-06-14",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "d261f547-7a66-4374-afc5-5eea215c89e4",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-06-14",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "00224a28-dde0-4ab9-93ab-b980aa7942f5",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-06-13",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "c287b6d4-cae2-4b5c-b6dd-6416a34a9f51",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-06-13",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "f29c1809-a2fe-4bcb-b591-48774948e3ae",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-06-13",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "4563fd37-232e-42bd-ab3f-e697c30fe42d",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2012-06-13",
+    "title_eng": "화상디자인이 표시된 이동통신기기",
+    "title_kor": "화상디자인이 표시된 이동통신기기",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "b772b2f1-750d-43d1-b5f3-875dcf8ca655",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-06-28",
+    "title_eng": "Portable electronic device with animated GUI",
+    "title_kor": "Portable electronic device with animated GUI",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "02afad14-fec9-4e8e-8c84-f21b871686f5",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-06-28",
+    "title_eng": "Portable electronic device with an animated graphical user interface",
+    "title_kor": "Portable electronic device with an animated graphical user interface",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "12afa98d-6cb6-4e18-b9d4-e5af93a95791",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-06-28",
+    "title_eng": "Portable electronic device with an animated graphical user interface",
+    "title_kor": "Portable electronic device with an animated graphical user interface",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "91d5b450-95be-49cd-9e42-d320f8429ede",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-06-28",
+    "title_eng": "Portable electronic device with GUI",
+    "title_kor": "Portable electronic device with GUI",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "86023da1-0782-41de-b7c1-819048dc7cc8",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-06-28",
+    "title_eng": "Portable electronic device with GUI",
+    "title_kor": "Portable electronic device with GUI",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "3296c2c2-e9ef-4771-8cb7-2edb2b6340a4",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-06-29",
+    "title_eng": "Portable electronic device displaying graphical user interface",
+    "title_kor": "Portable electronic device displaying graphical user interface",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "a6c6d277-4281-47fe-a0a1-8d956a7a0d98",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-06-29",
+    "title_eng": "Portable electronic device displaying graphical user interface",
+    "title_kor": "Portable electronic device displaying graphical user interface",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "7d79738e-f353-463d-a99c-9ba2114e43e8",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-06-29",
+    "title_eng": "Portable electronic device displaying graphic user interface",
+    "title_kor": "Portable electronic device displaying graphic user interface",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "afd2d1ed-5a7f-4b5d-81ba-bb99b15a16b8",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2012-08-08",
+    "title_eng": "Method and apparatus of converting color for color vision defectives",
+    "title_kor": "색각 이상자를 위한 색 변환 방법 및 장치",
+    "author_kor": "안성주; 고성제; 박정훈; 신항식; 김현지; 정재윤; 유현국",
+    "author_eng": "Sungjoo Ahn; Sungjea Ko; Junghoon Park; Hangsik Shin; Hyunji Kim; Jaeyun Jeong; Hyungok Yoo",
+    "author_ids": [
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "58781275-5ce2-476d-b58f-73f66081f973",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "95e28776-4d0d-4ed0-b15f-497367250ffe",
+      "f93cb6ad-8ab3-4ffa-97f7-d806961d6296",
+      "7e245481-d9e7-4e64-b771-18739a464f6d"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "539a3f09-4983-440d-bbce-b5a82194cd34",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-05-30",
+    "title_eng": "Graphical user interface for a display screen or portion thereof",
+    "title_kor": "Graphical user interface for a display screen or portion thereof",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "503cab3b-56c7-4081-82fe-be83bc1ec580",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2012-10-18",
+    "title_eng": "Display of a handheld terminal with graphical user interface",
+    "title_kor": "Display of a handheld terminal with graphical user interface",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2012"
+  },
+  {
+    "id": "feb892cd-2b11-4266-9f2a-05ed8ea65f0f",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2012-03-23",
+    "title_eng": "Device and method for providing floating user interface",
+    "title_kor": "플로팅 사용자 인터페이스 제공 장치 및 방법",
+    "author_kor": "신항식; 안성주; 박정훈; 유현국",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Junghoon Park; Hyungok Yoo",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d"
+    ],
+    "year_resolved": "2012"
+  }
+]

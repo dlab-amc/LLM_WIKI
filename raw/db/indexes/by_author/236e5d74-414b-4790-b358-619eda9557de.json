@@ -1,0 +1,186 @@
+[
+  {
+    "id": "1185fd01-188d-48ec-ac45-014fa0f95b13",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-03-04",
+    "title_eng": "Waistband-type wearable electrocardiogram measurement apparatus, and method and apparatus for measuring heartbeat using same",
+    "title_kor": "이를 이용하는 하트비트를 측정하는 WAISTBAND-TYPE 착용할 수 있는 심전도 측정 장치 및 방법과 장치",
+    "author_kor": "신항식; 권단비",
+    "author_eng": "Hangsik Shin; Danbi Kwon",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "236e5d74-414b-4790-b358-619eda9557de"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "1b25019e-5e44-4de9-b10d-c94355d27674",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-02-08",
+    "title_eng": "Portable wearable respiratory monitoring unit and mask comprising the same",
+    "title_kor": "휴대용 웨어러블 호흡 모니터링 장치 및 이를 포함하는 마스크",
+    "author_kor": "신항식; 권단비",
+    "author_eng": "Hangsik Shin; Danbi Kwon",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "236e5d74-414b-4790-b358-619eda9557de"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "dfdea2b9-0376-4b00-a168-344daf816500",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-01-28",
+    "title_eng": "Portable wearable respiratory monitoring unit and mask comprising the same",
+    "title_kor": "휴대용 웨어러블 호흡 모니터링 장치 및 이를 포함하는 마스크",
+    "author_kor": "신항식; 권단비",
+    "author_eng": "Hangsik Shin; Danbi Kwon",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "236e5d74-414b-4790-b358-619eda9557de"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "aae2974e-7859-424b-888f-51b56626143a",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2021-05-11",
+    "title_eng": "Feasibility of a Waistband-Type Wireless Wearable Electrocardiogram Monitoring System Based on a Textile Electrode: Development and Usability Study",
+    "title_kor": "Feasibility of a Waistband-Type Wireless Wearable Electrocardiogram Monitoring System Based on a Textile Electrode: Development and Usability Study",
+    "journal_eng": "JMIR mHealth and uHealth",
+    "author_kor": "권단비; 조하경; 신항식",
+    "author_eng": "Danbi Kwon; Hakyung Cho; Hangsik Shin",
+    "author_ids": [
+      "236e5d74-414b-4790-b358-619eda9557de",
+      "060492dd-a93e-46a6-bfbc-3cec066480c5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/33973860/",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "f638cd68-8630-4a4a-b42f-9a55a2cce0f8",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2021-04-23",
+    "title_eng": "An Evaluation of Emotion Induced by Static and Dynamic Audio-Visual Stimulation",
+    "title_kor": "정적 및 동적 시청각 자극에 의한 감성 유발 평가",
+    "conference_eng": "Proceedings of Korean Institute of Intelligent Systems Sping Conference 2021",
+    "author_kor": "권단비; 석현석; 권주희; 김상수; 강송협; 김도원; 강지훈; 신항식",
+    "author_eng": "Danbi Kwon; Hyeon Seok Seok; Joohee Kwon; Sang Su Kim; Songhyup Kang; Do-Won Kim; Jihoon Kang; Hangsik shin",
+    "author_ids": [
+      "236e5d74-414b-4790-b358-619eda9557de",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "0850693d-255d-4682-861a-dacd212a43da",
+      "fd60dc67-b59d-4404-a6e5-10d1810da012",
+      "3e427217-a2af-49d7-b24a-0c56e8c62b24",
+      "f5c5db67-7148-49a8-ae2d-6640056ea44f",
+      "98a0c002-fcdc-427e-8d1f-a74d1352558e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "864acce6-7ca3-49af-89a9-6ef916f58d24",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-02-05",
+    "title_eng": "A waistband wearable electrocardiogram measuring apparatus and method and apparatus for heart rate measurement using the same",
+    "title_kor": "허리밴드형 웨어러블 심전도 측정 장치 및 이를 이용한 심박 측정 방법 및 장치",
+    "author_kor": "신항식; 권단비",
+    "author_eng": "Hangsik Shin; Danbi Kwon",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "236e5d74-414b-4790-b358-619eda9557de"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "e5b7bbbf-2106-47d0-8d53-0d704e0b2008",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2020-08-31",
+    "title_eng": "Mask-attached breath monitoring apparatus and system",
+    "title_kor": "마스크 부착형 호흡 모니터링 장치 및 시스템",
+    "author_kor": "신항식; 권단비",
+    "author_eng": "Hangsik Shin; Danbi Kwon",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "236e5d74-414b-4790-b358-619eda9557de"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "d15c545e-fdc8-4493-9fb7-017184da4ae1",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2020-07-15",
+    "title_eng": "Development of Mask Attachable Respiration Monitoring System",
+    "title_kor": "마스크 부착형 호흡모니터링 시스템 개발",
+    "conference_eng": "The 51th KIEE Summer Conference 2020",
+    "author_kor": "권단비; 신항식",
+    "author_eng": "Danbi Kwon; Hangsik shin",
+    "author_ids": [
+      "236e5d74-414b-4790-b358-619eda9557de",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "0c93716f-831c-4ee3-b4ee-415623b8bc47",
+    "category": "conference",
+    "class": "International",
+    "date": "2019-10-24",
+    "title_eng": "Postoperative Pain Assessment Using Convolutional Neural Network",
+    "title_kor": "합성곱 신경망을 사용한 수술 후 통증 평가",
+    "conference_eng": "41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC'19)",
+    "author_kor": "석현석; 임지연; 권단비; 신항식",
+    "author_eng": "Hyeon Seok Seok; Ji Yeon Yim; Danbi Kwon; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "236e5d74-414b-4790-b358-619eda9557de",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "2748f7aa-a2eb-4e79-ae8b-e6e70bb4ef44",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-10-24",
+    "title_eng": "Postoperative Pain Assessment Using Convolutional Neural Network",
+    "title_kor": "합성곱 신경망을 사용한 수술 후 통증 평가",
+    "conference_eng": "Conference on Information and Control Systems 2019",
+    "author_kor": "석현석; 임지연; 권단비; 신항식",
+    "author_eng": "Hyeon Seok Seok; JiYoen Yim; Danbi Kwon; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "236e5d74-414b-4790-b358-619eda9557de",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "b77adbc0-19ce-473c-a37f-d9f426da49ab",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-05-09",
+    "title_eng": "Feasibility Study of Waistband-type Wearable ECG Electrode",
+    "title_kor": "허리 밴드형 웨어러블 심전도 전극 연구",
+    "conference_eng": "The 54th Korea Society of Medical and Biological Engineering Spring Conference 2019",
+    "author_kor": "권단비; 조하경; 신항식",
+    "author_eng": "Danbi Kwon; Hakyung Cho; Hangsik shin",
+    "author_ids": [
+      "236e5d74-414b-4790-b358-619eda9557de",
+      "060492dd-a93e-46a6-bfbc-3cec066480c5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  }
+]

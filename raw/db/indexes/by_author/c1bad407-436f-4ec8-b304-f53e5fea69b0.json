@@ -1,0 +1,41 @@
+[
+  {
+    "id": "21fd7890-3ae3-42bf-8387-2b9b0d352c77",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2021-03-08",
+    "title_eng": "Performance of the Surgical Pleth Index and Analgesia Nociception Index in Healthy Volunteers and Parturients",
+    "journal_eng": "Frontiers in Physiology",
+    "author_kor": "최병문; 신항식; 이주현; 방지연; 이은경; 노규정",
+    "author_eng": "Byungmoon Choi; Hangsik Shin; Joo-Hyun Lee; Ji-Yeon Bang; Eun-Kyung Lee; Gyujeong Noh",
+    "author_ids": [
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "d818c191-1ea9-4f88-9ab7-5bcdf5a1a30c",
+      "c1bad407-436f-4ec8-b304-f53e5fea69b0",
+      "7f204165-939d-44e7-9ad2-cc9df84495bf",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/33762962/",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "7b3a6efe-d787-4837-8fde-3d5e9d366007",
+    "category": "conference",
+    "class": "International",
+    "date": "2016-08-16",
+    "title_eng": "Time Domain Analysis of Heart Rate Variability for Nociceptive Pain Assessment",
+    "title_kor": "Time Domain Analysis of Heart Rate Variability for Nociceptive Pain Assessment",
+    "conference_eng": "38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC 2016)",
+    "author_kor": "신항식; 이용훈; 방지연; 최병문; 노규정",
+    "author_eng": "Hangsik shin; Yong-Hun Lee; Ji-Yeon Bang; Byungmoon Choi; Gyujeong Noh",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "082f270f-0c9c-49c4-b469-28f02bd990a7",
+      "c1bad407-436f-4ec8-b304-f53e5fea69b0",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "year_resolved": "2016"
+  }
+]

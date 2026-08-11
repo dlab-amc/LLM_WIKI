@@ -1,0 +1,240 @@
+[
+  {
+    "id": "d0f51bd8-b239-4860-8765-ee661208083b",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2022-07-05",
+    "title_eng": "Photoplethysmogram based vascular aging assessment using the deep convolutional neural network",
+    "journal_eng": "Scientific Reports",
+    "author_kor": "신항식; 노규정; 최병문",
+    "author_eng": "Hangsik Shin; Gyujeong Noh; Byungmoon Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26"
+    ],
+    "link": "https://www.nature.com/articles/s41598-022-15240-4",
+    "year_resolved": "2022"
+  },
+  {
+    "id": "21fd7890-3ae3-42bf-8387-2b9b0d352c77",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2021-03-08",
+    "title_eng": "Performance of the Surgical Pleth Index and Analgesia Nociception Index in Healthy Volunteers and Parturients",
+    "journal_eng": "Frontiers in Physiology",
+    "author_kor": "최병문; 신항식; 이주현; 방지연; 이은경; 노규정",
+    "author_eng": "Byungmoon Choi; Hangsik Shin; Joo-Hyun Lee; Ji-Yeon Bang; Eun-Kyung Lee; Gyujeong Noh",
+    "author_ids": [
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "d818c191-1ea9-4f88-9ab7-5bcdf5a1a30c",
+      "c1bad407-436f-4ec8-b304-f53e5fea69b0",
+      "7f204165-939d-44e7-9ad2-cc9df84495bf",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/33762962/",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "debca9ec-7109-4687-99f5-3c7c59444f33",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2021-02-03",
+    "title_eng": "Novel Analgesic Index for Postoperative Pain Assessment Based on a Photoplethysmographic Spectrogram and Convolutional Neural Network: Observational Study",
+    "journal_eng": "Journal of Medical Internet Research",
+    "author_kor": "최병문; 임지연; 신항식; 노규정",
+    "author_eng": "Byungmoon Choi; Ji Yeon Yim; Hangsik Shin; Gyujeong Noh",
+    "author_ids": [
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/33533723/",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "f3b26f03-f812-4c58-b2ea-162c7ae42010",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-03-04",
+    "title_eng": "Method and apparatus for pain evaluation based on ppg-based spectrogram and cnn",
+    "title_kor": "PPG-BASED 스펙트로그램과 CNN을 기반으로 하는 통증 평가에 대한 방법과 장치",
+    "author_kor": "신항식; 임지연; 노규정",
+    "author_eng": "Hangsik Shin; JiYeon Yim; Gyujeong Noh",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "4173ebdb-f818-486d-bfb6-bee33fc3e13f",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-10-29",
+    "title_eng": "A method and apparauts for classifying pain using photoplethysmograph",
+    "title_kor": "광용적맥파를 이용한 통증 분류 방법 및 장치",
+    "author_kor": "신항식; 노규정; 최병문",
+    "author_eng": "Hangsik Shin; Gyujeong Noh; Byungmoon Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "4976a23d-976f-42b5-9a57-828d963d0dd5",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-03-04",
+    "title_eng": "A method and apparatus for pain assessment based on a photoplethysmographic based spectrogram and convolutional neural network",
+    "title_kor": "PPG-BASED 스펙트로그램과 CNN을 기반으로 하는 통증 평가에 대한 방법과 장치",
+    "author_kor": "신항식; 임지연; 최병문; 노규정",
+    "author_eng": "Hangsik Shin; JiYeon Yim; Byungmoon Choi; Gyujeong Noh",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "72fa4a5f-5287-4140-a8ca-b20d3cb21184",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-02-08",
+    "title_eng": "A method and apparatus for pain assessment based on a photoplethysmographic based spectrogram and convolutional neural network",
+    "title_kor": "PPG 기반 스펙트로그램 및 CNN에 기반하는 통증 평가 방법 및 장치",
+    "author_kor": "신항식; 임지연; 최병문; 노규정",
+    "author_eng": "Hangsik Shin; Ji Yeon Yim; Byungmoon Choi; Gyujeong Noh",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "293d1c07-fac9-4d7f-824c-972a42b4f432",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "bbf6b105-f35f-40ac-a8dc-ee9b859e0925",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2020-04-28",
+    "title_eng": "Performance of the nasal photoplethysmographic index as an analgesic index during surgery under general anaesthesia",
+    "journal_eng": "Scientific Reports",
+    "author_kor": "박찬기; 양민호; 최보현; 전보경; 이용훈; 신항식; 이보름; 최병문; 노규정",
+    "author_eng": "Chanki Park; Min-Ho Yang; Bohyun Choi; Bokyung Jeon; Yong-Hun Lee; Hangsik Shin; Boreom Lee; Byungmoon Choi; Gyujeong Noh",
+    "author_ids": [
+      "dab95ccb-7d79-46ed-906e-901b173ebbf9",
+      "b0ea1f33-2fbe-46ea-b11a-a066b9545248",
+      "b4b26edd-ac6d-4f6f-89a8-eaad04895be7",
+      "b1acb102-efb3-4d63-9fcf-4132379fc1b4",
+      "082f270f-0c9c-49c4-b469-28f02bd990a7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "1f01825b-bf1d-4c2b-b46d-03f7dc16d1eb",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "link": "https://www.nature.com/articles/s41598-020-64033-0",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "489f1270-d0c8-4c80-a6a3-d0cfc12e48c5",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-11-01",
+    "title_eng": "Postoperative Pain Assessment Model Based on Pulse Contour Characteristics Analysis",
+    "title_kor": "Postoperative Pain Assessment Model Based on Pulse Contour Characteristics Analysis",
+    "journal_eng": "IEEE Journal of Biomedical and Health Informatics",
+    "author_kor": "석현석; 최병문; 노규정; 신항식",
+    "author_eng": "Hyeon Seok Seok; Byungmoon Choi; Gyujeong Noh; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/8599135",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "06c2622b-c8f0-4002-8367-e4abb388bd4b",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2019-08-16",
+    "title_eng": "A method and apparauts for classifying pain using photoplethysmograph",
+    "title_kor": "광용적맥파를 이용한 통증 분류 방법 및 장치",
+    "author_kor": "신항식; 노규정; 최병문",
+    "author_eng": "Hangsik Shin; Gyujeong Noh; Byungmoon Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "b72aa89b-39a6-45bf-8cac-78e67bd97ad4",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-08-28",
+    "title_eng": "Postoperative Pain Assessment Indices Based on Photoplethysmography Waveform Analysis",
+    "journal_eng": "Frontiers in Physiology",
+    "author_kor": "양윤라; 석현석; 노규정; 최병문; 신항식",
+    "author_eng": "Yoon La Yang; Hyeon Seok Seok; Gyujeong Noh; Byungmoon Choi; Hangsik Shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "a7a98a09-1778-4de5-bd0f-3aa1d4bdfca3",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-09-01",
+    "title_eng": "Development of a new analgesic index using nasal photoplethysmography",
+    "journal_eng": "Anaesthesia",
+    "author_kor": "최병문; 박찬기; 이용훈; 신항식; 이승후; 정승욱; 노규정; 이병우",
+    "author_eng": "Byungmoon Choi; Chanki Park; Yong-Hun Lee; Hangsik Shin; Seunghoo Lee; Seongwook Jeong; Gyujeong Noh; Byung Woo Lee",
+    "author_ids": [
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "dab95ccb-7d79-46ed-906e-901b173ebbf9",
+      "082f270f-0c9c-49c4-b469-28f02bd990a7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "68c7ac1d-b7b7-429a-9d51-432b07e593a1",
+      "545bfc0f-948a-4688-a768-9d1afa5c9cde",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/29790159/",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "7b3a6efe-d787-4837-8fde-3d5e9d366007",
+    "category": "conference",
+    "class": "International",
+    "date": "2016-08-16",
+    "title_eng": "Time Domain Analysis of Heart Rate Variability for Nociceptive Pain Assessment",
+    "title_kor": "Time Domain Analysis of Heart Rate Variability for Nociceptive Pain Assessment",
+    "conference_eng": "38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC 2016)",
+    "author_kor": "신항식; 이용훈; 방지연; 최병문; 노규정",
+    "author_eng": "Hangsik shin; Yong-Hun Lee; Ji-Yeon Bang; Byungmoon Choi; Gyujeong Noh",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "082f270f-0c9c-49c4-b469-28f02bd990a7",
+      "c1bad407-436f-4ec8-b304-f53e5fea69b0",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "year_resolved": "2016"
+  }
+]

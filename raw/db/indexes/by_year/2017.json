@@ -1,0 +1,952 @@
+[
+  {
+    "id": "c57f8a8e-8946-412a-9fe6-bff46a0a2445",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-05-23",
+    "title_kor": "호흡 특성 분석 프로그램",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "29824644-1d7f-412a-a28b-37a96b8d3609",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-05-23",
+    "title_kor": "준주기신호 극점 검출을 위한 MATLAB(매트랩) 함수",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "242b6189-7a85-488e-9360-bb9cc41e745f",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-05-23",
+    "title_kor": "심전도 QRS(큐-알-에스)검출을 위한 MATLAB(매트랩) 함수",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "95bfaba0-a72a-464b-8d17-946dcd114116",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-12-21",
+    "title_kor": "실시간 압력파형 디스플레이를 위한 안드로이드 어플리케이션",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "706bbe7c-5241-4f5a-9f41-25d8931256cb",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-05-23",
+    "title_kor": "맥파도달시간(Pulse Transit Time) 측정을 위한 심전도, 광용적맥파(ECG, PPG) 극점 검출 및 교정 프로그램",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "6d20674d-3dce-4932-bdc5-3c6c33004da6",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-05-23",
+    "title_kor": "두 표본간 정규성 검정, 등분산 검정, 가설검정을 위한 One-step GUI(원스텝 그래픽유저인터페이스)",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "fa9fe87d-4391-43bc-9da8-697a5bac80ec",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-11-22",
+    "title_kor": "다파장 광용적맥파 데이터 수집 및 표시를 위한 프로그램",
+    "author_kor": "신항식; 조진우; 최아영",
+    "author_eng": "Hangsik Shin; Jinwoo Jo; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "b438a16a-5733-4601-b886-e6e78bce2fae",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "dc99c9d7-e837-410e-b15a-43a4609a09fa",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-11-24",
+    "title_kor": "다파장 광용적맥파 데이터 수집 및 표시를 위한 매트랩 프로그램",
+    "author_kor": "신항식; 조진우; 최아영",
+    "author_eng": "Hangsik Shin; Jinwoo Jo; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "b438a16a-5733-4601-b886-e6e78bce2fae",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "804e6d84-ed95-4741-995c-705589901995",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2017-06-16",
+    "title_eng": "Unconstrained type bio signal measuring sensor and bio signal measuring system having the same",
+    "title_kor": "무구속적 생체신호 측정센서 및 이를 포함하는 생체신호 측정시스템",
+    "author_kor": "신항식; 박수지",
+    "author_eng": "Hangsik Shin; Sooji park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "8b91c30e-08d5-40d4-ab97-409106b5a951",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2017-11-27",
+    "title_eng": "System and program for evaluating cardiovascular function based on interaction between smart device and wearable device",
+    "title_kor": "스마트 기기 및 웨어러블 디바이스 인터렉션 기반 심혈관 평가 시스템 및 심혈관 평가 프로그램",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "9c540e3f-7dae-4b9a-b68a-787299c1058e",
+    "category": "patent",
+    "class": "International",
+    "date": "2017-12-12",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "2435e0cf-ebb5-463f-a4b8-f091646a8c07",
+    "category": "patent",
+    "class": "International",
+    "date": "2017-11-02",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "e111aed9-2e59-4011-8af0-cc7e560b2a59",
+    "category": "patent",
+    "class": "International",
+    "date": "2017-08-01",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "고재우; 신항식; 박세준; 김양욱; 천해인; 정재호",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park; Yangwook Kim; Haein Chun; Jaeho Jung",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1",
+      "ae26dc01-50c2-4bd4-827c-75c5b0a45255",
+      "6087851f-34e1-47bc-ac70-223bbc0b9f35",
+      "3781bf3e-a884-453b-b569-b5b28d3d621b"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "aa3783be-2aaa-4551-8eaf-8b0462b798f1",
+    "category": "patent",
+    "class": "International",
+    "date": "2017-07-20",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "고재우; 신항식; 박세준; 김양욱; 천해인; 정재호",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park; Yangwook Kim; Haein Chun; Jaeho Jung",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1",
+      "ae26dc01-50c2-4bd4-827c-75c5b0a45255",
+      "6087851f-34e1-47bc-ac70-223bbc0b9f35",
+      "3781bf3e-a884-453b-b569-b5b28d3d621b"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "5675ca89-8271-4bfe-acb7-60dafd9eb166",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2017-11-17",
+    "title_eng": "System and method for estimating blood pressure based on deep learning",
+    "title_kor": "딥러닝 기반의 혈압 예측 시스템 및 방법",
+    "author_kor": "최아영; 신항식; 조진우",
+    "author_eng": "Ahyoung Choi; Hangsik Shin; Jinwoo Jo",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "b438a16a-5733-4601-b886-e6e78bce2fae"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "e8a8ba30-7a65-4f65-9da9-4ebbd0d469ba",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-05-23",
+    "title_kor": "S5(에스5) 환자감시장치에서 추출된 심전도, 맥파의 극점 추출을 위한 프로그램",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "04b9132d-0701-437e-ad36-7f6eb13e7a7e",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2017-11-01",
+    "title_eng": "Reply to ‘Comment on Photoplethysmography sampling frequency: pilot assessment of how low can we go to analyze pulse rate variability with reliability?’",
+    "journal_eng": "Physiological Measurement",
+    "author_kor": "최아영; 신항식",
+    "author_eng": "Ahyoung Choi; Hangsik Shin",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "bd5b6998-7690-420d-bded-f9258d90e75a",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-11-10",
+    "title_eng": "Preliminary Study on Comparison of Forced Blood Pressure Change by Hemodynamic Maneuver",
+    "title_kor": "혈역학적 조작법에 따른 강제혈압변화 비교 기초연구",
+    "conference_eng": "The 52th Korea Society of Medical and Biological Engineering Autumn Conference 2017",
+    "author_kor": "한상진; 신항식",
+    "author_eng": "Sangjin Han; Hangsik shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "da35e235-1b5b-4198-9787-276a09897eeb",
+    "category": "conference",
+    "class": "International",
+    "date": "2017-10-11",
+    "title_eng": "Postoperative Pain Assessment based on Photoplethysmography Analysis",
+    "title_kor": "Postoperative Pain Assessment based on Photoplethysmography Analysis",
+    "conference_eng": "The 18th International Symposium on Advanced Intelligent Systems(ISIS 2017)",
+    "author_kor": "석현석; 양윤라; 신항식",
+    "author_eng": "Hyeon Seok Seok; Yoon La Yang; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "93881f13-28c9-430e-aeea-c56d507b0d87",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2017-03-01",
+    "title_eng": "Photoplethysmography sampling frequency: pilot assessment of how low can we go to analyze pulse rate variability with reliability?",
+    "journal_eng": "Physiological Measurement",
+    "author_kor": "최아영; 신항식",
+    "author_eng": "Ahyoung Choi; Hangsik shin",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "b0113b5b-46ba-4889-b9db-895d2c5e6394",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-10-26",
+    "title_eng": "Observation of radial tono-arteriogram according to the external pressure using partial cuff",
+    "title_kor": "부분 커프 사용시 외부 가압조건에 따른 요골동맥 압력파형 관찰",
+    "conference_eng": "Conference on Information and Control Systems 2017",
+    "author_kor": "노동근; 한상진; 신항식",
+    "author_eng": "Donggeun Rho; Sangjin Han; Hangsik shin",
+    "author_ids": [
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "ae1610f3-aa83-4dd2-8dd6-c1afd46d6360",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-02-08",
+    "title_eng": "Music notation software based on the smart device and stylus pen",
+    "title_kor": "Music notation software based on the smart device and stylus pen",
+    "conference_eng": "PROCEEDINGS OF HCI KOREA 2017",
+    "author_kor": "곽재경; 안광덕; 신항식",
+    "author_eng": "Jaekyung Kwak; Kwangdek An; Hangsik Shin",
+    "author_ids": [
+      "2684cf18-a5b8-4ca2-977d-d4cbbf558f8a",
+      "ff74c517-7501-44c7-a017-94dd22eae94a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "46c9d64e-c318-44fe-bde2-ea0062568cc3",
+    "category": "patent",
+    "class": "International",
+    "date": "2017-08-22",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "145b7958-245f-4ef7-81ca-d0beadbb3c4c",
+    "category": "patent",
+    "class": "International",
+    "date": "2017-07-06",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "91b697e3-caa1-4476-9a68-14ddac799d24",
+    "category": "patent",
+    "class": "International",
+    "date": "2017-04-25",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "9e6970cc-2a43-4fea-927e-8877f0eef78a",
+    "category": "patent",
+    "class": "International",
+    "date": "2017-04-26",
+    "title_eng": "Method and apparatus for executing an application in a device",
+    "title_kor": "Method and apparatus for executing an applicatin in a device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "7aa861c5-a993-4898-88a3-3875b0143bcf",
+    "category": "patent",
+    "class": "International",
+    "date": "2017-03-28",
+    "title_eng": "METHOD AND DEVICE FOR EXECUTING APPLICATION",
+    "title_kor": "METHOD AND DEVICE FOR EXECUTING APPLICATION",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "d141a8e0-662b-4cda-972f-bbbcbdb0c854",
+    "category": "conference",
+    "class": "International",
+    "date": "2017-07-11",
+    "title_eng": "Investigation of the Photoplethysmography Waveform according to the Nociceptive Pain",
+    "title_kor": "Investigation of the Photoplethysmography Waveform according to the Nociceptive Pain",
+    "conference_eng": "39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC’17)",
+    "author_kor": "양윤라; 신항식",
+    "author_eng": "Yoon La Yang; Hangsik Shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "b5f8ea52-bd1e-4aed-84d0-96aff67db7e6",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-11-23",
+    "title_eng": "Investigation of the Feasibility of Postoperative Pain Assessment by Analysing Photoplethysmogram Variability Analysis",
+    "title_kor": "광용적맥파 진폭변이도 시간영역 분석을 통한 술후 통증 평가 가능성 고찰",
+    "conference_eng": "Proceedings of Korean Institute of Intelligent Systems Autumn Conference 2017",
+    "author_kor": "양윤라; 신항식",
+    "author_eng": "Yoon La Yang; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "bc1f5cfe-392f-5364-ab67-fc5e295e2edf",
+    "category": "award",
+    "date": "2017-11-23",
+    "title_eng": "Investigation of the Feasibility of Postoperative Pain Assessment by Analysing Photoplethysmogram Variability Analysis",
+    "title_kor": "광용적맥파 진폭변이도 시간영역 분석을 통한 술후 통증 평가 가능성 고찰",
+    "award_name_eng": "Best paper award of Proceedings of Korean Institute of Intelligent Systems Autumn Conference 2017",
+    "author_kor": "양윤라;신항식",
+    "author_eng": "Yoon La Yang;Hangsik Shin",
+    "year_resolved": "2017"
+  },
+  {
+    "id": "9123d363-27f0-4dcf-bebe-813c1aec30fe",
+    "category": "conference",
+    "class": "International",
+    "date": "2017-07-11",
+    "title_eng": "Investigation of Photoplethysmography AC Component Variation Before and After Surgery",
+    "title_kor": "Investigation of Photoplethysmography AC Component Variation Before and After Surgery",
+    "conference_eng": "39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC’17)",
+    "author_kor": "석현석; 신항식",
+    "author_eng": "Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "2eea0198-ab0d-468e-b033-e18c308b1a16",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-10-26",
+    "title_eng": "Investigation of Optical Conditioning for Multi-wavelength PPG measurement onf Wrist",
+    "title_kor": "손목형 다파장 PPG측정을 위한 광학적 조건 고찰",
+    "conference_eng": "Conference on Information and Control Systems 2017",
+    "author_kor": "한상진; 노동근; 신항식",
+    "author_eng": "Sangjin Han; Donggeun Rho; Hangsik shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "a17adb43-d9dd-4a29-92a4-a9e927f79408",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-04-28",
+    "title_eng": "Gait Measurement based on Differential Capacitive Textile Force Sensor",
+    "title_kor": "차동 용량형 섬유 힘센서 기반 보행 측정 연구",
+    "conference_eng": "The 2017 Spring Conference of the Korea Information Processing Society",
+    "author_kor": "노동근; 한상진; 최화진; 신항식",
+    "author_eng": "Donggeun Rho; Sangjin Han; Hawjin Choi; Hangsik shin",
+    "author_ids": [
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "4869b5bf-4dc1-422c-86ac-2ee4ca425911",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2017-09-20",
+    "title_eng": "Finger movement recognition glove and method using conductive coated material",
+    "title_kor": "전도성 소재를 이용한 손가락 동작 인식 장갑 및 그 방법",
+    "author_kor": "신항식; 김대은; 박정훈; 이재홍; 안성주; 정은석",
+    "author_eng": "Hangsik Shin; Dae-eun Kim; Junghoon Park; Jaehong Lee; Sungjoo Ahn; Eunseak Jung",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "a23af44c-15d6-4db1-a3f1-45bcdf51b3e4",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "85046567-bdc1-405e-8e6a-daefc301736a",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "d45f506d-da87-4f6d-a11e-6d652d5d3f6c"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "52ebdbae-6d43-413a-a79f-67bd52a32862",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2017-01-10",
+    "title_eng": "Feasibility study for the non-invasive blood pressure estimation based on ppg morphology: normotensive subject study",
+    "journal_eng": "BioMedical Engineering Online",
+    "author_kor": "신항식; 민세동",
+    "author_eng": "Hangsik Shin; Se Dong Min",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee"
+    ],
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5234121/",
+    "year_resolved": "2017"
+  },
+  {
+    "id": "bd8cec93-9cb3-467a-b16a-ddcce0e2bf48",
+    "category": "conference",
+    "class": "International",
+    "date": "2017-07-11",
+    "title_eng": "Feasibility Test of Strip-type Unconstrained Sleep Monitoring System with Polysomnography",
+    "title_kor": "Feasibility Test of Strip-type Unconstrained Sleep Monitoring System with Polysomnography",
+    "conference_eng": "39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC’17)",
+    "author_kor": "박수지; 신항식",
+    "author_eng": "Sooji park; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "ab686ade-f187-434d-bc09-74a6f7ce3099",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-02-13",
+    "title_eng": "Feasibility Test of Respiratory Measurement Using the Shirt Embroidered Conductive Yarn",
+    "title_kor": "전도사 자수 셔츠를 사용한 호흡측정 가능성 평가",
+    "conference_eng": "Bio-Medical System Conference 2017",
+    "author_kor": "박수지; 신항식",
+    "author_eng": "Sooji park; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "cb919261-4474-4e91-b004-ebf47fec9930",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2017-06-01",
+    "title_eng": "Feasibility Study for Unconstrained Respiration Monitoring Based on Multi-Way Approach Using an Acceleration and Force Sensing Module",
+    "journal_eng": "IEEE Sensors Journal",
+    "author_kor": "박수지; 신항식",
+    "author_eng": "Sooji Park; Hangsik Shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "0261895e-2ea4-4dfa-b21a-d28fc705f5cc",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-11-23",
+    "title_eng": "Extraction of the Pain Relavance Paremeters based on Pain-induced Photoplethysmographic Waveform Change Analysis",
+    "title_kor": "통증 유발에 따른 광용적맥파 파형 변화 분석 및 통증 상관 파라미터 도출",
+    "conference_eng": "Proceedings of Korean Institute of Intelligent Systems Autumn Conference 2017",
+    "author_kor": "석현석; 신항식",
+    "author_eng": "Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "42c5e3fa-a1d2-554f-b90a-de8649ccf21a",
+    "category": "award",
+    "date": "2017-11-23",
+    "title_eng": "Extraction of the Pain Relavance Paremeters based on Pain-induced Photoplethysmographic Waveform Change Analysis",
+    "title_kor": "통증 유발에 따른 광용적맥파 파형 변화 분석 및 통증 상관 파라미터 도출",
+    "award_name_eng": "Best paper award of Proceedings of Korean Institute of Intelligent Systems Autumn Conference 2017",
+    "author_kor": "석현석;신항식",
+    "author_eng": "Hyeon Seok Seok;Hangsik Shin",
+    "year_resolved": "2017"
+  },
+  {
+    "id": "abfaf2dd-fa57-4bac-8c94-de48ecca18b0",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-11-10",
+    "title_eng": "Evaluation of Significance of Photoplethysmograpy Amplitude Variation by Harmonic Rejection",
+    "title_kor": "고조파 제거에 따른 광용적맥파 진폭 변화 유의성 평가",
+    "conference_eng": "The 52th Korea Society of Medical and Biological Engineering Autumn Conference 2017",
+    "author_kor": "박수지; 신항식",
+    "author_eng": "Sooji park; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "4452ca49-d691-425d-bac4-2724f53ad261",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2017-11-01",
+    "title_eng": "Evaluation of Hemiplegic Gait Using Accelerometer",
+    "title_kor": "가속도센서를 이용한 편마비성보행 평가",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "이준석; 박수지; 신항식",
+    "author_eng": "Jun Seok Lee; Sooji park; Hangsik shin",
+    "author_ids": [
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://koreascience.kr/article/JAKO201734158605923.page",
+    "year_resolved": "2017"
+  },
+  {
+    "id": "310623fe-4563-44c6-95bf-0a8d9d5e1305",
+    "category": "conference",
+    "class": "International",
+    "date": "2017-07-11",
+    "title_eng": "Effect of Low Sampling Rate on the First Derivative of the PPG Waveform",
+    "title_kor": "Effect of Low Sampling Rate on the First Derivative of the PPG Waveform",
+    "conference_eng": "39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC’17)",
+    "author_kor": "한상진; 신항식",
+    "author_eng": "Sangjin Han; Hangsik shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "9be77e6f-6aca-4cb3-871f-8c2f9fb5a96a",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2017-12-01",
+    "title_eng": "Development of an application for correction and arrangement of pulse features of Electrocardiogram and Photoplethysmogram",
+    "title_kor": "심전도, 광용적맥파 박동 특징점 교정 및 매칭을 위한 어플리케이션 개발",
+    "journal_eng": "Journal of Korean Institute of Intelligent Systems",
+    "author_kor": "양윤라; 석현석; 신항식",
+    "author_eng": "Yoon La Yang; Hyeon Seok Seok; Hangsik Shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "b53ce5ee-892c-437f-99a2-4d1b6b231eaa",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-04-13",
+    "title_eng": "Development of an Application for Correction and Arrangement of Pulse Features of ECG and PPG Waveforms",
+    "title_kor": "심전도, 광용적맥파 박동 특징점 교정 및 매칭을 위한 어플리케이션 개발",
+    "conference_eng": "Proceedings of Korean Institute of Intelligent Systems Spring Conference 2017",
+    "author_kor": "양윤라; 석현석; 신항식",
+    "author_eng": "Yoon La Yang; Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "58618d5e-a458-51c2-9f95-5a3c59bf526e",
+    "category": "award",
+    "date": "2017-04-13",
+    "title_eng": "Development of an Application for Correction and Arrangement of Pulse Features of ECG and PPG Waveforms",
+    "title_kor": "심전도, 광용적맥파 박동 특징점 교정 및 매칭을 위한 어플리케이션 개발",
+    "award_name_eng": "Best paper award of Proceedings of Korean Institute of Intelligent Systems Spring Conference 2017",
+    "author_kor": "양윤라;석현석;신항식",
+    "author_eng": "Yoon La Yang;Hyeon Seok Seok;Hangsik Shin",
+    "year_resolved": "2017"
+  },
+  {
+    "id": "5008954c-0b8e-45bd-b5cb-6f374b65e5ab",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-04-28",
+    "title_eng": "Development of Rollable Smartpad for Management of the Sitting Behavior",
+    "title_kor": "착좌 행동 관리를 위한 롤러블 스마트패드 개발",
+    "conference_eng": "The 2017 Spring Conference of the Korea Information Processing Society",
+    "author_kor": "강성탁; 이재근; 박수지; 신항식",
+    "author_eng": "Seongtak Kang; Jaegeun Lee; Sooji park; Hangsik shin",
+    "author_ids": [
+      "2305510c-90d6-4355-99bd-7d63caa62cfb",
+      "b1a577ea-2a99-4079-99a7-49ed4064cfc2",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "566c959d-618c-529e-a16d-54a01c1b0555",
+    "category": "award",
+    "date": "2017-04-28",
+    "title_eng": "Development of Rollable Smartpad for Management of the Sitting Behavior",
+    "title_kor": "착좌 행동 관리를 위한 롤러블 스마트패드 개발",
+    "award_name_eng": "Participation award of The 2017 Spring Conference of the Korea Information Processing Society",
+    "author_kor": "강성탁;이재근;박수지;신항식",
+    "author_eng": "Seongtak Kang;Jaegeun Lee;Sooji Park;Hangsik Shin",
+    "year_resolved": "2017"
+  },
+  {
+    "id": "40dba5fd-01b0-4460-8365-e1fd20dbffc4",
+    "category": "conference",
+    "class": "International",
+    "date": "2017-07-11",
+    "title_eng": "Detection of Hemiplegic Gait Using 6-axis Inertial Sensor",
+    "title_kor": "Detection of Hemiplegic Gait Using 6-axis Inertial Sensor",
+    "conference_eng": "39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC’17)",
+    "author_kor": "이준석; 박수지; 신항식",
+    "author_eng": "Junseok Lee; Sooji Park; Hangsik Shin",
+    "author_ids": [
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "286d468f-fa6b-4e4b-b74b-ae296a1d8f1f",
+    "category": "conference",
+    "class": "International",
+    "date": "2017-07-11",
+    "title_eng": "Design of the Wearable Device for Hemiplegic Gait Detection Using an Accelerometer and a Gyroscope",
+    "title_kor": "Design of the Wearable Device for Hemiplegic Gait Detection Using an Accelerometer and a Gyroscope",
+    "conference_eng": "39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC’17)",
+    "author_kor": "박수지; 이준석; 곽재경; 신항식",
+    "author_eng": "Sooji Park; Junseok Lee; Jaekyung Kwak; Hangsik Shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "2684cf18-a5b8-4ca2-977d-d4cbbf558f8a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "92d829e3-8366-45f3-ada8-2eb985ed1d03",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2017-10-18",
+    "title_eng": "Contactless height measuring method based on image and system thereof",
+    "title_kor": "영상에 기반한 비접촉 신장 측정 방법 및 그 시스템",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "97807d3a-66c7-438e-b7fc-9706140b1b07",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2017-12-11",
+    "title_eng": "Biosignal monitoring system using multi-channel sensor patch",
+    "title_kor": "다채널 센서를 이용한 생체 신호 모니터링 시스템",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "99d908eb-cba7-43d8-b924-e4dcbd51c217",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-10-26",
+    "title_eng": "Analysis of Systolic and Diastolic Waveform Characteristic of Photoplethysmogram according to the Surgical Pain",
+    "title_kor": "수술 통증에 따른 광용적맥파 수축기 및 이완기 파형 특성 분석",
+    "conference_eng": "Conference on Information and Control Systems 2017",
+    "author_kor": "양윤라; 석현석; 신항식",
+    "author_eng": "Yoon La Yang; Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "b31099a0-1657-49f8-b5cc-c1499e09f651",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2017-12-21",
+    "title_kor": "2채널 실시간 데이터 수집 및 표시를 위한 프로그램",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f61",
+    "category": "project",
+    "date": "2017-04-01",
+    "project_name_eng": "Developed a pulse monitoring model using smartphone for early diagnosis and monitoring of atrial fibrillation",
+    "year_resolved": "2017"
+  },
+  {
+    "id": "0d813251-1571-5ce1-b727-ec65bd61b1f1",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "44dcb3b0-6269-580d-bb90-ef64b0b8d1fb",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "012b3ab7-02c0-54aa-a473-0cf3251b9749",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "4c1cf075-8200-5bde-bc8e-368fe1bcda3a",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "6fe757e1-6acc-5d87-b19e-47057d092ced",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "09eb774c-3f1d-51b8-93c0-43e97cca1b99",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "b38a900c-e601-5edc-8138-f7d470cf179c",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "6e9c2637-dd7b-5295-9b81-ad4f3190d04f",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "1c0e4570-fbd0-53a4-af4b-b098153bc3cc",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "4fdb5c72-0fd9-5e05-b13d-6fa707c20e5f",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "f7cc78d3-8707-54ab-833b-d32cf148ab94",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "ed80c24e-8016-5373-b23c-bec0dc643ed7",
+    "category": "lecture",
+    "year": 2017,
+    "year_resolved": "2017"
+  },
+  {
+    "id": "e3f69cc7-4f14-5356-943e-03f578c8f994",
+    "category": "technology_transfer",
+    "date": "2017-12-22",
+    "year_resolved": "2017"
+  },
+  {
+    "id": "c435fbf1-89f1-5b82-8dc1-e68b4d152dff",
+    "category": "career",
+    "date": "2017-09-01",
+    "year_resolved": "2017"
+  },
+  {
+    "id": "64165d6a-9198-5695-b3fd-62250800edb1",
+    "category": "career",
+    "date": "2017-09-01",
+    "year_resolved": "2017"
+  },
+  {
+    "id": "2e58aebb-4cc3-502b-8cd3-153c59fa51f2",
+    "category": "extracurricular",
+    "date": "2017-11-23",
+    "year_resolved": "2017"
+  },
+  {
+    "id": "f10a8761-d7d1-518f-9dc9-7b76b72e7b5e",
+    "category": "extracurricular",
+    "date": "2017-03-17",
+    "year_resolved": "2017"
+  },
+  {
+    "id": "5dd9cba8-b6cc-5ca8-8665-9197c180baed",
+    "category": "extracurricular",
+    "date": "2017-06-05",
+    "year_resolved": "2017"
+  },
+  {
+    "id": "6980978d-9252-582d-8691-a549ff699a77",
+    "category": "invited_lecture",
+    "date": "2017-09-01",
+    "year_resolved": "2017"
+  }
+]

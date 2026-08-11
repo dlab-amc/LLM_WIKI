@@ -2,7 +2,7 @@
 type: person
 id: 68eefd07ea1b5da5f6269a9a
 slug: saenal-oh
-updated: 2026-08-10
+updated: 2026-08-11
 sources:
   - raw/db/members.json
   - raw/db/authors.json
@@ -31,6 +31,10 @@ Research Areas : Molecule biotechnology, Administration
 ## Authorship
 
 _연결된 author 레코드 없음 (예: 행정 전담)._
+
+## Recent Work
+
+_연결된 author 레코드가 없어 성과 목록 없음._
 
 ## Related
 

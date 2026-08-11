@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ec82a1b1-9281-40fd-8592-925612fbb2ce",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2023-03-31",
+    "title_eng": "Practical delta check limits for tumour markers in different clinical settings",
+    "journal_eng": "Clinical Chemistry and Laboratory Medicine (CCLM)",
+    "author_kor": "유신애; 신경화; 신성환; 이혜영; 유수진; 전경란; 신항식; 김솔잎",
+    "author_eng": "Shinae Yu; Kyung-Hwa Shin; Sunghwan Shin; Hyeyoung Lee; Soo Jin Yoo; Kyung Ran Jun; Hangsik Shin; Sollip Kim",
+    "author_ids": [
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "06cd217f-5f4c-49af-9cf4-1666a5f30674",
+      "16dd67b1-53a2-4a77-b15d-d4846f5f7043",
+      "88a8d1f1-ccaa-414a-8af5-5661ce11128c",
+      "1032d1e7-0873-4e7a-b488-195b22293db1",
+      "58889578-5052-4cbc-8c74-b3ee12d9b36a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "09e01f73-363a-4780-962e-969da9578ff9"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/36994761/",
+    "year_resolved": "2023"
+  }
+]

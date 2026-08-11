@@ -1,0 +1,57 @@
+[
+  {
+    "id": "87a63d7d-4e79-408c-a0bd-10256501618f",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-05-13",
+    "title_eng": "An Investigation of the Peak Location Restoration of the Photoplethysmogram based on the Linear Interpolation",
+    "title_kor": "선형보간에 의한 광용적맥파 극점위치복원 특성 고찰",
+    "conference_eng": "The 51th Korea Society of Medical and Biological Engineering Spring Conference 2016",
+    "author_kor": "강성탁; 노동근; 최민주; 신항식",
+    "author_eng": "Seongtak Kang; Donggeun Rho; Min Ju Choi; Hangsik shin",
+    "author_ids": [
+      "2305510c-90d6-4355-99bd-7d63caa62cfb",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "19ac2461-2574-41b8-902c-4deb91d42bb9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "88e7d100-28e2-46ed-be3e-0ef1c96c944e",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-10-20",
+    "title_eng": "An Investigation of the Characteristic of Force Sensors in Biomedical Measurement",
+    "title_kor": "생체 계측에서 사용되는 힘센서의 종류별 특성 고찰",
+    "conference_eng": "Conference on Information and Control Systems 2016",
+    "author_kor": "박수지; 최민주; 강성탁; 신항식",
+    "author_eng": "Sooji park; Min Ju Choi; Seongtak Kang; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "19ac2461-2574-41b8-902c-4deb91d42bb9",
+      "2305510c-90d6-4355-99bd-7d63caa62cfb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "7dd4e9df-cb57-407c-b72e-9dfae37d1e50",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-05-13",
+    "title_eng": "An Effect of Sampling Rate to the Time Domain Analysis Result of Pulse Rate Variability",
+    "title_kor": "샘플링율이 맥박변이도 시간영역 분석에 미치는 영향 분석",
+    "conference_eng": "The 51th Korea Society of Medical and Biological Engineering Spring Conference 2016",
+    "author_kor": "양윤라; 강성탁; 노동근; 최민주; 신항식",
+    "author_eng": "Yoon La Yang; Seongtak Kang; Donggeun Rho; Min Ju Choi; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "2305510c-90d6-4355-99bd-7d63caa62cfb",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "19ac2461-2574-41b8-902c-4deb91d42bb9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  }
+]

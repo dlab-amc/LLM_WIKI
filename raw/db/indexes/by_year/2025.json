@@ -1,0 +1,723 @@
+[
+  {
+    "id": "f691c0c4-7803-4650-8cd1-1c53f0ea5cb3",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2025-10-23",
+    "title_eng": "인공지능 보정 기반의 블루투스 위치 추정 방법, 장치 및 프로그램",
+    "title_kor": "인공지능 보정 기반의 블루투스 위치 추정 방법, 장치 및 프로그램",
+    "author_kor": "이재형; 신항식; 임하민; 왕창원",
+    "author_eng": "Jaehyung Lee; Hangsik Shin; Hamin Lim; Changwon Wang",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "ad98337a-712a-4d40-a163-4ac540834245"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "69e53ab6-1801-4751-b9e4-af764d75ce4c",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-10-22",
+    "title_eng": "시계열 데이터의 결측치 대체 방법에 따른 Transformer 기반 패혈증 조기 예측 모델 성능 비교 평가",
+    "title_kor": "시계열 데이터의 결측치 대체 방법에 따른 Transformer 기반 패혈증 조기 예측 모델 성능 비교 평가",
+    "conference_eng": "CICS’25 정보 및 제어 학술대회",
+    "author_kor": "최예은; 신항식",
+    "author_eng": "Ye Eun Choi; Hangsik Shin",
+    "author_ids": [
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "44529fa4-e591-47bf-b088-15889379a27c",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2025-09-26",
+    "title_eng": "다기관에서 수집된 데이터를 전처리하는 장치 및 방법",
+    "title_kor": "다기관에서 수집된 데이터를 전처리하는 장치 및 방법",
+    "author_kor": "신항식; 한유진",
+    "author_eng": "Hangsik Shin; Yujin Han",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "cbdc3907-90f6-59c8-a5d0-304b0f237814",
+    "category": "award",
+    "date": "2025-05-09",
+    "title_kor": "다기관 Radiomic Tractometry 데이터 편차 보정을 위한 Harmonization 파이프라인",
+    "year_resolved": "2025"
+  },
+  {
+    "id": "c6afaed1-66e1-4f24-96b3-3a3a323defbb",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2025-10-28",
+    "title_eng": "뇌 질환 진단 장치 및 방법",
+    "title_kor": "뇌 질환 진단 장치 및 방법",
+    "author_kor": "신항식; 주성우; 이중선; 한유진",
+    "author_eng": "Hangsik Shin; Sung Woo Joo; Jungsun Lee; Yujin Han",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "140e3b05-97fa-4c63-a649-9dc6aa692776",
+      "95c4fbbb-c06a-4457-8f76-5db67ee40176",
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "988763c0-0777-4788-bb2f-a54b835a668d",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2025-12-31",
+    "title_eng": "건물 내 사용자의 실시간 위치 추정 장치 및 방법",
+    "title_kor": "건물 내 사용자의 실시간 위치 추정 장치 및 방법",
+    "author_kor": "임하민; 신항식",
+    "author_eng": "Hamin Lim; Hangsik Shin",
+    "author_ids": [
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "6bca2b12-4451-4f75-9b60-106e908def25",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2025-01-17",
+    "title_eng": "Toward Objectification of Subjective Chronic Pain Based on Implicit Response in Biosignals",
+    "journal_eng": "IEEE Transactions on Biomedical Engineering",
+    "author_kor": "석현석; 김상수; 김도원; 신항식",
+    "author_eng": "Hyeon Seok Seok; Sang Su Kim; Do-Won Kim; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "fd60dc67-b59d-4404-a6e5-10d1810da012",
+      "f5c5db67-7148-49a8-ae2d-6640056ea44f",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/10663232",
+    "year_resolved": "2025"
+  },
+  {
+    "id": "6f87124d-c4cc-44ad-a2ec-f3f99f170ef6",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-11-06",
+    "title_eng": "Robust Cardiopulmonary Sound Denoising through Physiological and Environmental Noise Augmentation",
+    "title_kor": "생리학적 및 환경적 잡음 증강을 통한 강건한 심폐음 잡음 제거 방법",
+    "conference_eng": "2025년 대한의용생체공학회 추계학술대회",
+    "author_kor": "이건; 신항식",
+    "author_eng": "Geon Lee; Hangsik Shin",
+    "author_ids": [
+      "75bef458-47fc-43ad-9bdb-f934cbb66beb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "d44f19e2-f948-4020-b594-07ed6bf19b42",
+    "category": "conference",
+    "class": "International",
+    "date": "2025-07-14",
+    "title_eng": "Revisiting the Obesity Paradox in Septic Patients with Aging and Chronic Disease: A Retrospective Study in Korea",
+    "title_kor": "Revisiting the Obesity Paradox in Septic Patients with Aging and Chronic Disease: A Retrospective Study in Korea",
+    "conference_eng": "The 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC",
+    "author_kor": "최예은; 정지영; 신항식",
+    "author_eng": "Ye Eun Choi; Jeeyoung Jung; Hangsik Shin",
+    "author_ids": [
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "37974180-13a8-4ece-8e13-be1ce816c3df",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "2ba08e29-f55b-4c5c-9cf2-8f9991f04638",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-05-08",
+    "title_eng": "Radiomic Tractometry-Based Machine Learning Model for Schizophrenia Classification",
+    "title_kor": "Radiomic Tractometry 기반 조현병 환자군 분류 인공지능 모델 개발",
+    "conference_eng": "2025 대한의용생체공학회 춘계학술대회",
+    "author_kor": "한유진; 주성우; 신항식",
+    "author_eng": "Yujin Han; Sung Woo Joo; Hangsik Shin",
+    "author_ids": [
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+      "140e3b05-97fa-4c63-a649-9dc6aa692776",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "e7f50914-9069-4843-a9e8-675b99ffc3a2",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-10-22",
+    "title_eng": "PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측",
+    "title_kor": "PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측",
+    "conference_eng": "CICS’25 정보 및 제어 학술대회",
+    "author_kor": "진재욱; 류가연; 심지훈; 신항식",
+    "author_eng": "Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin",
+    "author_ids": [
+      "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "2fa67677-ac83-41f4-9f07-d202a6195909",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "8cd9638b-94ac-4ee4-9283-6266d38535cb",
+    "category": "conference",
+    "class": "International",
+    "date": "2025-12-21",
+    "title_eng": "PubMedBERT-Based Terminology Mapping for Surgical Procedure Types",
+    "conference_eng": "The 7th International Conference on Advanced Bioinformatics and Biomedical Engineering",
+    "author_kor": "진재욱; 류가연; 심지훈; 신항식",
+    "author_eng": "Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin",
+    "author_ids": [
+      "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "2fa67677-ac83-41f4-9f07-d202a6195909",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "f2b46502-eba0-4b55-b98d-1b1f088f9869",
+    "category": "award",
+    "date": "2025-10-23",
+    "title_eng": "Prolonged Length of Stay Prediction with PubMedBERT-Deep Neural Network Fusion Model",
+    "title_kor": "PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측",
+    "author_kor": "진재욱; 류가연; 심지훈; 신항식",
+    "author_eng": "Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin",
+    "author_ids": [
+      "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "2fa67677-ac83-41f4-9f07-d202a6195909",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "6a2e10cf-aceb-4563-9118-3e71b89cefbb",
+    "category": "conference",
+    "class": "International",
+    "date": "2025-07-14",
+    "title_eng": "Preliminary Research on the Development of Digital Therapeutics for Performing Rehabilitation Exercise Programs",
+    "title_kor": "Preliminary Research on the Development of Digital Therapeutics for Performing Rehabilitation Exercise Programs",
+    "conference_eng": "The 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+    "author_kor": "윤용현; 박상아; 류창희; 김소연; 김현지; 정희석; 신항식",
+    "author_eng": "Yonghyeon Yun; Sangah Park; Changhee Ryu; Soyeon Kim; Hyunji Kim; Hee Seok Jeong; Hangsik Shin",
+    "author_ids": [
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "1e901da9-90fd-4033-805d-7cae7c6e597f",
+      "046e0155-ebc5-46d3-9548-da526deea4a1",
+      "bc4f26fd-9155-4172-8e03-e997f4601e95",
+      "95e28776-4d0d-4ed0-b15f-497367250ffe",
+      "26c3de97-d194-49cf-a624-fb03eb18e950",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "8540829d-f74d-46b9-964b-55c3d4497911",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-05-08",
+    "title_eng": "Prediction of Postoperative Pain Based on Preoperative Stress Assessment",
+    "title_kor": "수술 전 스트레스 평가를 통한 수술 후 통증 예측",
+    "conference_eng": "KOSOMBE",
+    "author_kor": "진재욱; 신항식",
+    "author_eng": "Jaewook Jin; Hangsik Shin",
+    "author_ids": [
+      "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "6131572d-f63a-4a5c-b2c5-9c3f82d68059",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-05-08",
+    "title_eng": "Prediction of Atrial Fibrillation Type and Recurrence Using a Multi-task Learning Model",
+    "title_kor": "다중 작업 모델(MTL)을 이용한 심방세동 유형 및 시술 후 재발 예측",
+    "conference_eng": "2025 The Korean Society of Medical and Biological Engineering",
+    "author_kor": "이재형; 권오석; 박희남; 신항식",
+    "author_eng": "Jaehyung Lee; Oh-Seok Kwon; Hui-Nam Pak; Hangsik Shin",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "37dad17b-7342-427e-abc3-16bf38f67e38",
+    "category": "patent",
+    "class": "International",
+    "date": "2025-03-25",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "4df94230-b073-4e4c-9037-277fc44342b8",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2025-01-24",
+    "title_eng": "Machine learning based quantitative pain assessment for the perioperative period",
+    "title_kor": "Machine learning based quantitative pain assessment for the perioperative period",
+    "journal_eng": "npj Digital Medicine",
+    "author_kor": "류가연; 최재문; 석현석; 이재형; 이은경; 신항식; 최병문",
+    "author_eng": "Gayeon Ryu; Jae Moon Choi; Hyeon Seok Seok; Jaehyung Lee; Eun-Kyung Lee; Hangsik Shin; Byungmoon Choi",
+    "author_ids": [
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "7f204165-939d-44e7-9ad2-cc9df84495bf",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26"
+    ],
+    "link": "https://www.nature.com/articles/s41746-024-01362-8",
+    "year_resolved": "2025"
+  },
+  {
+    "id": "0f8ca978-e12a-49e6-be3a-8fc5cf7da97b",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-11-06",
+    "title_eng": "LLM-based Re-test Decision System for Clinical Chemistry Test",
+    "title_kor": "LLM 기반 임상화학검사 재검사 판정 시스템",
+    "conference_eng": "2025년 대한의용생체공학회 추계학술대회",
+    "author_kor": "유지원; 김솔잎; 신항식",
+    "author_eng": "Jiwon You; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "865070f8-0286-4855-9c26-f82829b67952",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-10-22",
+    "title_eng": "Instruction-tuning이 대규모 언어 모델의 건강검진 결과 해석에 미치는 영향",
+    "title_kor": "Instruction-tuning이 대규모 언어 모델의 건강검진 결과 해석에 미치는 영향",
+    "conference_eng": "CICS’25 정보 및 제어 학술대회",
+    "author_kor": "유지원; 신항식",
+    "author_eng": "Jiwon You; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "bc9325f2-deac-4a51-9d2f-aaf8cade661b",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-05-08",
+    "title_eng": "Harmonization Pipeline for Correcting Data Discrepancies in Multicenter Radiomic",
+    "title_kor": "다기관 Radiomic Tractometry 데이터 편차 보정을 위한 Harmonization 파이프라인",
+    "conference_eng": "2025 대한의용생체공학회 춘계학술대회",
+    "author_kor": "한유진; 신항식",
+    "author_eng": "Yujin Han; Hangsik Shin",
+    "author_ids": [
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "b928a941-79da-4486-b9f0-02b3b6e86c9a",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-05-08",
+    "title_eng": "Feasibility of Photoplethysmogram for Mental Fatigue Assessment",
+    "title_kor": "광용적맥파 기반 정신적 피로 평가 가능성 연구",
+    "conference_eng": "2025 대한의용생체공학회 춘계학술대회",
+    "author_kor": "석현석; 이건; 류가연; 신항식",
+    "author_eng": "Hyeon Seok Seok; Geon Lee; Gayeon Ryu; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "75bef458-47fc-43ad-9bdb-f934cbb66beb",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "64a5c206-ab29-4a1d-8778-2999a0bf4df7",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-05-08",
+    "title_eng": "Evaluation of Atrial Fibrillation incidence in Patients on Coronary artery disease Medications: A Retrospective Cohort Study",
+    "title_kor": "관상동맥질환 치료제의 심방세동 발생에 대한 영향: 후향적 코호트 분석",
+    "conference_eng": "2025 대한의용생체공학회 춘계학술대회",
+    "author_kor": "김태현; 류가연; 최예은; 신항식",
+    "author_eng": "Taehyun Kim; Gayeon Ryu; Ye Eun Choi; Hangsik Shin",
+    "author_ids": [
+      "125c0eac-e405-4c5b-8d4a-00eedb04a6aa",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "2f8c8ab8-403f-4529-90ba-b413f389e033",
+    "category": "conference",
+    "class": "International",
+    "date": "2025-07-14",
+    "title_eng": "Evaluating Feature Selection Methods for Radiomic Tractometry in Schizophrenia",
+    "title_kor": "Evaluating Feature Selection Methods for Radiomic Tractometry in Schizophrenia",
+    "conference_eng": " The 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+    "author_kor": "한유진; 주성우; 신항식",
+    "author_eng": "Yujin Han; Sung Woo Joo; Hangsik Shin",
+    "author_ids": [
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+      "140e3b05-97fa-4c63-a649-9dc6aa692776",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "1b6c1fd8-e248-4317-aa24-a30e0e900b3f",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-11-06",
+    "title_eng": "Early Sepsis Prediction Models with Multi-variate Time Series Transformer",
+    "title_kor": "Multi-variate Time Series Transformer 기반 패혈증 조기 예측 모델 개발",
+    "conference_eng": "2025년 대한의용생체공학회 추계학술대회",
+    "author_kor": "최예은; 신항식",
+    "author_eng": "Ye Eun Choi; Hangsik Shin",
+    "author_ids": [
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "bdcfb609-561b-4759-a4ab-b2131804f634",
+    "category": "award",
+    "date": "2025-11-08",
+    "title_eng": "Early Sepsis Prediction Models with Multi-variate Time Series Transformer",
+    "title_kor": "Multi-variate Time Series Transformer 기반 패혈증 조기 예측 모델 개발",
+    "author_kor": "최예은; 신항식",
+    "author_eng": "Ye Eun Choi; Hangsik Shin",
+    "author_ids": [
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "1882265d-f7bd-4226-a005-3881b0fd3648",
+    "category": "award",
+    "date": "2025-07-18",
+    "title_eng": "Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal",
+    "title_kor": "수술 전 생체신호 기반 수술 후 통증 예측 인공지능 모델 개발",
+    "award_name_eng": "2025 KIEE Summer Conference Paper Award",
+    "author_kor": "진재욱; 신항식",
+    "author_eng": "Jaewook Jin; Hangsik shin",
+    "author_ids": [
+      "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "4f2e1e24-4da0-44dc-9d7b-b3de65087e47",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-07-16",
+    "title_eng": "Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal",
+    "title_kor": "수술 전 생체신호 기반 수술 후 통증 예측 인공지능 모델 개발",
+    "conference_eng": "The 56th KIEE Summer Conference 2025",
+    "author_kor": "진재욱; 신항식",
+    "author_eng": "Jaewook Jin; Hangsik Shin",
+    "author_ids": [
+      "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "08ca5407-b74a-405a-8314-43f496d08c68",
+    "category": "award",
+    "date": "2025-12-12",
+    "title_eng": "Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal",
+    "title_kor": "수술 전 생체신호 기반 수술 후 통증 예측 인공지능 모델 개발",
+    "author_kor": "진재욱; 신항식",
+    "author_eng": "Jaewook Jin; Hangsik Shin",
+    "author_ids": [
+      "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "ce676224-6524-494b-ac75-4af3b52d8fa9",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-05-08",
+    "title_eng": "Development of an Atrial Fibrillation Prediction Model Based on Health Checkup Data",
+    "title_kor": "건강검진 데이터 기반 심방세동 예측 모델 개발",
+    "conference_eng": "2025 대한의용생체공학회 춘계학술대회",
+    "author_kor": "류가연; 최예은; 신항식",
+    "author_eng": "Gayeon Ryu; Ye Eun Choi; Hangsik Shin",
+    "author_ids": [
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "de12c5fc-c597-4ab9-bc3b-c686f3c1e7ff",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-05-08",
+    "title_eng": "Development of a Multi-Task Learning–Based Phonocardiogram Denoising Model for  Considering Heart Murmurs",
+    "title_kor": "다중 작업 학습 기반 심잡음 특징 반영 심음도 잡음 제거 모델 개발",
+    "conference_eng": "2025 대한의용생체공학회 춘계학술대회",
+    "author_kor": "이건; 신항식",
+    "author_eng": "Geon Lee; Hangsik Shin",
+    "author_ids": [
+      "75bef458-47fc-43ad-9bdb-f934cbb66beb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "214ed0bc-e135-4f8e-b4bf-db4de9a273db",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-07-16",
+    "title_eng": "Development of a Multi-Center Polysomnography Dataset for the Evaluation of Sleep Analysis Algorithms",
+    "title_kor": "수면 분석 알고리즘 평가를 위한 다기관 수면다원검사 데이터 세트 구축",
+    "conference_eng": "The 56th KIEE Summer Conference 2025",
+    "author_kor": "김영돈; 한유진; 신항식",
+    "author_eng": "Yeongdon Kim; Yujin Han; Hangsik Shin",
+    "author_ids": [
+      "923fe812-860b-4422-9d92-1767e699fa0b",
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "3a9e8f81-52f2-470e-800c-e9f1acbd3558",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-05-08",
+    "title_eng": "Development of a Machine Learning Model for Prediction of Sepsis Onset",
+    "title_kor": "패혈증 조기 예측을 위한 머신러닝 모델 개발",
+    "conference_eng": "2025 대한의용생체공학회 춘계학술대회",
+    "author_kor": "정지영; 최예은; 신항식",
+    "author_eng": "Jeeyoung Jung; Ye Eun Choi; Hangsik Shin",
+    "author_ids": [
+      "37974180-13a8-4ece-8e13-be1ce816c3df",
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "3b6e71b3-7c19-4e21-8657-4f4a36e86f09",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-11-06",
+    "title_eng": "Development of a Foundation Model for Polysomnography Using Large-Scale Public Datasets",
+    "title_kor": "대규모 공개 수면다원검사(PSG) 데이터셋을 활용한 파운데이션 모델 개발",
+    "conference_eng": "2025년 대한의용생체공학회 추계학술대회",
+    "author_kor": "김영돈; 신항식",
+    "author_eng": "Yeongdon Kim; Hangsik Shin",
+    "author_ids": [
+      "923fe812-860b-4422-9d92-1767e699fa0b",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "7d64f21d-e836-4a19-adad-39e7a05d212d",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-11-06",
+    "title_eng": "Development of a BioclinicalBERT-Deep Neural Network Fusion Model for Predicting Postoperative Length of Stay",
+    "title_kor": "수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발",
+    "conference_eng": "2025년 대한의용생체공학회 추계학술대회",
+    "author_kor": "진재욱; 류가연; 심지훈; 신항식",
+    "author_eng": "Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin",
+    "author_ids": [
+      "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "2fa67677-ac83-41f4-9f07-d202a6195909",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "f2282795-e0d3-4dcb-93e0-a04a2aef2032",
+    "category": "award",
+    "date": "2025-11-08",
+    "title_eng": "Development of a BioclinicalBERT-Deep Neural Network Fusion Model for Predicting Postoperative Length of Stay",
+    "title_kor": "수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발",
+    "author_kor": "진재욱; 류가연; 심지훈; 신항식",
+    "author_eng": "Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin",
+    "author_ids": [
+      "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "2fa67677-ac83-41f4-9f07-d202a6195909",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "953bc51d-de68-43ee-a4a5-cc10a73d427a",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-11-06",
+    "title_eng": "Clinical Chemistry Report Generation with a Large Language Model",
+    "title_kor": "LLM 기반 임상화학검사 결과보고서 자동 생성",
+    "conference_eng": "2025년 대한의용생체공학회 추계학술대회",
+    "author_kor": "정성연; 유지원; 신항식",
+    "author_eng": "Sungyeon Chung; Jiwon You; Hangsik Shin",
+    "author_ids": [
+      "80cbf804-4efd-4173-ae46-5c210a473ded",
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "34dc931e-4d40-4ecd-be98-ec618d6339d4",
+    "category": "award",
+    "date": "2025-11-08",
+    "title_eng": "Clinical Chemistry Report Generation with a Large Language Model",
+    "title_kor": "LLM 기반 임상화학검사 결과보고서 자동 생성",
+    "author_kor": "정성연; 유지원; 신항식",
+    "author_eng": "Sungyeon Chung; Jiwon You; Hangsik Shin",
+    "author_ids": [
+      "80cbf804-4efd-4173-ae46-5c210a473ded",
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "bf623bcc-ddfb-48e7-a65d-18dd48f3cf7b",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-05-08",
+    "title_eng": "Can Large Language Models Analyze Health Data?: For Multi-Stage Items",
+    "title_kor": "대규모 언어 모델의 건강 데이터 해석 능력: 다단계 평가 항목을 중심으로",
+    "conference_eng": "The 65th Korea Society of Medical and Biological Engineering Spring Conference 2025",
+    "author_kor": "유지원; 신항식",
+    "author_eng": "Jiwon You; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "2894dca4-39fd-49cc-a53f-ac43f94e66be",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-11-06",
+    "title_eng": "Beyond the Cox Model: Potential of Artificial Intelligence-Based Survival Analysis for Nonlinear Clinical Variable Interpretation",
+    "title_kor": "Cox를 넘어: 비선형 임상 변수 해석에서 드러난 인공지능 기반 생존분석의 가능성",
+    "conference_eng": "2025년 대한의용생체공학회 추계학술대회",
+    "author_kor": "한유진; 신항식",
+    "author_eng": "Yujin Han; Hangsik Shin",
+    "author_ids": [
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "ee5a24ad-4c4e-466e-9e12-079c56ef5830",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-05-08",
+    "title_eng": "Analysis of the effects of obesity and age on the risk of death from sepsis",
+    "title_kor": "패혈증 사망 위험에 미치는 비만도와 나이 영향 분석",
+    "conference_eng": "2025 대한의용생체공학회 춘계학술대회",
+    "author_kor": "최예은; 정지영; 신항식",
+    "author_eng": "Ye Eun Choi; Jeeyoung Jung; Hangsik Shin",
+    "author_ids": [
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "37974180-13a8-4ece-8e13-be1ce816c3df",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "c9f92658-b039-43e6-b94b-b5ba3dd80d0b",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-05-08",
+    "title_eng": "Activity Level Characteristics Analysis According to Severity in Closed Ward Patients",
+    "title_kor": "폐쇄병동 환자 중증도에 따른 활동량 특징 분석",
+    "conference_eng": "2025년도 제 65회 대한의용생체공학회 춘계학술대회",
+    "author_kor": "임하민; 왕창원; 신항식",
+    "author_eng": "Hamin Lim; Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "d9955d81-bac6-588d-8590-bdbf6bcebe2f",
+    "category": "award",
+    "date": "2025-05-08",
+    "title_eng": "Activity Level Characteristics Analysis According to Severity in Closed Ward Patients",
+    "title_kor": "폐쇄병동 환자 중증도에 따른 활동량 특징 분석",
+    "author_kor": "임하민;왕창원;신항식",
+    "author_eng": "Hamin Lim;Changwon Wang;Hangsik Shin",
+    "year_resolved": "2025"
+  },
+  {
+    "id": "56050b92-dd16-4742-a9de-5a2530fed2c8",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2025-01-15",
+    "title_eng": "A program to integrate and convert multiple three-dimensional data into three-dimensional graph information",
+    "title_kor": "복수의 3차원 데이터를 3차원 그래프 정보로 통합 변환하는 프로그램",
+    "author_kor": "신항식; 이재형",
+    "author_eng": "Hangsik Shin; Jaehyung Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f4e",
+    "category": "project",
+    "date": "2025-01-01",
+    "project_name_eng": "Development of AI-based human knowledge transfer model for manual verification of clinical laboratory tests",
+    "year_resolved": "2025"
+  }
+]

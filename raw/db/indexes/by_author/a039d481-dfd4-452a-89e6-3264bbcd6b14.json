@@ -1,0 +1,21 @@
+[
+  {
+    "id": "3bd392ee-9978-44cc-8279-143acc136dea",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-11-06",
+    "title_eng": "Numerical study to evaluate the effect of a surface-based sensor on arterial tonometry",
+    "journal_eng": "Computer Methods in Biomechanics and Biomedical Engineering",
+    "author_kor": "이욱진; 유재영; 신항식; 유홍선; 조성욱",
+    "author_eng": "Wookjin Lee; Jaiyoung Ryu; Hangsik Shin; Hong Sun Ryou; Seong Wook Cho",
+    "author_ids": [
+      "d530557f-9f6d-4ad2-be1a-74917ef8461a",
+      "a039d481-dfd4-452a-89e6-3264bbcd6b14",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "7e5c1e28-5ada-4165-813d-94ed2297a18f",
+      "b9bf1ed2-3f3a-47be-af64-1f9fae8a246d"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/30398064/",
+    "year_resolved": "2018"
+  }
+]

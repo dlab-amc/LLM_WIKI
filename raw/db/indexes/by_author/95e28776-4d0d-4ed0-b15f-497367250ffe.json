@@ -1,0 +1,103 @@
+[
+  {
+    "id": "6a2e10cf-aceb-4563-9118-3e71b89cefbb",
+    "category": "conference",
+    "class": "International",
+    "date": "2025-07-14",
+    "title_eng": "Preliminary Research on the Development of Digital Therapeutics for Performing Rehabilitation Exercise Programs",
+    "title_kor": "Preliminary Research on the Development of Digital Therapeutics for Performing Rehabilitation Exercise Programs",
+    "conference_eng": "The 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+    "author_kor": "윤용현; 박상아; 류창희; 김소연; 김현지; 정희석; 신항식",
+    "author_eng": "Yonghyeon Yun; Sangah Park; Changhee Ryu; Soyeon Kim; Hyunji Kim; Hee Seok Jeong; Hangsik Shin",
+    "author_ids": [
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "1e901da9-90fd-4033-805d-7cae7c6e597f",
+      "046e0155-ebc5-46d3-9548-da526deea4a1",
+      "bc4f26fd-9155-4172-8e03-e997f4601e95",
+      "95e28776-4d0d-4ed0-b15f-497367250ffe",
+      "26c3de97-d194-49cf-a624-fb03eb18e950",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "afda268c-deee-4684-8d20-b31b5491acc9",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2018-11-06",
+    "title_eng": "Method and apparatus of converting color for color vision defectives",
+    "title_kor": "색각 이상자를 위한 색 변환 방법 및 장치",
+    "author_kor": "안성주; 고성제; 박정훈; 신항식; 김현지; 정재윤; 유현국",
+    "author_eng": "Sungjoo Ahn; Sungjea Ko; Junghoon Park; Hangsik Shin; Hyunji Kim; Jaeyun Jeong; Hyungok Yoo",
+    "author_ids": [
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "58781275-5ce2-476d-b58f-73f66081f973",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "95e28776-4d0d-4ed0-b15f-497367250ffe",
+      "f93cb6ad-8ab3-4ffa-97f7-d806961d6296",
+      "7e245481-d9e7-4e64-b771-18739a464f6d"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "c1c4c2fb-6617-4975-a757-19b3ca922e08",
+    "category": "patent",
+    "class": "International",
+    "date": "2014-01-16",
+    "title_eng": "Color transformation method and apparatus for person with color vision defect",
+    "title_kor": "Color transformation method and apparatus for person with color vision defect",
+    "author_kor": "안성주; 고성제; 박정훈; 신항식; 김현지; 정재윤; 유현국",
+    "author_eng": "Sungjoo Ahn; Sungjea Ko; Junghoon Park; Hangsik Shin; Hyunji Kim; Jaeyun Jeong; Hyungok Yoo",
+    "author_ids": [
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "58781275-5ce2-476d-b58f-73f66081f973",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "95e28776-4d0d-4ed0-b15f-497367250ffe",
+      "f93cb6ad-8ab3-4ffa-97f7-d806961d6296",
+      "7e245481-d9e7-4e64-b771-18739a464f6d"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "e6004bd1-bfbe-4b38-b444-ede3c28c9789",
+    "category": "patent",
+    "class": "International",
+    "date": "2013-07-11",
+    "title_eng": "Color transformation method and apparatus for person with color vision defect",
+    "title_kor": "Color transformation method and apparatus for person with color vision defect",
+    "author_kor": "안성주; 고성제; 박정훈; 신항식; 김현지; 정재윤; 유현국",
+    "author_eng": "Sungjoo Ahn; Sungjea Ko; Junghoon Park; Hangsik Shin; Hyunji Kim; Jaeyun Jeong; Hyungok Yoo",
+    "author_ids": [
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "58781275-5ce2-476d-b58f-73f66081f973",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "95e28776-4d0d-4ed0-b15f-497367250ffe",
+      "f93cb6ad-8ab3-4ffa-97f7-d806961d6296",
+      "7e245481-d9e7-4e64-b771-18739a464f6d"
+    ],
+    "year_resolved": "2013"
+  },
+  {
+    "id": "afd2d1ed-5a7f-4b5d-81ba-bb99b15a16b8",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2012-08-08",
+    "title_eng": "Method and apparatus of converting color for color vision defectives",
+    "title_kor": "색각 이상자를 위한 색 변환 방법 및 장치",
+    "author_kor": "안성주; 고성제; 박정훈; 신항식; 김현지; 정재윤; 유현국",
+    "author_eng": "Sungjoo Ahn; Sungjea Ko; Junghoon Park; Hangsik Shin; Hyunji Kim; Jaeyun Jeong; Hyungok Yoo",
+    "author_ids": [
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "58781275-5ce2-476d-b58f-73f66081f973",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "95e28776-4d0d-4ed0-b15f-497367250ffe",
+      "f93cb6ad-8ab3-4ffa-97f7-d806961d6296",
+      "7e245481-d9e7-4e64-b771-18739a464f6d"
+    ],
+    "year_resolved": "2012"
+  }
+]

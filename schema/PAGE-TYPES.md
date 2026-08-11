@@ -13,9 +13,11 @@
 필수 섹션:
 - Summary (역할, 학위, 한 줄 소개)
 - Profile (tags, email if public in raw)
-- Authorship (author_id, achievement_count)
-- Related publications (대표/집계; 전체 나열은 선택)
-- Sources
+- Authorship (author_id, achievement_count, resolved_in_pubs)
+- **Recent Work** (카테고리 링크 + 최근 성과 표; raw id 근거)
+- Related / Sources
+
+Recent Work는 Query·Ingest 때 낡았으면 갱신한다.
 
 slug: `wiki/people/<name-eng-kebab>.md`
 

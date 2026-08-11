@@ -1,0 +1,35 @@
+[
+  {
+    "id": "fa9fa09c-4e3c-48ad-b993-400c5862c020",
+    "category": "conference",
+    "class": "International",
+    "date": "2018-11-08",
+    "title_eng": "Preliminary Study of Postoperative Pain Assessment based on Pulse Rate Variability: Investigation of the Pulse Rate Variability Changes in Postoperative Condition",
+    "title_kor": "Preliminary Study of Postoperative Pain Assessment based on Pulse Rate Variability: Investigation of the Pulse Rate Variability Changes in Postoperative Condition",
+    "conference_eng": "Society for Medical Innovation and Technology-International Biomedical Engineering Conference 2018",
+    "author_kor": "최승빈; 석현석; 신항식",
+    "author_eng": "SeungBin Choi; Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "6bcb1504-af5e-4b32-9fdb-b1a4745a0c25",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "d1194020-164b-456a-a47e-1110655b9a52",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2018-10-25",
+    "title_eng": "Comparison of pulse rate variability and heart rate variability in postoperative condition",
+    "title_kor": "수술 후 맥박변이도와 심박변이도 비교",
+    "conference_eng": "Conference on Information and Control Systems 2018",
+    "author_kor": "최승빈; 신항식",
+    "author_eng": "SeungBin Choi; Hangsik shin",
+    "author_ids": [
+      "6bcb1504-af5e-4b32-9fdb-b1a4745a0c25",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  }
+]

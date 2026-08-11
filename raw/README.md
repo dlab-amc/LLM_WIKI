@@ -10,6 +10,6 @@
 
 | 경로 | 내용 |
 |---|---|
-| `db/` | 연구실 DB 가공본 (members, authors, publications, 매핑, stats) |
+| `db/` | 연구실 DB 가공본 + `indexes/` (연도·저자·멤버 조회) |
 
 회의록·논문·매뉴얼·프로젝트 원본이 생기면 예: `meeting-logs/`, `papers/`, `manuals/`, `projects/` 아래에 추가한다. (빈 폴더는 미리 만들지 않음)

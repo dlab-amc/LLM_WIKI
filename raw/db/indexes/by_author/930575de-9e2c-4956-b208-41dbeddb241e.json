@@ -1,0 +1,20 @@
+[
+  {
+    "id": "efb09ee7-eb89-4c57-917f-99c8a9b24868",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2020-10-22",
+    "title_eng": "Frequency domain characteristics of constant pressurization-type werable pressure pulse wave measurement system",
+    "title_kor": "고정 가압형 웨어러블 압력 맥파 측정 시스템의 주파수 영역 특성 분석",
+    "conference_eng": "Conference on Information and Control Systems 2020",
+    "author_kor": "노동근; 박준영; 정은화; 신항식",
+    "author_eng": "Donggeun Rho; Junyoung Park; Eunhwa Jeoung; Hangsik shin",
+    "author_ids": [
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "930575de-9e2c-4956-b208-41dbeddb241e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2020"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "2091d4d2-b362-473a-a712-09e9cb3caac2",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2020-04-21",
+    "title_eng": "Internet-Based Unobtrusive Tele-Monitoring System for Sleep and Respiration",
+    "journal_eng": "IEEE Access",
+    "author_kor": "최아영; 노상우; 신항식",
+    "author_eng": "Ahyoung Choi; Sangwoo Noh; Hangsik Shin",
+    "author_ids": [
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "56c27a6c-adf7-4745-bbf7-2ececf7882ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/9075220",
+    "year_resolved": "2020"
+  },
+  {
+    "id": "5b39433f-f2c8-48c7-98cf-674187971ea2",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-05-09",
+    "title_kor": "생체 신호 데이터 모니터링 플랫폼",
+    "author_kor": "노상우; 신항식; 최아영",
+    "author_eng": "Sangwoo Noh; Hangsik Shin; Ahyoung Choi",
+    "author_ids": [
+      "56c27a6c-adf7-4745-bbf7-2ececf7882ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2018"
+  }
+]

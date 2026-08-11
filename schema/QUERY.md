@@ -2,35 +2,67 @@
 
 사용자가 Wiki에 질문할 때의 절차.
 
+LLM Wiki에서 Query는 **읽기만**이 아니다.  
+답하는 과정에서 얻은 **재사용 가능한 연결·요약**은 Wiki에 되돌려 쓴다 (writeback).  
+단, 모든 질문에 페이지를 새로 만들거나 장문을 붙여 넣지는 않는다.
+
 ## 절차
 
 1. **`index.md`를 먼저 읽는다** — 관련 섹션·페이지 후보를 고른다.
-2. **후보 Wiki 페이지를 연다** — 부족하면 `raw/` (예: `raw/db/stats.json`)를 보조로 읽는다.
-3. **답변**  
-   - 한국어로 간결히  
-   - 근거 Wiki / `raw/` 경로를 명시  
-   - Wiki에 없고 `raw/`에만 있으면 “Wiki 미반영”이라고 밝히고 Ingest를 제안해도 된다.
-4. **Query만으로 wiki를 대량 수정하지 않는다.**  
-   - 오탈자·깨진 링크 정도는 가능. 지식 추가는 Ingest로 분리.
-5. Query 자체는 기본적으로 `log.md`에 남기지 않는다. (지식 변경이 있을 때만)
+2. **후보 Wiki 페이지를 연다** — 여러 페이지의 **연결**을 따라간다 (인물↔카테고리↔개요). 부족하면 `raw/` 보조.
+3. **아래 답변 형식으로 답한다** (필수). 근거 wikilink는 **가능하면 2개 이상** (예: 인물 + 성과 카테고리).
+4. **Writeback 판단** (아래 기준) → 해당하면 `wiki/` 갱신 + `log.md` append.
+5. 단순 조회만으로 끝나면 Wiki/`log.md`를 건드리지 않는다.
+
+## Writeback 기준
+
+| 상황 | Wiki 갱신? |
+|---|---|
+| 이미 Wiki에 있는 내용 재서술 | 아니오 |
+| raw에서 확인한 **새 사실·목록·수치**를 인물/카테고리 페이지에 반영할 수 있음 | **예** (기존 페이지 갱신) |
+| 페이지 간 링크·Recent Work·집계가 비어 있거나 낡음 | **예** |
+| 일회성 의견·추측 | 아니오 |
+| 새 raw 파일 추가에 따른 대규모 반영 | Ingest로 분리 |
+
+Writeback 시:
+- **관련 페이지를 함께** 수정 (예: 인물 Recent Work + 필요 시 category 언급)
+- 중복 페이지 생성 금지
+- `log.md`에 Query writeback임을 명시
 
 ## 탐색 우선순위
 
 1. `index.md`
-2. `wiki/`
-3. `raw/` (정확한 수치·id·원문이 필요할 때)
+2. `wiki/` (여러 문서 연결)
+3. **`raw/db/indexes/`** (연도·category·author_id·member_id 필터) — `catalog.json`으로 키 확인
+4. `raw/db/*.json` 전체 파일 (인덱스로 부족할 때만)
 
-## 답변 형식 (권장)
+### 인덱스 조회 예
 
-```
+- 2024년 전체 → `raw/db/indexes/by_year/2024.json`
+- 논문(journal) / 학회(conference) → `indexes/by_category/journal.json`, `conference.json`
+- 최예은 2024년 → `indexes/by_member/<member_id>.json`에서 `year_resolved==2024`
+- 최예은 journal만 → 같은 멤버 파일에서 `category==journal` (또는 author 인덱스)
+- **금지:** 단순 연도/카테고리/인물 질문인데 `publications.json` 전체를 읽기
+
+## 답변 형식 (필수)
+
+```markdown
 ## 답변
-...
+(한국어. 인물↔성과↔카테고리 연결을 드러낼 것)
 
 ## 근거
-- [[페이지]]
-- raw/...
+- [[people/...]]
+- [[publications/...]]
+- (필요 시) `raw/db/...` id
 
 ## 공백 / 다음 행동
-- Wiki에 없는 내용: ...
-- Ingest 권장 여부: ...
+- Wiki에 없거나 부족했던 점: ...
+- Writeback 여부: 함 / 안 함 (+ 어떤 페이지)
+- Ingest 권장: 예/아니오
 ```
+
+### 규칙
+
+- 근거 없는 단정 금지.
+- Wiki 미반영·raw만 있으면 명시.
+- 단일 문서만 근거로 끝내지 말 것 (연결이 질문에 해당하면).

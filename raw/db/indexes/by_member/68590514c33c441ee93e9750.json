@@ -1,0 +1,269 @@
+{
+  "member_id": "68590514c33c441ee93e9750",
+  "member_name_kor": "유지원",
+  "author_id": "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+  "count": 15,
+  "publications": [
+    {
+      "id": "7766f561-9076-4a25-bfc5-c9a5af6c0b3e",
+      "category": "journal",
+      "class": "SCI",
+      "date": "2026-01-11",
+      "title_eng": "Structural insights into clinical large language models and their barriers to translational readiness",
+      "journal_eng": "Journal of the American Medical Informatics Association",
+      "author_kor": "유지원; 신항식",
+      "author_eng": "Jiwon You; Hangsik Shin",
+      "author_ids": [
+        "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "link": "https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaf230/8419921?login=true",
+      "year_resolved": "2026"
+    },
+    {
+      "id": "42d3a100-a8ea-4616-88c7-e7817e38f410",
+      "category": "journal",
+      "class": "SCI",
+      "date": "2026-07-22",
+      "title_eng": "Large language models for interpretation of health checkup results",
+      "journal_eng": "npj Digital Medicine",
+      "author_kor": "유지원; 신항식",
+      "author_eng": "Jiwon You; Hangsik Shin",
+      "author_ids": [
+        "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "link": "https://www.nature.com/articles/s41746-026-02467-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260722&utm_content=10.1038/s41746-026-02467-y#citeas",
+      "year_resolved": "2026"
+    },
+    {
+      "id": "65be53c6-9dd4-438b-91aa-03e3d8030132",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2026-05-07",
+      "title_eng": "Evaluation of the Feasibility of Large Language Models for Re-test Decision in Clinical Chemistry Tests",
+      "title_kor": "임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가",
+      "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+      "author_kor": "유지원; 정성연; 최유나; 김솔잎; 신항식",
+      "author_eng": "Jiwon You; Sungyeon Chung; Yuna Choi; Sollip Kim; Hangsik Shin",
+      "author_ids": [
+        "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+        "80cbf804-4efd-4173-ae46-5c210a473ded",
+        "a92aee22-d720-4431-9502-a9dc37af7be9",
+        "09e01f73-363a-4780-962e-969da9578ff9",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026"
+    },
+    {
+      "id": "90c8f0ea-c4de-499e-b7a8-7e265e2cc8d4",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Evaluation of the Feasibility of Large Language Models for Re-test Decision in Clinical Chemistry Tests",
+      "title_kor": "임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가",
+      "author_kor": "유지원; 정성연; 최유나; 김솔잎; 신항식",
+      "author_eng": "Jiwon You; Sungyeon Chung; Yuna Choi; Sollip Kim; Hangsik Shin",
+      "author_ids": [
+        "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+        "80cbf804-4efd-4173-ae46-5c210a473ded",
+        "a92aee22-d720-4431-9502-a9dc37af7be9",
+        "09e01f73-363a-4780-962e-969da9578ff9",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026"
+    },
+    {
+      "id": "6f180265-2c3c-4b38-a172-38af22a4c516",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2026-05-07",
+      "title_eng": "Development of a Clinical Chemistry Retest Ontology through Inductive Externalization of Expert Knowledge",
+      "title_kor": "귀납적 사례 분석 기반 임상화학 재검사 전문가 지식 추출 및 온톨로지 모델링",
+      "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+      "author_kor": "정성연; 유지원; 최유나; 김솔잎; 신항식",
+      "author_eng": "Sungyeon Chung; Jiwon You; Yuna Choi; Sollip Kim; Hangsik Shin",
+      "author_ids": [
+        "80cbf804-4efd-4173-ae46-5c210a473ded",
+        "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+        "a92aee22-d720-4431-9502-a9dc37af7be9",
+        "09e01f73-363a-4780-962e-969da9578ff9",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026"
+    },
+    {
+      "id": "537dc980-c7f7-4b4b-a328-1f984c75a46c",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2026-05-07",
+      "title_eng": "Development and Multicenter External Validation of an AI-based Screening Model for Retesting Clinical Chemistry Tests",
+      "title_kor": "임상화학검사 불필요 재검 판별을 위한 인공지능 모델 개발 및 다기관 외부 검증",
+      "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+      "author_kor": "김민소; 유지원; 최유나; 유신애; 박근열; 김솔잎; 신항식",
+      "author_eng": "Minso Kim; Jiwon You; Yuna Choi; Shinae Yu; Kuenyoul Park; Sollip Kim; Hangsik Shin",
+      "author_ids": [
+        "3b530294-8839-4ba1-a4ce-0ebb6883bd86",
+        "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+        "a92aee22-d720-4431-9502-a9dc37af7be9",
+        "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+        "12a64dd1-9d0d-40ab-8de6-6ca43bc80795",
+        "09e01f73-363a-4780-962e-969da9578ff9",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026"
+    },
+    {
+      "id": "0f8ca978-e12a-49e6-be3a-8fc5cf7da97b",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2025-11-06",
+      "title_eng": "LLM-based Re-test Decision System for Clinical Chemistry Test",
+      "title_kor": "LLM 기반 임상화학검사 재검사 판정 시스템",
+      "conference_eng": "2025년 대한의용생체공학회 추계학술대회",
+      "author_kor": "유지원; 김솔잎; 신항식",
+      "author_eng": "Jiwon You; Sollip Kim; Hangsik Shin",
+      "author_ids": [
+        "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+        "09e01f73-363a-4780-962e-969da9578ff9",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    },
+    {
+      "id": "865070f8-0286-4855-9c26-f82829b67952",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2025-10-22",
+      "title_eng": "Instruction-tuning이 대규모 언어 모델의 건강검진 결과 해석에 미치는 영향",
+      "title_kor": "Instruction-tuning이 대규모 언어 모델의 건강검진 결과 해석에 미치는 영향",
+      "conference_eng": "CICS’25 정보 및 제어 학술대회",
+      "author_kor": "유지원; 신항식",
+      "author_eng": "Jiwon You; Hangsik Shin",
+      "author_ids": [
+        "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    },
+    {
+      "id": "953bc51d-de68-43ee-a4a5-cc10a73d427a",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2025-11-06",
+      "title_eng": "Clinical Chemistry Report Generation with a Large Language Model",
+      "title_kor": "LLM 기반 임상화학검사 결과보고서 자동 생성",
+      "conference_eng": "2025년 대한의용생체공학회 추계학술대회",
+      "author_kor": "정성연; 유지원; 신항식",
+      "author_eng": "Sungyeon Chung; Jiwon You; Hangsik Shin",
+      "author_ids": [
+        "80cbf804-4efd-4173-ae46-5c210a473ded",
+        "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    },
+    {
+      "id": "34dc931e-4d40-4ecd-be98-ec618d6339d4",
+      "category": "award",
+      "date": "2025-11-08",
+      "title_eng": "Clinical Chemistry Report Generation with a Large Language Model",
+      "title_kor": "LLM 기반 임상화학검사 결과보고서 자동 생성",
+      "author_kor": "정성연; 유지원; 신항식",
+      "author_eng": "Sungyeon Chung; Jiwon You; Hangsik Shin",
+      "author_ids": [
+        "80cbf804-4efd-4173-ae46-5c210a473ded",
+        "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    },
+    {
+      "id": "bf623bcc-ddfb-48e7-a65d-18dd48f3cf7b",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2025-05-08",
+      "title_eng": "Can Large Language Models Analyze Health Data?: For Multi-Stage Items",
+      "title_kor": "대규모 언어 모델의 건강 데이터 해석 능력: 다단계 평가 항목을 중심으로",
+      "conference_eng": "The 65th Korea Society of Medical and Biological Engineering Spring Conference 2025",
+      "author_kor": "유지원; 신항식",
+      "author_eng": "Jiwon You; Hangsik Shin",
+      "author_ids": [
+        "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    },
+    {
+      "id": "cfc8007b-d815-49b8-bfea-f66cf26e3dcc",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2024-06-19",
+      "title_eng": "Types and Frequencies of Errors in Clinical Chemistry Tests at the University Hospital Clinical Laboratory",
+      "title_kor": "대학병원 임상화학검사에서 보고된 오류 유형과 빈도",
+      "conference_eng": "The Korean Society of Medical Informatics",
+      "author_kor": "유지원; 김솔잎; 이우창; 전사일; 신항식",
+      "author_eng": "Jiwon You; Sollip Kim; Woochang Lee; Sail Chun; Hangsik Shin",
+      "author_ids": [
+        "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+        "09e01f73-363a-4780-962e-969da9578ff9",
+        "5ec9e165-f85d-4223-9e7f-038a6359d70a",
+        "c2ece990-47d8-45c5-bc8e-d2f6ea244737",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2024"
+    },
+    {
+      "id": "0a3f5d13-1cc7-4cb3-8767-8f49665f1cf9",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2024-11-07",
+      "title_eng": "Large Language Models and Health Checkup Report Interpretation: Possibilities and Limitations",
+      "title_kor": "대규모 언어 모델의 건강검진 결과 해석 능력: 가능성과 한계",
+      "conference_eng": "The 64th Korea Society of Medical and Biological Engineering Fall Conference 2024",
+      "author_kor": "유지원; 신항식",
+      "author_eng": "Jiwon You; Hangsik Shin",
+      "author_ids": [
+        "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "link": "https://dlab-amc.github.io/publications/conference/ibec2024/jw/ibec_jw.html#",
+      "year_resolved": "2024"
+    },
+    {
+      "id": "bdba12ce-ab86-4285-8d84-180fd9189006",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2024-07-10",
+      "title_eng": "Error Detection in Laboratory Tests using Machine Learning",
+      "title_kor": "머신러닝을 사용한 진단검사 오류 감지",
+      "conference_eng": "The 55th KIEE Summer Conference 2024",
+      "author_kor": "석현석; 유지원; 김솔잎; 신항식",
+      "author_eng": "Hyeon Seok Seok; Jiwon You; Sollip Kim; Hangsik Shin",
+      "author_ids": [
+        "77b4f02a-147a-4280-9045-69c05b9cecc5",
+        "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+        "09e01f73-363a-4780-962e-969da9578ff9",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2024"
+    },
+    {
+      "id": "841b7d8e-34dc-46ee-b032-b8a8cdd56a9b",
+      "category": "journal",
+      "class": "SCI",
+      "date": "2024-11-26",
+      "title_eng": "Advancing laboratory medicine practice with machine learning: swift yet exact",
+      "journal_eng": "Annals of Laboratory Medicine",
+      "author_kor": "유지원; 석현석; 김솔잎; 신항식",
+      "author_eng": "Jiwon You; Hyeon Seok Seok; Sollip Kim; Hangsik Shin",
+      "author_ids": [
+        "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+        "77b4f02a-147a-4280-9045-69c05b9cecc5",
+        "09e01f73-363a-4780-962e-969da9578ff9",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "link": "https://www.annlabmed.org/journal/view.html?uid=3598&vmd=Full",
+      "year_resolved": "2024"
+    }
+  ]
+}

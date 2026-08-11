@@ -1,0 +1,358 @@
+[
+  {
+    "id": "8bca95f2-8ec3-44ab-a585-64db04b28408",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2022-08-08",
+    "title_kor": "압력 및 맥파에 기반한 평균동맥압 추정 방법 및 장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "abbfde65-2938-4f39-92cd-02ca4a154213",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2022-10-19",
+    "title_eng": "비순차 데이터 적용을 위한 합성곱 신경망 분류기 하이퍼 파라미터 최적화 기초 연구",
+    "title_kor": "비순차 데이터 적용을 위한 합성곱 신경망 분류기 하이퍼 파라미터 최적화 기초 연구",
+    "conference_eng": "CICS’22 정보 및 제어 학술대회",
+    "author_kor": "왕창원; 신항식",
+    "author_eng": "Changwon Wang; Hangsik shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "3f386c0f-e85d-4e89-a558-47011c2dca03",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2022-07-01",
+    "title_eng": "XGBoost Regression of the Most Significant Photoplethysmogram Features for Assessing Vascular Aging",
+    "journal_eng": "IEEE journal of biomedical and health informatics",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/9713685",
+    "year_resolved": "2022"
+  },
+  {
+    "id": "044e9602-c69b-401f-b625-98e77912c0d0",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2022-03-17",
+    "title_eng": "Vascular Aging Estimation Based on Artificial Neural Network Using Photoplethysmogram Waveform Decomposition: Retrospective Cohort Study",
+    "journal_eng": "JMIR Medical Informatics",
+    "author_kor": "박준영; 신항식",
+    "author_eng": "Junyoung Park; Hangsik Shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8972117/",
+    "year_resolved": "2022"
+  },
+  {
+    "id": "59b997d3-ff83-4c1b-8dcb-227f62bd2900",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2022-03-16",
+    "title_eng": "Three-Dimensional Atrial Wall Thickness Measurement Algorithm From a Segmented Atrial Wall Using a Partial Differential Equation",
+    "title_kor": "Three-Dimensional Atrial Wall Thickness Measurement Algorithm From a Segmented Atrial Wall Using a Partial Differential Equation",
+    "journal_eng": "IEEE Access",
+    "author_kor": "권오석; 이지수; 박재욱; 양소현; 황인석; 유희태; 신항식; 박희남",
+    "author_eng": "Oh-Seok Kwon; Jisu Lee; Je-Wook Park; So-Hyun Yang; Inseok Hwang; Hee Tae Yu; Hangsik Shin; Hui-Nam Pak",
+    "author_ids": [
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "ef2eafdc-906d-403b-ae75-de9c2ce023b2",
+      "1e0b6bf9-c182-49fd-ad72-1011a3330da8",
+      "aa2ebd6b-4a42-4ca6-92ea-3327271e694b",
+      "036c3f0d-4619-4595-8203-c5eab2e21be4",
+      "5f2edffd-02ab-48bf-bf1d-e37e9a9a308d",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba"
+    ],
+    "link": "https://ieeexplore.ieee.org/document/9736959",
+    "year_resolved": "2022"
+  },
+  {
+    "id": "d0f51bd8-b239-4860-8765-ee661208083b",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2022-07-05",
+    "title_eng": "Photoplethysmogram based vascular aging assessment using the deep convolutional neural network",
+    "journal_eng": "Scientific Reports",
+    "author_kor": "신항식; 노규정; 최병문",
+    "author_eng": "Hangsik Shin; Gyujeong Noh; Byungmoon Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26"
+    ],
+    "link": "https://www.nature.com/articles/s41598-022-15240-4",
+    "year_resolved": "2022"
+  },
+  {
+    "id": "ec984069-549a-45b8-a477-f476adb29b70",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2022-11-03",
+    "title_eng": "Photoplethysmogram Feature Analysis for Surgical Pain Assessment",
+    "title_kor": "수술 중 통증 평가를 위한 광용적맥파 특징 지표 분석",
+    "conference_eng": "60th KOSOMBE Autumn Conference 2022",
+    "author_kor": "류가연; 석현석; 왕창원; 최병문; 최재문; 신항식",
+    "author_eng": "Gayeon Ryu; Hyeon Seok Seok; Changwon Wang; Byungmoon Choi; Jae Moon Choi; Hangsik shin",
+    "author_ids": [
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "c0670fd6-112e-47af-8ebb-4d267bdaa9fa",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2022-03-01",
+    "title_eng": "Photoplethysmogram Analysis and Applications: An Integrative Review",
+    "journal_eng": "Frontiers in Physiology",
+    "author_kor": "박준영; 석현석; 김상수; 신항식",
+    "author_eng": "Junyoung Park; Hyeon Seok Seok; Sang Su Kim; Hangsik Shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "fd60dc67-b59d-4404-a6e5-10d1810da012",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.frontiersin.org/articles/10.3389/fphys.2021.808451/full",
+    "year_resolved": "2022"
+  },
+  {
+    "id": "f8c2a899-4ecb-4ea4-8b93-d5d662a4c0dc",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2022-10-19",
+    "title_eng": "Genome-Wide Association Studies and Electronic Medical Record based Atrial Fibrillation Discriminat ion Using Ensemble Models",
+    "title_kor": "앙상블 모델을 사용한 전장유전체 및 의료정보 기반 심방세동 판별",
+    "conference_eng": "CICS'22 정보 및 제어 학술대회",
+    "author_kor": "이재형; 왕창원; 석현석; 권오석; 박희남; 신항식",
+    "author_eng": "Jaehyung Lee; Changwon Wang; Hyeon Seok Seok; Oh-Seok Kwon; Hui-Nam Pak; Hangsik shin",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "0b2b5c3b-3652-47ef-8ce0-6a26c4426726",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2022-11-03",
+    "title_eng": "GWAS-based Atrial Fibrillation Identification Using DCNN",
+    "title_kor": "전장 유전체 기반 심층 합성곱 신경망을 사용한 심방세동 식별",
+    "conference_eng": "60th KOSOMBE Autumn Conference 2022",
+    "author_kor": "이재형; 왕창원; 석현석; 권오석; 박희남; 신항식",
+    "author_eng": "Jaehyung Lee; Changwon Wang; Hyeon Seok Seok; Oh-Seok Kwon; Hui-Nam Pak; Hangsik shin",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "b457e25d-d1c6-41f3-a6c7-0c14af28fd2e",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2022-01-17",
+    "title_eng": "Exploration of Intertial Signal Frequency Range of Normal Gait",
+    "title_kor": "정상 보행의 관성 신호 주파수 범위 탐색",
+    "conference_eng": "Bio-Medical System Conference 2022",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "641091b9-4c8f-4d65-9973-e2334415c9b3",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2022-11-03",
+    "title_eng": "Evaluation of classification performance for the non-sequential input data of convolution neural network classifier according to the effect size",
+    "title_kor": "합성곱 신경망 분류기의 비순차 입력데이터 효과크기에 따른 분류 성능 평가",
+    "conference_eng": "60th KOSOMBE Autumn Conference 2022",
+    "author_kor": "왕창원; 신항식",
+    "author_eng": "Changwon Wang; Hangsik shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "26adf6d1-2d84-4b8c-9831-b4ea80e0879f",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2022-07-13",
+    "title_eng": "Evaluation of Convolution Neural Network classifier compatibility for Non-Sequential Data Input",
+    "title_kor": "비순차 데이터 입력에 대한 Convolution Neural Network 분류기 적합성 평가",
+    "conference_eng": "제 53회 대한전기학회 하계학술대회",
+    "author_kor": "왕창원; 석현석; 신항식",
+    "author_eng": "Changwon Wang; Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "dc87613a-7c6b-5691-8617-19c37f6ea3fc",
+    "category": "award",
+    "date": "2022-07-13",
+    "title_eng": "Evaluation of Convolution Neural Network classifier compatibility for Non-Sequential Data Input",
+    "title_kor": "비순차 데이터 입력에 대한 Convolution Neural Network 분류기 적합성 평가",
+    "award_name_eng": "2022year 대한전기학회 제53회 하계학술대회 우수논문상",
+    "author_kor": "왕창원;석현석;신항식",
+    "author_eng": "Changwon Wang;Hyun Seok Seok;Hangsik Shin",
+    "year_resolved": "2022"
+  },
+  {
+    "id": "02d34c01-7eff-40a6-b830-34dc225f3596",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2022-10-19",
+    "title_eng": "Electrocardiogram Waveform based Aging Assessment Using Convolutional Neural Network",
+    "title_kor": "심층 합성곱신경망을 사용한 심전도 파형 기반 노화 평가",
+    "conference_eng": "CICS'22 정보 및 제어 학술대회",
+    "author_kor": "석현석; 신항식",
+    "author_eng": "Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "9b70d127-4a0f-4580-891f-f572e5753cd4",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2022-07-01",
+    "title_eng": "Deep convolutional neural network-based signal quality assessment for photoplethysmogram",
+    "journal_eng": "Computers in Biology and Medicine",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "4ae1c12d-0145-4167-be66-c5d87d04c50c",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2022-03-01",
+    "title_eng": "Deep Convolutional Neural Network-Based Hemiplegic Gait Detection Using an Inertial Sensor Located Freely in a Pocket",
+    "journal_eng": "Sensors",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.mdpi.com/1424-8220/22/5/1920",
+    "year_resolved": "2022"
+  },
+  {
+    "id": "a99b15be-b7f4-4777-aba8-50c8c0910789",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2022-10-19",
+    "title_eng": "Comparison of Photoplethysmogram Feature for Intraoperative Pain and Postoperative Pain",
+    "title_kor": "수술 중 및 수술 후 통증에 대한 광용적맥파 특징 지표 비교",
+    "conference_eng": "CICS'22 정보 및 제어 학술대회",
+    "author_kor": "류가연; 석현석; 왕창원; 최병문; 최재문; 신항식",
+    "author_eng": "Gayeon Ryu; Hyeon Seok Seok; Changwon Wang; Byungmoon Choi; Jae Moon Choi; Hangsik shin",
+    "author_ids": [
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "ca5620dc-904a-46d6-920a-1368582f4545",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2022-07-13",
+    "title_eng": "Atrial Fibrillation Patients Assessment Based on One-Dimensional Convolutional Neural Network Using Short-term Electrocardiogram",
+    "title_kor": "단기간 심전도를 사용한 1D-CNN 기반 심방세동 환자 평가",
+    "conference_eng": "제 53회 대한전기학회 하계학술대회",
+    "author_kor": "석현석; 신항식",
+    "author_eng": "Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f55",
+    "category": "project",
+    "date": "2022-07-01",
+    "project_name_eng": "Designing Severity-Specific Situation Recognition Platform for Early Detection of Violence in Psychiatry Ward",
+    "year_resolved": "2022"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f53",
+    "category": "project",
+    "date": "2022-04-01",
+    "project_name_eng": "Development of AI Software as Medical Device for Management of Full-cycle of Atrial Fibrillation based on Cardiac Digital Twin",
+    "year_resolved": "2022"
+  },
+  {
+    "id": "ddbcbb53-844f-5b52-b32f-bbea3a4e0d65",
+    "category": "award",
+    "date": "2022-12-09",
+    "year_resolved": "2022"
+  },
+  {
+    "id": "98e3c1d3-067d-5390-b672-0ea57bbfa4d8",
+    "category": "extracurricular",
+    "date": "2022-03-17",
+    "year_resolved": "2022"
+  },
+  {
+    "id": "1d168f41-4e54-5c43-999b-358cca78d8d7",
+    "category": "extracurricular",
+    "date": "2022-11-01",
+    "year_resolved": "2022"
+  },
+  {
+    "id": "6f054cf3-619a-5026-afbf-9ee1d1af7e28",
+    "category": "extracurricular",
+    "date": "2022-03-29",
+    "year_resolved": "2022"
+  }
+]

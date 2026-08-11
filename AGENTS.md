@@ -32,7 +32,7 @@ Claude Code는 루트 `CLAUDE.md`를 먼저 자동 로드한 뒤 본 파일·sch
 | 의도 | 동작 | 참고 |
 |---|---|---|
 | Ingest / 반영 | `raw/` → `wiki/` 반영 | `schema/INGEST.md` |
-| Query / 질문 | `index.md`부터 탐색 후 답변 | `schema/QUERY.md` |
+| Query / 질문 | 탐색·답변 + **유용하면 Wiki writeback** | `schema/QUERY.md` |
 | Lint / 점검 | 품질·일관성 검사 | `schema/LINT.md` |
 
 ## 경로 요약

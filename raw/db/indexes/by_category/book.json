@@ -1,0 +1,33 @@
+[
+  {
+    "id": "f636f59f-ffaf-5dad-bec2-bb0087cd39a7",
+    "category": "book",
+    "year": 2019,
+    "title_eng": "Python for scientific computing",
+    "title_kor": "과학적 컴퓨팅을 위한 파이썬",
+    "author_kor": "이정환;신항식;민세동;김경호",
+    "author_eng": "Junghwan Lee;Hangsik Shin;Sedong Min;Kyungho Kim",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "c6e95468-aa2a-539d-ac82-ff111daebf45",
+    "category": "book",
+    "year": 2015,
+    "title_eng": "Unconstrained Continuous Infants Monitoring System Based on Mattress- Type Force Sensing Platform: A Pilot Study",
+    "title_kor": "Unconstrained Continuous Infants Monitoring System Based on Mattress- Type Force Sensing Platform: A Pilot Study",
+    "author_kor": "Hangsik Shin; Hwajin Choi;Sooji Park",
+    "author_eng": "Hangsik Shin; Hwajin Choi;Sooji Park",
+    "year_resolved": "2015"
+  },
+  {
+    "id": "4f20568a-c1b8-55b8-8ea8-cd5b2e627ba1",
+    "category": "book",
+    "year": 2015,
+    "date": "2014-12-17",
+    "title_eng": "Preliminary Study for Driver’s Posture Correction Support System Based on Seat-Embedded Pressure Sensing Platform ",
+    "title_kor": "Preliminary Study for Driver’s Posture Correction Support System Based on Seat-Embedded Pressure Sensing Platform ",
+    "author_kor": "Hangsik Shin;Kwanghyun Kim;Jeawon Son;Miri Kim",
+    "author_eng": "Hangsik Shin;Kwanghyun Kim;Jeawon Son;Miri Kim",
+    "year_resolved": "2015"
+  }
+]

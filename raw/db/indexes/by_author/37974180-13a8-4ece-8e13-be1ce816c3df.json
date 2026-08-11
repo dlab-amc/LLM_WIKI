@@ -1,0 +1,53 @@
+[
+  {
+    "id": "d44f19e2-f948-4020-b594-07ed6bf19b42",
+    "category": "conference",
+    "class": "International",
+    "date": "2025-07-14",
+    "title_eng": "Revisiting the Obesity Paradox in Septic Patients with Aging and Chronic Disease: A Retrospective Study in Korea",
+    "title_kor": "Revisiting the Obesity Paradox in Septic Patients with Aging and Chronic Disease: A Retrospective Study in Korea",
+    "conference_eng": "The 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC",
+    "author_kor": "최예은; 정지영; 신항식",
+    "author_eng": "Ye Eun Choi; Jeeyoung Jung; Hangsik Shin",
+    "author_ids": [
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "37974180-13a8-4ece-8e13-be1ce816c3df",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "3a9e8f81-52f2-470e-800c-e9f1acbd3558",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-05-08",
+    "title_eng": "Development of a Machine Learning Model for Prediction of Sepsis Onset",
+    "title_kor": "패혈증 조기 예측을 위한 머신러닝 모델 개발",
+    "conference_eng": "2025 대한의용생체공학회 춘계학술대회",
+    "author_kor": "정지영; 최예은; 신항식",
+    "author_eng": "Jeeyoung Jung; Ye Eun Choi; Hangsik Shin",
+    "author_ids": [
+      "37974180-13a8-4ece-8e13-be1ce816c3df",
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "ee5a24ad-4c4e-466e-9e12-079c56ef5830",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-05-08",
+    "title_eng": "Analysis of the effects of obesity and age on the risk of death from sepsis",
+    "title_kor": "패혈증 사망 위험에 미치는 비만도와 나이 영향 분석",
+    "conference_eng": "2025 대한의용생체공학회 춘계학술대회",
+    "author_kor": "최예은; 정지영; 신항식",
+    "author_eng": "Ye Eun Choi; Jeeyoung Jung; Hangsik Shin",
+    "author_ids": [
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "37974180-13a8-4ece-8e13-be1ce816c3df",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  }
+]

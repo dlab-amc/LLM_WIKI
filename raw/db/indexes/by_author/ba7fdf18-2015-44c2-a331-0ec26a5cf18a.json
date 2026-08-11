@@ -1,0 +1,140 @@
+[
+  {
+    "id": "9894a82e-6c28-4113-a803-3064e7416304",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2020-12-30",
+    "title_eng": "Method for generating of state classifier and for deciding walking state using the same",
+    "title_kor": "상태 분류기 생성 방법 및 이를 이용한 보행상태 판단 방법",
+    "author_kor": "신항식; 이준석; 박수지",
+    "author_eng": "Hangsik Shin; Junseok Lee; Sooji Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "5e0a1e51-99cd-454f-8a8d-1fbb967dc3e5",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-10-24",
+    "title_eng": "Development of Wearable System for Hemiplegic Gait Detection",
+    "title_kor": "편마비성 보행 측정을 위한 관성센서 기반 웨어러블 시스템 개발",
+    "conference_eng": "Conference on Information and Control Systems 2019",
+    "author_kor": "박준영; 이준석; 박수지; 곽재경; 신항식",
+    "author_eng": "Junyoung Park; Jun Seok Lee; Sooji park; Jaekyung Kwak; Hangsik shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "2684cf18-a5b8-4ca2-977d-d4cbbf558f8a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "a5df538c-e89d-485d-a409-8b0930690ccf",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2018-08-18",
+    "title_eng": "Method for generating of state classifier and for deciding walking state using the same",
+    "title_kor": "상태 분류기 생성 방법 및 이를 이용한 보행상태 판단 방법",
+    "author_kor": "신항식; 이준석; 박수지",
+    "author_eng": "Hangsik Shin; Jun Seok Lee; Sooji park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "9e8c9472-1595-4f70-9714-63d8eb933b96",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-05-28",
+    "title_eng": "Detection of Hemiplegic Walking Using a Wearable Inertia Sensing Device",
+    "journal_eng": "Sensors",
+    "author_kor": "이준석; 박수지; 신항식",
+    "author_eng": "Junseok Lee; Sooji Park; Hangsik Shin",
+    "author_ids": [
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022123/",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "4452ca49-d691-425d-bac4-2724f53ad261",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2017-11-01",
+    "title_eng": "Evaluation of Hemiplegic Gait Using Accelerometer",
+    "title_kor": "가속도센서를 이용한 편마비성보행 평가",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "이준석; 박수지; 신항식",
+    "author_eng": "Jun Seok Lee; Sooji park; Hangsik shin",
+    "author_ids": [
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://koreascience.kr/article/JAKO201734158605923.page",
+    "year_resolved": "2017"
+  },
+  {
+    "id": "40dba5fd-01b0-4460-8365-e1fd20dbffc4",
+    "category": "conference",
+    "class": "International",
+    "date": "2017-07-11",
+    "title_eng": "Detection of Hemiplegic Gait Using 6-axis Inertial Sensor",
+    "title_kor": "Detection of Hemiplegic Gait Using 6-axis Inertial Sensor",
+    "conference_eng": "39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC’17)",
+    "author_kor": "이준석; 박수지; 신항식",
+    "author_eng": "Junseok Lee; Sooji Park; Hangsik Shin",
+    "author_ids": [
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "286d468f-fa6b-4e4b-b74b-ae296a1d8f1f",
+    "category": "conference",
+    "class": "International",
+    "date": "2017-07-11",
+    "title_eng": "Design of the Wearable Device for Hemiplegic Gait Detection Using an Accelerometer and a Gyroscope",
+    "title_kor": "Design of the Wearable Device for Hemiplegic Gait Detection Using an Accelerometer and a Gyroscope",
+    "conference_eng": "39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC’17)",
+    "author_kor": "박수지; 이준석; 곽재경; 신항식",
+    "author_eng": "Sooji Park; Junseok Lee; Jaekyung Kwak; Hangsik Shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+      "2684cf18-a5b8-4ca2-977d-d4cbbf558f8a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "70dfa84d-6328-474d-945e-60f1f20e01a2",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-07-13",
+    "title_eng": "The Prototype Development of a Wearable Device for Lower Limb Balance Evaluation During Walking",
+    "title_kor": "보행시 하지균형 평가를 위한 웨어러블 시스템 프로토타입 개발",
+    "conference_eng": "The 47th KIEE Summer Conference 2016",
+    "author_kor": "이진석; 박수지; 신항식",
+    "author_eng": "Jin_Seok Lee; Sooji park; Hangsik shin",
+    "author_ids": [
+      "3efb670a-39dc-48a8-86de-303f334a8c06",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  }
+]

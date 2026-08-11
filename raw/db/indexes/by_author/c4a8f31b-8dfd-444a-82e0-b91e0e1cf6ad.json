@@ -1,0 +1,407 @@
+[
+  {
+    "id": "49da5bb1-4762-42b2-a5cd-00cc17a5e4eb",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2023-09-08",
+    "title_eng": "APPARATUS COMPRISING MULTIPLE ARRAY OF PRESSURE SENSORS AND DEVICE COMPRISING THE SAME",
+    "title_kor": "다중배열 압력센서를 포함하는 장치 및 이를 포함하는 웨어러블 기기",
+    "author_kor": "신항식; 박준영; 노동근; 최용순; 김도유; 최아영",
+    "author_eng": "Hangsik Shin; Junyoung Park; Donggeun Rho; Yongsoon Choi; Doyu Kim; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "65c403c8-2a42-4d96-9ef8-962c389141cb",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "78c2ce35-58a4-4af5-8677-f6ce2df6803d",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-02-15",
+    "title_eng": "Wearable blood pressure measuring device with multi-array pressure sensors",
+    "title_kor": "다중 배열 압력 센서를 포함하는 웨어러블 혈압 측정 장치",
+    "author_kor": "신항식; 박준영; 노동근; 최용순; 김도유; 최아영",
+    "author_eng": "Hangsik Shin; Junyoung Park; Donggeun Rho; Yongsoon Choi; Doyu Kim; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "65c403c8-2a42-4d96-9ef8-962c389141cb",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "663f7860-b349-4223-9810-94e408a7c757",
+    "category": "patent",
+    "class": "International",
+    "date": "2021-02-15",
+    "title_eng": "Wearable blood pressure measurement device comprising multi-array pressure sensor",
+    "title_kor": "다층 어레이 압력 센서를 포함하는 착용할 수 있는 혈압 측정 장치",
+    "author_kor": "신항식; 박준영; 노동근; 최용순; 김도유; 최아영",
+    "author_eng": "Hangsik Shin; Junyoung Park; Donggeun Rho; Yongsoon Choi; Doyu Kim; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "65c403c8-2a42-4d96-9ef8-962c389141cb",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "1b478bb7-f683-457b-9b8e-77a084e2b405",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2021-03-20",
+    "title_eng": "Recurrence Plot and Machine Learning for Signal Quality Assessment of Photoplethysmogram in Mobile Environment",
+    "journal_eng": "Sensors",
+    "author_kor": "노동근; 신항식",
+    "author_eng": "Donggeun Roh; Hangsik Shin",
+    "author_ids": [
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.mdpi.com/1424-8220/21/6/2188",
+    "year_resolved": "2021"
+  },
+  {
+    "id": "2e52b971-68a6-477e-81f9-d75c4c9ab47a",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2021-01-28",
+    "title_eng": "Apparatus comprising multiple array of pressure sensors and device comprising the same",
+    "title_kor": "다중배열 압력센서를 포함하는 장치 및 이를 포함하는 웨어러블 기기",
+    "author_kor": "신항식; 박준영; 노동근; 최용순; 김도유; 최아영",
+    "author_eng": "Hangsik Shin; Junyoung Park; Donggeun Roh; Yongsoon Choi; Doyu Kim; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "65c403c8-2a42-4d96-9ef8-962c389141cb",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2021"
+  },
+  {
+    "id": "df4bdfc7-8f34-4d6c-b69b-803b326c48d2",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2020-06-15",
+    "title_eng": "Wearable blood pressure measuring device with multi-array pressure sensors",
+    "title_kor": "다중 배열 압력 센서를 포함하는 웨어러블 혈압 측정 장치",
+    "author_kor": "신항식; 박준영; 노동근; 최용순; 김도유; 최아영",
+    "author_eng": "Hangsik Shin; Junyoung Park; Donggeun Roh; Yongsoon Choi; Doyu Kim; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "65c403c8-2a42-4d96-9ef8-962c389141cb",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "efb09ee7-eb89-4c57-917f-99c8a9b24868",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2020-10-22",
+    "title_eng": "Frequency domain characteristics of constant pressurization-type werable pressure pulse wave measurement system",
+    "title_kor": "고정 가압형 웨어러블 압력 맥파 측정 시스템의 주파수 영역 특성 분석",
+    "conference_eng": "Conference on Information and Control Systems 2020",
+    "author_kor": "노동근; 박준영; 정은화; 신항식",
+    "author_eng": "Donggeun Rho; Junyoung Park; Eunhwa Jeoung; Hangsik shin",
+    "author_ids": [
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "930575de-9e2c-4956-b208-41dbeddb241e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "501997fd-ef63-4882-8246-852a028c921d",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2020-10-22",
+    "title_eng": "Correlation analysis of aging with the refelctive and stiffness index of the photoplethysmogram",
+    "title_kor": "광용적맥파 반사지수 및 경직지수와 노화 상관성 분석",
+    "conference_eng": "Conference on Information and Control Systems 2020",
+    "author_kor": "박준영; 노동근; 신항식",
+    "author_eng": "Junyoung Park; Donggeun Rho; Hangsik shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2020"
+  },
+  {
+    "id": "d40f47c1-86ca-4a10-bc8c-f277574274d6",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-05-09",
+    "title_eng": "Trend of Blood Pressure Estimation Model based on Pulse Transit Time",
+    "title_kor": "맥파전달시간 기반 혈압 추정 모델 개발 동향",
+    "conference_eng": "The 54th Korea Society of Medical and Biological Engineering Spring Conference 2019",
+    "author_kor": "박지연; 한상진; 노동근; 신항식",
+    "author_eng": "Park Ji Yeon; Sangjin Han; Donggeun Rho; Hangsik shin",
+    "author_ids": [
+      "43a26ff6-46cb-4e1d-b2b2-a63b3c27495d",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "cc327ec6-6d8f-448c-b566-1b5c170491e7",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-05-09",
+    "title_eng": "Estimation of Radial Artery Location Using Gaussian Fitting in Multi-Channel Pressure Measurement",
+    "title_kor": "다채널 압력 측정시 가우시안 피팅을 사용한 요골동맥 위치 추정",
+    "conference_eng": "The 54th Korea Society of Medical and Biological Engineering Spring Conference 2019",
+    "author_kor": "노동근; 박준영; 신항식",
+    "author_eng": "Donggeun Rho; Junyoung Park; Hangsik shin",
+    "author_ids": [
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "82b9f649-2029-4ec0-9239-a6b593bca8ed",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-12-19",
+    "title_eng": "Development of a Multi-Array Pressure Sensor Module for Radial Artery Pulse Wave Measurement",
+    "journal_eng": "Sensors",
+    "author_kor": "노동근; 한상진; 박준영; 신항식",
+    "author_eng": "Donggeun Roh; Sangjin Han; Junyoung Park; Hangsik Shin",
+    "author_ids": [
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.mdpi.com/1424-8220/20/1/33",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "fdaaf16a-7cab-4293-94e2-9261fa264470",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-02-11",
+    "title_eng": "Development of GUI for 2-D Distribution Simulation of Radial Artery Pulse Wave",
+    "title_kor": "요골동맥 맥파 2차원 분포 시뮬레이션 GUI 개발",
+    "conference_eng": "Bio-Medical System Conference 2019",
+    "author_kor": "노동근; 박준영; 신항식",
+    "author_eng": "Donggeun Rho; Junyoung Park; Hangsik shin",
+    "author_ids": [
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "2886ce3d-a156-447b-80b4-d54c1329e25f",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-12-10",
+    "title_eng": "Design of Multi-Wavelength Optical Sensor Module for Depth-Dependent Photoplethysmography",
+    "journal_eng": "Sensors",
+    "author_kor": "한상진; 노동근; 박준영; 신항식",
+    "author_eng": "Sangjin Han; Donggeun Roh; Junyoung Park; Hangsik Shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.mdpi.com/1424-8220/19/24/5441",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "3d164f2c-c42a-48e7-8c79-ae411d8f198b",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2019-07-10",
+    "title_eng": "Comparison of Multiwavelength Photoplethysmogram Perfusion Index according to Activation of Sympathetic Nerve System",
+    "title_kor": "교감신경 활성에 따른 다파장 광용적맥파 관류지수 비교",
+    "conference_eng": "The 50th KIEE Summer Conference 2019",
+    "author_kor": "박준영; 한상진; 노동근; 신항식",
+    "author_eng": "Junyoung Park; Sangjin Han; Donggeun Rho; Hangsik shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2019"
+  },
+  {
+    "id": "91d8fa78-0a32-4cd9-a9c3-53088c5e23af",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2018-06-27",
+    "title_kor": "의료용 다파장 광센서",
+    "author_kor": "신항식; 한상진; 노동근",
+    "author_eng": "Hangsik Shin; Sangjin Han; Donggeun Rho",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "2b1cd5f3-5a7b-4c63-8ed1-de76674ec1fe",
+    "category": "patent",
+    "class": "Domestic Design",
+    "date": "2018-06-27",
+    "title_eng": "의료용 다파장 광센서",
+    "title_kor": "의료용 다파장 광센서",
+    "author_kor": "신항식; 한상진; 노동근",
+    "author_eng": "Hangsik Shin; Sangjin Han; Donggeun Rho",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "8225997e-933e-4540-9150-2875fe7193c7",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-05-17",
+    "title_kor": "다중 배열 요골동맥압 시뮬레이터",
+    "author_kor": "신항식; 노동근",
+    "author_eng": "Hangsik Shin; Donggeun Rho",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "5131b181-0b9b-4a41-a49f-e7bedcc2b293",
+    "category": "conference",
+    "class": "International",
+    "date": "2018-12-05",
+    "title_eng": "A New Pulse Quality Assessment Method for Photoplethysmogram based on Similliarity Analysis",
+    "title_kor": "A New Pulse Quality Assessment Method for Photoplethysmogram based on Similliarity Analysis",
+    "conference_eng": "\"10th International Conference on Soft Computing and Intelligent Systems and ",
+    "author_kor": "석현석; 한상진; 박준영; 노동근; 신항식",
+    "author_eng": "Hyeon Seok Seok; Sangjin Han; Junyoung Park; Donggeun Rho; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "b0113b5b-46ba-4889-b9db-895d2c5e6394",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-10-26",
+    "title_eng": "Observation of radial tono-arteriogram according to the external pressure using partial cuff",
+    "title_kor": "부분 커프 사용시 외부 가압조건에 따른 요골동맥 압력파형 관찰",
+    "conference_eng": "Conference on Information and Control Systems 2017",
+    "author_kor": "노동근; 한상진; 신항식",
+    "author_eng": "Donggeun Rho; Sangjin Han; Hangsik shin",
+    "author_ids": [
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "2eea0198-ab0d-468e-b033-e18c308b1a16",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-10-26",
+    "title_eng": "Investigation of Optical Conditioning for Multi-wavelength PPG measurement onf Wrist",
+    "title_kor": "손목형 다파장 PPG측정을 위한 광학적 조건 고찰",
+    "conference_eng": "Conference on Information and Control Systems 2017",
+    "author_kor": "한상진; 노동근; 신항식",
+    "author_eng": "Sangjin Han; Donggeun Rho; Hangsik shin",
+    "author_ids": [
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "a17adb43-d9dd-4a29-92a4-a9e927f79408",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-04-28",
+    "title_eng": "Gait Measurement based on Differential Capacitive Textile Force Sensor",
+    "title_kor": "차동 용량형 섬유 힘센서 기반 보행 측정 연구",
+    "conference_eng": "The 2017 Spring Conference of the Korea Information Processing Society",
+    "author_kor": "노동근; 한상진; 최화진; 신항식",
+    "author_eng": "Donggeun Rho; Sangjin Han; Hawjin Choi; Hangsik shin",
+    "author_ids": [
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "87a63d7d-4e79-408c-a0bd-10256501618f",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-05-13",
+    "title_eng": "An Investigation of the Peak Location Restoration of the Photoplethysmogram based on the Linear Interpolation",
+    "title_kor": "선형보간에 의한 광용적맥파 극점위치복원 특성 고찰",
+    "conference_eng": "The 51th Korea Society of Medical and Biological Engineering Spring Conference 2016",
+    "author_kor": "강성탁; 노동근; 최민주; 신항식",
+    "author_eng": "Seongtak Kang; Donggeun Rho; Min Ju Choi; Hangsik shin",
+    "author_ids": [
+      "2305510c-90d6-4355-99bd-7d63caa62cfb",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "19ac2461-2574-41b8-902c-4deb91d42bb9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "7dd4e9df-cb57-407c-b72e-9dfae37d1e50",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-05-13",
+    "title_eng": "An Effect of Sampling Rate to the Time Domain Analysis Result of Pulse Rate Variability",
+    "title_kor": "샘플링율이 맥박변이도 시간영역 분석에 미치는 영향 분석",
+    "conference_eng": "The 51th Korea Society of Medical and Biological Engineering Spring Conference 2016",
+    "author_kor": "양윤라; 강성탁; 노동근; 최민주; 신항식",
+    "author_eng": "Yoon La Yang; Seongtak Kang; Donggeun Rho; Min Ju Choi; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "2305510c-90d6-4355-99bd-7d63caa62cfb",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "19ac2461-2574-41b8-902c-4deb91d42bb9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "70dfa84d-6328-474d-945e-60f1f20e01a2",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-07-13",
+    "title_eng": "The Prototype Development of a Wearable Device for Lower Limb Balance Evaluation During Walking",
+    "title_kor": "보행시 하지균형 평가를 위한 웨어러블 시스템 프로토타입 개발",
+    "conference_eng": "The 47th KIEE Summer Conference 2016",
+    "author_kor": "이진석; 박수지; 신항식",
+    "author_eng": "Jin_Seok Lee; Sooji park; Hangsik shin",
+    "author_ids": [
+      "3efb670a-39dc-48a8-86de-303f334a8c06",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  }
+]

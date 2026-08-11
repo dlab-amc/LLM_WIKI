@@ -1,0 +1,44 @@
+[
+  {
+    "id": "4df94230-b073-4e4c-9037-277fc44342b8",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2025-01-24",
+    "title_eng": "Machine learning based quantitative pain assessment for the perioperative period",
+    "title_kor": "Machine learning based quantitative pain assessment for the perioperative period",
+    "journal_eng": "npj Digital Medicine",
+    "author_kor": "류가연; 최재문; 석현석; 이재형; 이은경; 신항식; 최병문",
+    "author_eng": "Gayeon Ryu; Jae Moon Choi; Hyeon Seok Seok; Jaehyung Lee; Eun-Kyung Lee; Hangsik Shin; Byungmoon Choi",
+    "author_ids": [
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "7f204165-939d-44e7-9ad2-cc9df84495bf",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26"
+    ],
+    "link": "https://www.nature.com/articles/s41746-024-01362-8",
+    "year_resolved": "2025"
+  },
+  {
+    "id": "21fd7890-3ae3-42bf-8387-2b9b0d352c77",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2021-03-08",
+    "title_eng": "Performance of the Surgical Pleth Index and Analgesia Nociception Index in Healthy Volunteers and Parturients",
+    "journal_eng": "Frontiers in Physiology",
+    "author_kor": "최병문; 신항식; 이주현; 방지연; 이은경; 노규정",
+    "author_eng": "Byungmoon Choi; Hangsik Shin; Joo-Hyun Lee; Ji-Yeon Bang; Eun-Kyung Lee; Gyujeong Noh",
+    "author_ids": [
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "d818c191-1ea9-4f88-9ab7-5bcdf5a1a30c",
+      "c1bad407-436f-4ec8-b304-f53e5fea69b0",
+      "7f204165-939d-44e7-9ad2-cc9df84495bf",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/33762962/",
+    "year_resolved": "2021"
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "id": "c6afaed1-66e1-4f24-96b3-3a3a323defbb",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2025-10-28",
+    "title_eng": "뇌 질환 진단 장치 및 방법",
+    "title_kor": "뇌 질환 진단 장치 및 방법",
+    "author_kor": "신항식; 주성우; 이중선; 한유진",
+    "author_eng": "Hangsik Shin; Sung Woo Joo; Jungsun Lee; Yujin Han",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "140e3b05-97fa-4c63-a649-9dc6aa692776",
+      "95c4fbbb-c06a-4457-8f76-5db67ee40176",
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "2ba08e29-f55b-4c5c-9cf2-8f9991f04638",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-05-08",
+    "title_eng": "Radiomic Tractometry-Based Machine Learning Model for Schizophrenia Classification",
+    "title_kor": "Radiomic Tractometry 기반 조현병 환자군 분류 인공지능 모델 개발",
+    "conference_eng": "2025 대한의용생체공학회 춘계학술대회",
+    "author_kor": "한유진; 주성우; 신항식",
+    "author_eng": "Yujin Han; Sung Woo Joo; Hangsik Shin",
+    "author_ids": [
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+      "140e3b05-97fa-4c63-a649-9dc6aa692776",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "2f8c8ab8-403f-4529-90ba-b413f389e033",
+    "category": "conference",
+    "class": "International",
+    "date": "2025-07-14",
+    "title_eng": "Evaluating Feature Selection Methods for Radiomic Tractometry in Schizophrenia",
+    "title_kor": "Evaluating Feature Selection Methods for Radiomic Tractometry in Schizophrenia",
+    "conference_eng": " The 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+    "author_kor": "한유진; 주성우; 신항식",
+    "author_eng": "Yujin Han; Sung Woo Joo; Hangsik Shin",
+    "author_ids": [
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+      "140e3b05-97fa-4c63-a649-9dc6aa692776",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "cacc67b5-67ad-4753-b680-051c11d0c02f",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-06-19",
+    "title_eng": "Development of a Location Monitoring Platform for Inpatients within Closed Psychiatric Ward",
+    "title_kor": "폐쇄병동 환자 위치 모니터링 플랫폼 구축 사례",
+    "conference_eng": "KOSMI 2024 Spring conference",
+    "author_kor": "왕창원; 임하민; 주성우; 이중선; 신항식",
+    "author_eng": "Changwon Wang; Hamin Lim; Sung Woo Joo; Jungsun Lee; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "140e3b05-97fa-4c63-a649-9dc6aa692776",
+      "95c4fbbb-c06a-4457-8f76-5db67ee40176",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "e401d263-72e8-4304-a79d-d829488b7d8d",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2023-12-29",
+    "title_eng": "monitoring system for people in the facility",
+    "title_kor": "시설 내 대상자 모니터링 시스템",
+    "author_kor": "신항식; 왕창원; 이중선; 주성우; 임하민",
+    "author_eng": "Hangsik Shin; Changwon Wang; Jungsun Lee; Sung Woo Joo; Hamin Lim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "95c4fbbb-c06a-4457-8f76-5db67ee40176",
+      "140e3b05-97fa-4c63-a649-9dc6aa692776",
+      "e556ed57-f679-4685-a592-767ec3a64f46"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "5d41a757-fd4d-420e-860a-6bf51704a827",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-05-11",
+    "title_eng": "Analysis of psychiatric inpatients' abnormal behavior prior to self-harm or harm to others through nursing diary records",
+    "title_kor": "간호일지를 통한 정신과 병동 입원환자의 자해 및 타해 발생 전 이상행동 분석",
+    "conference_eng": "KOSOMBE spring conference 2023",
+    "author_kor": "왕창원; 임하민; 주성우; 이중선; 신항식",
+    "author_eng": "Changwon Wang; Hamin Lim; Sung Woo Joo3; Jungsun Lee; Hangsik shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "140e3b05-97fa-4c63-a649-9dc6aa692776",
+      "95c4fbbb-c06a-4457-8f76-5db67ee40176",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  }
+]

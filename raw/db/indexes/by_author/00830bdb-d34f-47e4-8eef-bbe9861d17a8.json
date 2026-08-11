@@ -1,0 +1,38 @@
+[
+  {
+    "id": "b3ecae70-8b6c-47bc-a944-24d0d03f5097",
+    "category": "conference",
+    "class": "International",
+    "date": "2014-12-17",
+    "title_eng": "Preliminary Study for Driver’s Posture Correction Support System Based on Seat-Embedded Pressure Sensing Platform",
+    "title_kor": "Preliminary Study for Driver’s Posture Correction Support System Based on Seat-Embedded Pressure Sensing Platform",
+    "conference_eng": "The 6th FTRA International Conference on Computer Science and its Applications(CSA 2014)",
+    "author_kor": "신항식; 김광현; 손제원; 김미리",
+    "author_eng": "Hangsik shin; Kwanghyun Kim; Jaewon Son; Miri Kim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "00830bdb-d34f-47e4-8eef-bbe9861d17a8",
+      "c59f4359-6b52-4820-9244-6c85930dcb9a",
+      "dc41de57-52cf-472e-95ea-8824cb924d79"
+    ],
+    "year_resolved": "2014"
+  },
+  {
+    "id": "49741f1c-aca7-4d78-acce-ab14224feeea",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2014-10-16",
+    "title_eng": "Development of Force Sensing Platform based on VelostatTM for Pressure Distribution Measurement of Driver's Seat",
+    "title_kor": "운전석 압력분포 측정을 위한 VelostatTM기반 압력센싱 플랫폼 개발",
+    "conference_eng": "Conference on Information and Control Systems 2014",
+    "author_kor": "김미리; 손제원; 김광현; 신항식",
+    "author_eng": "Miri Kim; Jaewon Son; Kwanghyun Kim; Hangsik shin",
+    "author_ids": [
+      "dc41de57-52cf-472e-95ea-8824cb924d79",
+      "c59f4359-6b52-4820-9244-6c85930dcb9a",
+      "00830bdb-d34f-47e4-8eef-bbe9861d17a8",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2014"
+  }
+]

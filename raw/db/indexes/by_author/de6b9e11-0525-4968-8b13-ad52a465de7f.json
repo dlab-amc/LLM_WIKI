@@ -1,0 +1,21 @@
+[
+  {
+    "id": "ca7e1b64-9f5a-48de-a0da-f17fa7f9cb4d",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2020-11-01",
+    "title_eng": "Wearable Strain Sensor Using Conductive Yarn Sewed on Clothing for Human Respiratory Monitoring",
+    "journal_eng": "IEEE Sensors Journal",
+    "author_kor": "박준영; 박상기; 안성철; 조유장; 박종진; 신항식",
+    "author_eng": "Junyoung Park; Sangki Park; Seongcheol Ahn; Yujang Cho; Jong-Jin Park; Hangsik Shin",
+    "author_ids": [
+      "57354d74-688e-49c4-a258-307386943d12",
+      "de6b9e11-0525-4968-8b13-ad52a465de7f",
+      "9e1fffce-331b-4391-b199-b32bdd19a54b",
+      "13fed994-9ead-4133-99c3-2eb830bb2f4f",
+      "6b5e8c7d-a109-43ba-be3c-38ed3434b802",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2020"
+  }
+]

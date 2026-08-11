@@ -1,0 +1,98 @@
+[
+  {
+    "id": "486ff21e-3e6a-4a3d-ab60-676384de8004",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-07-01",
+    "title_eng": "Pre-processing of Photoplethysmographic Waveform for Amplitude Regularization",
+    "journal_eng": "Journal of Electrical Engineering & Technology",
+    "author_kor": "김재필; 이정환; 신항식",
+    "author_eng": "Jaepil Kim; Jeong-Whan Lee; Hangsik Shin",
+    "author_ids": [
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "596b9b4d-31d5-43cb-b6f4-656f259b6ef5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://link.springer.com/article/10.1007/s42835-019-00185-y",
+    "year_resolved": "2019"
+  },
+  {
+    "id": "805b2fef-ad9f-47fd-a4aa-8b6a6f82cd5c",
+    "category": "conference",
+    "class": "International",
+    "date": "2015-12-02",
+    "title_eng": "Pulse Wave Pitch Detection Technique and Its Application to Human Sensibility Evaluation",
+    "title_kor": "Pulse Wave Pitch Detection Technique and Its Application to Human Sensibility Evaluation",
+    "conference_eng": "2015 International Conference on Mechatronics and Information Technology(ICMIT 2015)",
+    "author_kor": "김동준; 이현민; 이정환; 신항식",
+    "author_eng": "Dong-Jun Kim; Hyun-Min Lee; Jeong-Whan Lee; Hangsik shin",
+    "author_ids": [
+      "62d51eaa-e423-49c2-b058-669ba146f3fa",
+      "3f286897-33cd-42fb-919d-47823e117509",
+      "596b9b4d-31d5-43cb-b6f4-656f259b6ef5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "2856a49d-82b8-4a4a-b47f-161545ebb513",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2009-10-01",
+    "title_eng": "Abdominal Wall Motion-Based Respiration Rate Measurement using An Ultrasonic Proximity Sensor",
+    "title_kor": "복부 움직임에 따른 초음파 근접센서를 이용한 호흡측정에 관한 연구",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "민세동; 김진권; 신항식; 윤용현; 이충근",
+    "author_eng": "Se-Dong Min; Jinkwon Kim; Hangsik Shin; Yonghyeon Yun; Chungkeun Lee",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e"
+    ],
+    "year_resolved": "2009"
+  },
+  {
+    "id": "36cd9619-6e38-403a-8055-a702026871e3",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2009-05-01",
+    "title_eng": "A Study on the Measurement of Heart Rate Variability using the Modified Laplacian Electrodes",
+    "title_kor": "수정된 라플라시안 센서를 이용한 심박변이도 측정에 관한 연구",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "이충근; 신항식; 김홍래; 이정환; 김용준; 이명호",
+    "author_eng": "Chungkeun Lee; Hangsik shin; Hone-Rae Kim; Jeong-Whan Lee; Yong-Jun Kim; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ae72065a-4ff4-4d10-b45b-16bcdb93feac",
+      "596b9b4d-31d5-43cb-b6f4-656f259b6ef5",
+      "4936d26d-b64d-40ee-85c7-1501199e8eb8",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2009"
+  },
+  {
+    "id": "fa3a5405-9e78-4617-b14c-1515a7c231f5",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2008-07-16",
+    "title_eng": "A Study on Measurement Heart Rate Variability using modified Laplacian Electrode",
+    "title_kor": "초소형 라플라시안 센서를 이용한 심박변이도의 측정에 관한 연구",
+    "conference_eng": "The 39th KIEE Summer Conference 2008",
+    "author_kor": "이충근; 박현철; 신항식; 김홍래; 김용호; 이정환; 김용준; 이명호",
+    "author_eng": "Chungkeun Lee; Hyun-Chul Park; Hangsik shin; Hone-Rae Kim; Yong Ho Kim; Jeong-Whan Lee; Yong-Jun Kim; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "ed205265-0d1b-46cd-8449-42395ab1bed1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ae72065a-4ff4-4d10-b45b-16bcdb93feac",
+      "6a928149-9e46-4571-9418-9da9df206a23",
+      "596b9b4d-31d5-43cb-b6f4-656f259b6ef5",
+      "4936d26d-b64d-40ee-85c7-1501199e8eb8",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2008"
+  }
+]

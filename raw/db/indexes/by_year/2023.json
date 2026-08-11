@@ -1,0 +1,802 @@
+[
+  {
+    "id": "e401d263-72e8-4304-a79d-d829488b7d8d",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2023-12-29",
+    "title_eng": "monitoring system for people in the facility",
+    "title_kor": "시설 내 대상자 모니터링 시스템",
+    "author_kor": "신항식; 왕창원; 이중선; 주성우; 임하민",
+    "author_eng": "Hangsik Shin; Changwon Wang; Jungsun Lee; Sung Woo Joo; Hamin Lim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "95c4fbbb-c06a-4457-8f76-5db67ee40176",
+      "140e3b05-97fa-4c63-a649-9dc6aa692776",
+      "e556ed57-f679-4685-a592-767ec3a64f46"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "aa2c9aaf-e5d8-4595-9290-e5da3e26e0a0",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-05-25",
+    "title_eng": "Web-based biosignal display program",
+    "title_kor": "웹 기반 생체정보 디스플레이 프로그램",
+    "author_kor": "신항식; 왕창원; 최아영; 류관곤; 방근호; 황정연",
+    "author_eng": "Hangsik Shin; Changwon Wang; Ahyoung Choi; KwanKon Ryu; Geunho Bang; Jeongyeon Hwang",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "841977d8-32ee-41ce-9032-8c50c3c74f06",
+      "34aa57f5-c474-4d02-b12d-d593e963e420",
+      "abf2eaf0-b6d8-49e0-b7a5-8ab05d86f53d"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "8b8fb1d8-4152-49c6-b141-74e4f4dc7e55",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-12-13",
+    "title_eng": "Web application for user biometric and location information monitoring and risk notification",
+    "title_kor": "사용자 생체정보 및 위치정보 모니터링, 위험 알림을 위한 웹 응용프로그램",
+    "author_kor": "신항식; 왕창원; 임하민",
+    "author_eng": "Hangsik Shin; Changwon Wang; Hamin Lim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "d9faa601-2a16-4028-bf71-11ab78b22a2e",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-12-13",
+    "title_eng": "Wearable device application for measuring heart rate, acceleration, and indoor location information",
+    "title_kor": "심박수, 가속도, 실내 위치 정보 측정을 위한 웨어러블 기기 어플리케이션",
+    "author_kor": "신항식; 왕창원; 임하민",
+    "author_eng": "Hangsik Shin; Changwon Wang; Hamin Lim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "e679b80b-45ef-448b-bfa7-372245bea3a8",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-05-11",
+    "title_eng": "The Impact of Regularization Techniques on Convolutional Neural Network-based Genomic Study",
+    "title_kor": "합성곱 신경망 기반 유전체 연구에서 정규화 기법의 효과 분석",
+    "conference_eng": "KOSOMBE spring conference 2023",
+    "author_kor": "이재형; 석현석; 권오석; 박희남; 신항식",
+    "author_eng": "Jaehyung Lee; Hyeon Seok Seok; Oh-Seok Kwon; Hui-Nam Pak; Hangsik shin",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "2eea3f4e-b474-41a6-acd2-3535c6441d2c",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2023-07-26",
+    "title_eng": "The 2023 wearable photoplethysmography roadmap",
+    "title_kor": "The 2023 wearable photoplethysmography roadmap",
+    "journal_eng": "Physiological measurement",
+    "author_kor": "이충근; 신항식",
+    "author_eng": "Chungkeun Lee; Hangsik Shin",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://iopscience.iop.org/article/10.1088/1361-6579/acead2",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "b4cdfea8-d74e-46ba-b46b-23c806fb4078",
+    "category": "patent",
+    "class": "International",
+    "date": "2023-05-16",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "시스템과 장치를 연결된 외부 장치를 방제하는 방법",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "4e35e50b-ce2c-4788-8e1f-366f4fd41d96",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-11-09",
+    "title_eng": "Standard Specifications for Testing of U.S. FDA-Cleared Home Sleep Apnea Testing Device",
+    "title_kor": "U.S. FDA 인증 가정용 수면 무호흡증 검사 기기의 시험검사 기준 규격",
+    "conference_eng": "9th International Biomedical Engineering Conference IBEC 2023",
+    "author_kor": "박지현; 이충근; 신항식",
+    "author_eng": "Ji Hyeun Park; Chungkeun Lee; Hangsik shin",
+    "author_ids": [
+      "3a5a94ad-5186-494a-a8fb-1138bb9889f9",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "a781c7c7-608a-5c42-bca5-d31369f210db",
+    "category": "award",
+    "date": "2023-11-09",
+    "title_eng": "Standard Specifications for Testing of U.S. FDA-Cleared Home Sleep Apnea Testing Device",
+    "title_kor": "U.S. FDA 인증 가정용 수면 무호흡증 검사 기기의 시험검사 기준 규격",
+    "author_kor": "박지현;이충근;신항식",
+    "author_eng": "Ji Hyeun Park;Chungkeun Lee;Hangsik Shin",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "d6971514-180d-43ac-a9ff-cd723e5591b2",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2023-12-13",
+    "title_eng": "Smart  Hospital  Advancements  and  Future  Perspectives in South  Korea",
+    "title_kor": "국내 스마트병원 구축현황 및 발전 방안",
+    "journal_eng": "Clinical Chemistry and Laboratory Medicine (CCLM)",
+    "author_kor": "왕창원; 신항식",
+    "author_eng": "Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "647f9bd0-aa84-41ba-a6c4-99eeb0554b61",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-12-13",
+    "title_eng": "Sever program for biometric and location information collection, user risk analysis, and alarm control",
+    "title_kor": "생체정보 및 위치정보 수집, 사용자 위험 분석, 알람 제어를 위한 서버 프로그램",
+    "author_kor": "신항식; 왕창원; 임하민",
+    "author_eng": "Hangsik Shin; Changwon Wang; Hamin Lim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "62eac829-8ba2-4a31-9cbd-7b4f5a15db39",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-05-25",
+    "title_eng": "Server program for storing and transmitting heart rate and acceleration signals",
+    "title_kor": "심박수와 가속도 신호 저장 및 전송을 위한 서버 프로그램",
+    "author_kor": "신항식; 왕창원; 최아영; 방근호; 황정연; 류관곤",
+    "author_eng": "Hangsik Shin; Changwon Wang; Ahyoung Choi; Geunho Bang; Jeongyeon Hwang; KwanKon Ryu",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "34aa57f5-c474-4d02-b12d-d593e963e420",
+      "abf2eaf0-b6d8-49e0-b7a5-8ab05d86f53d",
+      "841977d8-32ee-41ce-9032-8c50c3c74f06"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "9ff5a633-b38f-455e-8c51-3ac02ca8abb5",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-07-12",
+    "title_eng": "Preliminary Study for the Optimal Attachment Position of Accelerometer for Detecting Abnormal Behavior of Psychiatric Inpatient",
+    "title_kor": "정신과 폐쇄병동 환자 이상행동 판단을 위한 가속도센서 부착 최적 위치 기초연구",
+    "conference_eng": "The 54th KIEE Summer Conference 2023",
+    "author_kor": "임하민; 왕창원; 신항식",
+    "author_eng": "Hamin Lim; Changwon Wang; Hangsik shin",
+    "author_ids": [
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "ec82a1b1-9281-40fd-8592-925612fbb2ce",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2023-03-31",
+    "title_eng": "Practical delta check limits for tumour markers in different clinical settings",
+    "journal_eng": "Clinical Chemistry and Laboratory Medicine (CCLM)",
+    "author_kor": "유신애; 신경화; 신성환; 이혜영; 유수진; 전경란; 신항식; 김솔잎",
+    "author_eng": "Shinae Yu; Kyung-Hwa Shin; Sunghwan Shin; Hyeyoung Lee; Soo Jin Yoo; Kyung Ran Jun; Hangsik Shin; Sollip Kim",
+    "author_ids": [
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "06cd217f-5f4c-49af-9cf4-1666a5f30674",
+      "16dd67b1-53a2-4a77-b15d-d4846f5f7043",
+      "88a8d1f1-ccaa-414a-8af5-5661ce11128c",
+      "1032d1e7-0873-4e7a-b488-195b22293db1",
+      "58889578-5052-4cbc-8c74-b3ee12d9b36a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "09e01f73-363a-4780-962e-969da9578ff9"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/36994761/",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "c33223ec-767e-4b1b-8ef5-6cf409fd7f1f",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-11-09",
+    "title_eng": "Photoplethysmogram based on Surgical Pain Severity Assessment Feature Analysis",
+    "title_kor": "광용적맥파 기반 수술 중 통증 중증도 평가 지표 분석",
+    "conference_eng": "9th International Biomedical Engineering Conference IBEC 2023",
+    "author_kor": "류가연; 석현석; 최병문; 최재문; 신항식",
+    "author_eng": "Gayeon Ryu; Hyeon Seok Seok; Byungmoon Choi; Jae Moon Choi; Hangsik shin",
+    "author_ids": [
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "bd793ff9-17c0-4320-8977-6dfb8a0aa634",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-10-23",
+    "title_eng": "Performance Analysis of Diagnostic Test Error Detection Using Artificial Intelligence in Class Imbalance Scenarios",
+    "title_kor": "클래스 불균형 시나리오에서 진단검사 오류 감지 인공지능 기술 성능 분석",
+    "conference_eng": "Conference on Information and Control Systems",
+    "author_kor": "석현석; 김솔잎; 신항식",
+    "author_eng": "Hyeon Seok Seok; Sollip Kim; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "fc03d603-79e0-45f6-a92c-155613ea8fe1",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2023-01-30",
+    "title_eng": "Method for blood pressure estimation based on continuous pulse transit time and a server performing the method",
+    "title_kor": "연속맥파 도달시간 기반 혈압 추정 방법 및 그 방법을 수행 하는 서버",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "a21dc4b9-d781-4382-b08e-add9fedaf479",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2023-01-18",
+    "title_eng": "Method and apparatus for physiological aging estimation",
+    "title_kor": "생리적 나이 추정 방법 및 장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "00c11128-93cb-42b0-b955-7e9d364d107c",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2023-01-30",
+    "title_eng": "Method and apparatus for bio-signal quality evaluation",
+    "title_kor": "생체신호 품질 평가 방법 및 장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "2825a808-457d-40e2-9103-6ac3f33e66ce",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2023-12-14",
+    "title_eng": "Machine learning-based delta check method for detecting misidentification errors in tumor marker tests",
+    "journal_eng": "Clinical Chemistry and Laboratory Medicine",
+    "author_kor": "석현석; 최유나; 유신애; 신경화; 김솔잎; 신항식",
+    "author_eng": "Hyeon Seok Seok; Yuna Choi; Shinae Yu; Kyung-Hwa Shin; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "06cd217f-5f4c-49af-9cf4-1666a5f30674",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.degruyter.com/document/doi/10.1515/cclm-2023-1185/html",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "3312af4f-0f30-450f-a561-5e27deb07417",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2023-10-13",
+    "title_eng": "METHOD AND APPARATUS FOR TRAINING WAVEFORM RESTORATION MODEL TO RESTORE QUASI-PERIODIC BIOSIGNAL WAVEFORMS",
+    "title_kor": "준주기적 생체 신호 파형을 복원하기 위한 파형 복원 모델 학습 방법 및 장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "55078441-f6a7-4eac-ad08-c10488c2a1aa",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-05-25",
+    "title_eng": "Heart rate, acceleration signal measurement, transmission program for wearable devices",
+    "title_kor": "웨어러블 기기용 심박수, 가속도 신호 측정, 전송 프로그램",
+    "author_kor": "신항식; 왕창원; 최아영; 방근호; 황정연; 류관곤",
+    "author_eng": "Hangsik Shin; Changwon Wang; Ahyoung Choi; Geunho Bang; Jeongyeon Hwang; KwanKon Ryu",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "34aa57f5-c474-4d02-b12d-d593e963e420",
+      "abf2eaf0-b6d8-49e0-b7a5-8ab05d86f53d",
+      "841977d8-32ee-41ce-9032-8c50c3c74f06"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "7ea20b3e-6665-4002-8aeb-145e556b1ead",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-11-09",
+    "title_eng": "Graph Neural Network-Based Atrial Fibrillation Recurrence Prediction Using Left Atrial Three-Dimensional Anatomical and Physiology Characteristics",
+    "title_kor": "좌심방 3차원 해부생리 특징을 활용한 그래프 신경망기반 심방세동 재발 예측",
+    "conference_eng": "9th International Biomedical Engineering Conference IBEC 2023",
+    "author_kor": "이재형; 권오석; 신항식; 박희남",
+    "author_eng": "Jaehyung Lee; Oh-Seok Kwon; Hangsik shin; Hui-Nam Pak",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "eca439f7-9ff8-406a-9895-2437c3a9b420",
+    "category": "conference",
+    "class": "International",
+    "date": "2023-12-07",
+    "title_eng": "Ectopic Beat Correction Strategies for Accurate Heart Rate Variability Analysis",
+    "title_kor": "정확한 심박변이도 분석을 위한 이소성 박동 교정 전략",
+    "conference_eng": "IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine & Biology",
+    "author_kor": "류가연; 석현석; 신항식",
+    "author_eng": "Gayeon Ryu; Hyeon Seok Seok; Hangsik Shin",
+    "author_ids": [
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "7fece762-85cc-4c24-9624-c27843c785ef",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2023-10-30",
+    "title_eng": "ELECTRONIC DEVICE FOR INTERPOLATING HEART RATE USING\\n INTERPOLATED POSITION AND NUMBER OF INTERPOLATED SAMPLES AND METHOD FOR CORRECTING ECTOPIC RHYTHM THEREOF",
+    "title_kor": "보간 위치 및 보간 샘플 수를 이용하여 심장 박동을 보간하는 전자 장치 및 이의 이소성 박동 교정 방법",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "5ce419ea-4c49-4e0a-92be-9bd1345f3b9e",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2023-03-10",
+    "title_eng": "Digital therapeutics from bench to bedside",
+    "journal_eng": "npj Digital Medicine",
+    "author_kor": "왕창원; 이충근; 신항식",
+    "author_eng": "Changwon Wang; Chungkeun Lee; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.nature.com/articles/s41746-023-00777-z",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "2cfc8d99-e452-44c4-b9eb-b8e21ba1ec68",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-05-11",
+    "title_eng": "Development of photopleyhsmogram based feature for intra- and post-operative pain",
+    "title_kor": "광용적맥파 기반 수술 중 및 수술 후 통증평가 모델 기반 지표 탐색",
+    "conference_eng": "KOSOMBE spring conference 2023",
+    "author_kor": "류가연; 석현석; 신항식; 최병문; 최재문",
+    "author_eng": "Gayeon Ryu; Hyeon Seok Seok; Hangsik shin; Byungmoon Choi; Jae Moon Choi",
+    "author_ids": [
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "79722270-bde5-4ef2-bad5-ccd4d4e75854"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "e3eea7c6-89ab-5301-9628-df51cf927e6a",
+    "category": "award",
+    "date": "2023-04-15",
+    "title_eng": "Development of an artificial intelligence model for both intra- and post-operative pain assessment",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "6ad94024-ae39-48f9-bd09-fccde79f3418",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-04-15",
+    "title_eng": "Development of an artificial intelligence model for both intra- and post- operative pain assessment",
+    "title_kor": "Development of an artificial intelligence model for both intra- and post- operative pain assessment",
+    "conference_eng": "2023 대한마취약리학회 학술대회",
+    "author_kor": "석현석; 류가연; 신항식; 최재문; 최병문",
+    "author_eng": "Hyeon Seok Seok; Gayeon Ryu; Hangsik shin; Jae Moon Choi; Byungmoon Choi",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "fa728223-5be4-4016-a580-a72eb1521867",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-11-09",
+    "title_eng": "Development of an Emotional State Prediction Model Using Acceleration Signal, Heart rate, Electrodermal Activity, and Emotional Questionnaires",
+    "title_kor": "가속도 신호, 심박수, 피부전기활동, 감정설문을 이용한 감정상태 예측 모델 개발",
+    "conference_eng": "9th International Biomedical Engineering Conference IBEC 2023",
+    "author_kor": "왕창원; 신항식",
+    "author_eng": "Changwon Wang; Hangsik shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "8a592eca-d630-43cf-93a2-83e989334ef6",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-07-12",
+    "title_eng": "Development of a Real-time Abnormal Heart rate and Physical activity Platform Using Wearable Watches for Monitoring Psychiatric Inpatients",
+    "title_kor": "정신과 폐쇄 병동 입원환자 모니터링을 위한 웨어러블 워치 기반 실시간 이상 심박수 및 신체활동 플랫폼 개발",
+    "conference_eng": "The 54th KIEE Summer Conference 2023",
+    "author_kor": "왕창원; 방근호; 류관곤; 황정연; 최아영; 신항식",
+    "author_eng": "Changwon Wang; Geunho Bang; KwanKon Ryu; Jeongyeon Hwang; Ahyoung Choi; Hangsik shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "34aa57f5-c474-4d02-b12d-d593e963e420",
+      "841977d8-32ee-41ce-9032-8c50c3c74f06",
+      "abf2eaf0-b6d8-49e0-b7a5-8ab05d86f53d",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "69f04561-092e-4ac0-af64-b4090dec017a",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-11-09",
+    "title_eng": "Deep Learning for Tumor Marker Misidentification Error Detection: inter-center model performance comparison",
+    "title_kor": "Deep Learning for Tumor Marker Misidentification Error Detection: inter-center model performance comparison",
+    "conference_eng": "9th International Biomedical Engineering Conference IBEC 2023",
+    "author_kor": "석현석; 김솔잎; 신항식",
+    "author_eng": "Hyeon Seok Seok; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "88ab8925-715b-4300-9776-8b4240d4a652",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2023-11-01",
+    "title_eng": "Clustering Analysis of Activity of Daily Living based on Accelerometry",
+    "title_kor": "가속도 센서 기반 일상생활 활동 군집 특징 분석",
+    "journal_eng": "전기학회논문지(Domestic) 특집호",
+    "author_kor": "임하민; 신항식",
+    "author_eng": "Hamin Lim; Hangsik Shin",
+    "author_ids": [
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11567794",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "26969429-8980-5a3a-b095-cb5efc543fd8",
+    "category": "award",
+    "date": "2023-11-01",
+    "title_eng": "Clustering Analysis of Activity of Daily Living based on Accelerometry",
+    "title_kor": "가속도 센서 기반 일상생활 활동 군집 특징 분석",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "임하민;신항식",
+    "author_eng": "Hamin Lim;Hangsik Shin",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "0317a002-3c1e-44a2-a96a-3fc9634c429e",
+    "category": "conference",
+    "class": "International",
+    "date": "2023-12-07",
+    "title_eng": "Atrial Fibrillation Diagnosis Using Machine Learning: Leveraging Minimal Health Data from UK Biobank",
+    "title_kor": "심방세동 진단을 위한 머신 러닝 활용: 최소한의 UK 바이오뱅크 건강 데이터 활용",
+    "conference_eng": "IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine & Biology",
+    "author_kor": "이재형; 권오석; 최예은; 박희남; 신항식",
+    "author_eng": "Jaehyung Lee; Oh-Seok Kwon; Ye Eun Choi; Hui-Nam Pak; Hangsik Shin",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "dac68d01-9733-44bc-a6ff-4f9b6b02fa7e",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-07-12",
+    "title_eng": "Assessment of Atrial Fibrillation Recurrence Risk Using an Artificial Intelligence Model Based on Multiview Cardiac Images",
+    "title_kor": "멀티뷰 심방이미지 기반 인공지능 모델을 사용한 심방세동 재발 예측",
+    "conference_eng": "The 54th KIEE Summer Conference 2023",
+    "author_kor": "석현석; 권오석; 박희남; 신항식",
+    "author_eng": "Hyeon Seok Seok; Oh-Seok Kwon; Hui-Nam Pak; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "35fe7426-b8bf-4fcb-a7f2-b8db79a47148",
+    "category": "conference",
+    "class": "International",
+    "date": "2023-07-24",
+    "title_eng": "Arrival Times of Maximum Pain and Pain Suppression After Acute Pain Stimulation in Surgical Procedure",
+    "title_kor": "Arrival Times of Maximum Pain and Pain Suppression After Acute Pain Stimulation in Surgical Procedure",
+    "conference_eng": "45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+    "author_kor": "석현석; 류가연; 최재문; 최병문; 신항식",
+    "author_eng": "Hyeon Seok Seok; Gayeon Ryu; Jae Moon Choi; Byungmoon Choi; Hangsik Shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "b2c21657-e9d9-5ead-85af-16547971e13a",
+    "category": "award",
+    "date": "2023-10-20",
+    "title_eng": "Application of Machine Learning to Develop a Delta Check Method for Five Tumor Markers",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "af605e41-14ec-48a6-adf1-0af158c615f2",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-07-12",
+    "title_eng": "Analyzing the Performance of a Convolutional Neural Network-based Atrial Fibrillation Classifier According to the Genetic Screening Thresholds",
+    "title_kor": "유전자 스크리닝 임계값에 따른 합성곱 신경망 기반 심방세동 분류기 성능 분석",
+    "conference_eng": "The 54th KIEE Summer Conference 2023",
+    "author_kor": "이재형; 석현석; 권오석; 박희남; 신항식",
+    "author_eng": "Jaehyung Lee; Hyeon Seok Seok; Oh-Seok Kwon; Hui-Nam Pak; Hangsik shin",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "5d41a757-fd4d-420e-860a-6bf51704a827",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-05-11",
+    "title_eng": "Analysis of psychiatric inpatients' abnormal behavior prior to self-harm or harm to others through nursing diary records",
+    "title_kor": "간호일지를 통한 정신과 병동 입원환자의 자해 및 타해 발생 전 이상행동 분석",
+    "conference_eng": "KOSOMBE spring conference 2023",
+    "author_kor": "왕창원; 임하민; 주성우; 이중선; 신항식",
+    "author_eng": "Changwon Wang; Hamin Lim; Sung Woo Joo3; Jungsun Lee; Hangsik shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "140e3b05-97fa-4c63-a649-9dc6aa692776",
+      "95c4fbbb-c06a-4457-8f76-5db67ee40176",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "d1f421a1-d2e7-455f-8921-078a1b7f8f49",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-07-12",
+    "title_eng": "Analysis of a surgical pain severity assessment feature based on photoplethysmogram",
+    "title_kor": "광용적맥파 기반 수술 통증 중증도 평가 지표 분석",
+    "conference_eng": "The 54th KIEE Summer Conference 2023",
+    "author_kor": "류가연; 석현석; 신항식; 최병문; 최재문",
+    "author_eng": "Gayeon Ryu; Hyeon Seok Seok; Hangsik shin; Byungmoon Choi; Jae Moon Choi",
+    "author_ids": [
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "79722270-bde5-4ef2-bad5-ccd4d4e75854"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "49da5bb1-4762-42b2-a5cd-00cc17a5e4eb",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2023-09-08",
+    "title_eng": "APPARATUS COMPRISING MULTIPLE ARRAY OF PRESSURE SENSORS AND DEVICE COMPRISING THE SAME",
+    "title_kor": "다중배열 압력센서를 포함하는 장치 및 이를 포함하는 웨어러블 기기",
+    "author_kor": "신항식; 박준영; 노동근; 최용순; 김도유; 최아영",
+    "author_eng": "Hangsik Shin; Junyoung Park; Donggeun Rho; Yongsoon Choi; Doyu Kim; Ahyoung Choi",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "57354d74-688e-49c4-a258-307386943d12",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "d8b09041-938f-4d10-bb17-176f72ef1683",
+      "65c403c8-2a42-4d96-9ef8-962c389141cb",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "fb68311e-5892-4acf-8beb-3903f421a8a0",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-12-15",
+    "title_eng": "A program for correcting ectopic heart beat",
+    "title_kor": "이소성 박동 교정 프로그램",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "71830e62-250c-4957-848f-9deddca9ec65",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-12-15",
+    "title_eng": "A program for converting three-dimensional graph data",
+    "title_kor": "3차원 그래프 데이터 변환 프로그램",
+    "author_kor": "신항식; 이재형",
+    "author_eng": "Hangsik Shin; Jaehyung Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "0caaad91-c8ef-44cd-ac06-05abbec19c25",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2023-02-01",
+    "title_eng": "A novel method for non-invasive blood pressure estimation based on continuous pulse transit time: An observational study",
+    "journal_eng": "Psychophysiology",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "8a4d751d-b46f-47e2-afbe-5e52dda4b5ed",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2023-10-26",
+    "title_eng": "A method and an apparatus for estimating the aortic pressure waveform",
+    "title_kor": "대동맥 압력 파형을 추정하는 방법 및 장치",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f52",
+    "category": "project",
+    "date": "2023-04-01",
+    "project_name_eng": "Development and validation of M3DT for electroceuticals and wearable bio-signal medical device",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f56",
+    "category": "project",
+    "date": "2023-06-01",
+    "project_name_eng": "Developed a digital management platform to improve prognosis and outcomes for musculoskeletal surgery patients: treatment strategies for rotator cuff tears",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f73",
+    "category": "project",
+    "date": "2023-01-01",
+    "project_name_eng": "Development of Autoverification Algorithm for Laboratory Test Results Using Artificial Intelligence",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "2d26f0e6-e084-5ec8-a3a5-e2fb69ca00be",
+    "category": "extracurricular",
+    "date": "2023-03-17",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "ca1c6aaa-aeca-5ebc-bb7c-b02db99d41e8",
+    "category": "extracurricular",
+    "date": "2023-01-01",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "cfebd02d-de1c-5993-83df-551c4ed4ad2f",
+    "category": "extracurricular",
+    "date": "2023-01-01",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "5afc0590-0b7e-5998-a160-5c025cbc0831",
+    "category": "extracurricular",
+    "date": "2023-01-01",
+    "year_resolved": "2023"
+  }
+]

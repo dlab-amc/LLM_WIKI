@@ -1,0 +1,581 @@
+[
+  {
+    "id": "aa9ed85d-9d96-49ab-9897-a99041cc0389",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2026-03-03",
+    "title_eng": "Instability and performance limits of convolutional neural networks on non-sequential medical tabular data: an empirical investigation",
+    "journal_eng": "Scientific Reports",
+    "author_kor": "왕창원; 모하메드 엘젠디; 신항식",
+    "author_eng": "Changwon Wang; Mohamed Elgendi; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "afb9d7ff-1260-4ee9-a040-9e8d768382e8",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.nature.com/articles/s41598-026-39875-9",
+    "year_resolved": "2026"
+  },
+  {
+    "id": "f691c0c4-7803-4650-8cd1-1c53f0ea5cb3",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2025-10-23",
+    "title_eng": "인공지능 보정 기반의 블루투스 위치 추정 방법, 장치 및 프로그램",
+    "title_kor": "인공지능 보정 기반의 블루투스 위치 추정 방법, 장치 및 프로그램",
+    "author_kor": "이재형; 신항식; 임하민; 왕창원",
+    "author_eng": "Jaehyung Lee; Hangsik Shin; Hamin Lim; Changwon Wang",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "ad98337a-712a-4d40-a163-4ac540834245"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "c9f92658-b039-43e6-b94b-b5ba3dd80d0b",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-05-08",
+    "title_eng": "Activity Level Characteristics Analysis According to Severity in Closed Ward Patients",
+    "title_kor": "폐쇄병동 환자 중증도에 따른 활동량 특징 분석",
+    "conference_eng": "2025년도 제 65회 대한의용생체공학회 춘계학술대회",
+    "author_kor": "임하민; 왕창원; 신항식",
+    "author_eng": "Hamin Lim; Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "f6f4aaf9-2e48-49d7-8ee2-babcf0cb65b7",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2024-12-30",
+    "title_eng": "Method for Improving indoor positioning Accuracy based ob bluetooth",
+    "title_kor": "블루투스 기반 실내 위치 추정 정확도 향상을 위한 방법",
+    "author_kor": "이재형; 신항식; 임하민; 왕창원",
+    "author_eng": "Jaehyung Lee; Hangsik Shin; Hamin Lim; Changwon Wang",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "ad98337a-712a-4d40-a163-4ac540834245"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "d0fd3ec9-d105-4dd3-abf3-c8b5a254ff66",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-07-10",
+    "title_eng": "Location Monitoring Platform for  Psychiatric Closed Ward",
+    "title_kor": "폐쇄병동 입원환자 위치 모니터링 플랫폼",
+    "conference_eng": "The 55th KIEE Summer Conference 2024",
+    "author_kor": "임하민; 왕창원; 신항식",
+    "author_eng": "Hamin Lim; Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "de172548-fd67-49dd-8254-eea5fc110b03",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-11-07",
+    "title_eng": "In-hospital patient’s location correction using machine learning",
+    "title_kor": "머신러닝을 활용한 병동내 환자 위치 추정 오류 보정",
+    "conference_eng": "The 64th Annual Fall Conference of the Korean Society of Medical and Biological Engineering (KOSOMBE) 2024",
+    "author_kor": "이재형; 임하민; 왕창원; 신항식",
+    "author_eng": "Jaehyung Lee; Hamin Lim; Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "7dd029f2-44c3-41a1-8e9d-f9d48a211273",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-05-09",
+    "title_eng": "Identifying Key Physical Function Indicators for Pre-Frailty",
+    "title_kor": "전노쇠 단계 분류를 위한 신체기능 평가지표 탐색",
+    "conference_eng": "2024 KOSOMBE spring conference",
+    "author_kor": "왕창원; 신항식",
+    "author_eng": "Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "859d8bbf-e331-46e9-8de4-206c9f6291b6",
+    "category": "conference",
+    "class": "International",
+    "date": "2024-07-15",
+    "title_eng": "Identify Pre-Frailty Among the Elderly Using Demographic, Physical Function, and Gait Data",
+    "title_kor": "인구학적 정보, 신체기능 및 보행데이터를 이용한 전노쇠 식별",
+    "conference_eng": "EMBC 2024",
+    "author_kor": "왕창원; 신항식",
+    "author_eng": "Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "a9be57b4-b145-4ac1-880a-bd7b8bed3668",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2024-05-13",
+    "title_eng": "FDA-cleared home sleep apnea testing devices",
+    "journal_eng": "npj Digital Medicine",
+    "author_kor": "박지현; 왕창원; 신항식",
+    "author_eng": "Ji Hyeun Park; Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "3a5a94ad-5186-494a-a8fb-1138bb9889f9",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.nature.com/articles/s41746-024-01112-w",
+    "year_resolved": "2024"
+  },
+  {
+    "id": "39e9c947-ff80-4433-8782-c1479e161d54",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-07-10",
+    "title_eng": "Development of a Patient Location Monitoring Mobile Application in Hospitals",
+    "title_kor": "병원 내 환자 위치 모니터링 모바일 어플리케이션 개발",
+    "conference_eng": "The 55th KIEE Summer Conference 2024",
+    "author_kor": "왕창원; 임하민; 신항식",
+    "author_eng": "Changwon Wang; Hamin Lim; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "cacc67b5-67ad-4753-b680-051c11d0c02f",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-06-19",
+    "title_eng": "Development of a Location Monitoring Platform for Inpatients within Closed Psychiatric Ward",
+    "title_kor": "폐쇄병동 환자 위치 모니터링 플랫폼 구축 사례",
+    "conference_eng": "KOSMI 2024 Spring conference",
+    "author_kor": "왕창원; 임하민; 주성우; 이중선; 신항식",
+    "author_eng": "Changwon Wang; Hamin Lim; Sung Woo Joo; Jungsun Lee; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "140e3b05-97fa-4c63-a649-9dc6aa692776",
+      "95c4fbbb-c06a-4457-8f76-5db67ee40176",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "ff93bf0b-1866-43d0-b881-67b5400e47f3",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-10-23",
+    "title_eng": "Comparison of PANSS Total Score and K-means Clustering-Based Methods for Evaluating Schizophrenia Symptom Severity",
+    "title_kor": "Positive and Negative Syndrome Scale 총점 및 K-means Clustering 기반 조현병 증상 중증도 평가방법 비교",
+    "conference_eng": "Conference on Information and Control Systems",
+    "author_kor": "왕창원; 신항식",
+    "author_eng": "Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "e401d263-72e8-4304-a79d-d829488b7d8d",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2023-12-29",
+    "title_eng": "monitoring system for people in the facility",
+    "title_kor": "시설 내 대상자 모니터링 시스템",
+    "author_kor": "신항식; 왕창원; 이중선; 주성우; 임하민",
+    "author_eng": "Hangsik Shin; Changwon Wang; Jungsun Lee; Sung Woo Joo; Hamin Lim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "95c4fbbb-c06a-4457-8f76-5db67ee40176",
+      "140e3b05-97fa-4c63-a649-9dc6aa692776",
+      "e556ed57-f679-4685-a592-767ec3a64f46"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "aa2c9aaf-e5d8-4595-9290-e5da3e26e0a0",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-05-25",
+    "title_eng": "Web-based biosignal display program",
+    "title_kor": "웹 기반 생체정보 디스플레이 프로그램",
+    "author_kor": "신항식; 왕창원; 최아영; 류관곤; 방근호; 황정연",
+    "author_eng": "Hangsik Shin; Changwon Wang; Ahyoung Choi; KwanKon Ryu; Geunho Bang; Jeongyeon Hwang",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "841977d8-32ee-41ce-9032-8c50c3c74f06",
+      "34aa57f5-c474-4d02-b12d-d593e963e420",
+      "abf2eaf0-b6d8-49e0-b7a5-8ab05d86f53d"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "8b8fb1d8-4152-49c6-b141-74e4f4dc7e55",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-12-13",
+    "title_eng": "Web application for user biometric and location information monitoring and risk notification",
+    "title_kor": "사용자 생체정보 및 위치정보 모니터링, 위험 알림을 위한 웹 응용프로그램",
+    "author_kor": "신항식; 왕창원; 임하민",
+    "author_eng": "Hangsik Shin; Changwon Wang; Hamin Lim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "d9faa601-2a16-4028-bf71-11ab78b22a2e",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-12-13",
+    "title_eng": "Wearable device application for measuring heart rate, acceleration, and indoor location information",
+    "title_kor": "심박수, 가속도, 실내 위치 정보 측정을 위한 웨어러블 기기 어플리케이션",
+    "author_kor": "신항식; 왕창원; 임하민",
+    "author_eng": "Hangsik Shin; Changwon Wang; Hamin Lim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "d6971514-180d-43ac-a9ff-cd723e5591b2",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2023-12-13",
+    "title_eng": "Smart  Hospital  Advancements  and  Future  Perspectives in South  Korea",
+    "title_kor": "국내 스마트병원 구축현황 및 발전 방안",
+    "journal_eng": "Clinical Chemistry and Laboratory Medicine (CCLM)",
+    "author_kor": "왕창원; 신항식",
+    "author_eng": "Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "647f9bd0-aa84-41ba-a6c4-99eeb0554b61",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-12-13",
+    "title_eng": "Sever program for biometric and location information collection, user risk analysis, and alarm control",
+    "title_kor": "생체정보 및 위치정보 수집, 사용자 위험 분석, 알람 제어를 위한 서버 프로그램",
+    "author_kor": "신항식; 왕창원; 임하민",
+    "author_eng": "Hangsik Shin; Changwon Wang; Hamin Lim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "62eac829-8ba2-4a31-9cbd-7b4f5a15db39",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-05-25",
+    "title_eng": "Server program for storing and transmitting heart rate and acceleration signals",
+    "title_kor": "심박수와 가속도 신호 저장 및 전송을 위한 서버 프로그램",
+    "author_kor": "신항식; 왕창원; 최아영; 방근호; 황정연; 류관곤",
+    "author_eng": "Hangsik Shin; Changwon Wang; Ahyoung Choi; Geunho Bang; Jeongyeon Hwang; KwanKon Ryu",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "34aa57f5-c474-4d02-b12d-d593e963e420",
+      "abf2eaf0-b6d8-49e0-b7a5-8ab05d86f53d",
+      "841977d8-32ee-41ce-9032-8c50c3c74f06"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "9ff5a633-b38f-455e-8c51-3ac02ca8abb5",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-07-12",
+    "title_eng": "Preliminary Study for the Optimal Attachment Position of Accelerometer for Detecting Abnormal Behavior of Psychiatric Inpatient",
+    "title_kor": "정신과 폐쇄병동 환자 이상행동 판단을 위한 가속도센서 부착 최적 위치 기초연구",
+    "conference_eng": "The 54th KIEE Summer Conference 2023",
+    "author_kor": "임하민; 왕창원; 신항식",
+    "author_eng": "Hamin Lim; Changwon Wang; Hangsik shin",
+    "author_ids": [
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "55078441-f6a7-4eac-ad08-c10488c2a1aa",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-05-25",
+    "title_eng": "Heart rate, acceleration signal measurement, transmission program for wearable devices",
+    "title_kor": "웨어러블 기기용 심박수, 가속도 신호 측정, 전송 프로그램",
+    "author_kor": "신항식; 왕창원; 최아영; 방근호; 황정연; 류관곤",
+    "author_eng": "Hangsik Shin; Changwon Wang; Ahyoung Choi; Geunho Bang; Jeongyeon Hwang; KwanKon Ryu",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "34aa57f5-c474-4d02-b12d-d593e963e420",
+      "abf2eaf0-b6d8-49e0-b7a5-8ab05d86f53d",
+      "841977d8-32ee-41ce-9032-8c50c3c74f06"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "5ce419ea-4c49-4e0a-92be-9bd1345f3b9e",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2023-03-10",
+    "title_eng": "Digital therapeutics from bench to bedside",
+    "journal_eng": "npj Digital Medicine",
+    "author_kor": "왕창원; 이충근; 신항식",
+    "author_eng": "Changwon Wang; Chungkeun Lee; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.nature.com/articles/s41746-023-00777-z",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "fa728223-5be4-4016-a580-a72eb1521867",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-11-09",
+    "title_eng": "Development of an Emotional State Prediction Model Using Acceleration Signal, Heart rate, Electrodermal Activity, and Emotional Questionnaires",
+    "title_kor": "가속도 신호, 심박수, 피부전기활동, 감정설문을 이용한 감정상태 예측 모델 개발",
+    "conference_eng": "9th International Biomedical Engineering Conference IBEC 2023",
+    "author_kor": "왕창원; 신항식",
+    "author_eng": "Changwon Wang; Hangsik shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "8a592eca-d630-43cf-93a2-83e989334ef6",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-07-12",
+    "title_eng": "Development of a Real-time Abnormal Heart rate and Physical activity Platform Using Wearable Watches for Monitoring Psychiatric Inpatients",
+    "title_kor": "정신과 폐쇄 병동 입원환자 모니터링을 위한 웨어러블 워치 기반 실시간 이상 심박수 및 신체활동 플랫폼 개발",
+    "conference_eng": "The 54th KIEE Summer Conference 2023",
+    "author_kor": "왕창원; 방근호; 류관곤; 황정연; 최아영; 신항식",
+    "author_eng": "Changwon Wang; Geunho Bang; KwanKon Ryu; Jeongyeon Hwang; Ahyoung Choi; Hangsik shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "34aa57f5-c474-4d02-b12d-d593e963e420",
+      "841977d8-32ee-41ce-9032-8c50c3c74f06",
+      "abf2eaf0-b6d8-49e0-b7a5-8ab05d86f53d",
+      "3b335d90-63e6-40ce-800a-493f4f2beff1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "5d41a757-fd4d-420e-860a-6bf51704a827",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-05-11",
+    "title_eng": "Analysis of psychiatric inpatients' abnormal behavior prior to self-harm or harm to others through nursing diary records",
+    "title_kor": "간호일지를 통한 정신과 병동 입원환자의 자해 및 타해 발생 전 이상행동 분석",
+    "conference_eng": "KOSOMBE spring conference 2023",
+    "author_kor": "왕창원; 임하민; 주성우; 이중선; 신항식",
+    "author_eng": "Changwon Wang; Hamin Lim; Sung Woo Joo3; Jungsun Lee; Hangsik shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "140e3b05-97fa-4c63-a649-9dc6aa692776",
+      "95c4fbbb-c06a-4457-8f76-5db67ee40176",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "abbfde65-2938-4f39-92cd-02ca4a154213",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2022-10-19",
+    "title_eng": "비순차 데이터 적용을 위한 합성곱 신경망 분류기 하이퍼 파라미터 최적화 기초 연구",
+    "title_kor": "비순차 데이터 적용을 위한 합성곱 신경망 분류기 하이퍼 파라미터 최적화 기초 연구",
+    "conference_eng": "CICS’22 정보 및 제어 학술대회",
+    "author_kor": "왕창원; 신항식",
+    "author_eng": "Changwon Wang; Hangsik shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "ec984069-549a-45b8-a477-f476adb29b70",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2022-11-03",
+    "title_eng": "Photoplethysmogram Feature Analysis for Surgical Pain Assessment",
+    "title_kor": "수술 중 통증 평가를 위한 광용적맥파 특징 지표 분석",
+    "conference_eng": "60th KOSOMBE Autumn Conference 2022",
+    "author_kor": "류가연; 석현석; 왕창원; 최병문; 최재문; 신항식",
+    "author_eng": "Gayeon Ryu; Hyeon Seok Seok; Changwon Wang; Byungmoon Choi; Jae Moon Choi; Hangsik shin",
+    "author_ids": [
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "f8c2a899-4ecb-4ea4-8b93-d5d662a4c0dc",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2022-10-19",
+    "title_eng": "Genome-Wide Association Studies and Electronic Medical Record based Atrial Fibrillation Discriminat ion Using Ensemble Models",
+    "title_kor": "앙상블 모델을 사용한 전장유전체 및 의료정보 기반 심방세동 판별",
+    "conference_eng": "CICS'22 정보 및 제어 학술대회",
+    "author_kor": "이재형; 왕창원; 석현석; 권오석; 박희남; 신항식",
+    "author_eng": "Jaehyung Lee; Changwon Wang; Hyeon Seok Seok; Oh-Seok Kwon; Hui-Nam Pak; Hangsik shin",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "0b2b5c3b-3652-47ef-8ce0-6a26c4426726",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2022-11-03",
+    "title_eng": "GWAS-based Atrial Fibrillation Identification Using DCNN",
+    "title_kor": "전장 유전체 기반 심층 합성곱 신경망을 사용한 심방세동 식별",
+    "conference_eng": "60th KOSOMBE Autumn Conference 2022",
+    "author_kor": "이재형; 왕창원; 석현석; 권오석; 박희남; 신항식",
+    "author_eng": "Jaehyung Lee; Changwon Wang; Hyeon Seok Seok; Oh-Seok Kwon; Hui-Nam Pak; Hangsik shin",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "ee05cb84-1386-49fe-bf89-d909093c9720",
+      "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "641091b9-4c8f-4d65-9973-e2334415c9b3",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2022-11-03",
+    "title_eng": "Evaluation of classification performance for the non-sequential input data of convolution neural network classifier according to the effect size",
+    "title_kor": "합성곱 신경망 분류기의 비순차 입력데이터 효과크기에 따른 분류 성능 평가",
+    "conference_eng": "60th KOSOMBE Autumn Conference 2022",
+    "author_kor": "왕창원; 신항식",
+    "author_eng": "Changwon Wang; Hangsik shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "26adf6d1-2d84-4b8c-9831-b4ea80e0879f",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2022-07-13",
+    "title_eng": "Evaluation of Convolution Neural Network classifier compatibility for Non-Sequential Data Input",
+    "title_kor": "비순차 데이터 입력에 대한 Convolution Neural Network 분류기 적합성 평가",
+    "conference_eng": "제 53회 대한전기학회 하계학술대회",
+    "author_kor": "왕창원; 석현석; 신항식",
+    "author_eng": "Changwon Wang; Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "a99b15be-b7f4-4777-aba8-50c8c0910789",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2022-10-19",
+    "title_eng": "Comparison of Photoplethysmogram Feature for Intraoperative Pain and Postoperative Pain",
+    "title_kor": "수술 중 및 수술 후 통증에 대한 광용적맥파 특징 지표 비교",
+    "conference_eng": "CICS'22 정보 및 제어 학술대회",
+    "author_kor": "류가연; 석현석; 왕창원; 최병문; 최재문; 신항식",
+    "author_eng": "Gayeon Ryu; Hyeon Seok Seok; Changwon Wang; Byungmoon Choi; Jae Moon Choi; Hangsik shin",
+    "author_ids": [
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2022"
+  },
+  {
+    "id": "75d66411-d17e-489d-8d89-31a04685811d",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2019-09-12",
+    "title_eng": "Preliminary Clinical Application of Textile Insole Sensor for Hemiparetic Gait Pattern Analysis",
+    "journal_eng": "Sensors",
+    "author_kor": "왕창원; 김영; 신항식; 민세동",
+    "author_eng": "Changwon Wang; Young Kim; Hangsik Shin; Se Dong Min",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "28016753-aa45-4c02-b613-aa42fe2a3581",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/31547437/",
+    "year_resolved": "2019"
+  }
+]

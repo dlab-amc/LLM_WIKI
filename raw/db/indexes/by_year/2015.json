@@ -1,0 +1,889 @@
+[
+  {
+    "id": "fe9e31fd-20ff-49ec-9388-4742b1045656",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2015-04-24",
+    "title_eng": "Wearable appaaratus, server, system, and method for extracting parameters of cardiovascular",
+    "title_kor": "웨어러블 생체신호측정 기기, 서버, 시스템 및 방법",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "c6e95468-aa2a-539d-ac82-ff111daebf45",
+    "category": "book",
+    "year": 2015,
+    "title_eng": "Unconstrained Continuous Infants Monitoring System Based on Mattress- Type Force Sensing Platform: A Pilot Study",
+    "title_kor": "Unconstrained Continuous Infants Monitoring System Based on Mattress- Type Force Sensing Platform: A Pilot Study",
+    "author_kor": "Hangsik Shin; Hwajin Choi;Sooji Park",
+    "author_eng": "Hangsik Shin; Hwajin Choi;Sooji Park",
+    "year_resolved": "2015"
+  },
+  {
+    "id": "076319c8-b335-4cc8-b0c8-3c936acd600f",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2015-06-22",
+    "title_eng": "System and program for evaluating cardiovascular function based on interaction between smart device and wearable device",
+    "title_kor": "스마트 기기 및 웨어러블 디바이스 인터렉션 기반 심혈관 평가 시스템 및 심혈관 평가 프로그램",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "688e106f-8bee-42b9-8984-62dcbda7358b",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-05-13",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "fb15668c-e740-44a8-8ddb-b449ff12c9e8",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-04-06",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "고재우; 신항식; 박세준; 김양욱; 천해인; 정재호",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park; Yangwook Kim; Haein Chun; Jaeho Jung",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1",
+      "ae26dc01-50c2-4bd4-827c-75c5b0a45255",
+      "6087851f-34e1-47bc-ac70-223bbc0b9f35",
+      "3781bf3e-a884-453b-b569-b5b28d3d621b"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "ab9facc4-ae3f-4d2f-85e6-00322e62feb6",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-03-05",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "c0ad3b45-ac85-4525-9ace-c3f0c3fd8628",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-03-04",
+    "title_eng": "System and method of controlling external apparatus connected with device",
+    "title_kor": "System and method of controlling external apparatus connected with device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "36f04aac-a103-4aad-989b-e1112204f4a7",
+    "category": "conference",
+    "class": "International",
+    "date": "2015-11-12",
+    "title_eng": "Relation between the Maximum Systolic Location of Photoplethysmography Waveform and Sampling Frequency",
+    "title_kor": "Relation between the Maximum Systolic Location of Photoplethysmography Waveform and Sampling Frequency",
+    "conference_eng": "International Biomedical Engineering Conference 2015(IBEC 2015)",
+    "author_kor": "신항식; 박수지",
+    "author_eng": "Hangsik shin; Sooji park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "ac8ae4e3-e8f7-44ac-8805-9e412688251e",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2015-09-17",
+    "title_eng": "Quasi-periodic signal pole detection method of quasi-periodic signal and program thereof",
+    "title_kor": "준주기 신호의 실시간 극점 검출 방법 및 그 프로그램",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "805b2fef-ad9f-47fd-a4aa-8b6a6f82cd5c",
+    "category": "conference",
+    "class": "International",
+    "date": "2015-12-02",
+    "title_eng": "Pulse Wave Pitch Detection Technique and Its Application to Human Sensibility Evaluation",
+    "title_kor": "Pulse Wave Pitch Detection Technique and Its Application to Human Sensibility Evaluation",
+    "conference_eng": "2015 International Conference on Mechatronics and Information Technology(ICMIT 2015)",
+    "author_kor": "김동준; 이현민; 이정환; 신항식",
+    "author_eng": "Dong-Jun Kim; Hyun-Min Lee; Jeong-Whan Lee; Hangsik shin",
+    "author_ids": [
+      "62d51eaa-e423-49c2-b058-669ba146f3fa",
+      "3f286897-33cd-42fb-919d-47823e117509",
+      "596b9b4d-31d5-43cb-b6f4-656f259b6ef5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "0120800c-7c6b-4904-bad3-18ee9564edf5",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-07-15",
+    "title_eng": "Preliminary Study of IoT Module for Monitoring of Abnormal Respiratory Activity during Sleep",
+    "title_kor": "수면 중 비정상호흡 모니터링을 위한 IoT 모듈 사전연구",
+    "conference_eng": "The 46th KIEE Summer Conference 2015",
+    "author_kor": "박수지; 신항식; 김훈",
+    "author_eng": "Sooji park; Hangsik shin; Hoon Kim",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "68a7cea7-eb6d-4806-8658-50b7e4135546"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "f48e5676-988e-4b17-8a25-2c619f360c82",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-07-15",
+    "title_eng": "Preliminary Study of Biomedical Signal-based IoT Diffuser",
+    "title_kor": "생체신호 기반 IoT 디퓨저 개발을 위한 기초연구",
+    "conference_eng": "The 46th KIEE Summer Conference 2015",
+    "author_kor": "양윤라; 신항식",
+    "author_eng": "Yoon La Yang; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "4f20568a-c1b8-55b8-8ea8-cd5b2e627ba1",
+    "category": "book",
+    "year": 2015,
+    "date": "2014-12-17",
+    "title_eng": "Preliminary Study for Driver’s Posture Correction Support System Based on Seat-Embedded Pressure Sensing Platform ",
+    "title_kor": "Preliminary Study for Driver’s Posture Correction Support System Based on Seat-Embedded Pressure Sensing Platform ",
+    "author_kor": "Hangsik Shin;Kwanghyun Kim;Jeawon Son;Miri Kim",
+    "author_eng": "Hangsik Shin;Kwanghyun Kim;Jeawon Son;Miri Kim",
+    "year_resolved": "2015"
+  },
+  {
+    "id": "f56aab27-6a2d-4d32-985d-0e7e9dc99971",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2015-09-08",
+    "title_eng": "Portable electronic device with animated GUI",
+    "title_kor": "Portable electronic device with animated GUI",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "6fcae3c0-d570-4cf6-8744-8cc4617bbf26",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2015-08-25",
+    "title_eng": "Portable electronic device with animated GUI",
+    "title_kor": "Portable electronic device with animated GUI",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "09459841-56f8-4ff9-b35f-85f2d25fc568",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2015-03-17",
+    "title_eng": "Portable electronic device with an animated graphical user interface",
+    "title_kor": "Portable electronic device with an animated graphical user interface",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "905a5ea4-9228-49c8-9102-8e87b3a7bde7",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2015-03-17",
+    "title_eng": "Portable electronic device with a graphical user interface",
+    "title_kor": "Portable electronic device with a graphical user interface",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "89186b99-3c56-4b0c-a82f-ef27cac950ee",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2015-09-22",
+    "title_eng": "Portable electronic device with GUI",
+    "title_kor": "휴대용 전자장치 GUI",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "791d3c60-fc61-4ac9-a01e-23a09f22b89f",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2015-09-22",
+    "title_eng": "Portable electronic device with GUI",
+    "title_kor": "Portable electronic device with GUI",
+    "author_kor": "신항식; 박정훈; 유현국; 안성주",
+    "author_eng": "Hangsik Shin; Junghoon Park; Hyungok Yoo; Sungjoo Ahn",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "82571796-a65a-477c-8cbc-9496880f7749"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "753a8115-c637-4c63-8293-1bd4c3584389",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-07-15",
+    "title_eng": "Modeling for Webcam-based Height Measurement System",
+    "title_kor": "웹캠 기반 무구속 신장측정 시스템 모델링",
+    "conference_eng": "The 46th KIEE Summer Conference 2015",
+    "author_kor": "최화진; 신항식",
+    "author_eng": "Hawjin Choi; Hangsik shin",
+    "author_ids": [
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "c3e80893-1c76-4f1e-a8ad-923e0ae118be",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-01-30",
+    "title_eng": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "title_kor": "Method of managing external devices, method of operating external device, host device, management server, and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "a5660f33-7948-42ec-8699-60d1a103e749",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-06-24",
+    "title_eng": "Method of managing external devices method of operating external device host device anagement server and external device",
+    "title_kor": "Method of managing external devices method of operating external device host device anagement server and external device",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "e8d267e3-5eaa-42e1-b354-8ade35c6bc3f",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2015-03-06",
+    "title_eng": "Method of executing application and terminal using the method",
+    "title_kor": "Method of executing application and terminal using the method",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "064e5412-7e34-4365-94fa-0f1b0eb3296a",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2015-08-04",
+    "title_eng": "Method for real-time QRS-complex detection and program thereof",
+    "title_kor": "실시간 QRS파 검출 방법 및 그 프로그램",
+    "author_kor": "신항식; 김진권",
+    "author_eng": "Hangsik Shin; Jinkwon Kim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "cd0381b1-d804-4603-b4c7-1744fab9ab1c",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-12-03",
+    "title_eng": "Method and divice for excuting application",
+    "title_kor": "Method and divice for excuting application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "234961bc-084b-44f1-9553-a4ca9f9a685c",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-05-13",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "6b331d2a-9732-4be4-9f9b-808a9b5bee17",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-03-05",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "f97659e2-e136-47ed-8c6c-b17dce7a9530",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-03-04",
+    "title_eng": "Method and device for executing application",
+    "title_kor": "Method and device for executing application",
+    "author_kor": "고재우; 신항식; 박세준",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "e043aa68-eca0-4e79-825a-e0533558504f",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-05-28",
+    "title_eng": "Method and apparatus for measuring bio signal",
+    "title_kor": "Method and apparatus for measuring bio signal",
+    "author_kor": "조재걸; 김광춘; 김재필; 민진홍; 백현재; 신항식",
+    "author_eng": "Jaegeol Cho; Kwangchoon Kim; Jaepil Kim; Jinhong Min; Hyunjae Baek; Hangsik Shin",
+    "author_ids": [
+      "d34f5857-264d-403b-a59f-be03ad383be3",
+      "87cf7e69-dd97-4ac4-97d6-162acf858278",
+      "a654344e-9a61-44ba-8667-fa2d26d9530d",
+      "39afba78-7e6f-4ac0-8bc0-6d363ac3398e",
+      "52c800ad-007d-46f1-98ab-3ac1dad2f4a3",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "3877be5b-b94f-40d6-9ff4-fdc6f07e70cb",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-05-13",
+    "title_eng": "Method and apparatus for executing application in device",
+    "title_kor": "Method and apparatus for executing application in device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "a30f93ec-1a92-4519-bfed-4425bc17a1f0",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-04-02",
+    "title_eng": "Method and apparatus for executing application in device",
+    "title_kor": "Method and apparatus for executing application in device",
+    "author_kor": "신항식; 고재우; 박세준",
+    "author_eng": "Hangsik Shin; Jae-woo Ko; Se-jun Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "8f3a7b76-91aa-43c7-8298-9567a23b03a3",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-07-15",
+    "title_eng": "Maximum dV/dt Detection Algorithm for Photoplethysmography Waveform",
+    "title_kor": "광용적맥파 신호 최대 dV/dt 검출 알고리즘 개발",
+    "conference_eng": "The 46th KIEE Summer Conference 2015",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "973df1ec-dc2e-4671-abb7-89f4905c0195",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-07-15",
+    "title_eng": "Investigation of Optimal Position of Strip-type Force Sensor to Detect Respiration",
+    "title_kor": "호흡 검출을 위한 스트립 힘센서 최적위치 고찰",
+    "conference_eng": "The 46th KIEE Summer Conference 2015",
+    "author_kor": "최화진; 박수지; 신항식",
+    "author_eng": "Hawjin Choi; Sooji park; Hangsik shin",
+    "author_ids": [
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "cda7c3da-51b0-48ad-a5d9-43da65174f46",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-02-09",
+    "title_eng": "Investigation for the Gender Difference of Autonomic Nervous Activity under Cold Stress",
+    "title_kor": "저온 환경에서 성별에 따른 자율신경계 변화 특성 고찰",
+    "conference_eng": "Bio-Medical System Conference 2015",
+    "author_kor": "신항식; 최화진; 손제원",
+    "author_eng": "Hangsik shin; Hawjin Choi; Jaewon Son",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "c59f4359-6b52-4820-9244-6c85930dcb9a"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "0ca83652-49a5-4f2e-94fd-a4a7ce1600a6",
+    "category": "patent",
+    "class": "International Design",
+    "date": "2015-04-28",
+    "title_eng": "Graphical user interface for a display screen or portion thereof",
+    "title_kor": "Graphical user interface for a display screen or portion thereof",
+    "author_kor": "신항식; 안성주; 유현국; 박정훈",
+    "author_eng": "Hangsik Shin; Sungjoo Ahn; Hyungok Yoo; Junghoon Park",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "82571796-a65a-477c-8cbc-9496880f7749",
+      "7e245481-d9e7-4e64-b771-18739a464f6d",
+      "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "e3ba3ebc-cf7b-4844-bb32-2e2af0e4f34d",
+    "category": "conference",
+    "class": "International",
+    "date": "2015-08-25",
+    "title_eng": "Feasibility Study of the Respiratory Activity Monitoring based on Acceleration and Pressure Measurement Inside Pillow",
+    "title_kor": "Feasibility Study of the Respiratory Activity Monitoring based on Acceleration and Pressure Measurement Inside Pillow",
+    "conference_eng": "37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC 2015)",
+    "author_kor": "박수지; 신항식",
+    "author_eng": "Sooji park; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "288f46bd-dba9-4f76-bddd-b40a979929b4",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2015-08-01",
+    "title_eng": "Evaluation of the Ambient Temperature Effect for the Autonomic Nervous Activity through the Time Domain Analysis of the Heart Rate Variability",
+    "title_kor": "심박변이율 시간영역 분석을 통한 실내온도변화에 따른 자율신경활동 평가",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "민세동; 신항식",
+    "author_eng": "Se-Dong Min; Hangsik shin",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201529362421541",
+    "year_resolved": "2015"
+  },
+  {
+    "id": "81757627-92dc-49b8-931d-9f13d8f6feed",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2015-08-01",
+    "title_eng": "Evaluation of the Ambient Temperature Effect for the Autonomic Nervous Activity of the Young Adult through the Frequency Analysis of the Heart Rate Variability",
+    "title_kor": "심박변이율 주파수 분석을 통한 실내온도에 따른 건강한 성인의 자율신경계 활동 평가",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.researchgate.net/publication/283032236_Evaluation_of_the_Ambient_Temperature_Effect_for_the_Autonomic_Nervous_Activity_of_the_Young_Adult_through_the_Frequency_Analysis_of_the_Heart_Rate_Variability",
+    "year_resolved": "2015"
+  },
+  {
+    "id": "da33dbec-940a-46ce-8d1c-b517f5c42a31",
+    "category": "patent",
+    "class": "International",
+    "date": "2015-06-18",
+    "title_eng": "Electronic apparatus and method of outputting content by the electronic apparatus",
+    "title_kor": "전자장치와 전자장치에 의해 콘탠츠를 출력하는 방법",
+    "author_kor": "고재우; 신항식; 박세준; 김도영",
+    "author_eng": "Jae-woo Ko; Hangsik Shin; Se-jun Park; Do-young Kim",
+    "author_ids": [
+      "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1",
+      "ff2d7766-ad0b-435d-9009-99202178bb34"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "32db1b35-527e-42d1-8453-ec9f9965744b",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-10-22",
+    "title_eng": "Development of Pillow Insertable Multiple Sensor Platform for Sleep Monitoring",
+    "title_kor": "수면 모니터링을 위한 베개삽입형 복합 센서 플랫폼 개발",
+    "conference_eng": "Conference on Information and Control Systems 2015",
+    "author_kor": "박수지; 양윤라; 김훈; 신항식",
+    "author_eng": "Sooji park; Yoon La Yang; Hoon Kim; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "68a7cea7-eb6d-4806-8658-50b7e4135546",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "997d1fe9-2d58-5568-8ee0-967115a1c555",
+    "category": "award",
+    "date": "2015-10-22",
+    "title_eng": "Development of Pillow Insertable Multiple Sensor Platform for Sleep Monitoring",
+    "title_kor": "수면 모니터링을 위한 베개삽입형 복합 센서 플랫폼 개발",
+    "award_name_eng": "Best paper award of Conference on Information and Control Systems 2015",
+    "author_kor": "박수지;양윤라;김훈;신항식",
+    "author_eng": "Sooji Park;Yoon La Yang;Hoon Kim;Hangsik Shin",
+    "year_resolved": "2015"
+  },
+  {
+    "id": "8237817a-be14-4124-8d0b-61cb865ee490",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-10-22",
+    "title_eng": "Development of Internet-of-Things Diffuser to Provide Aroma and Lightning Therapy based on Bio-Signal",
+    "title_kor": "생체신호기반 조명, 향기 요법 제공을 위한 IoT 디퓨져 개발",
+    "conference_eng": "Conference on Information and Control Systems 2015",
+    "author_kor": "양윤라; 강성탁; 신항식; 김동준",
+    "author_eng": "Yoon La Yang; Seongtak Kang; Hangsik shin; Dong-Jun Kim",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "2305510c-90d6-4355-99bd-7d63caa62cfb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "62d51eaa-e423-49c2-b058-669ba146f3fa"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "618537b6-15bc-4ea2-ae80-542b580d3113",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-05-08",
+    "title_eng": "Development of Belt-type Pressure Sensor Module and Evaluation the Respiration Waveform according to the Measuring Site",
+    "title_kor": "벨트형 압력센서 모듈 제작 및 측정 위치에 따른 호흡 파형 비교",
+    "conference_eng": "The 50th Korea Society of Medical and Biological Engineering Spring Conference 2015",
+    "author_kor": "박수지; 최화진; 신항식",
+    "author_eng": "Sooji park; Hawjin Choi; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "26d95d61-3466-4d50-884e-61a040f650e5",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2015-02-01",
+    "title_eng": "Analysis for the Fluctuation of the Photoplethysmographic Waveform derived by Temperature Stress of Measuring Position",
+    "title_kor": "측정부 온도 부하에 따른 광용적맥파 파형 요동 특성 분석",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "이충근; 신항식",
+    "author_eng": "Chungkeun Lee; Hangsik shin",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.researchgate.net/publication/273911498_Analysis_for_the_Fluctuation_of_the_Photoplethysmographic_Waveform_derived_by_Temperature_Stress_of_Measuring_Position",
+    "year_resolved": "2015"
+  },
+  {
+    "id": "8ba8cfd9-6556-4b0e-bcd4-e475d290d64c",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-10-30",
+    "title_eng": "An Program for Detection and Manual Correction of Specific Feature of Heart Beat",
+    "title_kor": "심박동 특징점 검출 및 수동 보정을 위한 프로그램",
+    "conference_eng": "The 2015 Autumn Conference of the Korea Information Processing Society",
+    "author_kor": "신항식; 강성탁",
+    "author_eng": "Hangsik shin; Seongtak Kang",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2305510c-90d6-4355-99bd-7d63caa62cfb"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "a1782069-6af1-5f07-9e0b-2cfd91743758",
+    "category": "award",
+    "date": "2015-10-30",
+    "title_eng": "An Program for Detection and Manual Correction of Specific Feature of Heart Beat",
+    "title_kor": "심박동 특징점 검출 및 수동 보정을 위한 프로그램",
+    "award_name_eng": "Gold award of The 2015 Autumn Conference of the Korea Information Processing Society",
+    "author_kor": "신항식;강성탁",
+    "author_eng": "Hangsik Shin;Seongtak Kang",
+    "year_resolved": "2015"
+  },
+  {
+    "id": "cbd54ea4-d624-4e4c-a152-bdfef76383ab",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-10-30",
+    "title_eng": "An Investigation for Stress Relief Effect of Aroma Therapy and Hue of Lighting",
+    "title_kor": "향기 및 조명의 스트레스 이완효과에 대한 조사 연구",
+    "conference_eng": "The 2015 Autumn Conference of the Korea Information Processing Society",
+    "author_kor": "양윤라; 강성탁; 신항식",
+    "author_eng": "Yoon La Yang; Seongtak Kang; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "2305510c-90d6-4355-99bd-7d63caa62cfb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "3ff4561f-7c9d-4cf7-b537-dbf53d00268e",
+    "category": "conference",
+    "class": "International",
+    "date": "2015-11-12",
+    "title_eng": "An Effect of the Sampling Frequency to the Pulse Rate Variability Analysis",
+    "title_kor": "An Effect of the Sampling Frequency to the Pulse Rate Variability Analysis",
+    "conference_eng": "International Biomedical Engineering Conference 2015(IBEC 2015)",
+    "author_kor": "신항식; 양윤라",
+    "author_eng": "Hangsik shin; Yoon La Yang",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "b38b8c24-6ff1-48d3-aba6-98cf74bf943b",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2015-09-01",
+    "title_eng": "A Localization Method for First and Second Heart Sounds Based on Energy Detection and Interval Regulation",
+    "journal_eng": "Journal of Electrical Engineering & Technology",
+    "author_kor": "민세동; 신항식",
+    "author_eng": "Se Dong Min; Hangsik Shin",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.researchgate.net/publication/282923577_A_Localization_Method_for_First_and_Second_Heart_Sounds_Based_on_Energy_Detection_and_Interval_Regulation",
+    "year_resolved": "2015"
+  },
+  {
+    "id": "6876f65cadf14eea0d437f66",
+    "category": "project",
+    "date": "2015-07-01",
+    "project_name_eng": "Delopment of the pain quantification and monitoring technique based on physiological signal processing",
+    "year_resolved": "2015"
+  },
+  {
+    "id": "ed0fc91b-a9c8-531e-8c6d-14ee03a657eb",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "3dd13859-840c-5e3d-9c29-aea29a5be30b",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "d9cdd0c6-082b-53f6-8a80-dd075a72d4ec",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "734166b6-0961-5ea8-99bb-6af0944c566d",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "94cfd951-b757-5211-9a28-bdd769011147",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "540b1dbc-a338-5a44-8e6c-ca6183723fc2",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "a44870ed-cf8c-5b86-9e90-557cfe6cee48",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "6753514e-1696-5d24-81ec-db3522e954a0",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "f2c05cf9-e5ee-5893-8149-62bbf043deb1",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "f7f096d8-1106-54e3-96c4-545b6c28b046",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "e6f8dcc1-bc00-583e-b4a5-00bdfdc1b7ee",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "57ba9103-608c-59ad-aee9-4671784c06de",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "70e784f0-db47-546a-8f6f-a6093a6ef33a",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "36914a35-1ee6-513c-a457-bd70f537e973",
+    "category": "lecture",
+    "year": 2015,
+    "year_resolved": "2015"
+  },
+  {
+    "id": "9b6fecdf-c8b2-5f3c-9435-3bfc7e27b845",
+    "category": "extracurricular",
+    "date": "2015-01-01",
+    "year_resolved": "2015"
+  },
+  {
+    "id": "47d3840d-39a1-50f6-9447-7ea6207b1555",
+    "category": "extracurricular",
+    "date": "2015-01-01",
+    "year_resolved": "2015"
+  },
+  {
+    "id": "53f34a09-3b78-5975-aa82-6e1926be636a",
+    "category": "invited_lecture",
+    "date": "2015-05-28",
+    "year_resolved": "2015"
+  },
+  {
+    "id": "1ccd07b7-0a4f-52c2-93df-07582fea4922",
+    "category": "invited_lecture",
+    "date": "2015-10-06",
+    "year_resolved": "2015"
+  }
+]

@@ -1,0 +1,498 @@
+[
+  {
+    "id": "a9a42c7d-3051-4d9a-a9e9-6e3c065b8a62",
+    "category": "conference",
+    "class": "International",
+    "date": "2026-07-26",
+    "title_eng": "Transformer-Based Early Detection of Sepsis from Intensive Care Unit Multivariate Time Series Data",
+    "conference_eng": "The 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+    "author_kor": "최예은; 신항식",
+    "author_eng": "Ye Eun Choi; Hangsik Shin",
+    "author_ids": [
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "7766f561-9076-4a25-bfc5-c9a5af6c0b3e",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2026-01-11",
+    "title_eng": "Structural insights into clinical large language models and their barriers to translational readiness",
+    "journal_eng": "Journal of the American Medical Informatics Association",
+    "author_kor": "유지원; 신항식",
+    "author_eng": "Jiwon You; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaf230/8419921?login=true",
+    "year_resolved": "2026"
+  },
+  {
+    "id": "e3ce2af3-eb83-4a42-8119-8d75ef6a17ac",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2026-07-31",
+    "title_eng": "Multitask learning-based phonocardiogram denoising model for preserving valvular heart disease characteristics",
+    "journal_eng": "Physiological Measurement",
+    "author_kor": "이건; 신항식",
+    "author_eng": "Geon Lee; Hangsik Shin",
+    "author_ids": [
+      "75bef458-47fc-43ad-9bdb-f934cbb66beb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://iopscience.iop.org/article/10.1088/1361-6579/ae8caa",
+    "year_resolved": "2026"
+  },
+  {
+    "id": "75480fca-4d6e-4b0f-bef4-bd19409c4b34",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2026-06-18",
+    "title_eng": "Medication-specific risk of atrial fibrillation in patients with coronary artery disease",
+    "journal_eng": "Biomedical Engineering Letters",
+    "author_kor": "김태현; 류가연; 최예은; 신항식",
+    "author_eng": "Taehyun Kim; Gayeon Ryu; Ye Eun Choi; Hangsik Shin",
+    "author_ids": [
+      "125c0eac-e405-4c5b-8d4a-00eedb04a6aa",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://link.springer.com/article/10.1007/s13534-026-00589-6",
+    "year_resolved": "2026"
+  },
+  {
+    "id": "42d3a100-a8ea-4616-88c7-e7817e38f410",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2026-07-22",
+    "title_eng": "Large language models for interpretation of health checkup results",
+    "journal_eng": "npj Digital Medicine",
+    "author_kor": "유지원; 신항식",
+    "author_eng": "Jiwon You; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.nature.com/articles/s41746-026-02467-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260722&utm_content=10.1038/s41746-026-02467-y#citeas",
+    "year_resolved": "2026"
+  },
+  {
+    "id": "aa9ed85d-9d96-49ab-9897-a99041cc0389",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2026-03-03",
+    "title_eng": "Instability and performance limits of convolutional neural networks on non-sequential medical tabular data: an empirical investigation",
+    "journal_eng": "Scientific Reports",
+    "author_kor": "왕창원; 모하메드 엘젠디; 신항식",
+    "author_eng": "Changwon Wang; Mohamed Elgendi; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "afb9d7ff-1260-4ee9-a040-9e8d768382e8",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.nature.com/articles/s41598-026-39875-9",
+    "year_resolved": "2026"
+  },
+  {
+    "id": "03005087-f876-4af0-bd37-91cd199cbca5",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2026-05-07",
+    "title_eng": "Hybrid strategy of rule-based classification engine and LLM for numerical interpretation of general chemistry tests",
+    "title_kor": "임상화학검사 수치 해석을 위한 규칙기반 엔진과 LLM 시너지 전략",
+    "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+    "author_kor": "김민소; 신항식",
+    "author_eng": "Minso Kim; Hangsik Shin",
+    "author_ids": [
+      "3b530294-8839-4ba1-a4ce-0ebb6883bd86",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "0e4ccaf9-1e53-463e-85b2-8f90b79a5660",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2026-02-01",
+    "title_eng": "From radial to aortic pressure: In silico data-driven estimation using an autoencoder",
+    "title_kor": "From radial to aortic pressure: In silico data-driven estimation using an autoencoder",
+    "journal_eng": "Biomedical Signal Processing and Control",
+    "author_kor": "신항식",
+    "author_eng": "Hangsik Shin",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.sciencedirect.com/science/article/pii/S174680942501242X",
+    "year_resolved": "2026"
+  },
+  {
+    "id": "65be53c6-9dd4-438b-91aa-03e3d8030132",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2026-05-07",
+    "title_eng": "Evaluation of the Feasibility of Large Language Models for Re-test Decision in Clinical Chemistry Tests",
+    "title_kor": "임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가",
+    "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+    "author_kor": "유지원; 정성연; 최유나; 김솔잎; 신항식",
+    "author_eng": "Jiwon You; Sungyeon Chung; Yuna Choi; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "80cbf804-4efd-4173-ae46-5c210a473ded",
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "90c8f0ea-c4de-499e-b7a8-7e265e2cc8d4",
+    "category": "award",
+    "date": "2026-05-09",
+    "title_eng": "Evaluation of the Feasibility of Large Language Models for Re-test Decision in Clinical Chemistry Tests",
+    "title_kor": "임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가",
+    "author_kor": "유지원; 정성연; 최유나; 김솔잎; 신항식",
+    "author_eng": "Jiwon You; Sungyeon Chung; Yuna Choi; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "80cbf804-4efd-4173-ae46-5c210a473ded",
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "92bae902-8be2-4c2d-9da6-5dc1164f9ba9",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2026-05-07",
+    "title_eng": "Evaluation of MedGemma 1.5-4B for Lymph Node Metastasis Prediction in Intrahepatic Cholangiocarcinoma",
+    "title_kor": "간내 담관암 림프절 전이 예측에서 MedGemma 1.5-4B의 활용 가능성 평가",
+    "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+    "author_kor": "김민소; 이건; 최예은; 이우형; 홍광표; 신항식",
+    "author_eng": "Minso Kim; Geon Lee; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin",
+    "author_ids": [
+      "3b530294-8839-4ba1-a4ce-0ebb6883bd86",
+      "75bef458-47fc-43ad-9bdb-f934cbb66beb",
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "ee433b9b-0e4f-4dc2-a040-9e4a506d31f5",
+      "2de4cf68-77c6-47ea-9e5f-7be9a6159c10",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "134eb3df-b4e6-437b-adbe-729566353474",
+    "category": "award",
+    "date": "2026-05-09",
+    "title_eng": "Evaluation of MedGemma 1.5-4B for Lymph Node Metastasis Prediction in Intrahepatic Cholangiocarcinoma",
+    "title_kor": "간내 담관암 림프절 전이 예측에서 MedGemma 1.5-4B의 활용 가능성 평가",
+    "author_kor": "김민소; 이건; 최예은; 이우형; 홍광표; 신항식",
+    "author_eng": "Minso Kim; Geon Lee; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin",
+    "author_ids": [
+      "3b530294-8839-4ba1-a4ce-0ebb6883bd86",
+      "75bef458-47fc-43ad-9bdb-f934cbb66beb",
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "ee433b9b-0e4f-4dc2-a040-9e4a506d31f5",
+      "2de4cf68-77c6-47ea-9e5f-7be9a6159c10",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "93d0f6a3-536d-46ce-a41d-c29557550ecb",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2026-05-07",
+    "title_eng": "Development of an Atrial Fibrillation Risk Prediction Model for Health Screening",
+    "title_kor": "건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발",
+    "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+    "author_kor": "류가연; 최예은; 신항식",
+    "author_eng": "Gayeon Ryu; Ye Eun Choi; Hangsik Shin",
+    "author_ids": [
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "b4b37a0b-317c-4211-bbec-f47a63ab29cf",
+    "category": "award",
+    "date": "2026-05-09",
+    "title_eng": "Development of an Atrial Fibrillation Risk Prediction Model for Health Screening",
+    "title_kor": "건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발",
+    "author_kor": "류가연; 최예은; 신항식",
+    "author_eng": "Gayeon Ryu; Ye Eun Choi; Hangsik Shin",
+    "author_ids": [
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "6757496c-84b9-4b4a-a3da-785e7e957188",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2026-05-07",
+    "title_eng": "Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices",
+    "title_kor": "수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발 ",
+    "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+    "author_kor": "김영돈; 한유진; 류가연; 이연진; 신항식",
+    "author_eng": "Yeongdon Kim; Yujin Han; Gayeon Ryu; Yeonjin Lee; Hangsik Shin",
+    "author_ids": [
+      "923fe812-860b-4422-9d92-1767e699fa0b",
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "5443481d-379f-4af6-8ef2-1d61bd2dfbe8",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "6ca3ccd4-4fc1-4256-9b02-b1791eedce4e",
+    "category": "award",
+    "date": "2026-05-09",
+    "title_eng": "Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices",
+    "title_kor": "수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발 ",
+    "author_kor": "김영돈; 한유진; 류가연; 이연진; 신항식",
+    "author_eng": "Yeongdon Kim; Yujin Han; Gayeon Ryu; Yeonjin Lee; Hangsik Shin",
+    "author_ids": [
+      "923fe812-860b-4422-9d92-1767e699fa0b",
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "5443481d-379f-4af6-8ef2-1d61bd2dfbe8",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "6f180265-2c3c-4b38-a172-38af22a4c516",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2026-05-07",
+    "title_eng": "Development of a Clinical Chemistry Retest Ontology through Inductive Externalization of Expert Knowledge",
+    "title_kor": "귀납적 사례 분석 기반 임상화학 재검사 전문가 지식 추출 및 온톨로지 모델링",
+    "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+    "author_kor": "정성연; 유지원; 최유나; 김솔잎; 신항식",
+    "author_eng": "Sungyeon Chung; Jiwon You; Yuna Choi; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "80cbf804-4efd-4173-ae46-5c210a473ded",
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "537dc980-c7f7-4b4b-a328-1f984c75a46c",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2026-05-07",
+    "title_eng": "Development and Multicenter External Validation of an AI-based Screening Model for Retesting Clinical Chemistry Tests",
+    "title_kor": "임상화학검사 불필요 재검 판별을 위한 인공지능 모델 개발 및 다기관 외부 검증",
+    "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+    "author_kor": "김민소; 유지원; 최유나; 유신애; 박근열; 김솔잎; 신항식",
+    "author_eng": "Minso Kim; Jiwon You; Yuna Choi; Shinae Yu; Kuenyoul Park; Sollip Kim; Hangsik Shin",
+    "author_ids": [
+      "3b530294-8839-4ba1-a4ce-0ebb6883bd86",
+      "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+      "a92aee22-d720-4431-9502-a9dc37af7be9",
+      "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+      "12a64dd1-9d0d-40ab-8de6-6ca43bc80795",
+      "09e01f73-363a-4780-962e-969da9578ff9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "611557ad-9346-42f9-a88b-bcda04e67cd4",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2026-05-07",
+    "title_eng": "Development and External Validation of a Machine Learning Model for Predicting Postoperative Length of Stay",
+    "title_kor": "수술 후 재원 기간 예측을 위한 머신러닝 모델 개발 및 다기관 외부 검증",
+    "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+    "author_kor": "진재욱; 류가연; 심지훈; 신항식",
+    "author_eng": "Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin",
+    "author_ids": [
+      "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "2fa67677-ac83-41f4-9f07-d202a6195909",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "eac5ba27-d43a-430f-81bf-49f7c6ab8d7c",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2026-05-07",
+    "title_eng": "Design and Implementation of a Wearable-Based Patient Monitoring System in a Closed-Network Hospital Environment",
+    "title_kor": "폐쇄망 환경에서의 웨어러블 기반 병동 모니터링 시스템 설계 및 구현",
+    "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+    "author_kor": "남윤찬; 강주현; 이연진; 김희영; 신항식",
+    "author_eng": "Yun Chan Nam; Juhyeon Kang; Yeonjin Lee; Heeyoung Kim; Hangsik Shin",
+    "author_ids": [
+      "8e349a5d-83ae-4b77-881c-26d384d25a86",
+      "5fd4da55-6e2b-4776-999f-172029c3c1e1",
+      "5443481d-379f-4af6-8ef2-1d61bd2dfbe8",
+      "b2164403-05f7-400c-bad4-3dcdec5e9c77",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "d6cfd18f-83ec-444e-a8cb-1ff5514ab9f2",
+    "category": "award",
+    "date": "2026-05-09",
+    "title_eng": "Design and Implementation of a Wearable-Based Patient Monitoring System in a Closed-Network Hospital Environment",
+    "title_kor": "폐쇄망 환경에서의 웨어러블 기반 병동 모니터링 시스템 설계 및 구현",
+    "author_kor": "남윤찬; 강주현; 이연진; 김희영; 신항식",
+    "author_eng": "Yunchan Nam; Juhyeon Kang; Yeonjin Lee; Heeyoung Kim; Hangsik Shin",
+    "author_ids": [
+      "8e349a5d-83ae-4b77-881c-26d384d25a86",
+      "5fd4da55-6e2b-4776-999f-172029c3c1e1",
+      "5443481d-379f-4af6-8ef2-1d61bd2dfbe8",
+      "b2164403-05f7-400c-bad4-3dcdec5e9c77",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "16c444f7-bf32-4cfa-b971-e9dd9ab1b633",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2026-05-07",
+    "title_eng": "Deep Learning-based Prediction of Lymph Node Metastasis in Cholangiocarcinoma through Fusion of 3D PET/CT Imaging and Clinical Data",
+    "title_kor": "3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측",
+    "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+    "author_kor": "이건; 김민소; 최예은; 이우형; 홍광표; 신항식",
+    "author_eng": "Geon Lee; Minso Kim; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin",
+    "author_ids": [
+      "75bef458-47fc-43ad-9bdb-f934cbb66beb",
+      "3b530294-8839-4ba1-a4ce-0ebb6883bd86",
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "ee433b9b-0e4f-4dc2-a040-9e4a506d31f5",
+      "2de4cf68-77c6-47ea-9e5f-7be9a6159c10",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "34089715-f049-42ae-a9da-1225439e002a",
+    "category": "award",
+    "date": "2026-05-09",
+    "title_eng": "Deep Learning-based Prediction of Lymph Node Metastasis in Cholangiocarcinoma through Fusion of 3D PET/CT Imaging and Clinical Data",
+    "title_kor": "3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측",
+    "author_kor": "이건; 김민소; 최예은; 이우형; 홍광표; 신항식",
+    "author_eng": "Geon Lee; Minso Kim; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin",
+    "author_ids": [
+      "75bef458-47fc-43ad-9bdb-f934cbb66beb",
+      "3b530294-8839-4ba1-a4ce-0ebb6883bd86",
+      "11293195-d430-4570-98b9-f1d9e82ca0e6",
+      "ee433b9b-0e4f-4dc2-a040-9e4a506d31f5",
+      "2de4cf68-77c6-47ea-9e5f-7be9a6159c10",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "948579a2-5419-4714-a232-4ac161d42c63",
+    "category": "conference",
+    "class": "International",
+    "date": "2026-05-06",
+    "title_eng": "Artificial Intelligence–Driven Preoperative Risk Stratification for Early Allograft Failure in Living Donor Liver Transplantation",
+    "conference_eng": "2026 ILTS Congress",
+    "author_kor": "한유진; 신항식; 원대현; 윤영인",
+    "author_eng": "Yujin Han; Hangsik Shin; Dae-Hyeon Won; Young-In Yoon",
+    "author_ids": [
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "e45d0abb-9bd7-4aa0-9bb7-ddd6bcd34b52",
+      "6cb56470-5e1d-491b-9c3d-cc68f1dda6a1"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "49037bdf-5e2e-4e08-b226-ec1a5698f280",
+    "category": "conference",
+    "class": "International",
+    "date": "2026-07-26",
+    "title_eng": "Anomaly Detection-Based Hybrid Machine Learning for Predicting Early Allograft Failure in Living Donor Liver Transplantation",
+    "conference_eng": "The 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+    "author_kor": "한유진; 신항식",
+    "author_eng": "Yujin Han; Hangsik Shin",
+    "author_ids": [
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "0bd7ed03-073b-4f54-8e3c-efbead217078",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2026-05-07",
+    "title_eng": "A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms",
+    "title_kor": "수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계",
+    "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+    "author_kor": "한유진; 류가연; 김영돈; 신항식",
+    "author_eng": "Yujin Han; Gayeon Ryu; Yeongdon Kim; Hangsik Shin",
+    "author_ids": [
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "923fe812-860b-4422-9d92-1767e699fa0b",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "4b92b947-c52a-4631-aa1e-eecad88284cb",
+    "category": "award",
+    "date": "2026-05-09",
+    "title_eng": "A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms",
+    "title_kor": "수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계",
+    "author_kor": "한유진; 류가연; 김영돈; 신항식",
+    "author_eng": "Yujin Han; Gayeon Ryu; Yeongdon Kim; Hangsik Shin",
+    "author_ids": [
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "923fe812-860b-4422-9d92-1767e699fa0b",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "67a24a4a-f86d-4be9-82d7-b72d2d740b4c",
+    "category": "award",
+    "date": "2026-05-09",
+    "title_eng": ".",
+    "title_kor": "2026 대한의용생체공학회 춘계학술대회, 한국의료기기안전정보원장",
+    "author_kor": "한유진",
+    "author_eng": "Yujin Han",
+    "author_ids": [
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc"
+    ],
+    "year_resolved": "2026"
+  },
+  {
+    "id": "6ef31ff6-7f4f-41e4-957c-210113d5a3ef",
+    "category": "award",
+    "date": "2026-05-09",
+    "title_eng": ".",
+    "title_kor": "2026 대한의용생체공학회 춘계학술대회, 한국의료기기안전정보원장",
+    "author_kor": "류가연",
+    "author_eng": "Gayeon Ryu",
+    "author_ids": [
+      "17ff8154-0d9f-4486-abd7-b34e64268d87"
+    ],
+    "year_resolved": "2026"
+  }
+]

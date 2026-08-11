@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1abb0088-7f0f-4f48-ae42-f82a69262cc4",
+    "category": "conference",
+    "class": "International",
+    "date": "2005-09-01",
+    "title_eng": "Heart Rate Variability Analysis using Electric Fabric in Dry-Normal Condition",
+    "title_kor": "Heart Rate Variability Analysis using Electric Fabric in Dry-Normal Condition",
+    "conference_eng": "Engineering in Medicine and Biology Society, 2005. IEEE-EMBS 2005. 27th Annual International Conference of the. IEEE Proceeding",
+    "author_kor": "신항식; 이충근; 윤성원; 윤대중; 이명호",
+    "author_eng": "Hangsik Shin; Chungkeun Lee; Sung Won Yoon; Daejoong Yoon; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "6cb534f4-9000-4ebb-8dcb-da609eb078ea",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2005"
+  },
+  {
+    "id": "6d644e91-5177-4341-95fb-4824be9c37b7",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2004-11-26",
+    "title_kor": "원격영상진단지원을 위한 Down-Scaled 3D 오브젝트 연구",
+    "conference_eng": "Korea Society of Medical and Biological Engineering Autumn Conference 2004",
+    "author_kor": "신항식; 이병우; 윤대중; 윤성원; 이명호",
+    "author_eng": "Hangsik shin; Byung Woo Lee; Daejoong Yoon; Sung-Won Yoon; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "6cb534f4-9000-4ebb-8dcb-da609eb078ea",
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2004"
+  }
+]

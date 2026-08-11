@@ -1,0 +1,293 @@
+[
+  {
+    "id": "f691c0c4-7803-4650-8cd1-1c53f0ea5cb3",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2025-10-23",
+    "title_eng": "인공지능 보정 기반의 블루투스 위치 추정 방법, 장치 및 프로그램",
+    "title_kor": "인공지능 보정 기반의 블루투스 위치 추정 방법, 장치 및 프로그램",
+    "author_kor": "이재형; 신항식; 임하민; 왕창원",
+    "author_eng": "Jaehyung Lee; Hangsik Shin; Hamin Lim; Changwon Wang",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "ad98337a-712a-4d40-a163-4ac540834245"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "988763c0-0777-4788-bb2f-a54b835a668d",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2025-12-31",
+    "title_eng": "건물 내 사용자의 실시간 위치 추정 장치 및 방법",
+    "title_kor": "건물 내 사용자의 실시간 위치 추정 장치 및 방법",
+    "author_kor": "임하민; 신항식",
+    "author_eng": "Hamin Lim; Hangsik Shin",
+    "author_ids": [
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "c9f92658-b039-43e6-b94b-b5ba3dd80d0b",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2025-05-08",
+    "title_eng": "Activity Level Characteristics Analysis According to Severity in Closed Ward Patients",
+    "title_kor": "폐쇄병동 환자 중증도에 따른 활동량 특징 분석",
+    "conference_eng": "2025년도 제 65회 대한의용생체공학회 춘계학술대회",
+    "author_kor": "임하민; 왕창원; 신항식",
+    "author_eng": "Hamin Lim; Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2025"
+  },
+  {
+    "id": "f6f4aaf9-2e48-49d7-8ee2-babcf0cb65b7",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2024-12-30",
+    "title_eng": "Method for Improving indoor positioning Accuracy based ob bluetooth",
+    "title_kor": "블루투스 기반 실내 위치 추정 정확도 향상을 위한 방법",
+    "author_kor": "이재형; 신항식; 임하민; 왕창원",
+    "author_eng": "Jaehyung Lee; Hangsik Shin; Hamin Lim; Changwon Wang",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "ad98337a-712a-4d40-a163-4ac540834245"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "d0fd3ec9-d105-4dd3-abf3-c8b5a254ff66",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-07-10",
+    "title_eng": "Location Monitoring Platform for  Psychiatric Closed Ward",
+    "title_kor": "폐쇄병동 입원환자 위치 모니터링 플랫폼",
+    "conference_eng": "The 55th KIEE Summer Conference 2024",
+    "author_kor": "임하민; 왕창원; 신항식",
+    "author_eng": "Hamin Lim; Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "de172548-fd67-49dd-8254-eea5fc110b03",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-11-07",
+    "title_eng": "In-hospital patient’s location correction using machine learning",
+    "title_kor": "머신러닝을 활용한 병동내 환자 위치 추정 오류 보정",
+    "conference_eng": "The 64th Annual Fall Conference of the Korean Society of Medical and Biological Engineering (KOSOMBE) 2024",
+    "author_kor": "이재형; 임하민; 왕창원; 신항식",
+    "author_eng": "Jaehyung Lee; Hamin Lim; Changwon Wang; Hangsik Shin",
+    "author_ids": [
+      "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "8df4115b-011f-4b42-afa6-33cb484115be",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-05-09",
+    "title_eng": "Gravity Compensation of Accelerometer with Madgwick Filter-Based Quaternion Rotation Estimation",
+    "title_kor": "Madgwick필터 기반 쿼터니언 회전 추정을 통한 가속도 센서 중력 보정",
+    "conference_eng": "2024 KOSOMBE spring conference",
+    "author_kor": "임하민; 신항식",
+    "author_eng": "Hamin Lim; Hangsik Shin",
+    "author_ids": [
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "e428df87-b2b6-49b4-9d24-ac5b4fdfeb4a",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-07-10",
+    "title_eng": "Development of a Real-Time Upper Limb Range of Motion Measurement Method Using a Single Depth Measurement Camera",
+    "title_kor": "단일 깊이측정 카메라를 활용한 실시간 상지 관절 가동범위 측정 방법 개발",
+    "conference_eng": "The 55th KIEE Summer Conference 2024",
+    "author_kor": "김영돈; 임하민; 류가연; 한유진; 신항식",
+    "author_eng": "Yeongdon Kim; Hamin Lim; Gayeon Ryu; Yujin Han; Hangsik Shin",
+    "author_ids": [
+      "923fe812-860b-4422-9d92-1767e699fa0b",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "17ff8154-0d9f-4486-abd7-b34e64268d87",
+      "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "39e9c947-ff80-4433-8782-c1479e161d54",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-07-10",
+    "title_eng": "Development of a Patient Location Monitoring Mobile Application in Hospitals",
+    "title_kor": "병원 내 환자 위치 모니터링 모바일 어플리케이션 개발",
+    "conference_eng": "The 55th KIEE Summer Conference 2024",
+    "author_kor": "왕창원; 임하민; 신항식",
+    "author_eng": "Changwon Wang; Hamin Lim; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "cacc67b5-67ad-4753-b680-051c11d0c02f",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2024-06-19",
+    "title_eng": "Development of a Location Monitoring Platform for Inpatients within Closed Psychiatric Ward",
+    "title_kor": "폐쇄병동 환자 위치 모니터링 플랫폼 구축 사례",
+    "conference_eng": "KOSMI 2024 Spring conference",
+    "author_kor": "왕창원; 임하민; 주성우; 이중선; 신항식",
+    "author_eng": "Changwon Wang; Hamin Lim; Sung Woo Joo; Jungsun Lee; Hangsik Shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "140e3b05-97fa-4c63-a649-9dc6aa692776",
+      "95c4fbbb-c06a-4457-8f76-5db67ee40176",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2024"
+  },
+  {
+    "id": "e401d263-72e8-4304-a79d-d829488b7d8d",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2023-12-29",
+    "title_eng": "monitoring system for people in the facility",
+    "title_kor": "시설 내 대상자 모니터링 시스템",
+    "author_kor": "신항식; 왕창원; 이중선; 주성우; 임하민",
+    "author_eng": "Hangsik Shin; Changwon Wang; Jungsun Lee; Sung Woo Joo; Hamin Lim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "95c4fbbb-c06a-4457-8f76-5db67ee40176",
+      "140e3b05-97fa-4c63-a649-9dc6aa692776",
+      "e556ed57-f679-4685-a592-767ec3a64f46"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "8b8fb1d8-4152-49c6-b141-74e4f4dc7e55",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-12-13",
+    "title_eng": "Web application for user biometric and location information monitoring and risk notification",
+    "title_kor": "사용자 생체정보 및 위치정보 모니터링, 위험 알림을 위한 웹 응용프로그램",
+    "author_kor": "신항식; 왕창원; 임하민",
+    "author_eng": "Hangsik Shin; Changwon Wang; Hamin Lim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "d9faa601-2a16-4028-bf71-11ab78b22a2e",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-12-13",
+    "title_eng": "Wearable device application for measuring heart rate, acceleration, and indoor location information",
+    "title_kor": "심박수, 가속도, 실내 위치 정보 측정을 위한 웨어러블 기기 어플리케이션",
+    "author_kor": "신항식; 왕창원; 임하민",
+    "author_eng": "Hangsik Shin; Changwon Wang; Hamin Lim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "647f9bd0-aa84-41ba-a6c4-99eeb0554b61",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2023-12-13",
+    "title_eng": "Sever program for biometric and location information collection, user risk analysis, and alarm control",
+    "title_kor": "생체정보 및 위치정보 수집, 사용자 위험 분석, 알람 제어를 위한 서버 프로그램",
+    "author_kor": "신항식; 왕창원; 임하민",
+    "author_eng": "Hangsik Shin; Changwon Wang; Hamin Lim",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "9ff5a633-b38f-455e-8c51-3ac02ca8abb5",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-07-12",
+    "title_eng": "Preliminary Study for the Optimal Attachment Position of Accelerometer for Detecting Abnormal Behavior of Psychiatric Inpatient",
+    "title_kor": "정신과 폐쇄병동 환자 이상행동 판단을 위한 가속도센서 부착 최적 위치 기초연구",
+    "conference_eng": "The 54th KIEE Summer Conference 2023",
+    "author_kor": "임하민; 왕창원; 신항식",
+    "author_eng": "Hamin Lim; Changwon Wang; Hangsik shin",
+    "author_ids": [
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  },
+  {
+    "id": "88ab8925-715b-4300-9776-8b4240d4a652",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2023-11-01",
+    "title_eng": "Clustering Analysis of Activity of Daily Living based on Accelerometry",
+    "title_kor": "가속도 센서 기반 일상생활 활동 군집 특징 분석",
+    "journal_eng": "전기학회논문지(Domestic) 특집호",
+    "author_kor": "임하민; 신항식",
+    "author_eng": "Hamin Lim; Hangsik Shin",
+    "author_ids": [
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11567794",
+    "year_resolved": "2023"
+  },
+  {
+    "id": "5d41a757-fd4d-420e-860a-6bf51704a827",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2023-05-11",
+    "title_eng": "Analysis of psychiatric inpatients' abnormal behavior prior to self-harm or harm to others through nursing diary records",
+    "title_kor": "간호일지를 통한 정신과 병동 입원환자의 자해 및 타해 발생 전 이상행동 분석",
+    "conference_eng": "KOSOMBE spring conference 2023",
+    "author_kor": "왕창원; 임하민; 주성우; 이중선; 신항식",
+    "author_eng": "Changwon Wang; Hamin Lim; Sung Woo Joo3; Jungsun Lee; Hangsik shin",
+    "author_ids": [
+      "ad98337a-712a-4d40-a163-4ac540834245",
+      "e556ed57-f679-4685-a592-767ec3a64f46",
+      "140e3b05-97fa-4c63-a649-9dc6aa692776",
+      "95c4fbbb-c06a-4457-8f76-5db67ee40176",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2023"
+  }
+]

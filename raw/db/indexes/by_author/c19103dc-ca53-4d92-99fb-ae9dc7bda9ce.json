@@ -1,0 +1,406 @@
+[
+  {
+    "id": "ae66efe3-9686-40f9-bd3e-75b24474e763",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-09-10",
+    "title_kor": "맥파 신호의 박동별 넓이 계산 프로그램",
+    "author_kor": "신항식; 석현석; 양윤라",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok; Yoon La Yang",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "a691aef4-64f5-4a9f-bc5c-d837ef24d675",
+    "category": "patent",
+    "class": "Registered SW",
+    "date": "2018-09-10",
+    "title_kor": "맥파 신호의 박동별 기울기 분석 프로그램",
+    "author_kor": "신항식; 석현석; 양윤라",
+    "author_eng": "Hangsik Shin; Hyeon Seok Seok; Yoon La Yang",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "b72aa89b-39a6-45bf-8cac-78e67bd97ad4",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2018-08-28",
+    "title_eng": "Postoperative Pain Assessment Indices Based on Photoplethysmography Waveform Analysis",
+    "journal_eng": "Frontiers in Physiology",
+    "author_kor": "양윤라; 석현석; 노규정; 최병문; 신항식",
+    "author_eng": "Yoon La Yang; Hyeon Seok Seok; Gyujeong Noh; Byungmoon Choi; Hangsik Shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+      "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "df9970df-3b5f-471f-a289-10b95689863c",
+    "category": "conference",
+    "class": "International",
+    "date": "2018-06-03",
+    "title_eng": "Investigation of the feasibility of postoperative pain assessment using frequency analysis of photoplethysmogram variability",
+    "title_kor": "Investigation of the feasibility of postoperative pain assessment using frequency analysis of photoplethysmogram variability",
+    "conference_eng": "World Congress on Medical Physics & Biomedical Engineering(IUPESM 2018)",
+    "author_kor": "양윤라; 석현석; 신항식",
+    "author_eng": "Yoon La Yang; Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2018"
+  },
+  {
+    "id": "b7b22ebc-c358-4c6f-89b1-8ff45e6bbe44",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2018-06-01",
+    "title_eng": "Investigation of the Feasibility of Postoperative Pain Assessment by Analysing Photoplethysmogram Variability Analysis",
+    "title_kor": "광용적맥파 진폭변이도 시간영역 분석을 통한 술후 통증 평가 가능성 고찰",
+    "journal_eng": "Journal of Korean Institute of Intelligent Systems",
+    "author_kor": "양윤라; 신항식",
+    "author_eng": "Yoon La Yang; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://www.researchgate.net/publication/326153933_Investigation_of_the_Feasibility_of_Postoperative_Pain_Assessment_by_Analysing_Photoplethysmogram_Variability_Analysis",
+    "year_resolved": "2018"
+  },
+  {
+    "id": "da35e235-1b5b-4198-9787-276a09897eeb",
+    "category": "conference",
+    "class": "International",
+    "date": "2017-10-11",
+    "title_eng": "Postoperative Pain Assessment based on Photoplethysmography Analysis",
+    "title_kor": "Postoperative Pain Assessment based on Photoplethysmography Analysis",
+    "conference_eng": "The 18th International Symposium on Advanced Intelligent Systems(ISIS 2017)",
+    "author_kor": "석현석; 양윤라; 신항식",
+    "author_eng": "Hyeon Seok Seok; Yoon La Yang; Hangsik shin",
+    "author_ids": [
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "d141a8e0-662b-4cda-972f-bbbcbdb0c854",
+    "category": "conference",
+    "class": "International",
+    "date": "2017-07-11",
+    "title_eng": "Investigation of the Photoplethysmography Waveform according to the Nociceptive Pain",
+    "title_kor": "Investigation of the Photoplethysmography Waveform according to the Nociceptive Pain",
+    "conference_eng": "39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC’17)",
+    "author_kor": "양윤라; 신항식",
+    "author_eng": "Yoon La Yang; Hangsik Shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "b5f8ea52-bd1e-4aed-84d0-96aff67db7e6",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-11-23",
+    "title_eng": "Investigation of the Feasibility of Postoperative Pain Assessment by Analysing Photoplethysmogram Variability Analysis",
+    "title_kor": "광용적맥파 진폭변이도 시간영역 분석을 통한 술후 통증 평가 가능성 고찰",
+    "conference_eng": "Proceedings of Korean Institute of Intelligent Systems Autumn Conference 2017",
+    "author_kor": "양윤라; 신항식",
+    "author_eng": "Yoon La Yang; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "9be77e6f-6aca-4cb3-871f-8c2f9fb5a96a",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2017-12-01",
+    "title_eng": "Development of an application for correction and arrangement of pulse features of Electrocardiogram and Photoplethysmogram",
+    "title_kor": "심전도, 광용적맥파 박동 특징점 교정 및 매칭을 위한 어플리케이션 개발",
+    "journal_eng": "Journal of Korean Institute of Intelligent Systems",
+    "author_kor": "양윤라; 석현석; 신항식",
+    "author_eng": "Yoon La Yang; Hyeon Seok Seok; Hangsik Shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "b53ce5ee-892c-437f-99a2-4d1b6b231eaa",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-04-13",
+    "title_eng": "Development of an Application for Correction and Arrangement of Pulse Features of ECG and PPG Waveforms",
+    "title_kor": "심전도, 광용적맥파 박동 특징점 교정 및 매칭을 위한 어플리케이션 개발",
+    "conference_eng": "Proceedings of Korean Institute of Intelligent Systems Spring Conference 2017",
+    "author_kor": "양윤라; 석현석; 신항식",
+    "author_eng": "Yoon La Yang; Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "99d908eb-cba7-43d8-b924-e4dcbd51c217",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2017-10-26",
+    "title_eng": "Analysis of Systolic and Diastolic Waveform Characteristic of Photoplethysmogram according to the Surgical Pain",
+    "title_kor": "수술 통증에 따른 광용적맥파 수축기 및 이완기 파형 특성 분석",
+    "conference_eng": "Conference on Information and Control Systems 2017",
+    "author_kor": "양윤라; 석현석; 신항식",
+    "author_eng": "Yoon La Yang; Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2017"
+  },
+  {
+    "id": "099bb88c-2677-49a9-8c87-f7fd312466ee",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-04-08",
+    "title_eng": "Time Domain Analysis of Pulse Rate Variability according to the Sampling Rate Change",
+    "title_kor": "Time Domain Analysis of Pulse Rate Variability according to the Sampling Rate Change",
+    "conference_eng": "Proceedings of Korean Institute of Intelligent Systems Spring Conference 2016",
+    "author_kor": "양윤라; 신항식",
+    "author_eng": "Yoon La Yang; Hangsik Shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "b1e605bb-a39b-4ed6-b7e6-592b4129f553",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-10-28",
+    "title_eng": "Preliminary Study for Non-invasive Plasma Volume Estimation based on Plethysmograpic Waveform",
+    "title_kor": "용적맥파 파형특성 기반 비침습 혈장량 변화 추정을 위한 기초연구",
+    "conference_eng": "Proceedings of Korean Institute of Intelligent Systems Autumn Conference 2016",
+    "author_kor": "양윤라; 신항식",
+    "author_eng": "Yoon La Yang; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "e5f3d465-d421-46dc-877e-80fb61fc1b5c",
+    "category": "conference",
+    "class": "International",
+    "date": "2016-11-11",
+    "title_eng": "Development of Mastication Monitoring System for Assessment of the Mandibular Asymmetry",
+    "title_kor": "Development of Mastication Monitoring System for Assessment of the Mandibular Asymmetry",
+    "conference_eng": "International Biomedical Engineering Conference 2016 (IBEC 2016)",
+    "author_kor": "양윤라; 석현석; 신항식",
+    "author_eng": "Yoon La Yang; Hyeon Seok Seok; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "77b4f02a-147a-4280-9045-69c05b9cecc5",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "81552009-58e1-40a6-b552-ec71c2cf1fdf",
+    "category": "conference",
+    "class": "International",
+    "date": "2016-08-16",
+    "title_eng": "An Investigation of the Effect of Sampling Frequency to the Frequency Domain Analysis of Pulse Rate Variability",
+    "title_kor": "An Investigation of the Effect of Sampling Frequency to the Frequency Domain Analysis of Pulse Rate Variability",
+    "conference_eng": "38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC 2016)",
+    "author_kor": "양윤라; 신항식",
+    "author_eng": "Yoon La Yang; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "6f93268a-6b27-42d8-a32b-268903d1b1fd",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2016-07-01",
+    "title_eng": "An Effect of Sampling Rate to the Time and Frequency Domain Analysis of Pulse Rate Variability",
+    "title_kor": "샘플링율이 맥박변이도 시간 및 주파수 영역 분석에 미치는 영향",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "양윤라; 신항식",
+    "author_eng": "Yoon La Yang; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "link": "https://koreascience.kr/article/JAKO201621650895994.page",
+    "year_resolved": "2016"
+  },
+  {
+    "id": "7dd4e9df-cb57-407c-b72e-9dfae37d1e50",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-05-13",
+    "title_eng": "An Effect of Sampling Rate to the Time Domain Analysis Result of Pulse Rate Variability",
+    "title_kor": "샘플링율이 맥박변이도 시간영역 분석에 미치는 영향 분석",
+    "conference_eng": "The 51th Korea Society of Medical and Biological Engineering Spring Conference 2016",
+    "author_kor": "양윤라; 강성탁; 노동근; 최민주; 신항식",
+    "author_eng": "Yoon La Yang; Seongtak Kang; Donggeun Rho; Min Ju Choi; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "2305510c-90d6-4355-99bd-7d63caa62cfb",
+      "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+      "19ac2461-2574-41b8-902c-4deb91d42bb9",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "8b4af64e-3ab5-4d15-9fd8-3eb8fa7e57a2",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2016-07-13",
+    "title_eng": "An Effect of Sampling Rate to the Sample Entropy Analysis of Pulse Rate Variability",
+    "title_kor": "샘플링율이 맥박변이도 Sample Entropy 분석 결과에 미치는 영향 분석",
+    "conference_eng": "The 47th KIEE Summer Conference 2016",
+    "author_kor": "양윤라; 신항식",
+    "author_eng": "Yoon La Yang; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2016"
+  },
+  {
+    "id": "f48e5676-988e-4b17-8a25-2c619f360c82",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-07-15",
+    "title_eng": "Preliminary Study of Biomedical Signal-based IoT Diffuser",
+    "title_kor": "생체신호 기반 IoT 디퓨저 개발을 위한 기초연구",
+    "conference_eng": "The 46th KIEE Summer Conference 2015",
+    "author_kor": "양윤라; 신항식",
+    "author_eng": "Yoon La Yang; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "32db1b35-527e-42d1-8453-ec9f9965744b",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-10-22",
+    "title_eng": "Development of Pillow Insertable Multiple Sensor Platform for Sleep Monitoring",
+    "title_kor": "수면 모니터링을 위한 베개삽입형 복합 센서 플랫폼 개발",
+    "conference_eng": "Conference on Information and Control Systems 2015",
+    "author_kor": "박수지; 양윤라; 김훈; 신항식",
+    "author_eng": "Sooji park; Yoon La Yang; Hoon Kim; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "68a7cea7-eb6d-4806-8658-50b7e4135546",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "8237817a-be14-4124-8d0b-61cb865ee490",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-10-22",
+    "title_eng": "Development of Internet-of-Things Diffuser to Provide Aroma and Lightning Therapy based on Bio-Signal",
+    "title_kor": "생체신호기반 조명, 향기 요법 제공을 위한 IoT 디퓨져 개발",
+    "conference_eng": "Conference on Information and Control Systems 2015",
+    "author_kor": "양윤라; 강성탁; 신항식; 김동준",
+    "author_eng": "Yoon La Yang; Seongtak Kang; Hangsik shin; Dong-Jun Kim",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "2305510c-90d6-4355-99bd-7d63caa62cfb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "62d51eaa-e423-49c2-b058-669ba146f3fa"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "cbd54ea4-d624-4e4c-a152-bdfef76383ab",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2015-10-30",
+    "title_eng": "An Investigation for Stress Relief Effect of Aroma Therapy and Hue of Lighting",
+    "title_kor": "향기 및 조명의 스트레스 이완효과에 대한 조사 연구",
+    "conference_eng": "The 2015 Autumn Conference of the Korea Information Processing Society",
+    "author_kor": "양윤라; 강성탁; 신항식",
+    "author_eng": "Yoon La Yang; Seongtak Kang; Hangsik shin",
+    "author_ids": [
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "2305510c-90d6-4355-99bd-7d63caa62cfb",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "3ff4561f-7c9d-4cf7-b537-dbf53d00268e",
+    "category": "conference",
+    "class": "International",
+    "date": "2015-11-12",
+    "title_eng": "An Effect of the Sampling Frequency to the Pulse Rate Variability Analysis",
+    "title_kor": "An Effect of the Sampling Frequency to the Pulse Rate Variability Analysis",
+    "conference_eng": "International Biomedical Engineering Conference 2015(IBEC 2015)",
+    "author_kor": "신항식; 양윤라",
+    "author_eng": "Hangsik shin; Yoon La Yang",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce"
+    ],
+    "year_resolved": "2015"
+  },
+  {
+    "id": "10f9a9c9-0e84-4a45-8e5a-30fdc5032c84",
+    "category": "conference",
+    "class": "International",
+    "date": "2014-11-20",
+    "title_eng": "Multiple Sensor Positioning for Mattress type Infant Heartbeat and Respiration Monitoring System",
+    "title_kor": "Multiple Sensor Positioning for Mattress type Infant Heartbeat and Respiration Monitoring System",
+    "conference_eng": "International Biomedical Engineering Conference 2014(IBEC 2014)",
+    "author_kor": "박수지; 최화진; 양윤라; 한수경; 김민아; 신항식",
+    "author_eng": "Sooji park; Hawjin Choi; Yoon La Yang; Soo Kyeong Han; Min-A Kim; Hangsik shin",
+    "author_ids": [
+      "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+      "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+      "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+      "9f0069c7-dd83-4cb4-a33d-dbbda21a436a",
+      "b37804ed-bbef-4dbf-b17e-204a2b754874",
+      "189de491-3424-4bf3-bb66-26bd0667ed24"
+    ],
+    "year_resolved": "2014"
+  }
+]

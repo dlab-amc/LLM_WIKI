@@ -1,0 +1,20 @@
+[
+  {
+    "id": "40e94d1b-2fb5-4dec-a51c-62c80d8440a4",
+    "category": "conference",
+    "class": "International",
+    "date": "2005-04-01",
+    "title_eng": "A Study on Instant Messenger System that Supports Transmitting 3D Medical Image Objects for Telediagnostic Use",
+    "title_kor": "A Study on Instant Messenger System that Supports Transmitting 3D Medical Image Objects for Telediagnostic Use",
+    "conference_eng": "6th Asian-Pacific Conference on Medical and Biological Engineering(APCMBE2005), ",
+    "author_kor": "신항식; 윤용현; 이성표; 이명호",
+    "author_eng": "Hangsik Shin; Yonghyeon Yun; Seong Pyo Lee; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "511196cf-b45b-4d16-9ae8-76f94b13514f",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2005"
+  }
+]

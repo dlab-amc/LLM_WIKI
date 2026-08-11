@@ -1,0 +1,39 @@
+[
+  {
+    "id": "400b3077-17af-4783-97e2-febfee001a52",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2009-10-01",
+    "title_eng": "Robust algorithm for arrhythmia classification in ECG using extreme learning machine",
+    "journal_eng": "BioMedical Engineering Online",
+    "author_kor": "김진권; 신항식; 신광수; 이명호",
+    "author_eng": "Jinkwon Kim; Hangsik Shin; Kwangsoo Shin; Myongho Lee",
+    "author_ids": [
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4d8d7c34-b50f-48f0-8859-c69ed515db32",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/1475-925X-8-31",
+    "year_resolved": "2009"
+  },
+  {
+    "id": "e8b85116-926b-4055-9ae0-fe4af72bd951",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2008-04-25",
+    "title_eng": "Implementation of ICD(Implantable Cardioverter Defibrillator) Algorithm and Simulator for Detecting and Treatment of Patient with Arrhythmia",
+    "title_kor": "부정맥 환자의 진단 및 치료를 위한 ICD 알고리즘 및 시뮬레이터 구현",
+    "conference_eng": "2008 Information and Control Symposium",
+    "author_kor": "신광수; 김진권; 신항식; 이충근; 이명호",
+    "author_eng": "Kwangsoo Shin; Jinkwon Kim; Hangsik shin; Chungkeun Lee; Myongho Lee",
+    "author_ids": [
+      "4d8d7c34-b50f-48f0-8859-c69ed515db32",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2008"
+  }
+]

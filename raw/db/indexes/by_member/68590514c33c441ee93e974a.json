@@ -1,0 +1,619 @@
+{
+  "member_id": "68590514c33c441ee93e974a",
+  "member_name_kor": "류가연",
+  "author_id": "17ff8154-0d9f-4486-abd7-b34e64268d87",
+  "count": 34,
+  "publications": [
+    {
+      "id": "75480fca-4d6e-4b0f-bef4-bd19409c4b34",
+      "category": "journal",
+      "class": "SCI",
+      "date": "2026-06-18",
+      "title_eng": "Medication-specific risk of atrial fibrillation in patients with coronary artery disease",
+      "journal_eng": "Biomedical Engineering Letters",
+      "author_kor": "김태현; 류가연; 최예은; 신항식",
+      "author_eng": "Taehyun Kim; Gayeon Ryu; Ye Eun Choi; Hangsik Shin",
+      "author_ids": [
+        "125c0eac-e405-4c5b-8d4a-00eedb04a6aa",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "11293195-d430-4570-98b9-f1d9e82ca0e6",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "link": "https://link.springer.com/article/10.1007/s13534-026-00589-6",
+      "year_resolved": "2026"
+    },
+    {
+      "id": "93d0f6a3-536d-46ce-a41d-c29557550ecb",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2026-05-07",
+      "title_eng": "Development of an Atrial Fibrillation Risk Prediction Model for Health Screening",
+      "title_kor": "건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발",
+      "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+      "author_kor": "류가연; 최예은; 신항식",
+      "author_eng": "Gayeon Ryu; Ye Eun Choi; Hangsik Shin",
+      "author_ids": [
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "11293195-d430-4570-98b9-f1d9e82ca0e6",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026"
+    },
+    {
+      "id": "b4b37a0b-317c-4211-bbec-f47a63ab29cf",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Development of an Atrial Fibrillation Risk Prediction Model for Health Screening",
+      "title_kor": "건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발",
+      "author_kor": "류가연; 최예은; 신항식",
+      "author_eng": "Gayeon Ryu; Ye Eun Choi; Hangsik Shin",
+      "author_ids": [
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "11293195-d430-4570-98b9-f1d9e82ca0e6",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026"
+    },
+    {
+      "id": "6757496c-84b9-4b4a-a3da-785e7e957188",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2026-05-07",
+      "title_eng": "Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices",
+      "title_kor": "수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발 ",
+      "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+      "author_kor": "김영돈; 한유진; 류가연; 이연진; 신항식",
+      "author_eng": "Yeongdon Kim; Yujin Han; Gayeon Ryu; Yeonjin Lee; Hangsik Shin",
+      "author_ids": [
+        "923fe812-860b-4422-9d92-1767e699fa0b",
+        "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "5443481d-379f-4af6-8ef2-1d61bd2dfbe8",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026"
+    },
+    {
+      "id": "6ca3ccd4-4fc1-4256-9b02-b1791eedce4e",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices",
+      "title_kor": "수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발 ",
+      "author_kor": "김영돈; 한유진; 류가연; 이연진; 신항식",
+      "author_eng": "Yeongdon Kim; Yujin Han; Gayeon Ryu; Yeonjin Lee; Hangsik Shin",
+      "author_ids": [
+        "923fe812-860b-4422-9d92-1767e699fa0b",
+        "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "5443481d-379f-4af6-8ef2-1d61bd2dfbe8",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026"
+    },
+    {
+      "id": "611557ad-9346-42f9-a88b-bcda04e67cd4",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2026-05-07",
+      "title_eng": "Development and External Validation of a Machine Learning Model for Predicting Postoperative Length of Stay",
+      "title_kor": "수술 후 재원 기간 예측을 위한 머신러닝 모델 개발 및 다기관 외부 검증",
+      "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+      "author_kor": "진재욱; 류가연; 심지훈; 신항식",
+      "author_eng": "Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin",
+      "author_ids": [
+        "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "2fa67677-ac83-41f4-9f07-d202a6195909",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026"
+    },
+    {
+      "id": "0bd7ed03-073b-4f54-8e3c-efbead217078",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2026-05-07",
+      "title_eng": "A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms",
+      "title_kor": "수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계",
+      "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+      "author_kor": "한유진; 류가연; 김영돈; 신항식",
+      "author_eng": "Yujin Han; Gayeon Ryu; Yeongdon Kim; Hangsik Shin",
+      "author_ids": [
+        "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "923fe812-860b-4422-9d92-1767e699fa0b",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026"
+    },
+    {
+      "id": "4b92b947-c52a-4631-aa1e-eecad88284cb",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms",
+      "title_kor": "수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계",
+      "author_kor": "한유진; 류가연; 김영돈; 신항식",
+      "author_eng": "Yujin Han; Gayeon Ryu; Yeongdon Kim; Hangsik Shin",
+      "author_ids": [
+        "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "923fe812-860b-4422-9d92-1767e699fa0b",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026"
+    },
+    {
+      "id": "6ef31ff6-7f4f-41e4-957c-210113d5a3ef",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": ".",
+      "title_kor": "2026 대한의용생체공학회 춘계학술대회, 한국의료기기안전정보원장",
+      "author_kor": "류가연",
+      "author_eng": "Gayeon Ryu",
+      "author_ids": [
+        "17ff8154-0d9f-4486-abd7-b34e64268d87"
+      ],
+      "year_resolved": "2026"
+    },
+    {
+      "id": "e7f50914-9069-4843-a9e8-675b99ffc3a2",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2025-10-22",
+      "title_eng": "PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측",
+      "title_kor": "PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측",
+      "conference_eng": "CICS’25 정보 및 제어 학술대회",
+      "author_kor": "진재욱; 류가연; 심지훈; 신항식",
+      "author_eng": "Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin",
+      "author_ids": [
+        "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "2fa67677-ac83-41f4-9f07-d202a6195909",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    },
+    {
+      "id": "8cd9638b-94ac-4ee4-9283-6266d38535cb",
+      "category": "conference",
+      "class": "International",
+      "date": "2025-12-21",
+      "title_eng": "PubMedBERT-Based Terminology Mapping for Surgical Procedure Types",
+      "conference_eng": "The 7th International Conference on Advanced Bioinformatics and Biomedical Engineering",
+      "author_kor": "진재욱; 류가연; 심지훈; 신항식",
+      "author_eng": "Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin",
+      "author_ids": [
+        "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "2fa67677-ac83-41f4-9f07-d202a6195909",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    },
+    {
+      "id": "f2b46502-eba0-4b55-b98d-1b1f088f9869",
+      "category": "award",
+      "date": "2025-10-23",
+      "title_eng": "Prolonged Length of Stay Prediction with PubMedBERT-Deep Neural Network Fusion Model",
+      "title_kor": "PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측",
+      "author_kor": "진재욱; 류가연; 심지훈; 신항식",
+      "author_eng": "Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin",
+      "author_ids": [
+        "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "2fa67677-ac83-41f4-9f07-d202a6195909",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    },
+    {
+      "id": "4df94230-b073-4e4c-9037-277fc44342b8",
+      "category": "journal",
+      "class": "SCI",
+      "date": "2025-01-24",
+      "title_eng": "Machine learning based quantitative pain assessment for the perioperative period",
+      "title_kor": "Machine learning based quantitative pain assessment for the perioperative period",
+      "journal_eng": "npj Digital Medicine",
+      "author_kor": "류가연; 최재문; 석현석; 이재형; 이은경; 신항식; 최병문",
+      "author_eng": "Gayeon Ryu; Jae Moon Choi; Hyeon Seok Seok; Jaehyung Lee; Eun-Kyung Lee; Hangsik Shin; Byungmoon Choi",
+      "author_ids": [
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+        "77b4f02a-147a-4280-9045-69c05b9cecc5",
+        "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+        "7f204165-939d-44e7-9ad2-cc9df84495bf",
+        "189de491-3424-4bf3-bb66-26bd0667ed24",
+        "3ae96e51-111a-489e-9a0e-76b9b2acff26"
+      ],
+      "link": "https://www.nature.com/articles/s41746-024-01362-8",
+      "year_resolved": "2025"
+    },
+    {
+      "id": "b928a941-79da-4486-b9f0-02b3b6e86c9a",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2025-05-08",
+      "title_eng": "Feasibility of Photoplethysmogram for Mental Fatigue Assessment",
+      "title_kor": "광용적맥파 기반 정신적 피로 평가 가능성 연구",
+      "conference_eng": "2025 대한의용생체공학회 춘계학술대회",
+      "author_kor": "석현석; 이건; 류가연; 신항식",
+      "author_eng": "Hyeon Seok Seok; Geon Lee; Gayeon Ryu; Hangsik Shin",
+      "author_ids": [
+        "77b4f02a-147a-4280-9045-69c05b9cecc5",
+        "75bef458-47fc-43ad-9bdb-f934cbb66beb",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    },
+    {
+      "id": "64a5c206-ab29-4a1d-8778-2999a0bf4df7",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2025-05-08",
+      "title_eng": "Evaluation of Atrial Fibrillation incidence in Patients on Coronary artery disease Medications: A Retrospective Cohort Study",
+      "title_kor": "관상동맥질환 치료제의 심방세동 발생에 대한 영향: 후향적 코호트 분석",
+      "conference_eng": "2025 대한의용생체공학회 춘계학술대회",
+      "author_kor": "김태현; 류가연; 최예은; 신항식",
+      "author_eng": "Taehyun Kim; Gayeon Ryu; Ye Eun Choi; Hangsik Shin",
+      "author_ids": [
+        "125c0eac-e405-4c5b-8d4a-00eedb04a6aa",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "11293195-d430-4570-98b9-f1d9e82ca0e6",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    },
+    {
+      "id": "ce676224-6524-494b-ac75-4af3b52d8fa9",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2025-05-08",
+      "title_eng": "Development of an Atrial Fibrillation Prediction Model Based on Health Checkup Data",
+      "title_kor": "건강검진 데이터 기반 심방세동 예측 모델 개발",
+      "conference_eng": "2025 대한의용생체공학회 춘계학술대회",
+      "author_kor": "류가연; 최예은; 신항식",
+      "author_eng": "Gayeon Ryu; Ye Eun Choi; Hangsik Shin",
+      "author_ids": [
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "11293195-d430-4570-98b9-f1d9e82ca0e6",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    },
+    {
+      "id": "7d64f21d-e836-4a19-adad-39e7a05d212d",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2025-11-06",
+      "title_eng": "Development of a BioclinicalBERT-Deep Neural Network Fusion Model for Predicting Postoperative Length of Stay",
+      "title_kor": "수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발",
+      "conference_eng": "2025년 대한의용생체공학회 추계학술대회",
+      "author_kor": "진재욱; 류가연; 심지훈; 신항식",
+      "author_eng": "Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin",
+      "author_ids": [
+        "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "2fa67677-ac83-41f4-9f07-d202a6195909",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    },
+    {
+      "id": "f2282795-e0d3-4dcb-93e0-a04a2aef2032",
+      "category": "award",
+      "date": "2025-11-08",
+      "title_eng": "Development of a BioclinicalBERT-Deep Neural Network Fusion Model for Predicting Postoperative Length of Stay",
+      "title_kor": "수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발",
+      "author_kor": "진재욱; 류가연; 심지훈; 신항식",
+      "author_eng": "Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin",
+      "author_ids": [
+        "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "2fa67677-ac83-41f4-9f07-d202a6195909",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025"
+    },
+    {
+      "id": "f465d274-a2ed-447b-a17c-e9f8ade4cda7",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2024-11-07",
+      "title_eng": "The Impact of Demographic Characteristics and Comorbidities on the Incidence of Atrial Fibrillation",
+      "title_kor": "인구통계 특성 및 유관질환이 심방세동 발병에 미치는 영향",
+      "conference_eng": "2024년도 제 64회 대한의용생체공학회 추계학술대회",
+      "author_kor": "류가연; 최예은; 신항식",
+      "author_eng": "Gayeon Ryu; Ye Eun Choi; Hangsik Shin",
+      "author_ids": [
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "11293195-d430-4570-98b9-f1d9e82ca0e6",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2024"
+    },
+    {
+      "id": "17bf2ac9-95d2-4b28-af8b-f9b5bab02212",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2024-05-09",
+      "title_eng": "Photoplethysmogram Features for Severity Assessment of Postoperative Pain",
+      "title_kor": "광용적맥파 기반 수술후 통증 중증도 평가지표 분석",
+      "conference_eng": "2024년 제63회 대한의용생체공학회 춘계 학술대회",
+      "author_kor": "류가연; 석현석; 최병문; 최재문; 신항식",
+      "author_eng": "Gayeon Ryu; Hyeon Seok Seok; Byungmoon Choi; Jae Moon Choi; Hangsik Shin",
+      "author_ids": [
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "77b4f02a-147a-4280-9045-69c05b9cecc5",
+        "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+        "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2024"
+    },
+    {
+      "id": "c0e967e7-4969-4ea0-a624-ff9f3c621cbe",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2024-10-23",
+      "title_eng": "Evaluation of Photoplethysmogram-based Vascular Age Estimation Models",
+      "title_kor": "광용적맥파 기반 혈관 나이 추정 모델의 평가",
+      "conference_eng": "Conference on Information and Control Systems",
+      "author_kor": "류가연; 최예은; 신항식",
+      "author_eng": "Gayeon Ryu; Ye Eun Choi; Hangsik Shin",
+      "author_ids": [
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "11293195-d430-4570-98b9-f1d9e82ca0e6",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2024"
+    },
+    {
+      "id": "e428df87-b2b6-49b4-9d24-ac5b4fdfeb4a",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2024-07-10",
+      "title_eng": "Development of a Real-Time Upper Limb Range of Motion Measurement Method Using a Single Depth Measurement Camera",
+      "title_kor": "단일 깊이측정 카메라를 활용한 실시간 상지 관절 가동범위 측정 방법 개발",
+      "conference_eng": "The 55th KIEE Summer Conference 2024",
+      "author_kor": "김영돈; 임하민; 류가연; 한유진; 신항식",
+      "author_eng": "Yeongdon Kim; Hamin Lim; Gayeon Ryu; Yujin Han; Hangsik Shin",
+      "author_ids": [
+        "923fe812-860b-4422-9d92-1767e699fa0b",
+        "e556ed57-f679-4685-a592-767ec3a64f46",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2024"
+    },
+    {
+      "id": "8bf5ada9-036e-45ea-8e1b-88061cc5e1d0",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2024-11-07",
+      "title_eng": "Bio-signals and result feature analysis to leverage public polysomnography database  integration",
+      "title_kor": "공개 수면다원검사 데이터베이스 통합 활용을 위한 생체신호 및 결과 변수 분석",
+      "conference_eng": "대한의용생체공학회 2024년 추계학술대회",
+      "author_kor": "류가연; 한유진; 김영돈; 신항식",
+      "author_eng": "Gayeon Ryu; Yujin Han; Yeongdon Kim; Hangsik Shin",
+      "author_ids": [
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+        "923fe812-860b-4422-9d92-1767e699fa0b",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "link": "https://dlab-amc.github.io/publications/conference/ibec2024/gy/ibec_gy.html#",
+      "year_resolved": "2024"
+    },
+    {
+      "id": "a88dd95e-adb0-46cb-a2ae-ab50f1b56c45",
+      "category": "journal",
+      "class": "SCI",
+      "date": "2024-08-14",
+      "title_eng": "Atrial Fibrillation Identification Using CNNs Based on Genomic Data",
+      "journal_eng": "Journal of Electrical Engineering & Technology",
+      "author_kor": "이재형; 권오석; 류가연; 신항식; 박희남",
+      "author_eng": "Jaehyung Lee; Oh-Seok Kwon; Gayeon Ryu; Hangsik Shin; Hui-Nam Pak",
+      "author_ids": [
+        "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+        "ee05cb84-1386-49fe-bf89-d909093c9720",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "189de491-3424-4bf3-bb66-26bd0667ed24",
+        "2883f978-84ac-4c9c-834b-0bacbda6dcba"
+      ],
+      "link": "https://link.springer.com/article/10.1007/s42835-024-01998-2",
+      "year_resolved": "2024"
+    },
+    {
+      "id": "6d8b5817-2a7b-4507-9d7f-21de5560f5a4",
+      "category": "journal",
+      "class": "SCI",
+      "date": "2024-08-12",
+      "title_eng": "Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers",
+      "title_kor": "Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers",
+      "journal_eng": "Journal of Electrical Engineering & Technology",
+      "author_kor": "류가연; 최재문; 이재형; 석현석; 신항식; 최병문",
+      "author_eng": "Gayeon Ryu; Jae Moon Choi; Jaehyung Lee; Hyeon Seok Seok; Hangsik Shin; Byungmoon Choi",
+      "author_ids": [
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+        "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+        "77b4f02a-147a-4280-9045-69c05b9cecc5",
+        "189de491-3424-4bf3-bb66-26bd0667ed24",
+        "3ae96e51-111a-489e-9a0e-76b9b2acff26"
+      ],
+      "link": "https://link.springer.com/article/10.1007/s42835-024-01999-1?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240812&utm_content=10.1007%2Fs42835-024-01999-1",
+      "year_resolved": "2024"
+    },
+    {
+      "id": "3f037504-428d-406c-9c76-7d0fde04eb4c",
+      "category": "patent",
+      "class": "Domestic",
+      "date": "2024-04-22",
+      "title_eng": "An apparatus for creating a pain assessment model, method for creating a pain assessment model and computer readable recording medium",
+      "title_kor": "통증평가모델 생성 장치, 통증평가모델 생성 방법 및 이를 수행하는 프로그램이 저장된 기록 매체",
+      "author_kor": "신항식; 최병문; 최재문; 류가연",
+      "author_eng": "Hangsik Shin; Byungmoon Choi; Jae Moon Choi; Gayeon Ryu",
+      "author_ids": [
+        "189de491-3424-4bf3-bb66-26bd0667ed24",
+        "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+        "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87"
+      ],
+      "year_resolved": "2024"
+    },
+    {
+      "id": "c33223ec-767e-4b1b-8ef5-6cf409fd7f1f",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2023-11-09",
+      "title_eng": "Photoplethysmogram based on Surgical Pain Severity Assessment Feature Analysis",
+      "title_kor": "광용적맥파 기반 수술 중 통증 중증도 평가 지표 분석",
+      "conference_eng": "9th International Biomedical Engineering Conference IBEC 2023",
+      "author_kor": "류가연; 석현석; 최병문; 최재문; 신항식",
+      "author_eng": "Gayeon Ryu; Hyeon Seok Seok; Byungmoon Choi; Jae Moon Choi; Hangsik shin",
+      "author_ids": [
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "77b4f02a-147a-4280-9045-69c05b9cecc5",
+        "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+        "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2023"
+    },
+    {
+      "id": "eca439f7-9ff8-406a-9895-2437c3a9b420",
+      "category": "conference",
+      "class": "International",
+      "date": "2023-12-07",
+      "title_eng": "Ectopic Beat Correction Strategies for Accurate Heart Rate Variability Analysis",
+      "title_kor": "정확한 심박변이도 분석을 위한 이소성 박동 교정 전략",
+      "conference_eng": "IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine & Biology",
+      "author_kor": "류가연; 석현석; 신항식",
+      "author_eng": "Gayeon Ryu; Hyeon Seok Seok; Hangsik Shin",
+      "author_ids": [
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "77b4f02a-147a-4280-9045-69c05b9cecc5",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2023"
+    },
+    {
+      "id": "2cfc8d99-e452-44c4-b9eb-b8e21ba1ec68",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2023-05-11",
+      "title_eng": "Development of photopleyhsmogram based feature for intra- and post-operative pain",
+      "title_kor": "광용적맥파 기반 수술 중 및 수술 후 통증평가 모델 기반 지표 탐색",
+      "conference_eng": "KOSOMBE spring conference 2023",
+      "author_kor": "류가연; 석현석; 신항식; 최병문; 최재문",
+      "author_eng": "Gayeon Ryu; Hyeon Seok Seok; Hangsik shin; Byungmoon Choi; Jae Moon Choi",
+      "author_ids": [
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "77b4f02a-147a-4280-9045-69c05b9cecc5",
+        "189de491-3424-4bf3-bb66-26bd0667ed24",
+        "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+        "79722270-bde5-4ef2-bad5-ccd4d4e75854"
+      ],
+      "year_resolved": "2023"
+    },
+    {
+      "id": "6ad94024-ae39-48f9-bd09-fccde79f3418",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2023-04-15",
+      "title_eng": "Development of an artificial intelligence model for both intra- and post- operative pain assessment",
+      "title_kor": "Development of an artificial intelligence model for both intra- and post- operative pain assessment",
+      "conference_eng": "2023 대한마취약리학회 학술대회",
+      "author_kor": "석현석; 류가연; 신항식; 최재문; 최병문",
+      "author_eng": "Hyeon Seok Seok; Gayeon Ryu; Hangsik shin; Jae Moon Choi; Byungmoon Choi",
+      "author_ids": [
+        "77b4f02a-147a-4280-9045-69c05b9cecc5",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "189de491-3424-4bf3-bb66-26bd0667ed24",
+        "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+        "3ae96e51-111a-489e-9a0e-76b9b2acff26"
+      ],
+      "year_resolved": "2023"
+    },
+    {
+      "id": "35fe7426-b8bf-4fcb-a7f2-b8db79a47148",
+      "category": "conference",
+      "class": "International",
+      "date": "2023-07-24",
+      "title_eng": "Arrival Times of Maximum Pain and Pain Suppression After Acute Pain Stimulation in Surgical Procedure",
+      "title_kor": "Arrival Times of Maximum Pain and Pain Suppression After Acute Pain Stimulation in Surgical Procedure",
+      "conference_eng": "45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+      "author_kor": "석현석; 류가연; 최재문; 최병문; 신항식",
+      "author_eng": "Hyeon Seok Seok; Gayeon Ryu; Jae Moon Choi; Byungmoon Choi; Hangsik Shin",
+      "author_ids": [
+        "77b4f02a-147a-4280-9045-69c05b9cecc5",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+        "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2023"
+    },
+    {
+      "id": "d1f421a1-d2e7-455f-8921-078a1b7f8f49",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2023-07-12",
+      "title_eng": "Analysis of a surgical pain severity assessment feature based on photoplethysmogram",
+      "title_kor": "광용적맥파 기반 수술 통증 중증도 평가 지표 분석",
+      "conference_eng": "The 54th KIEE Summer Conference 2023",
+      "author_kor": "류가연; 석현석; 신항식; 최병문; 최재문",
+      "author_eng": "Gayeon Ryu; Hyeon Seok Seok; Hangsik shin; Byungmoon Choi; Jae Moon Choi",
+      "author_ids": [
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "77b4f02a-147a-4280-9045-69c05b9cecc5",
+        "189de491-3424-4bf3-bb66-26bd0667ed24",
+        "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+        "79722270-bde5-4ef2-bad5-ccd4d4e75854"
+      ],
+      "year_resolved": "2023"
+    },
+    {
+      "id": "ec984069-549a-45b8-a477-f476adb29b70",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2022-11-03",
+      "title_eng": "Photoplethysmogram Feature Analysis for Surgical Pain Assessment",
+      "title_kor": "수술 중 통증 평가를 위한 광용적맥파 특징 지표 분석",
+      "conference_eng": "60th KOSOMBE Autumn Conference 2022",
+      "author_kor": "류가연; 석현석; 왕창원; 최병문; 최재문; 신항식",
+      "author_eng": "Gayeon Ryu; Hyeon Seok Seok; Changwon Wang; Byungmoon Choi; Jae Moon Choi; Hangsik shin",
+      "author_ids": [
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "77b4f02a-147a-4280-9045-69c05b9cecc5",
+        "ad98337a-712a-4d40-a163-4ac540834245",
+        "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+        "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2022"
+    },
+    {
+      "id": "a99b15be-b7f4-4777-aba8-50c8c0910789",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2022-10-19",
+      "title_eng": "Comparison of Photoplethysmogram Feature for Intraoperative Pain and Postoperative Pain",
+      "title_kor": "수술 중 및 수술 후 통증에 대한 광용적맥파 특징 지표 비교",
+      "conference_eng": "CICS'22 정보 및 제어 학술대회",
+      "author_kor": "류가연; 석현석; 왕창원; 최병문; 최재문; 신항식",
+      "author_eng": "Gayeon Ryu; Hyeon Seok Seok; Changwon Wang; Byungmoon Choi; Jae Moon Choi; Hangsik shin",
+      "author_ids": [
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "77b4f02a-147a-4280-9045-69c05b9cecc5",
+        "ad98337a-712a-4d40-a163-4ac540834245",
+        "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+        "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2022"
+    }
+  ]
+}

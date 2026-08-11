@@ -1,0 +1,986 @@
+[
+  {
+    "id": "4dd74f51-ff09-442d-8046-e38e274dcf9b",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2012-05-01",
+    "title_eng": "The Optimal Attachment Position for a Fingertip Photoplethysmographic Sensor With Low DC",
+    "journal_eng": "IEEE Sensors Journal",
+    "author_kor": "이충근; 신항식; 박종철; 이명호",
+    "author_eng": "Chungkeun Lee; Hangsik Shin; Jongchul Park; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "2f2087f8-afe5-46a5-b083-744fab3b2a17",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://ieeexplore.ieee.org/abstract/document/5985462",
+    "year_resolved": "2012"
+  },
+  {
+    "id": "05e7489f-d382-4b1c-ac85-04c5bde131af",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2012-11-01",
+    "title_eng": "Pulse Rate Variability as a Surrogate Method for Autonomic Nervous System assessment Comparing with Heart Rate Variability",
+    "title_kor": "Pulse Rate Variability as a Surrogate Method for Autonomic Nervous System assessment Comparing with Heart Rate Variability",
+    "journal_eng": "Advanced Science Letters",
+    "author_kor": "신항식; 이충근",
+    "author_eng": "Hangsik Shin; Chungkeun Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e"
+    ],
+    "link": "https://www.ingentaconnect.com/contentone/asp/asl/2012/00000018/00000001/art00015",
+    "year_resolved": "2012"
+  },
+  {
+    "id": "a429eb2e-13eb-4a76-a59c-9fa2ff658252",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2011-07-22",
+    "title_eng": "Relations between ac-dc components and optical path length in photoplethysmography",
+    "journal_eng": "Journal of Biomedical Optics",
+    "author_kor": "이충근; 신항식; 이명호",
+    "author_eng": "Chungkeun Lee; Hangsik Shin; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/21806292/",
+    "year_resolved": "2011"
+  },
+  {
+    "id": "c93b0161-f213-4982-82c2-34757a59d1d2",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2011-04-01",
+    "title_eng": "Analysis of Arterial Stiffness Variation by Photoplethysmographic DC Component",
+    "title_kor": "광용적맥파 비맥동성분에 의한 혈관경직도 변화 분석",
+    "journal_eng": "Journal of Biomedical Engineering Research",
+    "author_kor": "이충근; 신항식; 공인덕; 이명호",
+    "author_eng": "Chungkeun Lee; Hangsik shin; In-deok Kong; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "d1deeaca-ef44-4110-a9f0-a0e7ad557c7d",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://koreascience.kr/article/JAKO201123457285030.page",
+    "year_resolved": "2011"
+  },
+  {
+    "id": "e50876f8-bf98-45be-8114-1ee863cad146",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2010-03-01",
+    "title_eng": "Respiration Measurement System using Textile Capacitive Pressure Sensor",
+    "title_kor": "전기용량성 섬유 압력센서를 이용한 호흡측정 시스템",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "민세동; 윤영현; 이충근; 신항식; 조하경; 황선철; 이명호",
+    "author_eng": "Se-Dong Min; Younghyeon Yun; Chungkeun Lee; Hangsik Shin; Hakyung Cho; Seon-Cheol Hwang; Myongho Lee",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "2eb90419-3e7b-4e65-a481-45a472b574cc",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "060492dd-a93e-46a6-bfbc-3cec066480c5",
+      "6b4affb3-8e02-43ff-a345-0c84bbca780f",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "http://journal.auric.kr/kieep/ArticleDetail/RD_R/361209",
+    "year_resolved": "2010"
+  },
+  {
+    "id": "15f9d227-cec2-4e2f-ae07-596803d0dae4",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2010-11-01",
+    "title_eng": "Noncontact Respiration Rate Measurement System Using an Ultrasonic Proximity Sensor",
+    "journal_eng": "IEEE Sensors Journal",
+    "author_kor": "민세동; 김진권; 신항식; 윤용현; 이충근; 이명호",
+    "author_eng": "Se Dong Min; Jinkwon Kim; Hangsik Shin; Yonghyeon Yun; Chungkeun Lee; Myongho Lee",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://ieeexplore.ieee.org/abstract/document/5571922",
+    "year_resolved": "2010"
+  },
+  {
+    "id": "b4234945-977e-4835-9d52-c3aa580d6e32",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2010-08-01",
+    "title_eng": "Ideal Filtering Approach on DCT Domain for Biomedical Signals: Index Blocked DCT Filtering Method (IB-DCTFM)",
+    "journal_eng": "Journal of Medical Systems",
+    "author_kor": "신항식; 이충근; 이명호",
+    "author_eng": "Hangsik Shin; Chungkeun Lee; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/20703930/",
+    "year_resolved": "2010"
+  },
+  {
+    "id": "4f276942-e7df-4e96-a7e6-6c2f0e55ffee",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2010-10-22",
+    "title_eng": "A study on photoplethysmographic component and arterial stiffness by body posture",
+    "title_kor": "측정자세에 따른 광용적맥파의 성분과 혈관 경직도에 관한 연구",
+    "conference_eng": "Conference on Information and Control Systems 2010",
+    "author_kor": "이충근; 신항식; 김진권; 이병우; 이명호",
+    "author_eng": "Chungkeun Lee; Hangsik shin; Jinkwon Kim; Byung Woo Lee; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2010"
+  },
+  {
+    "id": "f3952950-2a6a-4db7-85fd-8f7a546419a6",
+    "category": "conference",
+    "class": "International",
+    "date": "2009-01-01",
+    "title_eng": "Verification of Spectrum Analysis for Finger Plethysmography Based on Standing Wave and Harmonics",
+    "title_kor": "Verification of Spectrum Analysis for Finger Plethysmography Based on Standing Wave and Harmonics",
+    "conference_eng": "International Union for Physical and Engineering Sciences in Medicine IFMBE Proceedings",
+    "author_kor": "신항식; 이충근; 윤용현; 이영범; 이명호",
+    "author_eng": "Hangsik Shin; Chungkeun Lee; Yonghyeon Yun; Young-Bum Lee; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "c6f85a88-2d08-4559-828c-d97b95e5abf3",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2009"
+  },
+  {
+    "id": "d9eb4ce2-b6eb-4f09-abe4-427b014c0958",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2009-05-01",
+    "title_eng": "The e-Health Landscape: Current Status and Future Prospects in Korea",
+    "journal_eng": "Telemedicine and e-Health",
+    "author_kor": "이명호; 민세동; 신항식; 이병우; 김진권",
+    "author_eng": "Myongho Lee; Se Dong Min; Hangsik Shin; Byung Woo Lee; Jinkwon Kim",
+    "author_ids": [
+      "4a05a292-1a5b-4577-91ff-87da330a9358",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7"
+    ],
+    "link": "https://pubmed.ncbi.nlm.nih.gov/19441955/",
+    "year_resolved": "2009"
+  },
+  {
+    "id": "400b3077-17af-4783-97e2-febfee001a52",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2009-10-01",
+    "title_eng": "Robust algorithm for arrhythmia classification in ECG using extreme learning machine",
+    "journal_eng": "BioMedical Engineering Online",
+    "author_kor": "김진권; 신항식; 신광수; 이명호",
+    "author_eng": "Jinkwon Kim; Hangsik Shin; Kwangsoo Shin; Myongho Lee",
+    "author_ids": [
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4d8d7c34-b50f-48f0-8859-c69ed515db32",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/1475-925X-8-31",
+    "year_resolved": "2009"
+  },
+  {
+    "id": "0ff8db41-3ff3-405f-a09b-eef0b213b3e0",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2009-01-29",
+    "title_eng": "Calculating method of actual size of object and systemthereof",
+    "title_kor": "영상의 실물 크기 계산 방법 및 그 시스템",
+    "author_kor": "이명호; 윤성원; 윤용현; 신항식; 주영민; 정완진",
+    "author_eng": "Myongho Lee; Sung-Won Yoon; Yonghyeon Yoon; Hangsik Shin; Youngmin Choo; Wanjin Jeong",
+    "author_ids": [
+      "4a05a292-1a5b-4577-91ff-87da330a9358",
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "b791b76d-98f1-494b-b426-4f745e088d64",
+      "13298ee3-16d7-4515-8ca0-beb372aa5077"
+    ],
+    "year_resolved": "2009"
+  },
+  {
+    "id": "44aae63f-600e-4511-ac0c-36e15922ccf9",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2009-12-01",
+    "title_eng": "Adaptive threshold method for the peak detection of photoplethysmographic waveform",
+    "journal_eng": "Computers in Biology and Medicine",
+    "author_kor": "신항식; 이충근; 이명호",
+    "author_eng": "Hangsik Shin; Chungkeun Lee; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://www.sciencedirect.com/science/article/pii/S0010482509001826",
+    "year_resolved": "2009"
+  },
+  {
+    "id": "2856a49d-82b8-4a4a-b47f-161545ebb513",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2009-10-01",
+    "title_eng": "Abdominal Wall Motion-Based Respiration Rate Measurement using An Ultrasonic Proximity Sensor",
+    "title_kor": "복부 움직임에 따른 초음파 근접센서를 이용한 호흡측정에 관한 연구",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "민세동; 김진권; 신항식; 윤용현; 이충근",
+    "author_eng": "Se-Dong Min; Jinkwon Kim; Hangsik Shin; Yonghyeon Yun; Chungkeun Lee",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e"
+    ],
+    "year_resolved": "2009"
+  },
+  {
+    "id": "36cd9619-6e38-403a-8055-a702026871e3",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2009-05-01",
+    "title_eng": "A Study on the Measurement of Heart Rate Variability using the Modified Laplacian Electrodes",
+    "title_kor": "수정된 라플라시안 센서를 이용한 심박변이도 측정에 관한 연구",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "이충근; 신항식; 김홍래; 이정환; 김용준; 이명호",
+    "author_eng": "Chungkeun Lee; Hangsik shin; Hone-Rae Kim; Jeong-Whan Lee; Yong-Jun Kim; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ae72065a-4ff4-4d10-b45b-16bcdb93feac",
+      "596b9b4d-31d5-43cb-b6f4-656f259b6ef5",
+      "4936d26d-b64d-40ee-85c7-1501199e8eb8",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2009"
+  },
+  {
+    "id": "d6b224c9-c0a6-47d1-9233-07f008a60309",
+    "category": "conference",
+    "class": "International",
+    "date": "2009-01-01",
+    "title_eng": "A Study on Comparison PPG Variability with Heart Rate Variability in the Sitting Position During Paced Respiration",
+    "title_kor": "A Study on Comparison PPG Variability with Heart Rate Variability in the Sitting Position During Paced Respiration",
+    "conference_eng": "International Union for Physical and Engineering Sciences in Medicine IFMBE Proceedings",
+    "author_kor": "이충근; 신항식; 민세동; 이명호",
+    "author_eng": "Chungkeun Lee; Hangsik Shin; Se Dong Min; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2009"
+  },
+  {
+    "id": "be76a31e-fd95-41d3-af61-c27db65fb022",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2008-07-16",
+    "title_eng": "The Influence on Corelation between Photo-plethysmograph Variability and Heart Rate Variability by Temperature Variation",
+    "title_kor": "온도변이가 PV와 HRV의 상관관계에 미치는 영향에 관한 연구",
+    "conference_eng": "The 39th KIEE Summer Conference 2008",
+    "author_kor": "민세동; 이충근; 신항식; 이병우; 김진권; 박현철; 이명호",
+    "author_eng": "Se-Dong Min; Chungkeun Lee; Hangsik shin; Byung Woo Lee; Jinkwon Kim; Hyun-Chul Park; Myongho Lee",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "ed205265-0d1b-46cd-8449-42395ab1bed1",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2008"
+  },
+  {
+    "id": "4379a81d-8774-4ea5-b509-308d65e37bbd",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2008-07-16",
+    "title_eng": "Pratical Usage Evaluation of ECG and HR signal related on DCT Compression Ratio",
+    "title_kor": "DCT 압축률에 따른 심전도 및 심박 신호의 임상적 활용도 평가",
+    "conference_eng": "The 39th KIEE Summer Conference 2008",
+    "author_kor": "신항식; 이명호",
+    "author_eng": "Hangsik shin; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2008"
+  },
+  {
+    "id": "e8b85116-926b-4055-9ae0-fe4af72bd951",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2008-04-25",
+    "title_eng": "Implementation of ICD(Implantable Cardioverter Defibrillator) Algorithm and Simulator for Detecting and Treatment of Patient with Arrhythmia",
+    "title_kor": "부정맥 환자의 진단 및 치료를 위한 ICD 알고리즘 및 시뮬레이터 구현",
+    "conference_eng": "2008 Information and Control Symposium",
+    "author_kor": "신광수; 김진권; 신항식; 이충근; 이명호",
+    "author_eng": "Kwangsoo Shin; Jinkwon Kim; Hangsik shin; Chungkeun Lee; Myongho Lee",
+    "author_ids": [
+      "4d8d7c34-b50f-48f0-8859-c69ed515db32",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2008"
+  },
+  {
+    "id": "fa3a5405-9e78-4617-b14c-1515a7c231f5",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2008-07-16",
+    "title_eng": "A Study on Measurement Heart Rate Variability using modified Laplacian Electrode",
+    "title_kor": "초소형 라플라시안 센서를 이용한 심박변이도의 측정에 관한 연구",
+    "conference_eng": "The 39th KIEE Summer Conference 2008",
+    "author_kor": "이충근; 박현철; 신항식; 김홍래; 김용호; 이정환; 김용준; 이명호",
+    "author_eng": "Chungkeun Lee; Hyun-Chul Park; Hangsik shin; Hone-Rae Kim; Yong Ho Kim; Jeong-Whan Lee; Yong-Jun Kim; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "ed205265-0d1b-46cd-8449-42395ab1bed1",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "ae72065a-4ff4-4d10-b45b-16bcdb93feac",
+      "6a928149-9e46-4571-9418-9da9df206a23",
+      "596b9b4d-31d5-43cb-b6f4-656f259b6ef5",
+      "4936d26d-b64d-40ee-85c7-1501199e8eb8",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2008"
+  },
+  {
+    "id": "fd93fc4e-7f7f-49f8-8aa6-99fe5f049248",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2008-07-16",
+    "title_eng": "A Study on Correlation of Photoplethysmogram Variability and Heart Rate Variability using Exercise Test",
+    "title_kor": "운동부하를 통한 PPGV와 HRV 상관성 평가에 관한 연구",
+    "conference_eng": "The 39th KIEE Summer Conference 2008",
+    "author_kor": "이충근; 민세동; 신항식; 윤용현; 이명호",
+    "author_eng": "Chungkeun Lee; Se-Dong Min; Hangsik shin; Yonghyeon Yoon; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2008"
+  },
+  {
+    "id": "14b52a07-03e2-4a59-902a-2f5312c84b7a",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2007-07-01",
+    "title_eng": "The Analysis of Living Daily Activities by Interpreting Bi-Directional Accelerometer Signals with Extreme Learning Machine",
+    "title_kor": "2축 가속도 신호와 Extreme Learning Machine을 사용한 행동패턴 분석 알고리즘",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "신항식; 이영범; 이명호",
+    "author_eng": "Hangsik shin; Young-Bum Lee; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "c6f85a88-2d08-4559-828c-d97b95e5abf3",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2007"
+  },
+  {
+    "id": "074f8d0f-9fe4-45d7-a535-ba5836537f91",
+    "category": "conference",
+    "class": "International",
+    "date": "2007-01-01",
+    "title_eng": "Medical Endoscopic Image Segmentation with Multi-resolution Deformation e-Health Networking",
+    "title_kor": "Medical Endoscopic Image Segmentation with Multi-resolution Deformation e-Health Networking",
+    "conference_eng": "Application and Services, 2007 9th International Conference on Proceeding",
+    "author_kor": "윤성원; 신항식; 민세동; 이명호",
+    "author_eng": "Sung Won Yoon; Hangsik Shin; Se Dong Min; Myongho Lee",
+    "author_ids": [
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2007"
+  },
+  {
+    "id": "eccd020d-f497-4e34-9310-6e99b9bb5504",
+    "category": "conference",
+    "class": "International",
+    "date": "2007-12-01",
+    "title_eng": "Implantable Bio system design for displacement measurement of living life",
+    "title_kor": "Implantable Bio system design for displacement measurement of living life",
+    "conference_eng": "In: Advanced Communication Technology, The 9th International Conference on. IEEE Proceeding",
+    "author_kor": "최명석; 이상원; 김종철; 조준동; 김진권; 신항식; 이명호; 조우순; 김재석",
+    "author_eng": "Myung-suk Choi; Sang-won Lee; Jong-chul Kim; Jun-dong Cho; Jinkwon Kim; Hangsik shin; Myongho Lee; Uusun Cho; Jaesuk Kim",
+    "author_ids": [
+      "8eefece5-1c7c-4e74-96fa-47c135489bd2",
+      "937b3736-c2dd-4240-8ab6-3752b29eda7e",
+      "a66965ce-a990-4180-a2f3-c5adfdae5385",
+      "bca6c3eb-14b3-4ea1-97f2-5d5120b5d451",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4a05a292-1a5b-4577-91ff-87da330a9358",
+      "3236a523-6d17-4174-b293-792f42730371",
+      "05525c60-7f80-47ff-aba9-cbaed273d513"
+    ],
+    "year_resolved": "2007"
+  },
+  {
+    "id": "aace2be3-bd38-442a-9f72-fc5e585f0312",
+    "category": "patent",
+    "class": "Domestic",
+    "date": "2007-04-25",
+    "title_eng": "Calculating method of actual size of object and systemthereof",
+    "title_kor": "영상의 실물 크기 계산 방법 및 그 시스템",
+    "author_kor": "이명호; 윤성원; 윤용현; 신항식; 주영민; 정완진",
+    "author_eng": "Myongho Lee; Sung-Won Yoon; Yonghyeon Yoon; Hangsik Shin; Youngmin Choo; Wanjin Jeong",
+    "author_ids": [
+      "4a05a292-1a5b-4577-91ff-87da330a9358",
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "b791b76d-98f1-494b-b426-4f745e088d64",
+      "13298ee3-16d7-4515-8ca0-beb372aa5077"
+    ],
+    "year_resolved": "2007"
+  },
+  {
+    "id": "18e87edf-547e-45a7-bdc6-5b1835df229c",
+    "category": "conference",
+    "class": "International",
+    "date": "2007-08-01",
+    "title_eng": "Algorithm for classifying arrhythmia using Extreme Learning Machine and principal component analysis",
+    "title_kor": "Algorithm for classifying arrhythmia using Extreme Learning Machine and principal component analysis",
+    "conference_eng": "Engineering in Medicine and Biology Society, 2007. EMBS 2007. 29th Annual International Conference of the IEEE Proceeding",
+    "author_kor": "김진권; 신항식; 이영범; 이명호",
+    "author_eng": "Jinkwon Kim; Hangsik shin; Young-Bum Lee; Myongho Lee",
+    "author_ids": [
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "c6f85a88-2d08-4559-828c-d97b95e5abf3",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2007"
+  },
+  {
+    "id": "ff7b252f-80d5-4d98-93a5-2c6fe2cfbba5",
+    "category": "journal",
+    "class": "SCI",
+    "date": "2007-05-01",
+    "title_eng": "Adaptive motion artifacts reduction algorithm for ECG signal in textile wearable sensor",
+    "journal_eng": "IEICE Electronics Express",
+    "author_kor": "윤성원; 신항식; 민세동; 이명호",
+    "author_eng": "Sung Won Yoon; Hangsik Shin; Se Dong Min; Myongho Lee",
+    "author_ids": [
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://www.researchgate.net/publication/245405213_Adaptive_motion_artifacts_reduction_algorithm_for_ECG_signal_in_textile_wearable_sensor",
+    "year_resolved": "2007"
+  },
+  {
+    "id": "bb92a7f6-433e-4d48-a961-f7c84c1dcb70",
+    "category": "conference",
+    "class": "International",
+    "date": "2006-08-01",
+    "title_eng": "Time-frequency analysis for arrhythmia discrimination using human atrium electrogram",
+    "title_kor": "Time-frequency analysis for arrhythmia discrimination using human atrium electrogram",
+    "conference_eng": "Engineering in Medicine and Biology Society, 2006. EMBS '06. 28th Annual International Conference of the IEEE Proceeding",
+    "author_kor": "신항식; 이충근; 주영민; 이명호",
+    "author_eng": "Hangsik shin; Chungkeun Lee; Youngmin Choo; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "b791b76d-98f1-494b-b426-4f745e088d64",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2006"
+  },
+  {
+    "id": "32bd282c-5024-4b73-875a-03608cd6529a",
+    "category": "conference",
+    "class": "International",
+    "date": "2006-08-01",
+    "title_eng": "Principal Point Discrimination of Electrocardiogram for Automatic Diagnosis",
+    "title_kor": "Principal Point Discrimination of Electrocardiogram for Automatic Diagnosis",
+    "conference_eng": "World Congress on Medical Physics and Biomedical Engineering Proceeding",
+    "author_kor": "신항식; 이충근; 이명호",
+    "author_eng": "Hangsik shin; Chungkeun Lee; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2006"
+  },
+  {
+    "id": "61e78f26-6368-40cd-80ab-2e41d74a2043",
+    "category": "conference",
+    "class": "International",
+    "date": "2006-08-01",
+    "title_eng": "Measurement of Compound Neural Action Potential in Sciatic Nerve Using Microelectrode Array",
+    "title_kor": "Measurement of Compound Neural Action Potential in Sciatic Nerve Using Microelectrode Array",
+    "conference_eng": " Engineering in Medicine and Biology Society, 2006. EMBS '06. 28th Annual International Conference of the IEEE Proceeding",
+    "author_kor": "이충근; 김용호; 신항식; 김용준; 이명호",
+    "author_eng": "Chungkeun Lee; Yong Ho Kim; Hangsik shin; Yong-Jun Kim; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "6a928149-9e46-4571-9418-9da9df206a23",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4936d26d-b64d-40ee-85c7-1501199e8eb8",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2006"
+  },
+  {
+    "id": "f822c851-46fc-4142-a555-16ffc8661d86",
+    "category": "conference",
+    "class": "International",
+    "date": "2006-08-01",
+    "title_eng": "Low complexity and power consumption design for pacemaker using shared MAC structure based on FPGA platform",
+    "title_kor": "Low complexity and power consumption design for pacemaker using shared MAC structure based on FPGA platform",
+    "conference_eng": "World Congress on Medical Physics and Biomedical Engineering Proceeding",
+    "author_kor": "신항식; 이충근; 김진권; 이명호",
+    "author_eng": "Hangsik shin; Chungkeun Lee; Jinkwon Kim; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2006"
+  },
+  {
+    "id": "9cc03e92-0088-4897-b506-5fe4e594bf01",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2006-08-01",
+    "title_eng": "Development of Arrhythmia Diagnosis Algorithm for Effective Control of Antitachycardia Pacing and High Energy Shock of ICD",
+    "title_kor": "Development of Arrhythmia Diagnosis Algorithm for Effective Control of Antitachycardia Pacing and High Energy Shock of ICD",
+    "conference_eng": "Control, Automation, and Systems Symposium 2006",
+    "author_kor": "신항식; 이충근; 김진권; 이명호",
+    "author_eng": "Hangsik shin; Chungkeun Lee; Jinkwon Kim; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2006"
+  },
+  {
+    "id": "45aecdd5-2caf-49ae-93c3-bb5aafbc535f",
+    "category": "conference",
+    "class": "International",
+    "date": "2006-08-01",
+    "title_eng": "Development of Arrhythmia Diagnosis Algorithm for Effective Control of Antitachycardia Pacing and High Energy Shock of ICD",
+    "title_kor": "Development of Arrhythmia Diagnosis Algorithm for Effective Control of Antitachycardia Pacing and High Energy Shock of ICD",
+    "conference_eng": "Engineering in Medicine and Biology Society, 2006. EMBS '06. 28th Annual International Conference of the IEEE Proceeding",
+    "author_kor": "신항식; 이충근; 김진권; 이명호",
+    "author_eng": "Hangsik shin; Chungkeun Lee; Jinkwon Kim; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2006"
+  },
+  {
+    "id": "2dfbec43-5960-4f84-b398-8f18be1b2cf7",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2006-03-01",
+    "title_eng": "Detection of Atrial Tachycardia and Atrial Fibrillation Using Spectrum Analysis of Intracardiac Signal",
+    "title_kor": "Intracardiac Signal의 스펙트럼 분석을 통한 Atrial Tachycardia 및 Atrial Fibrillation 검출",
+    "journal_eng": "The Transactions of the Korean Institute of Electrical Engineers",
+    "author_kor": "신항식; 이충근; 정보영; 이명호",
+    "author_eng": "Hangsik shin; Chungkeun Lee; Boyoung Joung; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "675dffe2-ac2e-4994-82b2-55e96edaf6e1",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2006"
+  },
+  {
+    "id": "60de5af3-9a2d-4f89-a842-08b85103eefa",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2005-05-13",
+    "title_kor": "전도성 섬유와 Ag/AgCl 전극을 사용하였을때의 심박변동신호 유의성 비교",
+    "conference_eng": "Korea Society of Medical and Biological Engineering Spring Conference 2005",
+    "author_kor": "신항식; 이충근; 윤용현; 이명호",
+    "author_eng": "Hangsik shin; Chungkeun Lee; Yonghyeon Yoon; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2005"
+  },
+  {
+    "id": "78d62046-2ba4-464c-9ffe-6cd9678dfc5f",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2005-12-02",
+    "title_kor": "실시간 PP간격 측정을 통한 Atrium Tachycardia 및 Atrium Fibrillation 검출 알고리즘 개발",
+    "conference_eng": "Korea Society of Medical and Biological Engineering Autumn Conference 2005",
+    "author_kor": "신항식; 이충근; 정완진; 정보영; 이명호",
+    "author_eng": "Hangsik shin; Chungkeun Lee; Wanjin Jeong; Boyoung Joung; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "13298ee3-16d7-4515-8ca0-beb372aa5077",
+      "675dffe2-ac2e-4994-82b2-55e96edaf6e1",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2005"
+  },
+  {
+    "id": "3015e243-5e93-4b28-9236-f69d087a0829",
+    "category": "conference",
+    "class": "International",
+    "date": "2005-01-01",
+    "title_eng": "Perspectives on e-health industry in Korea Enterprise networking and Computing in Healthcare Industry",
+    "title_kor": "Perspectives on e-health industry in Korea Enterprise networking and Computing in Healthcare Industry",
+    "conference_eng": "Proceedings of 7th International Workshop on Proceeding",
+    "author_kor": "이명호; 윤성원; 민세동; 박찬욱; 신항식; 강현구; 장훈범; 이은호",
+    "author_eng": "Myongho Lee; Sung Won Yoon; Se Dong Min; Chan Ouk Park; Hangsik Shin; Hyungu Kang; Hunbeom Chang; Eunho Lee",
+    "author_ids": [
+      "4a05a292-1a5b-4577-91ff-87da330a9358",
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "4f359c61-2a98-4c8c-8f33-ba05454d4302",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4df6e789-cbfa-4a3d-8e7d-f26ffa73d781",
+      "a4bc85ea-5b01-45a4-92dd-c66ef33c7a23",
+      "1defb6b2-0701-4e8f-b06f-4bff172a0a42"
+    ],
+    "year_resolved": "2005"
+  },
+  {
+    "id": "261cc909-7837-45c9-ad9a-d58f439e4ccd",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2005-10-20",
+    "title_eng": "Medical Endoscopic Image Segmentation with Multi-resolution Deformation",
+    "title_kor": "다중 해상도 변형을 통한 내시경 의료영상의 분할",
+    "conference_eng": "Proceedings of the Korea Automatic Control Conference 2005",
+    "author_kor": "윤성원; 민세동; 신항식; 이명호",
+    "author_eng": "Sung-Won Yoon; Se-Dong Min; Hangsik shin; Myongho Lee",
+    "author_ids": [
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2005"
+  },
+  {
+    "id": "74248a1c-2fc9-4814-8cb0-8f49440be99b",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2005-12-02",
+    "title_kor": "Intracardiac의 Filter Bank 적용 및 Power Estimation을 통한 심방 빈맥 및 세동 측정",
+    "conference_eng": "Korea Society of Medical and Biological Engineering Autumn Conference 2005",
+    "author_kor": "신항식; 이충근; 김진권; 이명호",
+    "author_eng": "Hangsik shin; Chungkeun Lee; Jinkwon Kim; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2005"
+  },
+  {
+    "id": "423bda2e-7ecd-42e8-ae31-f5defdd1e116",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2005-12-02",
+    "title_kor": "ICD 개발을 위한 심방 및 심실의 최적 주파수 대역에 관한 연구",
+    "conference_eng": "Korea Society of Medical and Biological Engineering Autumn Conference 2005",
+    "author_kor": "이충근; 신항식; 정완진; 정보영; 이명호",
+    "author_eng": "Chungkeun Lee; Hangsik shin; Wanjin Jeong; Boyoung Joung; Myongho Lee",
+    "author_ids": [
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "13298ee3-16d7-4515-8ca0-beb372aa5077",
+      "675dffe2-ac2e-4994-82b2-55e96edaf6e1",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2005"
+  },
+  {
+    "id": "1abb0088-7f0f-4f48-ae42-f82a69262cc4",
+    "category": "conference",
+    "class": "International",
+    "date": "2005-09-01",
+    "title_eng": "Heart Rate Variability Analysis using Electric Fabric in Dry-Normal Condition",
+    "title_kor": "Heart Rate Variability Analysis using Electric Fabric in Dry-Normal Condition",
+    "conference_eng": "Engineering in Medicine and Biology Society, 2005. IEEE-EMBS 2005. 27th Annual International Conference of the. IEEE Proceeding",
+    "author_kor": "신항식; 이충근; 윤성원; 윤대중; 이명호",
+    "author_eng": "Hangsik Shin; Chungkeun Lee; Sung Won Yoon; Daejoong Yoon; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "6cb534f4-9000-4ebb-8dcb-da609eb078ea",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2005"
+  },
+  {
+    "id": "d9ba53a2-46be-42dc-8f1d-cc0187f1505a",
+    "category": "conference",
+    "class": "International",
+    "date": "2005-06-02",
+    "title_eng": "Heart Rate Variability Analysis for Significance Between Ag/AgCl Electrode and Electric Textile Sensor in Wearable Condition",
+    "title_kor": "Heart Rate Variability Analysis for Significance Between Ag/AgCl Electrode and Electric Textile Sensor in Wearable Condition",
+    "conference_eng": "International Conference on Control, Automation and Systems(ICCAS 2005)",
+    "author_kor": "신항식; 이충근; 윤용현; 이명호",
+    "author_eng": "Hangsik Shin; Chungkeun Lee; Yonghyeon Yun; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2005"
+  },
+  {
+    "id": "7bc019b0-de7d-485d-9212-d0e63f7c3d39",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2005-08-01",
+    "title_eng": "Down-Scaled 3D Object for Telediagnostic Imaging Support System",
+    "title_kor": "Down-Scaled 3D Object for Telediagnostic Imaging Support System",
+    "journal_eng": "Journal of Biomedical Engineering Research",
+    "author_kor": "신항식; 윤성원; 김재영; 이명호",
+    "author_eng": "Hangsik shin; Sung-Won Yoon; Jae-Young Kim; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "9deb9de3-37ca-47a6-8f61-41e76bb22c50",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://www.researchgate.net/publication/263401299_Down-Scaled_3D_Object_for_Telediagnostic_Imaging_Support_System",
+    "year_resolved": "2005"
+  },
+  {
+    "id": "283bb15f-bf08-4de8-b479-bfbb756840b8",
+    "category": "journal",
+    "class": "SCOPUS",
+    "date": "2005-03-01",
+    "title_eng": "Down-Scaled 3D Medical Image Transfer System Using Instant Messenger",
+    "title_kor": "인스턴트 메신저를 사용한 축소 3D의료영상 전송 시스템",
+    "journal_eng": "Healthcare Informatics Research",
+    "author_kor": "신항식; 민세동; 김희중; 이명호",
+    "author_eng": "Hangsik shin; Se-Dong Min; Hee-Joung Kim; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "26e14db0-0e3e-4bb0-a005-dcffb6fd6017",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "link": "https://synapse.koreamed.org/articles/1103183",
+    "year_resolved": "2005"
+  },
+  {
+    "id": "7bfaf659-427e-4995-9abc-e72c2e15110c",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2005-10-28",
+    "title_eng": "Detection of atrial tachycardia and fibrillation using spectrum analysis of intracardiac signal",
+    "title_kor": "Intracardiac Signal의 스펙트럼 분석을 통한 Atrium Tachycardia 및 Fibrillation 검출",
+    "conference_eng": "Conference on Information and Control Systems 2005",
+    "author_kor": "신항식; 이충근; 김진권; 주영민; 이명호",
+    "author_eng": "Hangsik shin; Chungkeun Lee; Jinkwon Kim; Youngmin Choo; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "29b4a04c-553f-425b-8c75-fe90aca718b7",
+      "b791b76d-98f1-494b-b426-4f745e088d64",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2005"
+  },
+  {
+    "id": "5335f8fa-4d6b-4f28-ac16-6777b8336fc1",
+    "category": "conference",
+    "class": "International",
+    "date": "2005-11-01",
+    "title_eng": "Characteristic Analysis of Electric Textile Sensor using Heart Rate Variability",
+    "title_kor": "Characteristic Analysis of Electric Textile Sensor using Heart Rate Variability",
+    "conference_eng": "3rd European Medical and Biological Engineering Conference EMBEC Proceeding",
+    "author_kor": "신항식; 이충근; 이명호",
+    "author_eng": "Hangsik shin; Chungkeun Lee; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2005"
+  },
+  {
+    "id": "40e94d1b-2fb5-4dec-a51c-62c80d8440a4",
+    "category": "conference",
+    "class": "International",
+    "date": "2005-04-01",
+    "title_eng": "A Study on Instant Messenger System that Supports Transmitting 3D Medical Image Objects for Telediagnostic Use",
+    "title_kor": "A Study on Instant Messenger System that Supports Transmitting 3D Medical Image Objects for Telediagnostic Use",
+    "conference_eng": "6th Asian-Pacific Conference on Medical and Biological Engineering(APCMBE2005), ",
+    "author_kor": "신항식; 윤용현; 이성표; 이명호",
+    "author_eng": "Hangsik Shin; Yonghyeon Yun; Seong Pyo Lee; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+      "511196cf-b45b-4d16-9ae8-76f94b13514f",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2005"
+  },
+  {
+    "id": "0a89ed4e-a89c-4cb8-b8e0-3aef38d12b9b",
+    "category": "conference",
+    "class": "International",
+    "date": "2005-04-01",
+    "title_eng": "A Study of the Down-Scaled 3D Objects for Telediagnostic Imaging Support System",
+    "title_kor": "A Study of the Down-Scaled 3D Objects for Telediagnostic Imaging Support System",
+    "conference_eng": "6th Asian-Pacific Conference on Medical and Biological Engineering(APCMBE2005),",
+    "author_kor": "신항식; 윤성원; 민세동; 이명호",
+    "author_eng": "Hangsik Shin; Sung Won Yoon; Se Dong Min; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2005"
+  },
+  {
+    "id": "8108563b-1ec9-4ea1-b294-02544c8ecb3c",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2004-11-19",
+    "title_kor": "인터넷 기반의 실시간 데이타 전송을 이용한 맥파 측정 시스템에 관한 연구",
+    "conference_eng": "The Korean Society of Medical Informatics Autumn Conference 2004",
+    "author_kor": "이병우; 신항식; 이승표; 이명호",
+    "author_eng": "Byung Woo Lee; Hangsik shin; Seungpyo Lee; Myongho Lee",
+    "author_ids": [
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "5759ebaf-3adf-4c2d-8e9d-888fa0d9c61e",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2004"
+  },
+  {
+    "id": "79efea01-c984-48d9-9cb2-e03c6757767f",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2004-11-26",
+    "title_kor": "인터넷 기반의 데이차 전송을 적용한 맥파 측정 시스템 연구",
+    "conference_eng": "Korea Society of Medical and Biological Engineering Autumn Conference 2004",
+    "author_kor": "이병우; 신항식; 박찬욱; 민세동; 이명호",
+    "author_eng": "Byung Woo Lee; Hangsik shin; Chan Ouk Park; Se-Dong Min; Myongho Lee",
+    "author_ids": [
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "4f359c61-2a98-4c8c-8f33-ba05454d4302",
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2004"
+  },
+  {
+    "id": "6d644e91-5177-4341-95fb-4824be9c37b7",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2004-11-26",
+    "title_kor": "원격영상진단지원을 위한 Down-Scaled 3D 오브젝트 연구",
+    "conference_eng": "Korea Society of Medical and Biological Engineering Autumn Conference 2004",
+    "author_kor": "신항식; 이병우; 윤대중; 윤성원; 이명호",
+    "author_eng": "Hangsik shin; Byung Woo Lee; Daejoong Yoon; Sung-Won Yoon; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "6cb534f4-9000-4ebb-8dcb-da609eb078ea",
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2004"
+  },
+  {
+    "id": "26e106a5-3e53-4be2-854d-adadfb678089",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2004-11-20",
+    "title_eng": "A Study on Down-Scaled 3D Medical Image Transmission System Using Instant Messenger",
+    "title_kor": "인스턴트 메신저를 사용한 축소 3D 의료영상 전송 시스템 연구",
+    "conference_eng": "Proceedings of Autumn Symposium of the Korean Institute of communications and Information Sciences 2004",
+    "author_kor": "신항식; 이병우; 박찬욱; 이충근; 이명호",
+    "author_eng": "Hangsik shin; Byung Woo Lee; Chan Ouk Park; Chungkeun Lee; Myongho Lee",
+    "author_ids": [
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "4f359c61-2a98-4c8c-8f33-ba05454d4302",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2004"
+  },
+  {
+    "id": "fd2a9199-40b1-49a5-b44a-28488f19c870",
+    "category": "conference",
+    "class": "Domestic",
+    "date": "2003-11-07",
+    "title_kor": "트레드밀 운동 후 원적외선 온열이 심혈관계에 미치는 영향 평가 시스템 구현",
+    "conference_eng": "Korea Society of Medical and Biological Engineering Autumn Conference 2003",
+    "author_kor": "민세동; 강세구; 이충근; 윤성원; 박찬욱; 신항식; 이병우; 이명호",
+    "author_eng": "Se-Dong Min; Segoo Kang; Chungkeun Lee; Sung-Won Yoon; Chan Ouk Park; Hangsik shin; Byung Woo Lee; Myongho Lee",
+    "author_ids": [
+      "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+      "9205dde9-3c4e-49b0-8cd4-7f2e2c9999f5",
+      "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+      "0e358614-89ad-4e35-b80e-a9468d3011ad",
+      "4f359c61-2a98-4c8c-8f33-ba05454d4302",
+      "189de491-3424-4bf3-bb66-26bd0667ed24",
+      "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+      "4a05a292-1a5b-4577-91ff-87da330a9358"
+    ],
+    "year_resolved": "2003"
+  }
+]
