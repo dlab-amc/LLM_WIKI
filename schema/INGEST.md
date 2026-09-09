@@ -5,7 +5,20 @@
 ## 입력
 
 - 사람이 `raw/` 하위에 파일을 추가·교체했거나
+- Git 밖 자산 폴더에 PDF 등을 추가하고 `raw/assets/papers/manifest.json`을 갱신했거나
 - 사용자가 “이 내용 반영해줘”라고 텍스트/경로를 준 경우
+
+## External PDF (Git 밖)
+
+1. PDF를 `../DLab_assets/achievements/<category>/`에 둔다. **973MB ZIP은 repo에 넣지 않음.** (`증빙자료제출` 래퍼 폴더 불필요)
+2. `raw/assets/roots.local.json` — `"resolve_from": "repo_root"`, 상대경로 (`roots.example.json` 참고).
+3. `raw/assets/papers/manifest.json`에 항목 append (`original_filename`, `storage_root`, `relative_path`, `publication_id`).
+4. (권장) `papers/extracts/<publication_id>.json` — 초록·키워드만 (Query용).
+5. Ingest → wiki 갱신 + `log.md`.
+
+Agent는 Git 밖 PDF를 **삭제·이동하지 않는다.** manifest/extracts만 읽거나, 사람 요청 시 1건 Read.
+
+상세: `schema/EXTERNAL-ASSETS.md`
 
 ## 절차
 
@@ -46,6 +59,8 @@
 
 ## 하지 말 것
 
-- `raw/` 아래 파일 편집 (SoT)
-- 매핑 confidence가 낮은데 member_id 단정
+- `raw/` 아래 JSON·manifest 편집을 LLM이 임의로 (SoT — 사람/승인된 Ingest)
+- Git 밖 PDF/ZIP 디렉터리 전체 스캔·통독
+- 973MB PDF를 Git에 커밋
+- 매칭 confidence가 낮은데 member_id 단정
 - 출처 없는 연구실 연혁/업적 창작

@@ -14,13 +14,28 @@ LLM_WIKI/
 └── log.md     # 변경 이력
 ```
 
-다른 지식 계층(`data/` 등)을 두지 않는다. 모든 원본 참조는 **`raw/`만** 사용한다.
+다른 지식 계층(`data/` 등)을 두지 않는다. 원본 근거는 **`raw/`** (repo 안 JSON/manifest + Git 밖 바이너리 경로).
+
+## External Assets (Git 밖)
+
+대용량 PDF·ZIP·영상은 **repo 형제 폴더**(`../DLab_assets/`)에 두고, `raw/assets/` manifest로만 가리킨다.  
+경로: `roots.local.json` — `resolve_from: repo_root`, 상대경로 (서버 간 동일 내용 가능).
+
+```
+raw/assets/
+  roots.example.json    ← 예시 (커밋)
+  roots.local.json      ← 실제 경로 (Git 제외)
+  papers/manifest.json  ← PDF 목록·publication_id 매칭
+  papers/extracts/      ← 초록·키워드 JSON (작음, 커밋)
+```
+
+상세: `schema/EXTERNAL-ASSETS.md`
 
 ## 디렉터리 계약
 
 | 경로 | 소유자 | 규칙 |
 |---|---|---|
-| `raw/` | 사람 | **Source of Truth. 불변.** LLM은 읽기만. 추가·교체는 사람 |
+| `raw/` (db, assets manifest) | 사람 | **SoT. 불변.** LLM 읽기만. PDF 바이너리는 Git 밖 |
 | `schema/` | 사람(+합의) | 규칙. 명시적 요청 없이 Agent가 바꾸지 않음 |
 | `wiki/` | LLM | 생성·수정. 페이지당 단일 주제 |
 | `index.md` | LLM | 섹션별 진입 링크 유지 |
@@ -28,7 +43,7 @@ LLM_WIKI/
 
 ## `raw/` = Source of Truth
 
-1. Wiki·답변·매핑의 **근거 원본은 전부 `raw/`** 이다.
+1. Wiki·답변·매핑의 **근거 원본**은 `raw/` (JSON, manifest) 및 manifest가 가리키는 **Git 밖 파일**이다.
 2. LLM은 `raw/` 아래 파일을 **수정·삭제·덮어쓰지 않는다.**
 3. 새 자료는 사람이 `raw/`에 넣은 뒤 **Ingest**로 `wiki/`에만 반영한다.
 4. Mongo 덤프처럼 LLM이 읽기 어려운 형태는, 사람이 가공한 뒤 **`raw/`에 그 가공본을 SoT로 둔다.** (별도 `/data` 계층 금지)
@@ -53,7 +68,7 @@ LLM_WIKI/
 
 `publications.json` 전체 로드는 **최후 수단**. 인덱스 재생성: `python raw/db/rebuild_indexes.py`
 
-앞으로 회의록·논문·매뉴얼 등이 생기면 사람이 `raw/meeting-logs/`, `raw/papers/` 등 하위 폴더를 **필요할 때** 만들어 넣는다. 빈 폴더를 미리 두지 않는다.
+앞으로 회의록·논문 PDF 등: DB JSON은 `raw/db/`, **PDF 바이너리는 Git 밖** + `raw/assets/papers/manifest.json`. (`schema/EXTERNAL-ASSETS.md`)
 
 ## Wiki 정보 구조
 
@@ -105,3 +120,4 @@ status: active | draft | needs-review
 - `schema/QUERY.md`
 - `schema/LINT.md`
 - `schema/PAGE-TYPES.md`
+- `schema/EXTERNAL-ASSETS.md`

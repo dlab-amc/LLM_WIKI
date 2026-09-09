@@ -39,10 +39,13 @@ Writeback 시:
 | 최예은 2024 | 인물 md → `member_id` → `raw/db/indexes/by_member/<member_id>.json` → `year_resolved==2024` |
 | journal 규모 | `wiki/publications/journal.md` 또는 `indexes/by_category/journal.json` |
 | 2024 conference | `indexes/by_year/2024.json`에서 category 필터 (또는 category∩year) |
+| 논문 **주제/초록** | `raw/assets/papers/manifest.json` + `papers/extracts/<id>.json` |
+| PDF 1건 상세 | manifest 항목 1개 → `repo_root` + `roots.local[storage_root]` + `relative_path` (전체 통독 금지) |
 
 ### Query에서 금지
 
 - `publications.json` / `authors.json` **전체** 로드·grep·python 스캔
+- Git 밖 PDF 폴더 **전체** grep·일괄 Read (973MB ZIP 등)
 - unresolved id 10건을 찾으러 `grep -r` / 다중 bash
 - “데이터 정합성 검증”을 사용자 질문 없이 시작
 
@@ -52,8 +55,9 @@ unresolved ids는 인물 페이지에 이미 숫자로 있으면 **공백 섹션
 
 1. `index.md`
 2. `wiki/` (여러 문서 연결)
-3. **`raw/db/indexes/`** (연도·category·author_id·member_id 필터) — `catalog.json`으로 키 확인
-4. `raw/db/*.json` 전체 파일 (인덱스로 부족할 때만)
+3. **`raw/db/indexes/`** (연도·category·author·member)
+4. **`raw/assets/papers/`** (manifest + extracts — 연구 주제·초록)
+5. `raw/db/*.json` 전체 (인덱스·manifest로 부족할 때만)
 
 ### 인덱스 조회 예
 

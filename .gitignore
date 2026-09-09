@@ -1,3 +1,10 @@
+# Local machine paths (do not commit)
+raw/assets/roots.local.json
+
+# Accidental PDF drops inside repo
+raw/**/*.pdf
+raw/**/*.zip
+
 # Obsidian / OS junk
 .obsidian/
 .trash/

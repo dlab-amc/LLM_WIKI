@@ -48,3 +48,40 @@ Wiki 변경 이력. 최신 항목을 **아래에 append**한다.
 
 ## 2026-08-11 11:05 (KST)
 - Updated: `CLAUDE.md`, `schema/QUERY.md` — Query **Fast path** (인덱스만, pubs 풀스캔·bash 디버그 금지)
+
+## 2026-09-01 10:50 (KST)
+- Design: **External Assets** — PDF/ZIP은 Git 밖, `raw/assets/` manifest로 경로 참조
+- Added: `schema/EXTERNAL-ASSETS.md`, `raw/assets/roots.example.json`, `raw/assets/papers/manifest.json`, READMEs
+- Updated: `schema/OVERVIEW`, `INGEST`, `QUERY`, `CLAUDE.md`, `AGENTS.md`, `README.md`, `index.md`, `.gitignore`
+
+## 2026-09-01 11:00 (KST)
+- Updated: External Assets — **repo root 기준 상대경로** (`../DLab_assets/`) 권장, 다중 서버 배포
+- Layout: `parent/LLM_WIKI/` + `parent/DLab_assets/` (형제 폴더); `roots.local.json` 서버 간 공유 가능
+
+## 2026-09-02 14:30 (KST)
+- Added: `../DLab_assets/` 형제 폴더 (`achievements/{journal,conference,patent-*,software,award}`, `videos`, `archives`)
+- Updated: `roots.example.json`, `schema/EXTERNAL-ASSETS.md` — ZIP 래퍼(`증빙자료제출`) 없이 카테고리별 직접 배치
+
+## 2026-09-02 16:10 (KST)
+- Added: 형제 프로젝트 `../DLab_web/` — FastAPI + Claude CLI 챗봇 PoC (교수님 1인용)
+
+## 2026-09-02 16:30 (KST)
+- Updated: `../DLab_web/` UI·에러 문구 — 교수님 친화적 톤
+
+## 2026-09-02 16:35 (KST)
+- Updated: `../DLab_web/` — **DLab LLM Wiki**·**Claude Code** 명칭, 예시 → 김민소 연구원
+
+## 2026-09-02 16:40 (KST)
+- Updated: `../DLab_web/` — 헤더 **라이트/다크 테마** 토글 (localStorage 저장)
+
+## 2026-09-02 16:45 (KST)
+- Updated: `../DLab_web/` 레이아웃 — **전체 너비** 헤더·입력창, 테마 버튼 **우측 끝** 배치
+
+## 2026-09-02 16:50 (KST)
+- Updated: `../DLab_web/` — 테마 아이콘(채움형), 문구 → **담당자에게 문의 부탁드립니다.**
+
+## 2026-09-02 16:55 (KST)
+- Updated: `../DLab_web/` UI 문구 — 가운데점(·), 「」 제거
+
+## 2026-09-02 17:00 (KST)
+- Updated: `../DLab_web/` — 예시 문구 `EX.` + 괄호·연한 글자색

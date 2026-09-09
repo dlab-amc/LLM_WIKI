@@ -16,7 +16,7 @@ Claude Code가 **매 세션 자동으로 읽는** 진입 파일이다.
 2. @AGENTS.md
 3. @schema/OVERVIEW.md
 4. @index.md
-5. 작업별: @schema/INGEST.md | @schema/QUERY.md | @schema/LINT.md
+5. 작업별: @schema/INGEST.md | @schema/QUERY.md | @schema/LINT.md | @schema/EXTERNAL-ASSETS.md
 
 ## 절대 규칙 (요약)
 
@@ -24,9 +24,15 @@ Claude Code가 **매 세션 자동으로 읽는** 진입 파일이다.
 - Wiki만 수정한다. 관련 페이지를 함께 갱신하고, 중복 페이지를 만들지 않는다.
 - Wiki를 바꿀 때마다 **`log.md`에 타임스탬프 + 변경 요약 append.**
 - 근거 경로는 항상 `raw/...`. 추측 금지.
-- 연도·카테고리·저자·멤버 필터는 **`raw/db/indexes/` 우선** (`publications.json` 풀 스캔 금지).
-  - journal=학술지, conference=학술대회/학회 → `indexes/by_category/<key>.json`
-- Wiki 본문: 한국어 기본. 링크: Obsidian `[[wikilink]]`.
+- 연도·카테고리·저자·멤버 필터는 **`raw/db/indexes/` 우선**
+- 논문 **주제·초록**은 **`raw/assets/papers/manifest.json` + `extracts/`** (PDF는 Git 밖, 경로만)
+- Wiki 본문: 한국어. 링크: `[[wikilink]]`
+
+## External Assets (Git 밖 PDF)
+
+- PDF/ZIP **바이너리는 repo에 넣지 않음.** `roots.local.json` + manifest (`resolve_from: repo_root`, **상대경로**)
+- Query: manifest·extracts 우선. PDF 통독·폴더 전체 스캔 금지
+- 상세: @schema/EXTERNAL-ASSETS.md
 
 ## Query 속도 규칙 (중요)
 
@@ -61,6 +67,7 @@ Claude Code가 **매 세션 자동으로 읽는** 진입 파일이다.
 - `data/` 같은 네 번째 지식 계층 만들기
 - `raw/db` JSON을 손으로 고치기
 - 928개 성과 개별 Wiki 페이지 생성
+- Git에 대용량 PDF/ZIP 커밋 / Git 밖 PDF 폴더 전체 스캔
 - 모든 Query마다 장문 추가 / 풀 DB 스캔
 
 ## 참고

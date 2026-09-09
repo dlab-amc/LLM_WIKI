@@ -14,8 +14,8 @@ Claude Code는 루트 `CLAUDE.md`를 먼저 자동 로드한 뒤 본 파일·sch
 1. `AGENTS.md` (본 파일)
 2. `schema/OVERVIEW.md`
 3. `index.md`
-4. 작업 유형별: `schema/INGEST.md` | `schema/QUERY.md` | `schema/LINT.md`
-5. 필요 시 `raw/db/stats.json`, `log.md`
+4. 작업 유형별: `schema/INGEST.md` | `schema/QUERY.md` | `schema/LINT.md` | `schema/EXTERNAL-ASSETS.md`
+5. 필요 시 `raw/db/stats.json`, `raw/assets/papers/manifest.json`, `log.md`
 
 ## 절대 규칙
 
@@ -39,7 +39,7 @@ Claude Code는 루트 `CLAUDE.md`를 먼저 자동 로드한 뒤 본 파일·sch
 
 | 경로 | LLM 역할 |
 |---|---|
-| `raw/` | 읽기 전용 (SoT) |
+| `raw/` | 읽기 전용 (SoT). PDF 바이너리는 Git 밖, `raw/assets/` manifest로 참조 |
 | `schema/` | 규칙 (함부로 변경 금지) |
 | `wiki/` | 생성·수정 |
 | `index.md` | 인덱스 유지 |

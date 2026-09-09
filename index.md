@@ -16,6 +16,7 @@ Agent·사람 모두 **여기서 시작**한다. 상세 규칙은 `AGENTS.md`, `
 - [[schema/QUERY|Query]]
 - [[schema/LINT|Lint]]
 - [[schema/PAGE-TYPES|Page types]]
+- [[schema/EXTERNAL-ASSETS|External assets (Git 밖 PDF)]]
 - [AGENTS.md](AGENTS.md)
 - [CLAUDE.md](CLAUDE.md) (Claude Code 자동 로드)
 
@@ -62,15 +63,19 @@ Agent·사람 모두 **여기서 시작**한다. 상세 규칙은 `AGENTS.md`, `
 
 ## Raw (Source of Truth)
 
-- `raw/db/indexes/` — 연도·author·member 조회 인덱스 (`catalog.json`)
-- `raw/db/stats.json` — 집계
-- `raw/db/members.json`
-- `raw/db/authors.json`
-- `raw/db/publications.json`
-- `raw/db/member_author_links.json`
-- `raw/db/MAPPING_NOTES.md`
+### DB (repo 안)
+- `raw/db/indexes/` — 연도·category·author·member (`catalog.json`)
+- `raw/db/stats.json`, `members.json`, `authors.json`, `publications.json`
+- `raw/db/member_author_links.json`, `MAPPING_NOTES.md`
+
+### External assets (PDF는 Git 밖)
+- `raw/assets/roots.example.json` → 복사해 `roots.local.json` (`resolve_from: repo_root`, 상대경로)
+- `raw/assets/papers/manifest.json`
+- `raw/assets/papers/extracts/`
+- 바이너리: `../DLab_assets/achievements/` (journal, conference, patent-*, software, award) · `videos/` · `archives/`
 
 ## Ops
 
 - [[log|Change log]]
 - [README](README.md)
+- **Web UI (PoC):** 형제 폴더 `../DLab_web/` — Claude CLI 챗봇 (`http://127.0.0.1:8080`)

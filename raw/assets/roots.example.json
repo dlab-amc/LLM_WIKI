@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updated": "2026-09-02",
+  "resolve_from": "repo_root",
+  "roots": {
+    "journal": "../DLab_assets/achievements/journal",
+    "conference": "../DLab_assets/achievements/conference",
+    "patent_filed": "../DLab_assets/achievements/patent-filed",
+    "patent_registered": "../DLab_assets/achievements/patent-registered",
+    "software": "../DLab_assets/achievements/software",
+    "award": "../DLab_assets/achievements/award",
+    "videos": "../DLab_assets/videos",
+    "archives": "../DLab_assets/archives"
+  },
+  "notes": "storage_root 키 = manifest 항목의 storage_root. resolve_from=repo_root 이면 LLM_WIKI/ 기준 상대경로. 복사 후 roots.local.json (Git 제외)."
+}

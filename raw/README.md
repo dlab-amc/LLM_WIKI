@@ -1,15 +1,26 @@
 # Raw Sources (Source of Truth)
 
-이 디렉터리는 **변경하지 않는 원본**이다.
+이 디렉터리는 **변경하지 않는 원본**의 **인덱스·메타**를 둔다.
 
-- LLM은 **읽기만** 한다. 수정·삭제·덮어쓰기 금지.
-- Wiki·답변의 근거 경로는 항상 `raw/...` 로 남긴다.
-- 새 자료는 사람이 여기에 추가한 뒤 Wiki **Ingest**를 요청한다.
+- LLM은 **읽기만** 한다 (manifest·JSON). Git 밖 PDF는 **삭제·이동 금지**.
+- Wiki·답변 근거: `raw/...` 및 manifest가 가리키는 외부 경로.
 
 ## 현재
 
-| 경로 | 내용 |
-|---|---|
-| `db/` | 연구실 DB 가공본 + `indexes/` (연도·저자·멤버 조회) |
+| 경로 | 내용 | Git |
+|---|---|---|
+| `db/` | DB 가공본 + `indexes/` | O |
+| `assets/roots.example.json` | 외부 경로 설정 예시 | O |
+| `assets/roots.local.json` | 머신별 실제 경로 | **X** |
+| `assets/papers/manifest.json` | PDF 목록·DB 매칭 | O |
+| `assets/papers/extracts/` | 초록·키워드 JSON | O |
+| PDF/ZIP 바이너리 | `../DLab_assets/achievements/<category>/` 등 (repo **형제**) | **X** |
 
-회의록·논문·매뉴얼·프로젝트 원본이 생기면 예: `meeting-logs/`, `papers/`, `manuals/`, `projects/` 아래에 추가한다. (빈 폴더는 미리 만들지 않음)
+## PDF 추가 (요약)
+
+1. ZIP PDF → `../DLab_assets/achievements/<category>/` (`증빙자료제출` 래퍼 없이 직접 배치)
+2. `roots.local.json` — `resolve_from: repo_root` (`roots.example.json` 참고)
+3. `papers/manifest.json` 갱신  
+4. Ingest 요청  
+
+상세: `schema/EXTERNAL-ASSETS.md`

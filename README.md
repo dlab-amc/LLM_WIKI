@@ -12,7 +12,7 @@ wiki/      LLM이 생성·수정하는 Markdown
 
 | 층 | 역할 |
 |---|---|
-| **Raw** | 변경하지 않는 원본. 근거는 전부 여기 (`raw/db`, 회의록, 논문 등) |
+| **Raw** | JSON·manifest (repo). PDF/ZIP **바이너리는 Git 밖** — repo **형제** 폴더 (`../DLab_assets/`, `roots.local.json`) |
 | **Schema** | Agent 규칙 — `CLAUDE.md` + `AGENTS.md` + `schema/` |
 | **Wiki** | 요약·연결·갱신되는 지식 페이지 |
 | **Index / Log** | `index.md`, `log.md` |
