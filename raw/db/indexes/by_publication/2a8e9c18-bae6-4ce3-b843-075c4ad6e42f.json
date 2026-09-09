@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "2a8e9c18-bae6-4ce3-b843-075c4ad6e42f",
+  "storage_root": "patent_registered",
+  "relative_path": "2016__201608_10-1651875_실시간_QRS파_검출_방법_및_그_프로그램.pdf",
+  "original_filename": "2016__201608_10-1651875_실시간_QRS파_검출_방법_및_그_프로그램.pdf",
+  "match_status": "matched",
+  "match_score": 0.8915,
+  "title_hint": "10-1651875 실시간 QRS파 검출 방법 및 그 프로그램",
+  "year": 2016,
+  "exists": true,
+  "category": "patent",
+  "class": "Domestic",
+  "date": "2016-08-23",
+  "title_eng": "Method for real-time QRS-complex detection and program thereof",
+  "title_kor": "실시간 QRS파 검출 방법 및 그 프로그램",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "29b4a04c-553f-425b-8c75-fe90aca718b7"
+  ],
+  "has_extract": true
+}

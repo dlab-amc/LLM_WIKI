@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "a1782069-6af1-5f07-9e0b-2cfd91743758",
+  "storage_root": "award",
+  "relative_path": "03__2015__201510_금상_강성탁_한국정보처리학회추계학술대회.pdf",
+  "original_filename": "03__2015__201510_금상_강성탁_한국정보처리학회추계학술대회.pdf",
+  "match_status": "matched",
+  "match_score": 0.7334,
+  "title_hint": "03   금상 강성탁 한국정보처리학회추계학술대회",
+  "year": 2015,
+  "exists": true,
+  "category": "award",
+  "class": null,
+  "date": "2015-10-30",
+  "title_eng": "An Program for Detection and Manual Correction of Specific Feature of Heart Beat",
+  "title_kor": "심박동 특징점 검출 및 수동 보정을 위한 프로그램",
+  "member_ids": [],
+  "author_ids": [],
+  "has_extract": true
+}

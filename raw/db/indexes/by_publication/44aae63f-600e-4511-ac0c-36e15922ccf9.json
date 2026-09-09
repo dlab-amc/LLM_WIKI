@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "44aae63f-600e-4511-ac0c-36e15922ccf9",
+  "storage_root": "journal",
+  "relative_path": "2009__200912_Adaptive_threshold_method_for_the_peak_detection_of_photoplethysmographic.pdf",
+  "original_filename": "2009__200912_Adaptive_threshold_method_for_the_peak_detection_of_photoplethysmographic.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Adaptive threshold method for the peak detection of photoplethysmographic",
+  "year": 2009,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2009-12-01",
+  "title_eng": "Adaptive threshold method for the peak detection of photoplethysmographic waveform",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+    "4a05a292-1a5b-4577-91ff-87da330a9358"
+  ],
+  "has_extract": true
+}

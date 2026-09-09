@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "40dba5fd-01b0-4460-8365-e1fd20dbffc4",
+  "storage_root": "conference",
+  "relative_path": "2017__201707_Detection_of_Hemiplegic_Gait_Using_6-axis_Inertial_Sensor.pdf",
+  "original_filename": "2017__201707_Detection_of_Hemiplegic_Gait_Using_6-axis_Inertial_Sensor.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "Detection of Hemiplegic Gait Using 6-axis Inertial Sensor",
+  "year": 2017,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2017-07-11",
+  "title_eng": "Detection of Hemiplegic Gait Using 6-axis Inertial Sensor",
+  "title_kor": "Detection of Hemiplegic Gait Using 6-axis Inertial Sensor",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+    "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

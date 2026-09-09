@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "bea1cf98-db84-4646-858e-370db600a69f",
+  "storage_root": "conference",
+  "relative_path": "2019__201905_광용적맥파_파형의_연속된_시간_지연에_기반한_새로운_맥파전달시간_추정_방법.pdf",
+  "original_filename": "2019__201905_광용적맥파_파형의_연속된_시간_지연에_기반한_새로운_맥파전달시간_추정_방법.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "광용적맥파 파형의 연속된 시간 지연에 기반한 새로운 맥파전달시간 추정 방법",
+  "year": 2019,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2019-05-09",
+  "title_eng": "Novel Pulse Transit Time Estimation Method based on Temporal Delay of Photoplethysmographic Waveform",
+  "title_kor": "광용적맥파 파형의 연속된 시간 지연에 기반한 새로운 맥파전달시간 추정 방법",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "2eb90419-3e7b-4e65-a481-45a472b574cc"
+  ],
+  "has_extract": true
+}

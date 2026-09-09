@@ -13,10 +13,11 @@
 1. PDF를 `../DLab_assets/achievements/<category>/`에 둔다. **973MB ZIP은 repo에 넣지 않음.** (`증빙자료제출` 래퍼 폴더 불필요)
 2. `raw/assets/roots.local.json` — `"resolve_from": "repo_root"`, 상대경로 (`roots.example.json` 참고).
 3. `raw/assets/papers/manifest.json`에 항목 append (`original_filename`, `storage_root`, `relative_path`, `publication_id`).
-4. (권장) `papers/extracts/<publication_id>.json` — 초록·키워드만 (Query용).
+4. **권장·거의 필수:** `python WEB/scripts/build_paper_indexes_and_extracts.py --apply`
+   (`by_publication_id.json`, `indexes/by_publication/`, `papers/by_member/`, `extracts/` 생성)
 5. Ingest → wiki 갱신 + `log.md`.
 
-Agent는 Git 밖 PDF를 **삭제·이동하지 않는다.** manifest/extracts만 읽거나, 사람 요청 시 1건 Read.
+Agent는 Git 밖 PDF를 **삭제·이동하지 않는다.** Query는 extracts / by_member 우선.
 
 상세: `schema/EXTERNAL-ASSETS.md`
 

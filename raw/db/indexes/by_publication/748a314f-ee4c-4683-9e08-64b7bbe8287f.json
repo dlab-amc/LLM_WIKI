@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "748a314f-ee4c-4683-9e08-64b7bbe8287f",
+  "storage_root": "journal",
+  "relative_path": "2024__202404_Calibration-free_blood_pressure_estimation_based_on_a_convolutional_neura.pdf",
+  "original_filename": "2024__202404_Calibration-free_blood_pressure_estimation_based_on_a_convolutional_neura.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Calibration-free blood pressure estimation based on a convolutional neura",
+  "year": 2024,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2024-04-01",
+  "title_eng": "Calibration-free blood pressure estimation based on a convolutional neural network",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "b438a16a-5733-4601-b886-e6e78bce2fae",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "3b335d90-63e6-40ce-800a-493f4f2beff1"
+  ],
+  "has_extract": true
+}

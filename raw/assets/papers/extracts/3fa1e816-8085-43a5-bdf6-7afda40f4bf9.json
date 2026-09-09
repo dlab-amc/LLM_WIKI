@@ -1,0 +1,20 @@
+{
+  "publication_id": "3fa1e816-8085-43a5-bdf6-7afda40f4bf9",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "patent_registered",
+    "relative_path": "2021__202102_10-2221370_힘_센서에_기반하여_각성_및_호흡률을_검출하기_위한_방법_및_장치.pdf",
+    "original_filename": "2021__202102_10-2221370_힘_센서에_기반하여_각성_및_호흡률을_검출하기_위한_방법_및_장치.pdf"
+  },
+  "title_eng": "A method and apparatus for detecting awakening and respiration rate based on force-sensor",
+  "title_kor": "힘 센서에 기반하여 각성 및 호흡률을 검출하기 위한 방법 및 장치",
+  "category": "patent",
+  "date": "2021-02-23",
+  "page_count": 2,
+  "pages_extracted": 0,
+  "abstract": null,
+  "keywords": [],
+  "first_pages_text": "",
+  "char_count": 0,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

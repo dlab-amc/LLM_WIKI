@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "39e9c947-ff80-4433-8782-c1479e161d54",
+  "storage_root": "conference",
+  "relative_path": "2024__202407_병원_내_환자_위치_모니터링_모바일_어플리케이션_개발.pdf",
+  "original_filename": "2024__202407_병원_내_환자_위치_모니터링_모바일_어플리케이션_개발.pdf",
+  "match_status": "matched",
+  "match_score": 0.9886,
+  "title_hint": "내 환자 위치 모니터링 모바일 어플리케이션 개발",
+  "year": 2024,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2024-07-10",
+  "title_eng": "Development of a Patient Location Monitoring Mobile Application in Hospitals",
+  "title_kor": "병원 내 환자 위치 모니터링 모바일 어플리케이션 개발",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "ad98337a-712a-4d40-a163-4ac540834245",
+    "e556ed57-f679-4685-a592-767ec3a64f46",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

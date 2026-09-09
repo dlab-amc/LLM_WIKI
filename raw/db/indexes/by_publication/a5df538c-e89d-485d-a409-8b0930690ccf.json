@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "a5df538c-e89d-485d-a409-8b0930690ccf",
+  "storage_root": "patent_filed",
+  "relative_path": "2018__201808_상태_분류기_생성_방법_및_이를_이용한_보행상태_판단_방법.pdf",
+  "original_filename": "2018__201808_상태_분류기_생성_방법_및_이를_이용한_보행상태_판단_방법.pdf",
+  "match_status": "matched",
+  "match_score": 0.8996,
+  "title_hint": "생성 방법 및 이를 이용한 보행상태 판단 방법",
+  "year": 2018,
+  "exists": true,
+  "category": "patent",
+  "class": "Domestic",
+  "date": "2018-08-18",
+  "title_eng": "Method for generating of state classifier and for deciding walking state using the same",
+  "title_kor": "상태 분류기 생성 방법 및 이를 이용한 보행상태 판단 방법",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+    "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+  ],
+  "has_extract": true
+}

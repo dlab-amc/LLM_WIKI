@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "6a2e10cf-aceb-4563-9118-3e71b89cefbb",
+  "storage_root": "conference",
+  "relative_path": "2025__202507_신항식_Preliminary_Research_on_the_Development_of_Digital_Therapeutics_for_P.pdf",
+  "original_filename": "2025__202507_신항식_Preliminary_Research_on_the_Development_of_Digital_Therapeutics_for_P.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Preliminary Research on the Development of Digital Therapeutics for P",
+  "year": 2025,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2025-07-14",
+  "title_eng": "Preliminary Research on the Development of Digital Therapeutics for Performing Rehabilitation Exercise Programs",
+  "title_kor": "Preliminary Research on the Development of Digital Therapeutics for Performing Rehabilitation Exercise Programs",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+    "1e901da9-90fd-4033-805d-7cae7c6e597f",
+    "046e0155-ebc5-46d3-9548-da526deea4a1",
+    "bc4f26fd-9155-4172-8e03-e997f4601e95",
+    "95e28776-4d0d-4ed0-b15f-497367250ffe",
+    "26c3de97-d194-49cf-a624-fb03eb18e950",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

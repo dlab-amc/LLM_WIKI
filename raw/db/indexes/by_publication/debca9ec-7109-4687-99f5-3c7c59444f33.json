@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "debca9ec-7109-4687-99f5-3c7c59444f33",
+  "storage_root": "journal",
+  "relative_path": "2021__202102_Novel_Analgesic_Index_for_Postoperative_Pain_Assessment_Based_on_a_Photop.pdf",
+  "original_filename": "2021__202102_Novel_Analgesic_Index_for_Postoperative_Pain_Assessment_Based_on_a_Photop.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Novel Analgesic Index for Postoperative Pain Assessment Based on a Photop",
+  "year": 2021,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2021-02-03",
+  "title_eng": "Novel Analgesic Index for Postoperative Pain Assessment Based on a Photoplethysmographic Spectrogram and Convolutional Neural Network: Observational Study",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+    "293d1c07-fac9-4d7f-824c-972a42b4f432",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+  ],
+  "has_extract": true
+}

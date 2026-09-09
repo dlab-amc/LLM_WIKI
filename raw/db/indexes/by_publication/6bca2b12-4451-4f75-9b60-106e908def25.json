@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "6bca2b12-4451-4f75-9b60-106e908def25",
+  "storage_root": "journal",
+  "relative_path": "2025__202501_Toward_Objectification_of_Subjective_Chronic_Pain_based_on_Implicit_Respo.pdf",
+  "original_filename": "2025__202501_Toward_Objectification_of_Subjective_Chronic_Pain_based_on_Implicit_Respo.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Toward Objectification of Subjective Chronic Pain based on Implicit Respo",
+  "year": 2025,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2025-01-17",
+  "title_eng": "Toward Objectification of Subjective Chronic Pain Based on Implicit Response in Biosignals",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "fd60dc67-b59d-4404-a6e5-10d1810da012",
+    "f5c5db67-7148-49a8-ae2d-6640056ea44f",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

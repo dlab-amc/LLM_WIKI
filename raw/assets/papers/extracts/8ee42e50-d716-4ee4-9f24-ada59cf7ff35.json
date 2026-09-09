@@ -1,0 +1,20 @@
+{
+  "publication_id": "8ee42e50-d716-4ee4-9f24-ada59cf7ff35",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "patent_registered",
+    "relative_path": "2019__201901_10-1943492_다채널_정전용량_압력_센서.pdf",
+    "original_filename": "2019__201901_10-1943492_다채널_정전용량_압력_센서.pdf"
+  },
+  "title_eng": "Multi-channel capacitive pressure sensor",
+  "title_kor": "다채널 정전용량 압력 센서",
+  "category": "patent",
+  "date": "2019-01-23",
+  "page_count": 1,
+  "pages_extracted": 0,
+  "abstract": null,
+  "keywords": [],
+  "first_pages_text": "",
+  "char_count": 0,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

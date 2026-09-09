@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "5d41a757-fd4d-420e-860a-6bf51704a827",
+  "storage_root": "conference",
+  "relative_path": "2023__202305_간호일지를_통한_정신과_병동_입원환자의_자해_및_타해_발생_전_이상행동_분석.pdf",
+  "original_filename": "2023__202305_간호일지를_통한_정신과_병동_입원환자의_자해_및_타해_발생_전_이상행동_분석.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "간호일지를 통한 정신과 병동 입원환자의 자해 및 타해 발생 전 이상행동 분석",
+  "year": 2023,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2023-05-11",
+  "title_eng": "Analysis of psychiatric inpatients' abnormal behavior prior to self-harm or harm to others through nursing diary records",
+  "title_kor": "간호일지를 통한 정신과 병동 입원환자의 자해 및 타해 발생 전 이상행동 분석",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "ad98337a-712a-4d40-a163-4ac540834245",
+    "e556ed57-f679-4685-a592-767ec3a64f46",
+    "140e3b05-97fa-4c63-a649-9dc6aa692776",
+    "95c4fbbb-c06a-4457-8f76-5db67ee40176",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

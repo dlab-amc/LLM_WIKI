@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "cc327ec6-6d8f-448c-b566-1b5c170491e7",
+  "storage_root": "conference",
+  "relative_path": "2019__201905_다채널_압력_측정시_가우시안_피팅을_사용한_요골동맥_위치_추정.pdf",
+  "original_filename": "2019__201905_다채널_압력_측정시_가우시안_피팅을_사용한_요골동맥_위치_추정.pdf",
+  "match_status": "matched",
+  "match_score": 0.9175,
+  "title_hint": "측정시 가우시안 피팅을 사용한 요골동맥 위치 추정",
+  "year": 2019,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2019-05-09",
+  "title_eng": "Estimation of Radial Artery Location Using Gaussian Fitting in Multi-Channel Pressure Measurement",
+  "title_kor": "다채널 압력 측정시 가우시안 피팅을 사용한 요골동맥 위치 추정",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+    "57354d74-688e-49c4-a258-307386943d12",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

@@ -31,20 +31,22 @@ Claude Code가 **매 세션 자동으로 읽는** 진입 파일이다.
 ## External Assets (Git 밖 PDF)
 
 - PDF/ZIP **바이너리는 repo에 넣지 않음.** `roots.local.json` + manifest (`resolve_from: repo_root`, **상대경로**)
-- Query: manifest·extracts 우선. PDF 통독·폴더 전체 스캔 금지
+- Query: **`by_member` / `by_publication_id` / `extracts/` 우선**. PDF 통독·폴더 전체 스캔·manifest 전체 스캔 금지
 - 상세: @schema/EXTERNAL-ASSETS.md
 
 ## Query 속도 규칙 (중요)
 
-단순 조회(인물·연도·카테고리)는 **Fast path**:
+단순 조회(인물·연도·카테고리·**논문 내용**)는 **Fast path**:
 
 1. `wiki/people/<slug>.md` (member_id / Recent Work)
-2. `raw/db/indexes/by_member/<member_id>.json` 또는 `by_year/` / `by_category/`
-3. 바로 답변
+2. `raw/db/indexes/by_member/<member_id>.json` 또는 `by_year/` / `by_category/` / `by_publication/`
+3. 논문 본문·모델/데이터/지표 → **`raw/assets/papers/by_member/<member_id>.json`** → **`extracts/<publication_id>.json`**
+4. 바로 답변
 
 **하지 말 것**
 
-- `publications.json` / `authors.json` 전체를 `json.load`·`grep`·파이썬으로 스캔
+- `publications.json` / `authors.json` / `manifest.json` 전체를 `json.load`·`grep`·파이썬으로 스캔
+- extracts가 있는데 PDF 바이너리·DATA 폴더를 다시 통독
 - unresolved achievement id를 추적하는 디버그 세션
 - 단순 Query에 bash를 여러 번 실행
 

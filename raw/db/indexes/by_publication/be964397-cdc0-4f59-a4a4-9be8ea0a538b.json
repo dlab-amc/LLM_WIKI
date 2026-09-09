@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "be964397-cdc0-4f59-a4a4-9be8ea0a538b",
+  "storage_root": "conference",
+  "relative_path": "2019__201902_심장질환에_따른_연속혈압_파형의_심장_수축기구간_비율_변화_관찰.pdf",
+  "original_filename": "2019__201902_심장질환에_따른_연속혈압_파형의_심장_수축기구간_비율_변화_관찰.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "심장질환에 따른 연속혈압 파형의 심장 수축기구간 비율 변화 관찰",
+  "year": 2019,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2019-02-11",
+  "title_eng": "Investigation of systolic fraction of a pulse pressure waveform according to heart disease",
+  "title_kor": "심장질환에 따른 연속혈압 파형의 심장 수축기구간 비율 변화 관찰",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

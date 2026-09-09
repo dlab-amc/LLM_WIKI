@@ -1,0 +1,20 @@
+{
+  "publication_id": "5008954c-0b8e-45bd-b5cb-6f374b65e5ab",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "conference",
+    "relative_path": "2017__201704_착좌_행동_관리를_위한_롤러블_스마트패드_개발.pdf",
+    "original_filename": "2017__201704_착좌_행동_관리를_위한_롤러블_스마트패드_개발.pdf"
+  },
+  "title_eng": "Development of Rollable Smartpad for Management of the Sitting Behavior",
+  "title_kor": "착좌 행동 관리를 위한 롤러블 스마트패드 개발",
+  "category": "conference",
+  "date": "2017-04-28",
+  "page_count": 6,
+  "pages_extracted": 0,
+  "abstract": null,
+  "keywords": [],
+  "first_pages_text": "",
+  "char_count": 0,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

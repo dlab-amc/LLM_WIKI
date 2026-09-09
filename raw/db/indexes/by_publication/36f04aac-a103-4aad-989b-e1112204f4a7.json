@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "36f04aac-a103-4aad-989b-e1112204f4a7",
+  "storage_root": "conference",
+  "relative_path": "2015__201511_Relation_between_the_Maximum_Systolic_Location_of_Photoplethysmography_Wa.pdf",
+  "original_filename": "2015__201511_Relation_between_the_Maximum_Systolic_Location_of_Photoplethysmography_Wa.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Relation between the Maximum Systolic Location of Photoplethysmography Wa",
+  "year": 2015,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2015-11-12",
+  "title_eng": "Relation between the Maximum Systolic Location of Photoplethysmography Waveform and Sampling Frequency",
+  "title_kor": "Relation between the Maximum Systolic Location of Photoplethysmography Waveform and Sampling Frequency",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+  ],
+  "has_extract": true
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "21fd7890-3ae3-42bf-8387-2b9b0d352c77",
+  "storage_root": "journal",
+  "relative_path": "2021__202103_Performance_of_the_Surgical_Pleth_Index_and_Analgesia_Nociception_Index_i.pdf",
+  "original_filename": "2021__202103_Performance_of_the_Surgical_Pleth_Index_and_Analgesia_Nociception_Index_i.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Performance of the Surgical Pleth Index and Analgesia Nociception Index i",
+  "year": 2021,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2021-03-08",
+  "title_eng": "Performance of the Surgical Pleth Index and Analgesia Nociception Index in Healthy Volunteers and Parturients",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "d818c191-1ea9-4f88-9ab7-5bcdf5a1a30c",
+    "c1bad407-436f-4ec8-b304-f53e5fea69b0",
+    "7f204165-939d-44e7-9ad2-cc9df84495bf",
+    "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+  ],
+  "has_extract": true
+}

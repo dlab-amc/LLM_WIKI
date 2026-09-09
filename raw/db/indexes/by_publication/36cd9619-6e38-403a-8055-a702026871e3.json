@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "36cd9619-6e38-403a-8055-a702026871e3",
+  "storage_root": "journal",
+  "relative_path": "2009__200905_수정된_라플라시안_센서를_이용한_심박변이도_측정에_관한_연구.pdf",
+  "original_filename": "2009__200905_수정된_라플라시안_센서를_이용한_심박변이도_측정에_관한_연구.pdf",
+  "match_status": "matched",
+  "match_score": 0.9731,
+  "title_hint": "라플라시안 센서를 이용한 심박변이도 측정에 관한 연구",
+  "year": 2009,
+  "exists": true,
+  "category": "journal",
+  "class": "SCOPUS",
+  "date": "2009-05-01",
+  "title_eng": "A Study on the Measurement of Heart Rate Variability using the Modified Laplacian Electrodes",
+  "title_kor": "수정된 라플라시안 센서를 이용한 심박변이도 측정에 관한 연구",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "ae72065a-4ff4-4d10-b45b-16bcdb93feac",
+    "596b9b4d-31d5-43cb-b6f4-656f259b6ef5",
+    "4936d26d-b64d-40ee-85c7-1501199e8eb8",
+    "4a05a292-1a5b-4577-91ff-87da330a9358"
+  ],
+  "has_extract": true
+}

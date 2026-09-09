@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "0120800c-7c6b-4904-bad3-18ee9564edf5",
+  "storage_root": "conference",
+  "relative_path": "2015__201507_수면_중_비정상호흡_모니터링을_위한_IoT_모듈_사전연구.pdf",
+  "original_filename": "2015__201507_수면_중_비정상호흡_모니터링을_위한_IoT_모듈_사전연구.pdf",
+  "match_status": "matched",
+  "match_score": 0.9902,
+  "title_hint": "중 비정상호흡 모니터링을 위한 IoT 모듈 사전연구",
+  "year": 2015,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2015-07-15",
+  "title_eng": "Preliminary Study of IoT Module for Monitoring of Abnormal Respiratory Activity during Sleep",
+  "title_kor": "수면 중 비정상호흡 모니터링을 위한 IoT 모듈 사전연구",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "68a7cea7-eb6d-4806-8658-50b7e4135546"
+  ],
+  "has_extract": true
+}

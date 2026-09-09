@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "7bc019b0-de7d-485d-9212-d0e63f7c3d39",
+  "storage_root": "journal",
+  "relative_path": "2005__200508_Down-Scaled_3D_Object_for_Telediagnostic_Imaging_Support_System.pdf",
+  "original_filename": "2005__200508_Down-Scaled_3D_Object_for_Telediagnostic_Imaging_Support_System.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "Down-Scaled 3D Object for Telediagnostic Imaging Support System",
+  "year": 2005,
+  "exists": true,
+  "category": "journal",
+  "class": "SCOPUS",
+  "date": "2005-08-01",
+  "title_eng": "Down-Scaled 3D Object for Telediagnostic Imaging Support System",
+  "title_kor": "Down-Scaled 3D Object for Telediagnostic Imaging Support System",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "0e358614-89ad-4e35-b80e-a9468d3011ad",
+    "9deb9de3-37ca-47a6-8f61-41e76bb22c50",
+    "4a05a292-1a5b-4577-91ff-87da330a9358"
+  ],
+  "has_extract": true
+}

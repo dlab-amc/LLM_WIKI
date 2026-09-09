@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "8c017840-c738-43a1-8ad0-72a669d7fa9c",
+  "storage_root": "patent_filed",
+  "relative_path": "2020__202009_PCT_압력_및_맥파에_기반한_평균동맥압_추정_방법_및_장치.pdf",
+  "original_filename": "2020__202009_PCT_압력_및_맥파에_기반한_평균동맥압_추정_방법_및_장치.pdf",
+  "match_status": "matched",
+  "match_score": 0.9986,
+  "title_hint": "PCT 압력 및 맥파에 기반한 평균동맥압 추정 방법 및 장치",
+  "year": 2020,
+  "exists": true,
+  "category": "patent",
+  "class": "International",
+  "date": "2020-09-24",
+  "title_eng": "A method and apparatus for estimating mean arterial pressure based on pressure and pulse wave",
+  "title_kor": "압력 및 맥파에 기반한 평균동맥압 추정 방법 및 장치",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

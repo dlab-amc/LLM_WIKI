@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "16ae8eca-e68c-46a5-a864-9569c956dd3a",
+  "storage_root": "journal",
+  "relative_path": "2021__202105_Recommendation_for_Measuring_Digital_Volume_Pulse_in_Mobile_Application_F.pdf",
+  "original_filename": "2021__202105_Recommendation_for_Measuring_Digital_Volume_Pulse_in_Mobile_Application_F.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Recommendation for Measuring Digital Volume Pulse in Mobile Application F",
+  "year": 2021,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2021-05-05",
+  "title_eng": "Recommendation for Measuring Digital Volume Pulse in Mobile Application: For Healthy Normal Subject",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

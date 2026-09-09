@@ -18,7 +18,49 @@
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
       "link": "https://iopscience.iop.org/article/10.1088/1361-6579/ae8caa",
-      "year_resolved": "2026"
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "134eb3df-b4e6-437b-adbe-729566353474",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Evaluation of MedGemma 1.5-4B for Lymph Node Metastasis Prediction in Intrahepatic Cholangiocarcinoma",
+      "title_kor": "간내 담관암 림프절 전이 예측에서 MedGemma 1.5-4B의 활용 가능성 평가",
+      "author_kor": "김민소; 이건; 최예은; 이우형; 홍광표; 신항식",
+      "author_eng": "Minso Kim; Geon Lee; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin",
+      "author_ids": [
+        "3b530294-8839-4ba1-a4ce-0ebb6883bd86",
+        "75bef458-47fc-43ad-9bdb-f934cbb66beb",
+        "11293195-d430-4570-98b9-f1d9e82ca0e6",
+        "ee433b9b-0e4f-4dc2-a040-9e4a506d31f5",
+        "2de4cf68-77c6-47ea-9e5f-7be9a6159c10",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "34089715-f049-42ae-a9da-1225439e002a",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Deep Learning-based Prediction of Lymph Node Metastasis in Cholangiocarcinoma through Fusion of 3D PET/CT Imaging and Clinical Data",
+      "title_kor": "3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측",
+      "author_kor": "이건; 김민소; 최예은; 이우형; 홍광표; 신항식",
+      "author_eng": "Geon Lee; Minso Kim; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin",
+      "author_ids": [
+        "75bef458-47fc-43ad-9bdb-f934cbb66beb",
+        "3b530294-8839-4ba1-a4ce-0ebb6883bd86",
+        "11293195-d430-4570-98b9-f1d9e82ca0e6",
+        "ee433b9b-0e4f-4dc2-a040-9e4a506d31f5",
+        "2de4cf68-77c6-47ea-9e5f-7be9a6159c10",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
     },
     {
       "id": "92bae902-8be2-4c2d-9da6-5dc1164f9ba9",
@@ -38,25 +80,9 @@
         "2de4cf68-77c6-47ea-9e5f-7be9a6159c10",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2026"
-    },
-    {
-      "id": "134eb3df-b4e6-437b-adbe-729566353474",
-      "category": "award",
-      "date": "2026-05-09",
-      "title_eng": "Evaluation of MedGemma 1.5-4B for Lymph Node Metastasis Prediction in Intrahepatic Cholangiocarcinoma",
-      "title_kor": "간내 담관암 림프절 전이 예측에서 MedGemma 1.5-4B의 활용 가능성 평가",
-      "author_kor": "김민소; 이건; 최예은; 이우형; 홍광표; 신항식",
-      "author_eng": "Minso Kim; Geon Lee; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin",
-      "author_ids": [
-        "3b530294-8839-4ba1-a4ce-0ebb6883bd86",
-        "75bef458-47fc-43ad-9bdb-f934cbb66beb",
-        "11293195-d430-4570-98b9-f1d9e82ca0e6",
-        "ee433b9b-0e4f-4dc2-a040-9e4a506d31f5",
-        "2de4cf68-77c6-47ea-9e5f-7be9a6159c10",
-        "189de491-3424-4bf3-bb66-26bd0667ed24"
-      ],
-      "year_resolved": "2026"
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
     },
     {
       "id": "16c444f7-bf32-4cfa-b971-e9dd9ab1b633",
@@ -76,25 +102,14 @@
         "2de4cf68-77c6-47ea-9e5f-7be9a6159c10",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2026"
-    },
-    {
-      "id": "34089715-f049-42ae-a9da-1225439e002a",
-      "category": "award",
-      "date": "2026-05-09",
-      "title_eng": "Deep Learning-based Prediction of Lymph Node Metastasis in Cholangiocarcinoma through Fusion of 3D PET/CT Imaging and Clinical Data",
-      "title_kor": "3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측",
-      "author_kor": "이건; 김민소; 최예은; 이우형; 홍광표; 신항식",
-      "author_eng": "Geon Lee; Minso Kim; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin",
-      "author_ids": [
-        "75bef458-47fc-43ad-9bdb-f934cbb66beb",
-        "3b530294-8839-4ba1-a4ce-0ebb6883bd86",
-        "11293195-d430-4570-98b9-f1d9e82ca0e6",
-        "ee433b9b-0e4f-4dc2-a040-9e4a506d31f5",
-        "2de4cf68-77c6-47ea-9e5f-7be9a6159c10",
-        "189de491-3424-4bf3-bb66-26bd0667ed24"
-      ],
-      "year_resolved": "2026"
+      "year_resolved": "2026",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "0000__이건_3D_PET_CT_영상_및_임상_데이터_융합을_통한_딥러닝_기반_담관암_림프절_전이_예측.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "6f87124d-c4cc-44ad-a2ec-f3f99f170ef6",
@@ -110,7 +125,9 @@
         "75bef458-47fc-43ad-9bdb-f934cbb66beb",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2025"
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
     },
     {
       "id": "b928a941-79da-4486-b9f0-02b3b6e86c9a",
@@ -128,7 +145,14 @@
         "17ff8154-0d9f-4486-abd7-b34e64268d87",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2025"
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202505_석현석_광용적맥파_기반_정신적_피로_평가_가능성_연구.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "de12c5fc-c597-4ab9-bc3b-c686f3c1e7ff",
@@ -144,7 +168,17 @@
         "75bef458-47fc-43ad-9bdb-f934cbb66beb",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2025"
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202505_이건_다중_작업_학습_기반_심잡음_특징_반영_심음도_잡음_제거_모델_개발.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     }
-  ]
+  ],
+  "pdf_linked": 3,
+  "extract_linked": 3,
+  "updated_pdf_index": "2026-09-09"
 }

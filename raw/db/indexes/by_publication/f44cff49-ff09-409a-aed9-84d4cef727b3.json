@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "f44cff49-ff09-409a-aed9-84d4cef727b3",
+  "storage_root": "patent_filed",
+  "relative_path": "2020__202006_광용적맥파의_미분_지표를_이용한_수술_후_통증_평가_방법_및_장치.pdf",
+  "original_filename": "2020__202006_광용적맥파의_미분_지표를_이용한_수술_후_통증_평가_방법_및_장치.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "광용적맥파의 미분 지표를 이용한 수술 후 통증 평가 방법 및 장치",
+  "year": 2020,
+  "exists": true,
+  "category": "patent",
+  "class": "Domestic",
+  "date": "2020-06-03",
+  "title_eng": "A method and apparatus for postoperative pain assessment using differential index of photoplethysmogram",
+  "title_kor": "광용적맥파의 미분 지표를 이용한 수술 후 통증 평가 방법 및 장치",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "77b4f02a-147a-4280-9045-69c05b9cecc5"
+  ],
+  "has_extract": true
+}

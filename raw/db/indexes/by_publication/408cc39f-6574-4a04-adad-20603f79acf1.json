@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "408cc39f-6574-4a04-adad-20603f79acf1",
+  "storage_root": "conference",
+  "relative_path": "2016__201607_광용적맥파_특성_기반_임상_건강관리_적용_연구.pdf",
+  "original_filename": "2016__201607_광용적맥파_특성_기반_임상_건강관리_적용_연구.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "광용적맥파 특성 기반 임상 건강관리 적용 연구",
+  "year": 2016,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2016-07-11",
+  "title_eng": "An Investigation of the Photoplethysmography for Clinical and Healthcare Use",
+  "title_kor": "광용적맥파 특성 기반 임상, 건강관리 적용 연구",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

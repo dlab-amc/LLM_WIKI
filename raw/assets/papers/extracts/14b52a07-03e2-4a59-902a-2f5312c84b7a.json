@@ -1,0 +1,20 @@
+{
+  "publication_id": "14b52a07-03e2-4a59-902a-2f5312c84b7a",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "journal",
+    "relative_path": "2007__200707_2축_가속도_신호와_Extreme_Learning_Machine을_사용한_행동패턴_분석_알고리즘.pdf",
+    "original_filename": "2007__200707_2축_가속도_신호와_Extreme_Learning_Machine을_사용한_행동패턴_분석_알고리즘.pdf"
+  },
+  "title_eng": "The Analysis of Living Daily Activities by Interpreting Bi-Directional Accelerometer Signals with Extreme Learning Machine",
+  "title_kor": "2축 가속도 신호와 Extreme Learning Machine을 사용한 행동패턴 분석 알고리즘",
+  "category": "journal",
+  "date": "2007-07-01",
+  "page_count": 7,
+  "pages_extracted": 0,
+  "abstract": null,
+  "keywords": [],
+  "first_pages_text": "",
+  "char_count": 0,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

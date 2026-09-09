@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "af1d6dc1-648f-45ef-bab6-c92268a72889",
+  "storage_root": "software",
+  "relative_path": "16__2018__201809_맥파의_특정_진폭에_대한_박동_폭_계산_프로그램.pdf",
+  "original_filename": "16__2018__201809_맥파의_특정_진폭에_대한_박동_폭_계산_프로그램.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "16   맥파의 특정 진폭에 대한 박동 폭 계산 프로그램",
+  "year": 2018,
+  "exists": true,
+  "category": "patent",
+  "class": "Registered SW",
+  "date": "2018-09-10",
+  "title_eng": null,
+  "title_kor": "맥파의 특정 진폭에 대한 박동 폭 계산 프로그램",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "77b4f02a-147a-4280-9045-69c05b9cecc5"
+  ],
+  "has_extract": true
+}

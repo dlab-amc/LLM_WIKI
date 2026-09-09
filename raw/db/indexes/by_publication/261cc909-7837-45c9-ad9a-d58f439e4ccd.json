@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "261cc909-7837-45c9-ad9a-d58f439e4ccd",
+  "storage_root": "conference",
+  "relative_path": "2005__200510_다중_해상도_변형을_통한_내시경_의료영상의_분할.pdf",
+  "original_filename": "2005__200510_다중_해상도_변형을_통한_내시경_의료영상의_분할.pdf",
+  "match_status": "matched",
+  "match_score": 0.8705,
+  "title_hint": "변형을 통한 내시경 의료영상의 분할",
+  "year": 2005,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2005-10-20",
+  "title_eng": "Medical Endoscopic Image Segmentation with Multi-resolution Deformation",
+  "title_kor": "다중 해상도 변형을 통한 내시경 의료영상의 분할",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "0e358614-89ad-4e35-b80e-a9468d3011ad",
+    "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "4a05a292-1a5b-4577-91ff-87da330a9358"
+  ],
+  "has_extract": true
+}

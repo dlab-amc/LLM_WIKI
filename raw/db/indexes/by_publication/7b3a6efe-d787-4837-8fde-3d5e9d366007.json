@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "7b3a6efe-d787-4837-8fde-3d5e9d366007",
+  "storage_root": "conference",
+  "relative_path": "2016__201608_Time_Domain_Analysis_of_Heart_Rate_Variability_for_Nociceptive_Pain_Asses.pdf",
+  "original_filename": "2016__201608_Time_Domain_Analysis_of_Heart_Rate_Variability_for_Nociceptive_Pain_Asses.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Time Domain Analysis of Heart Rate Variability for Nociceptive Pain Asses",
+  "year": 2016,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2016-08-16",
+  "title_eng": "Time Domain Analysis of Heart Rate Variability for Nociceptive Pain Assessment",
+  "title_kor": "Time Domain Analysis of Heart Rate Variability for Nociceptive Pain Assessment",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "082f270f-0c9c-49c4-b469-28f02bd990a7",
+    "c1bad407-436f-4ec8-b304-f53e5fea69b0",
+    "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+    "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+  ],
+  "has_extract": true
+}

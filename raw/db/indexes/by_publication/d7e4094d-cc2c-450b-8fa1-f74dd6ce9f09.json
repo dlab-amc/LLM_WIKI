@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "d7e4094d-cc2c-450b-8fa1-f74dd6ce9f09",
+  "storage_root": "journal",
+  "relative_path": "2024__202407_Orthopedic_surgeon_level_joint_angle_assessment_with_artificial_intellige.pdf",
+  "original_filename": "2024__202407_Orthopedic_surgeon_level_joint_angle_assessment_with_artificial_intellige.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Orthopedic surgeon level joint angle assessment with artificial intellige",
+  "year": 2024,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2024-09-28",
+  "title_eng": "Orthopedic surgeon level joint angle assessment with artificial intelligence based on photography: a pilot study",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "3ceb26bc-3b4c-4ad9-b1eb-030494efeb3d",
+    "6d394666-b1ce-4e53-8b45-b383a8263dc8",
+    "5678849f-e95a-4848-90d4-19fbe491ce98",
+    "4d7d4559-0e06-456f-ac81-7d332b5c7f7c",
+    "43a26ff6-46cb-4e1d-b2b2-a63b3c27495d",
+    "e160ecba-57be-4477-8fee-145762fd3c28",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "4beef22e-ab05-463a-978d-5476db100747"
+  ],
+  "has_extract": true
+}

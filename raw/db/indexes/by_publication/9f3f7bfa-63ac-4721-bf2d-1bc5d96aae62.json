@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "9f3f7bfa-63ac-4721-bf2d-1bc5d96aae62",
+  "storage_root": "conference",
+  "relative_path": "2014__201408_Preliminary_Study_for_the_Personal_Handheld_Device_based_Snoring_Detectio.pdf",
+  "original_filename": "2014__201408_Preliminary_Study_for_the_Personal_Handheld_Device_based_Snoring_Detectio.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Preliminary Study for the Personal Handheld Device based Snoring Detectio",
+  "year": 2014,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2014-08-26",
+  "title_eng": "Preliminary Study for the Personal Handheld Device based Snoring Detection in Ordinary Sleep Situation",
+  "title_kor": "Preliminary Study for the Personal Handheld Device based Snoring Detection in Ordinary Sleep Situation",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "78cfcf19-543a-41bf-92ec-3ab11d44cd70",
+    "df82cc52-47a7-4099-9934-f646c4e0dafc",
+    "d34f5857-264d-403b-a59f-be03ad383be3"
+  ],
+  "has_extract": true
+}

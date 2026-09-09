@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "46df37c1-ee43-4e8e-ab78-f79d903e4929",
+  "storage_root": "conference",
+  "relative_path": "2014__201410_환경_및_압력센서를_포함하는_영아_모니터링_매트리스_개발.pdf",
+  "original_filename": "2014__201410_환경_및_압력센서를_포함하는_영아_모니터링_매트리스_개발.pdf",
+  "match_status": "matched",
+  "match_score": 0.9948,
+  "title_hint": "및 압력센서를 포함하는 영아 모니터링 매트리스 개발",
+  "year": 2014,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2014-10-16",
+  "title_eng": "Development of the Infant Mattress for the Environment and the Pressure Monitoring",
+  "title_kor": "환경 및 압력센서를 포함하는 영아 모니터링 매트리스 개발",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+    "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

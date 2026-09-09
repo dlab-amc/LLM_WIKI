@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "e94a1582-c497-4776-ad82-4c2e2553c8c5",
+  "storage_root": "conference",
+  "relative_path": "2016__201608_An_Investigation_of_the_Time_Domain_Analysis_of_Ultra-Short_Term_Heart_Ra.pdf",
+  "original_filename": "2016__201608_An_Investigation_of_the_Time_Domain_Analysis_of_Ultra-Short_Term_Heart_Ra.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "An Investigation of the Time Domain Analysis of Ultra-Short Term Heart Ra",
+  "year": 2016,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2016-08-16",
+  "title_eng": "An Investigation of the Time Domain Analysis of Ultra-Short Term Heart Rate Variability in Resting Condition",
+  "title_kor": "An Investigation of the Time Domain Analysis of Ultra-Short Term Heart Rate Variability in Resting Condition",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

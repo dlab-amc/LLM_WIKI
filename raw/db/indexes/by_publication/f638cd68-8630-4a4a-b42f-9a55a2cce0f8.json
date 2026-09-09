@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "f638cd68-8630-4a4a-b42f-9a55a2cce0f8",
+  "storage_root": "conference",
+  "relative_path": "2021__202104_정적_및_동적_시청각_자극에_의한_감성_유발_평가.pdf",
+  "original_filename": "2021__202104_정적_및_동적_시청각_자극에_의한_감성_유발_평가.pdf",
+  "match_status": "matched",
+  "match_score": 0.9767,
+  "title_hint": "및 동적 시청각 자극에 의한 감성 유발 평가",
+  "year": 2021,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2021-04-23",
+  "title_eng": "An Evaluation of Emotion Induced by Static and Dynamic Audio-Visual Stimulation",
+  "title_kor": "정적 및 동적 시청각 자극에 의한 감성 유발 평가",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "236e5d74-414b-4790-b358-619eda9557de",
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "0850693d-255d-4682-861a-dacd212a43da",
+    "fd60dc67-b59d-4404-a6e5-10d1810da012",
+    "3e427217-a2af-49d7-b24a-0c56e8c62b24",
+    "f5c5db67-7148-49a8-ae2d-6640056ea44f",
+    "98a0c002-fcdc-427e-8d1f-a74d1352558e",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

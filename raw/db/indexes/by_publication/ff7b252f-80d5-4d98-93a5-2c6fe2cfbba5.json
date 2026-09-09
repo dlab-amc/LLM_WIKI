@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "ff7b252f-80d5-4d98-93a5-2c6fe2cfbba5",
+  "storage_root": "journal",
+  "relative_path": "2007__200705_Adaptive_motion_artifacts_reduction_algorithm_for_ECG_signal_in_textile_w.pdf",
+  "original_filename": "2007__200705_Adaptive_motion_artifacts_reduction_algorithm_for_ECG_signal_in_textile_w.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Adaptive motion artifacts reduction algorithm for ECG signal in textile w",
+  "year": 2007,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2007-05-01",
+  "title_eng": "Adaptive motion artifacts reduction algorithm for ECG signal in textile wearable sensor",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "0e358614-89ad-4e35-b80e-a9468d3011ad",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+    "4a05a292-1a5b-4577-91ff-87da330a9358"
+  ],
+  "has_extract": true
+}

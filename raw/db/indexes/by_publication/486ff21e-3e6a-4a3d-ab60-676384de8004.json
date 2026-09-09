@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "486ff21e-3e6a-4a3d-ab60-676384de8004",
+  "storage_root": "journal",
+  "relative_path": "2019__201907_Pre-processing_of_Photoplethysmographic_Waveform_for_Amplitude_Regulariza.pdf",
+  "original_filename": "2019__201907_Pre-processing_of_Photoplethysmographic_Waveform_for_Amplitude_Regulariza.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Pre-processing of Photoplethysmographic Waveform for Amplitude Regulariza",
+  "year": 2019,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2019-07-01",
+  "title_eng": "Pre-processing of Photoplethysmographic Waveform for Amplitude Regularization",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "a654344e-9a61-44ba-8667-fa2d26d9530d",
+    "596b9b4d-31d5-43cb-b6f4-656f259b6ef5",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

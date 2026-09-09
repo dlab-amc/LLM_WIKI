@@ -1,0 +1,25 @@
+{
+  "publication_id": "f9194a64-cd5e-497c-90ef-2d6067b2cbe1",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "conference",
+    "relative_path": "2016__201607_Feature_Location_Restoration_for_Under-Sampled_Photoplethysmogram_Using_S.pdf",
+    "original_filename": "2016__201607_Feature_Location_Restoration_for_Under-Sampled_Photoplethysmogram_Using_S.pdf"
+  },
+  "title_eng": "Feature Location Restoration for Under-Sampled Photoplethysmogram Using Spline Interpolation",
+  "title_kor": "Feature Location Restoration for Under-Sampled Photoplethysmogram Using Spline Interpolation",
+  "category": "conference",
+  "date": "2016-07-21",
+  "page_count": 1,
+  "pages_extracted": 1,
+  "abstract": "The purpose of this research is to restore the feature location of under-sampled photoplethysmogram using spline\ninterpolation and to investigate feasibility for feature shape restoration. We obtained 10 kHz-sampled photoplethysmogram and\ndecimated it to generate under-sampled dataset. Decimated dataset has 5 kHz, 2.5 k Hz, 1 kHz, 500 Hz, 250 Hz, 25 Hz and 10\nHz sampling frequency. To investigate the restoration performance, we interpolated under-sampled signals with 10 kHz, then\ncompared feature locations with feature locations of 10 kHz sampled photoplethysmogram. Features were upper and lower\npeak of photplethysmography waveform. Result showed that time differences were dramatically decreased by interpolation.\nLocation error was lesser than 1 ms in both feature types. In 10 Hz sampled cases, location error was also deceased a lot,\nhowever, they were still over 10 ms.",
+  "keywords": [
+    "peak detection",
+    "photoplethysmography",
+    "sampling",
+    "signal reconstruction"
+  ],
+  "first_pages_text": "Feature Location Restoration for Under-Sampled Photoplethysmogram Using\nSpline Interpolation\nAuthors : Hangsik Shin\nAbstract : The purpose of this research is to restore the feature location of under-sampled photoplethysmogram using spline\ninterpolation and to investigate feasibility for feature shape restoration. We obtained 10 kHz-sampled photoplethysmogram and\ndecimated it to generate under-sampled dataset. Decimated dataset has 5 kHz, 2.5 k Hz, 1 kHz, 500 Hz, 250 Hz, 25 Hz and 10\nHz sampling frequency. To investigate the restoration performance, we interpolated under-sampled signals with 10 kHz, then\ncompared feature locations with feature locations of 10 kHz sampled photoplethysmogram. Features were upper and lower\npeak of photplethysmography waveform. Result showed that time differences were dramatically decreased by interpolation.\nLocation error was lesser than 1 ms in both feature types. In 10 Hz sampled cases, location error was also deceased a lot,\nhowever, they were still over 10 ms.\nKeywords : peak detection, photoplethysmography, sampling, signal reconstruction\nConference Title : ICMPBE 2016 : 18th International Conference on Medical Physics and Biomedical Engineering\nConference Location : Zurich, Switzerland\nConference Dates : July 21-22, 2016\n \nWorld Academy of Science, Engineering and Technology\nInternational Journal of Biomedical and Biological Engineering Vol:3, No:7, 2016\nInternational Science Index Vol:3, No:7, 2016 waset.org/abstracts/53409\nscholar.waset.org/1999.16/53409International Scholarly and Scientific Research & Innovation 3(7) 2016 1",
+  "char_count": 1589,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

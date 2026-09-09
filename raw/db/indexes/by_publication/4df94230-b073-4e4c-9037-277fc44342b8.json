@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "4df94230-b073-4e4c-9037-277fc44342b8",
+  "storage_root": "journal",
+  "relative_path": "2025__202501_Machine_learning_based_quantitative_pain_assessment_for_the_perioperative.pdf",
+  "original_filename": "2025__202501_Machine_learning_based_quantitative_pain_assessment_for_the_perioperative.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Machine learning based quantitative pain assessment for the perioperative",
+  "year": 2025,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2025-01-24",
+  "title_eng": "Machine learning based quantitative pain assessment for the perioperative period",
+  "title_kor": "Machine learning based quantitative pain assessment for the perioperative period",
+  "member_ids": [
+    "68590514c33c441ee93e974a",
+    "68590514c33c441ee93e974b",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "17ff8154-0d9f-4486-abd7-b34e64268d87",
+    "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+    "7f204165-939d-44e7-9ad2-cc9df84495bf",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "3ae96e51-111a-489e-9a0e-76b9b2acff26"
+  ],
+  "has_extract": true
+}

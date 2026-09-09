@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "e428df87-b2b6-49b4-9d24-ac5b4fdfeb4a",
+  "storage_root": "conference",
+  "relative_path": "2024__202407_단일_깊이측정_카메라를_활용한_실시간_상지_관절_가동범위_측정_방법_개발.pdf",
+  "original_filename": "2024__202407_단일_깊이측정_카메라를_활용한_실시간_상지_관절_가동범위_측정_방법_개발.pdf",
+  "match_status": "matched",
+  "match_score": 0.9159,
+  "title_hint": "카메라를 활용한 실시간 상지 관절 가동범위 측정 방법 개발",
+  "year": 2024,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2024-07-10",
+  "title_eng": "Development of a Real-Time Upper Limb Range of Motion Measurement Method Using a Single Depth Measurement Camera",
+  "title_kor": "단일 깊이측정 카메라를 활용한 실시간 상지 관절 가동범위 측정 방법 개발",
+  "member_ids": [
+    "68590514c33c441ee93e974f",
+    "68590514c33c441ee93e974a",
+    "68590514c33c441ee93e974d",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "923fe812-860b-4422-9d92-1767e699fa0b",
+    "e556ed57-f679-4685-a592-767ec3a64f46",
+    "17ff8154-0d9f-4486-abd7-b34e64268d87",
+    "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

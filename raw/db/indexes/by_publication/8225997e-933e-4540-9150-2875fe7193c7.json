@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "8225997e-933e-4540-9150-2875fe7193c7",
+  "storage_root": "software",
+  "relative_path": "15__2018__201805_다중_배열_요골동맥압_시뮬레이터.pdf",
+  "original_filename": "15__2018__201805_다중_배열_요골동맥압_시뮬레이터.pdf",
+  "match_status": "matched",
+  "match_score": 0.9979,
+  "title_hint": "15   다중 배열 요골동맥압 시뮬레이터",
+  "year": 2018,
+  "exists": true,
+  "category": "patent",
+  "class": "Registered SW",
+  "date": "2018-05-17",
+  "title_eng": null,
+  "title_kor": "다중 배열 요골동맥압 시뮬레이터",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad"
+  ],
+  "has_extract": true
+}

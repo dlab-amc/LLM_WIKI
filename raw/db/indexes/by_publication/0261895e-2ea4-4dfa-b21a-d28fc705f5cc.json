@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "0261895e-2ea4-4dfa-b21a-d28fc705f5cc",
+  "storage_root": "conference",
+  "relative_path": "2017__201711_통증_유발에_따른_광용적맥파_파형_변화_분석_및_통증_상관_파라미터_도출.pdf",
+  "original_filename": "2017__201711_통증_유발에_따른_광용적맥파_파형_변화_분석_및_통증_상관_파라미터_도출.pdf",
+  "match_status": "matched",
+  "match_score": 0.9361,
+  "title_hint": "따른 광용적맥파 파형 변화 분석 및 통증 상관 파라미터 도출",
+  "year": 2017,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2017-11-23",
+  "title_eng": "Extraction of the Pain Relavance Paremeters based on Pain-induced Photoplethysmographic Waveform Change Analysis",
+  "title_kor": "통증 유발에 따른 광용적맥파 파형 변화 분석 및 통증 상관 파라미터 도출",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

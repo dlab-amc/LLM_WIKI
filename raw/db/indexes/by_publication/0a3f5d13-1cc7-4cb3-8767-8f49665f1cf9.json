@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "0a3f5d13-1cc7-4cb3-8767-8f49665f1cf9",
+  "storage_root": "conference",
+  "relative_path": "2024__202411_대규모_언어_모델의_건강검진_결과_해석_능력_가능성과_한계.pdf",
+  "original_filename": "2024__202411_대규모_언어_모델의_건강검진_결과_해석_능력_가능성과_한계.pdf",
+  "match_status": "matched",
+  "match_score": 0.9047,
+  "title_hint": "모델의 건강검진 결과 해석 능력 가능성과 한계",
+  "year": 2024,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2024-11-07",
+  "title_eng": "Large Language Models and Health Checkup Report Interpretation: Possibilities and Limitations",
+  "title_kor": "대규모 언어 모델의 건강검진 결과 해석 능력: 가능성과 한계",
+  "member_ids": [
+    "68590514c33c441ee93e9750",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "member_id": "68590514c33c441ee93e9750",
+  "member_name_kor": "유지원",
+  "author_id": "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+  "count": 15,
+  "pdf_linked": 9,
+  "extract_linked": 9,
+  "publications": [
+    {
+      "id": "42d3a100-a8ea-4616-88c7-e7817e38f410",
+      "category": "journal",
+      "date": "2026-07-22",
+      "title_eng": "Large language models for interpretation of health checkup results",
+      "title_kor": null,
+      "year_resolved": "2026",
+      "pdf": {
+        "storage_root": "journal",
+        "relative_path": "0000__JYOU_NPJ_Large_language_models_for_interpretation_of_health_checkup_results.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "90c8f0ea-c4de-499e-b7a8-7e265e2cc8d4",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Evaluation of the Feasibility of Large Language Models for Re-test Decision in Clinical Chemistry Tests",
+      "title_kor": "임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가",
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "65be53c6-9dd4-438b-91aa-03e3d8030132",
+      "category": "conference",
+      "date": "2026-05-07",
+      "title_eng": "Evaluation of the Feasibility of Large Language Models for Re-test Decision in Clinical Chemistry Tests",
+      "title_kor": "임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가",
+      "year_resolved": "2026",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "0000__유지원_26의공춘계_임상화학_검사_재검_판정에서_대규모_언어모델의_유용성_평가.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "6f180265-2c3c-4b38-a172-38af22a4c516",
+      "category": "conference",
+      "date": "2026-05-07",
+      "title_eng": "Development of a Clinical Chemistry Retest Ontology through Inductive Externalization of Expert Knowledge",
+      "title_kor": "귀납적 사례 분석 기반 임상화학 재검사 전문가 지식 추출 및 온톨로지 모델링",
+      "year_resolved": "2026",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "0000__유지원_귀납적_사례_분석_기반_임상화학_재검사_전문가_지식_추출_및_온톨로지_모델링.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "537dc980-c7f7-4b4b-a328-1f984c75a46c",
+      "category": "conference",
+      "date": "2026-05-07",
+      "title_eng": "Development and Multicenter External Validation of an AI-based Screening Model for Retesting Clinical Chemistry Tests",
+      "title_kor": "임상화학검사 불필요 재검 판별을 위한 인공지능 모델 개발 및 다기관 외부 검증",
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "7766f561-9076-4a25-bfc5-c9a5af6c0b3e",
+      "category": "journal",
+      "date": "2026-01-11",
+      "title_eng": "Structural insights into clinical large language models and their barriers to translational readiness",
+      "title_kor": null,
+      "year_resolved": "2026",
+      "pdf": {
+        "storage_root": "journal",
+        "relative_path": "2026A00125__2026__Structural_insights_into_clinical_large_language_models_and_their_barriers_to_tr.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "34dc931e-4d40-4ecd-be98-ec618d6339d4",
+      "category": "award",
+      "date": "2025-11-08",
+      "title_eng": "Clinical Chemistry Report Generation with a Large Language Model",
+      "title_kor": "LLM 기반 임상화학검사 결과보고서 자동 생성",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "0f8ca978-e12a-49e6-be3a-8fc5cf7da97b",
+      "category": "conference",
+      "date": "2025-11-06",
+      "title_eng": "LLM-based Re-test Decision System for Clinical Chemistry Test",
+      "title_kor": "LLM 기반 임상화학검사 재검사 판정 시스템",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "953bc51d-de68-43ee-a4a5-cc10a73d427a",
+      "category": "conference",
+      "date": "2025-11-06",
+      "title_eng": "Clinical Chemistry Report Generation with a Large Language Model",
+      "title_kor": "LLM 기반 임상화학검사 결과보고서 자동 생성",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "865070f8-0286-4855-9c26-f82829b67952",
+      "category": "conference",
+      "date": "2025-10-22",
+      "title_eng": "Instruction-tuning이 대규모 언어 모델의 건강검진 결과 해석에 미치는 영향",
+      "title_kor": "Instruction-tuning이 대규모 언어 모델의 건강검진 결과 해석에 미치는 영향",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "bf623bcc-ddfb-48e7-a65d-18dd48f3cf7b",
+      "category": "conference",
+      "date": "2025-05-08",
+      "title_eng": "Can Large Language Models Analyze Health Data?: For Multi-Stage Items",
+      "title_kor": "대규모 언어 모델의 건강 데이터 해석 능력: 다단계 평가 항목을 중심으로",
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202505_유지원_대규모_언어_모델의_건강_데이터_해석_능력_다단계_평가_항목을_중심으로.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "841b7d8e-34dc-46ee-b032-b8a8cdd56a9b",
+      "category": "journal",
+      "date": "2024-11-26",
+      "title_eng": "Advancing laboratory medicine practice with machine learning: swift yet exact",
+      "title_kor": null,
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "journal",
+        "relative_path": "2025__202501_Advancing_Laboratory_Medicine_Practice_With_Machine_Learning_Swift_yet_Ex.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "0a3f5d13-1cc7-4cb3-8767-8f49665f1cf9",
+      "category": "conference",
+      "date": "2024-11-07",
+      "title_eng": "Large Language Models and Health Checkup Report Interpretation: Possibilities and Limitations",
+      "title_kor": "대규모 언어 모델의 건강검진 결과 해석 능력: 가능성과 한계",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202411_대규모_언어_모델의_건강검진_결과_해석_능력_가능성과_한계.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "bdba12ce-ab86-4285-8d84-180fd9189006",
+      "category": "conference",
+      "date": "2024-07-10",
+      "title_eng": "Error Detection in Laboratory Tests using Machine Learning",
+      "title_kor": "머신러닝을 사용한 진단검사 오류 감지",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202407_머신러닝을_사용한_진단검사_오류_감지.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "cfc8007b-d815-49b8-bfea-f66cf26e3dcc",
+      "category": "conference",
+      "date": "2024-06-19",
+      "title_eng": "Types and Frequencies of Errors in Clinical Chemistry Tests at the University Hospital Clinical Laboratory",
+      "title_kor": "대학병원 임상화학검사에서 보고된 오류 유형과 빈도",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202406_대학병원_임상화학검사에서_보고된_오류_유형과_빈도.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    }
+  ],
+  "fast_path": "Recent PDF content: open extracts/<id>.json for pubs with has_extract=true. Do not scan manifest.json or DATA/."
+}

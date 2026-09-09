@@ -1,0 +1,20 @@
+{
+  "publication_id": "55078441-f6a7-4eac-ad08-c10488c2a1aa",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "software",
+    "relative_path": "35__2023__202305_웨어러블_기기용_심박수_가속도_신호_측정_전송_프로그램.pdf",
+    "original_filename": "35__2023__202305_웨어러블_기기용_심박수_가속도_신호_측정_전송_프로그램.pdf"
+  },
+  "title_eng": "Heart rate, acceleration signal measurement, transmission program for wearable devices",
+  "title_kor": "웨어러블 기기용 심박수, 가속도 신호 측정, 전송 프로그램",
+  "category": "patent",
+  "date": "2023-05-25",
+  "page_count": 2,
+  "pages_extracted": 0,
+  "abstract": null,
+  "keywords": [],
+  "first_pages_text": "",
+  "char_count": 0,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

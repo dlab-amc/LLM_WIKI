@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "b31099a0-1657-49f8-b5cc-c1499e09f651",
+  "storage_root": "software",
+  "relative_path": "11__2017__201712_발명신고서_2채널_실시간_데이터_수집_및_표시를_위한_프로그램.pdf",
+  "original_filename": "11__2017__201712_발명신고서_2채널_실시간_데이터_수집_및_표시를_위한_프로그램.pdf",
+  "match_status": "matched",
+  "match_score": 0.8892,
+  "title_hint": "11   발명신고서 2채널 실시간 데이터 수집 및 표시를 위한 프로그램",
+  "year": 2017,
+  "exists": true,
+  "category": "patent",
+  "class": "Registered SW",
+  "date": "2017-12-21",
+  "title_eng": null,
+  "title_kor": "2채널 실시간 데이터 수집 및 표시를 위한 프로그램",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

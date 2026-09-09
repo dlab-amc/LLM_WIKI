@@ -1,0 +1,20 @@
+{
+  "publication_id": "3312af4f-0f30-450f-a561-5e27deb07417",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "patent_filed",
+    "relative_path": "2024__202410_PCT준주기적_생체_신호_파형을_복원하기_위한_파형_복원_모델_학습_방법_및_장치.pdf",
+    "original_filename": "2024__202410_PCT준주기적_생체_신호_파형을_복원하기_위한_파형_복원_모델_학습_방법_및_장치.pdf"
+  },
+  "title_eng": "METHOD AND APPARATUS FOR TRAINING WAVEFORM RESTORATION MODEL TO RESTORE QUASI-PERIODIC BIOSIGNAL WAVEFORMS",
+  "title_kor": "준주기적 생체 신호 파형을 복원하기 위한 파형 복원 모델 학습 방법 및 장치",
+  "category": "patent",
+  "date": "2023-10-13",
+  "page_count": 30,
+  "pages_extracted": 1,
+  "abstract": "전자 제출 접수증\nePCT-Filing을 통해 제출한 PCT 국제출원을 수리관청(RO/KR)에서 접수하였음을 알려드립니다. \n출원번호와 접수일이 자동으로 부여되었습니다(행정지침 제7부).\n접수번호: 612024008109777\n국제출원번호: PCT/KR2024/015157\n접수일: 07 October 2024\n수리관청: Korean Intellectual Property Office\n참조기호: FPE-2024-0378-PCT\n출원인: 재단법인 아산사회복지재단\n출원인 수: 2\n발명의 명칭: 준주기적 생체 신호 파형을 복원하기 위한 파형 복원 모델 학습 방법 및 \n장치\n제출된 문서: FPE20240378PCT-appb.xml\n(FPE-2024-0378-PCT.xml)\n67217\nFPE20240378PCT-dpcf-000003.zip 60781\nFPE20240378PCT-fees.xml 1806\nFPE20240378PCT-poat-000001.xml 2981\nFPE20240378PCT-requ.xml 10104\nFPE20240378PCT-vlog.xml 427\n제출자: JIAE PARK (고객 아이디: user_KR_PARK_JIAE_9194)\n접수 타임스탬프: 07 October 2024 12:54 UTC+9 (KST) \n제출에 관한 공식 요약: 23:1B:F2:24:CC:68:6A:53:44:E3:5C:73:C8:DB:72:AD:B1:9A:FF:F6\n/RO/KR/",
+  "keywords": [],
+  "first_pages_text": "전자 제출 접수증\nePCT-Filing을 통해 제출한 PCT 국제출원을 수리관청(RO/KR)에서 접수하였음을 알려드립니다. \n출원번호와 접수일이 자동으로 부여되었습니다(행정지침 제7부).\n접수번호: 612024008109777\n국제출원번호: PCT/KR2024/015157\n접수일: 07 October 2024\n수리관청: Korean Intellectual Property Office\n참조기호: FPE-2024-0378-PCT\n출원인: 재단법인 아산사회복지재단\n출원인 수: 2\n발명의 명칭: 준주기적 생체 신호 파형을 복원하기 위한 파형 복원 모델 학습 방법 및 \n장치\n제출된 문서: FPE20240378PCT-appb.xml\n(FPE-2024-0378-PCT.xml)\n67217\nFPE20240378PCT-dpcf-000003.zip 60781\nFPE20240378PCT-fees.xml 1806\nFPE20240378PCT-poat-000001.xml 2981\nFPE20240378PCT-requ.xml 10104\nFPE20240378PCT-vlog.xml 427\n제출자: JIAE PARK (고객 아이디: user_KR_PARK_JIAE_9194)\n접수 타임스탬프: 07 October 2024 12:54 UTC+9 (KST) \n제출에 관한 공식 요약: 23:1B:F2:24:CC:68:6A:53:44:E3:5C:73:C8:DB:72:AD:B1:9A:FF:F6\n/RO/KR/",
+  "char_count": 716,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

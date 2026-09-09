@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "4f2e1e24-4da0-44dc-9d7b-b3de65087e47",
+  "storage_root": "conference",
+  "relative_path": "2025__202507_진재욱_수술_전_생체신호_기반_수술_후_통증_예측_인공지능_모델_개발.pdf",
+  "original_filename": "2025__202507_진재욱_수술_전_생체신호_기반_수술_후_통증_예측_인공지능_모델_개발.pdf",
+  "match_status": "matched",
+  "match_score": 0.9987,
+  "title_hint": "전 생체신호 기반 수술 후 통증 예측 인공지능 모델 개발",
+  "year": 2025,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2025-07-16",
+  "title_eng": "Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal",
+  "title_kor": "수술 전 생체신호 기반 수술 후 통증 예측 인공지능 모델 개발",
+  "member_ids": [
+    "68590514c33c441ee93e9749",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

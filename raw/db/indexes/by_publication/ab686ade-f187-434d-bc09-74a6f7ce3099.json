@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "ab686ade-f187-434d-bc09-74a6f7ce3099",
+  "storage_root": "conference",
+  "relative_path": "2017__201702_전도사_자수_셔츠를_사용한_호흡측정_가능성_평가.pdf",
+  "original_filename": "2017__201702_전도사_자수_셔츠를_사용한_호흡측정_가능성_평가.pdf",
+  "match_status": "matched",
+  "match_score": 0.8705,
+  "title_hint": "셔츠를 사용한 호흡측정 가능성 평가",
+  "year": 2017,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2017-02-13",
+  "title_eng": "Feasibility Test of Respiratory Measurement Using the Shirt Embroidered Conductive Yarn",
+  "title_kor": "전도사 자수 셔츠를 사용한 호흡측정 가능성 평가",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "81757627-92dc-49b8-931d-9f13d8f6feed",
+  "storage_root": "journal",
+  "relative_path": "2015__201508_심박변이율_주파수_분석을_통한_실내온도에_따른_건강한_성인의_자율신경계_활동_평가.pdf",
+  "original_filename": "2015__201508_심박변이율_주파수_분석을_통한_실내온도에_따른_건강한_성인의_자율신경계_활동_평가.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "심박변이율 주파수 분석을 통한 실내온도에 따른 건강한 성인의 자율신경계 활동 평가",
+  "year": 2015,
+  "exists": true,
+  "category": "journal",
+  "class": "SCOPUS",
+  "date": "2015-08-01",
+  "title_eng": "Evaluation of the Ambient Temperature Effect for the Autonomic Nervous Activity of the Young Adult through the Frequency Analysis of the Heart Rate Variability",
+  "title_kor": "심박변이율 주파수 분석을 통한 실내온도에 따른 건강한 성인의 자율신경계 활동 평가",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

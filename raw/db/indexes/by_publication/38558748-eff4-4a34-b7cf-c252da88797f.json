@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "38558748-eff4-4a34-b7cf-c252da88797f",
+  "storage_root": "conference",
+  "relative_path": "2016__201602_샘플링주파수에_따른_광용적맥파_극점_위치_변화_관찰.pdf",
+  "original_filename": "2016__201602_샘플링주파수에_따른_광용적맥파_극점_위치_변화_관찰.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "샘플링주파수에 따른 광용적맥파 극점 위치 변화 관찰",
+  "year": 2016,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2016-02-15",
+  "title_eng": "Investigation of Peak Location Changes of Photoplethysmography according to the Sampling Frequency Changes",
+  "title_kor": "샘플링주파수에 따른 광용적맥파 극점 위치 변화 관찰",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "2305510c-90d6-4355-99bd-7d63caa62cfb"
+  ],
+  "has_extract": true
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "641091b9-4c8f-4d65-9973-e2334415c9b3",
+  "storage_root": "conference",
+  "relative_path": "2022__202211_합성곱_신경망_분류기의_비순차_입력데이터_효과크기에_따른_분류_성능_평가.pdf",
+  "original_filename": "2022__202211_합성곱_신경망_분류기의_비순차_입력데이터_효과크기에_따른_분류_성능_평가.pdf",
+  "match_status": "matched",
+  "match_score": 0.9176,
+  "title_hint": "분류기의 비순차 입력데이터 효과크기에 따른 분류 성능 평가",
+  "year": 2022,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2022-11-03",
+  "title_eng": "Evaluation of classification performance for the non-sequential input data of convolution neural network classifier according to the effect size",
+  "title_kor": "합성곱 신경망 분류기의 비순차 입력데이터 효과크기에 따른 분류 성능 평가",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "ad98337a-712a-4d40-a163-4ac540834245",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "a7a98a09-1778-4de5-bd0f-3aa1d4bdfca3",
+  "storage_root": "journal",
+  "relative_path": "2018__201809_Development_of_a_new_analgesic_index_using_nasal_photoplethysmography.pdf",
+  "original_filename": "2018__201809_Development_of_a_new_analgesic_index_using_nasal_photoplethysmography.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "Development of a new analgesic index using nasal photoplethysmography",
+  "year": 2018,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2018-09-01",
+  "title_eng": "Development of a new analgesic index using nasal photoplethysmography",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+    "dab95ccb-7d79-46ed-906e-901b173ebbf9",
+    "082f270f-0c9c-49c4-b469-28f02bd990a7",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "68c7ac1d-b7b7-429a-9d51-432b07e593a1",
+    "545bfc0f-948a-4688-a768-9d1afa5c9cde",
+    "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+    "5e9cd5ac-e2a0-46d2-8f11-979e699009f2"
+  ],
+  "has_extract": true
+}

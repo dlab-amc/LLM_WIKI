@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "b38b8c24-6ff1-48d3-aba6-98cf74bf943b",
+  "storage_root": "journal",
+  "relative_path": "2015__201511_A_Localization_Method_for_First_and_Second_Heart_Sounds_Based_on_Energy_D.pdf",
+  "original_filename": "2015__201511_A_Localization_Method_for_First_and_Second_Heart_Sounds_Based_on_Energy_D.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "A Localization Method for First and Second Heart Sounds Based on Energy D",
+  "year": 2015,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2015-09-01",
+  "title_eng": "A Localization Method for First and Second Heart Sounds Based on Energy Detection and Interval Regulation",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

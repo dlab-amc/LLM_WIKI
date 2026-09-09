@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "6f93268a-6b27-42d8-a32b-268903d1b1fd",
+  "storage_root": "journal",
+  "relative_path": "2016__201607_샘플링율이_맥박변이도_시간_및_주파수_영역_분석에_미치는_영향.pdf",
+  "original_filename": "2016__201607_샘플링율이_맥박변이도_시간_및_주파수_영역_분석에_미치는_영향.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "샘플링율이 맥박변이도 시간 및 주파수 영역 분석에 미치는 영향",
+  "year": 2016,
+  "exists": true,
+  "category": "journal",
+  "class": "SCOPUS",
+  "date": "2016-07-01",
+  "title_eng": "An Effect of Sampling Rate to the Time and Frequency Domain Analysis of Pulse Rate Variability",
+  "title_kor": "샘플링율이 맥박변이도 시간 및 주파수 영역 분석에 미치는 영향",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

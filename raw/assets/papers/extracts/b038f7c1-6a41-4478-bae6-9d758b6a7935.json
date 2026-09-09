@@ -1,0 +1,20 @@
+{
+  "publication_id": "b038f7c1-6a41-4478-bae6-9d758b6a7935",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "patent_filed",
+    "relative_path": "2014__201401_FINGER_MOTION_RECOGNITION_GLOVE_USING_CONDUCTIVE_MATERIALS_AND_METHOD_THE.pdf",
+    "original_filename": "2014__201401_FINGER_MOTION_RECOGNITION_GLOVE_USING_CONDUCTIVE_MATERIALS_AND_METHOD_THE.pdf"
+  },
+  "title_eng": "Finger motion recognition glove using conductive materials and method thereof",
+  "title_kor": "Finger motion recognition glove using conductive materials and method thereof",
+  "category": "patent",
+  "date": "2014-01-30",
+  "page_count": 11,
+  "pages_extracted": 4,
+  "abstract": "According to one embodiment, a finger motion recognition \n glove using conductive materials configured to detect the \n bending of fingers using a characteristic in which the glove \n which is made of conductive fibers. The finger motion recog nition glove includes pairs of contacts, positioned on corre \n sponding pairs of locations on the glove where knuckles of \n fingers are bent, each pair of contacts coupled to a first Surface of the glove, the finger region between each of the pairs of \n contacts having a resistance value that changes as the corre sponding finger region of the glove is bent and unbent.\n\nPatent Application Publication Jan. 30, 2014 Sheet 1 of 6 US 2014/0028538A1 \n FIG.1\n\nPatent Application Publication Jan. 30, 2014 Sheet 2 of 6 US 2014/0028538A1 \n 29 FIRST CONTACTS \n R \n R \n SECOND SONTACIS \n 202 \n FIG.2\n\nPatent Application Publication Jan. 30, 2014 Sheet 3 of 6 US 2014/002.8538A1 \n 301 \n SENSOR UNIT \n 302 \n INTERFACE \n UNIT \n 304 303 \n DATA COMMUNICATION \n POWER UNIT PROCESSING MODULE \n FIG.3",
+  "keywords": [],
+  "first_pages_text": "(19) United States \n (12) Patent Application Publication (10) Pub. No.: US 2014/0028538A1 \n Shin et al. \n US 20140028538A1 \n (43) Pub. Date: Jan. 30, 2014 \n (54) \n (75) \n (73) \n (21) \n (22) \n FNGER MOTION RECOGNITION GLOVE \n USING CONDUCTIVE MATERALS AND \n METHOD THEREOF \n Inventors: Hang-Sik Shin, Yongin-si (KR): \n Jung-Hoon Park, Seoul (KR): \n Sung-Joo Ahn, Seoul (KR); DaeRun Kim, Seoul (KR); Jaehong Lee, Yongin-si (KR); Eunseok Jeong, Seoul \n (KR) \n Assignees: INDUSTRY-ACADEMIC \n COOPERATION FOUNDATION, \n YONSEIUNIVERSITY, Seoul (KR): \n SAMSUNGELECTRONICS CO., \n LTD., Suwon-si (KR) \n Appl. No.: 13/560,849 \n Filed: Jul. 27, 2012 \n 401 \n Publication Classification \n (51) Int. Cl. \n G06F 3/033 (2006.01) \n (52) U.S. Cl. \n USPC .......................................................... 34.5/156 \n (57) ABSTRACT \n According to one embodiment, a finger motion recognition \n glove using conductive materials configured to detect the \n bending of fingers using a characteristic in which the glove \n which is made of conductive fibers. The finger motion recog nition glove includes pairs of contacts, positioned on corre \n sponding pairs of locations on the glove where knuckles of \n fingers are bent, each pair of contacts coupled to a first Surface of the glove, the finger region between each of the pairs of \n contacts having a resistance value that changes as the corre sponding finger region of the glove is bent and unbent.\n\nPatent Application Publication Jan. 30, 2014 Sheet 1 of 6 US 2014/0028538A1 \n FIG.1\n\nPatent Application Publication Jan. 30, 2014 Sheet 2 of 6 US 2014/0028538A1 \n 29 FIRST CONTACTS \n R \n R \n SECOND SONTACIS \n 202 \n FIG.2\n\nPatent Application Publication Jan. 30, 2014 Sheet 3 of 6 US 2014/002.8538A1 \n 301 \n SENSOR UNIT \n 302 \n INTERFACE \n UNIT \n 304 303 \n DATA COMMUNICATION \n POWER UNIT PROCESSING MODULE \n FIG.3",
+  "char_count": 1849,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

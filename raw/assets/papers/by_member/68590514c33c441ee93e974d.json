@@ -1,0 +1,218 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "member_id": "68590514c33c441ee93e974d",
+  "member_name_kor": "한유진",
+  "author_id": "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+  "count": 16,
+  "pdf_linked": 9,
+  "extract_linked": 9,
+  "publications": [
+    {
+      "id": "49037bdf-5e2e-4e08-b226-ec1a5698f280",
+      "category": "conference",
+      "date": "2026-07-26",
+      "title_eng": "Anomaly Detection-Based Hybrid Machine Learning for Predicting Early Allograft Failure in Living Donor Liver Transplantation",
+      "title_kor": null,
+      "year_resolved": "2026",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "0000__Anomaly_Detection-Based_Hybrid_Machine_Learning_for_Predicting_Early_Allograft_F.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "6ca3ccd4-4fc1-4256-9b02-b1791eedce4e",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices",
+      "title_kor": "수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발 ",
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "4b92b947-c52a-4631-aa1e-eecad88284cb",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms",
+      "title_kor": "수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계",
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "67a24a4a-f86d-4be9-82d7-b72d2d740b4c",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": ".",
+      "title_kor": "2026 대한의용생체공학회 춘계학술대회, 한국의료기기안전정보원장",
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "6757496c-84b9-4b4a-a3da-785e7e957188",
+      "category": "conference",
+      "date": "2026-05-07",
+      "title_eng": "Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices",
+      "title_kor": "수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발 ",
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "0bd7ed03-073b-4f54-8e3c-efbead217078",
+      "category": "conference",
+      "date": "2026-05-07",
+      "title_eng": "A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms",
+      "title_kor": "수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계",
+      "year_resolved": "2026",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "0000__한유진_수면_분석_기기_알고리즘_가상_임상시험_결과보고서_생성_프레임워크_설계.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "948579a2-5419-4714-a232-4ac161d42c63",
+      "category": "conference",
+      "date": "2026-05-06",
+      "title_eng": "Artificial Intelligence–Driven Preoperative Risk Stratification for Early Allograft Failure in Living Donor Liver Transplantation",
+      "title_kor": null,
+      "year_resolved": "2026",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "0000__Artificial_Intelligence–Driven_Preoperative_Risk_Stratification_for_Early_Allogr.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "2894dca4-39fd-49cc-a53f-ac43f94e66be",
+      "category": "conference",
+      "date": "2025-11-06",
+      "title_eng": "Beyond the Cox Model: Potential of Artificial Intelligence-Based Survival Analysis for Nonlinear Clinical Variable Interpretation",
+      "title_kor": "Cox를 넘어: 비선형 임상 변수 해석에서 드러난 인공지능 기반 생존분석의 가능성",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "c6afaed1-66e1-4f24-96b3-3a3a323defbb",
+      "category": "patent",
+      "date": "2025-10-28",
+      "title_eng": "뇌 질환 진단 장치 및 방법",
+      "title_kor": "뇌 질환 진단 장치 및 방법",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "44529fa4-e591-47bf-b088-15889379a27c",
+      "category": "patent",
+      "date": "2025-09-26",
+      "title_eng": "다기관에서 수집된 데이터를 전처리하는 장치 및 방법",
+      "title_kor": "다기관에서 수집된 데이터를 전처리하는 장치 및 방법",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "214ed0bc-e135-4f8e-b4bf-db4de9a273db",
+      "category": "conference",
+      "date": "2025-07-16",
+      "title_eng": "Development of a Multi-Center Polysomnography Dataset for the Evaluation of Sleep Analysis Algorithms",
+      "title_kor": "수면 분석 알고리즘 평가를 위한 다기관 수면다원검사 데이터 세트 구축",
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202507_김영돈_수면_분석_알고리즘_평가를_위한_다기관_수면다원검사_데이터_세트_구축.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "2f8c8ab8-403f-4529-90ba-b413f389e033",
+      "category": "conference",
+      "date": "2025-07-14",
+      "title_eng": "Evaluating Feature Selection Methods for Radiomic Tractometry in Schizophrenia",
+      "title_kor": "Evaluating Feature Selection Methods for Radiomic Tractometry in Schizophrenia",
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202507_한유진_Evaluating_Feature_Selection_Methods.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "2ba08e29-f55b-4c5c-9cf2-8f9991f04638",
+      "category": "conference",
+      "date": "2025-05-08",
+      "title_eng": "Radiomic Tractometry-Based Machine Learning Model for Schizophrenia Classification",
+      "title_kor": "Radiomic Tractometry 기반 조현병 환자군 분류 인공지능 모델 개발",
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202505_한유진_Radio_Tractometry_기반_조현병_환자군_분류_인공지능_모델_개발.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "bc9325f2-deac-4a51-9d2f-aaf8cade661b",
+      "category": "conference",
+      "date": "2025-05-08",
+      "title_eng": "Harmonization Pipeline for Correcting Data Discrepancies in Multicenter Radiomic",
+      "title_kor": "다기관 Radiomic Tractometry 데이터 편차 보정을 위한 Harmonization 파이프라인",
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202505_한유진_다기관_Radio_Tractometry_데이터_편차_보정을_위한_Harmonization_파이프라인.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "8bf5ada9-036e-45ea-8e1b-88061cc5e1d0",
+      "category": "conference",
+      "date": "2024-11-07",
+      "title_eng": "Bio-signals and result feature analysis to leverage public polysomnography database  integration",
+      "title_kor": "공개 수면다원검사 데이터베이스 통합 활용을 위한 생체신호 및 결과 변수 분석",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202411_공개_수면다원검사_데이터베이스_통합_활용을_위한_생체신호_및_결과_변수_분석.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "e428df87-b2b6-49b4-9d24-ac5b4fdfeb4a",
+      "category": "conference",
+      "date": "2024-07-10",
+      "title_eng": "Development of a Real-Time Upper Limb Range of Motion Measurement Method Using a Single Depth Measurement Camera",
+      "title_kor": "단일 깊이측정 카메라를 활용한 실시간 상지 관절 가동범위 측정 방법 개발",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202407_단일_깊이측정_카메라를_활용한_실시간_상지_관절_가동범위_측정_방법_개발.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    }
+  ],
+  "fast_path": "Recent PDF content: open extracts/<id>.json for pubs with has_extract=true. Do not scan manifest.json or DATA/."
+}

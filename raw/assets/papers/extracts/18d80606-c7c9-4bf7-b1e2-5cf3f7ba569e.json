@@ -1,0 +1,20 @@
+{
+  "publication_id": "18d80606-c7c9-4bf7-b1e2-5cf3f7ba569e",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "conference",
+    "relative_path": "2021__202105_다파장_광용적맥파를_이용한_CNN_회귀_모델_기반_혈압_추정.pdf",
+    "original_filename": "2021__202105_다파장_광용적맥파를_이용한_CNN_회귀_모델_기반_혈압_추정.pdf"
+  },
+  "title_eng": "Blood pressure estimation based on CNN regression model using multi-wavelength photoplethysmogram",
+  "title_kor": "다파장 광용적맥파를 이용한 CNN 회귀 모델 기반 혈압 추정",
+  "category": "conference",
+  "date": "2021-05-12",
+  "page_count": 6,
+  "pages_extracted": 0,
+  "abstract": null,
+  "keywords": [],
+  "first_pages_text": "",
+  "char_count": 0,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

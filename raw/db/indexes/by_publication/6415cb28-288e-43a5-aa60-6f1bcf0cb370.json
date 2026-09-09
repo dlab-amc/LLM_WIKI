@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "6415cb28-288e-43a5-aa60-6f1bcf0cb370",
+  "storage_root": "journal",
+  "relative_path": "2016__201603_Simple_and_Robust_Realtime_QRS_Detection_Algorithm_Based_on_Spatiotempora.pdf",
+  "original_filename": "2016__201603_Simple_and_Robust_Realtime_QRS_Detection_Algorithm_Based_on_Spatiotempora.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Simple and Robust Realtime QRS Detection Algorithm Based on Spatiotempora",
+  "year": 2016,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2016-03-04",
+  "title_eng": "Simple and Robust Realtime QRS Detection Algorithm Based on Spatiotemporal Characteristic of the QRS Complex",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "29b4a04c-553f-425b-8c75-fe90aca718b7",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

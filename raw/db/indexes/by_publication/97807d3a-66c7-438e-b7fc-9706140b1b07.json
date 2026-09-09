@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "97807d3a-66c7-438e-b7fc-9706140b1b07",
+  "storage_root": "patent_registered",
+  "relative_path": "2017__201712_10-1809468_다채널_센서를_이용한_생체_신호_모니터링_시스템.pdf",
+  "original_filename": "2017__201712_10-1809468_다채널_센서를_이용한_생체_신호_모니터링_시스템.pdf",
+  "match_status": "matched",
+  "match_score": 0.9159,
+  "title_hint": "10-1809468 다채널 센서를 이용한 생체 신호 모니터링 시스템",
+  "year": 2017,
+  "exists": true,
+  "category": "patent",
+  "class": "Domestic",
+  "date": "2017-12-11",
+  "title_eng": "Biosignal monitoring system using multi-channel sensor patch",
+  "title_kor": "다채널 센서를 이용한 생체 신호 모니터링 시스템",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

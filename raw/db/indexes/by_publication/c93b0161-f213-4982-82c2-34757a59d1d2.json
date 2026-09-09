@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "c93b0161-f213-4982-82c2-34757a59d1d2",
+  "storage_root": "journal",
+  "relative_path": "2011__201104_광용정맥파_비맥동성분에_의한_혈관경직도_변화_분석.pdf",
+  "original_filename": "2011__201104_광용정맥파_비맥동성분에_의한_혈관경직도_변화_분석.pdf",
+  "match_status": "matched",
+  "match_score": 0.9521,
+  "title_hint": "광용정맥파 비맥동성분에 의한 혈관경직도 변화 분석",
+  "year": 2011,
+  "exists": true,
+  "category": "journal",
+  "class": "SCOPUS",
+  "date": "2011-04-01",
+  "title_eng": "Analysis of Arterial Stiffness Variation by Photoplethysmographic DC Component",
+  "title_kor": "광용적맥파 비맥동성분에 의한 혈관경직도 변화 분석",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "d1deeaca-ef44-4110-a9f0-a0e7ad557c7d",
+    "4a05a292-1a5b-4577-91ff-87da330a9358"
+  ],
+  "has_extract": true
+}

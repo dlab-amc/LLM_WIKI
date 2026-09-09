@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "8df4115b-011f-4b42-afa6-33cb484115be",
+  "storage_root": "conference",
+  "relative_path": "2024__202405_Madgwick_필터_기반_쿼터니언_회전_추정을_통한_가속도_센서_중력_보정.pdf",
+  "original_filename": "2024__202405_Madgwick_필터_기반_쿼터니언_회전_추정을_통한_가속도_센서_중력_보정.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "Madgwick 필터 기반 쿼터니언 회전 추정을 통한 가속도 센서 중력 보정",
+  "year": 2024,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2024-05-09",
+  "title_eng": "Gravity Compensation of Accelerometer with Madgwick Filter-Based Quaternion Rotation Estimation",
+  "title_kor": "Madgwick필터 기반 쿼터니언 회전 추정을 통한 가속도 센서 중력 보정",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "e556ed57-f679-4685-a592-767ec3a64f46",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

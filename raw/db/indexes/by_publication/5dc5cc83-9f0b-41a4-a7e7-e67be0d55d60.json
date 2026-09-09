@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "5dc5cc83-9f0b-41a4-a7e7-e67be0d55d60",
+  "storage_root": "journal",
+  "relative_path": "2019__201912_광용적맥파_및_머신러닝_기반_통증_평가_분류기_성능_비교.pdf",
+  "original_filename": "2019__201912_광용적맥파_및_머신러닝_기반_통증_평가_분류기_성능_비교.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "광용적맥파 및 머신러닝 기반 통증 평가 분류기 성능 비교",
+  "year": 2019,
+  "exists": true,
+  "category": "journal",
+  "class": "SCOPUS",
+  "date": "2019-12-20",
+  "title_eng": "Comparison of Classifier for Pain Assessment based on Photoplethysmogram and Machine Learning",
+  "title_kor": "광용적맥파 및 머신러닝 기반 통증 평가 분류기 성능 비교",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "293d1c07-fac9-4d7f-824c-972a42b4f432",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

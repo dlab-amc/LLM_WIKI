@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "3389cb13-dc67-4bbc-a323-2a66604c8aea",
+  "storage_root": "patent_registered",
+  "relative_path": "2019__201904_10-1974905_무구속적_생체신호_측정센서_및_이를_포함하는_생체신호_측정시스템.pdf",
+  "original_filename": "2019__201904_10-1974905_무구속적_생체신호_측정센서_및_이를_포함하는_생체신호_측정시스템.pdf",
+  "match_status": "matched",
+  "match_score": 0.9502,
+  "title_hint": "10-1974905 무구속적 생체신호 측정센서 및 이를 포함하는 생체신호 측정시스템",
+  "year": 2019,
+  "exists": true,
+  "category": "patent",
+  "class": "Domestic",
+  "date": "2019-04-26",
+  "title_eng": "Unconstrained type bio signal measuring sensor and bio signal measuring system having the same",
+  "title_kor": "무구속적 생체신호 측정센서 및 이를 포함하는 생체신호 측정시스템",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+  ],
+  "has_extract": true
+}

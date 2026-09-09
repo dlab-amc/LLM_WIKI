@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "c33223ec-767e-4b1b-8ef5-6cf409fd7f1f",
+  "storage_root": "conference",
+  "relative_path": "2023__202311_광용적맥파_기반_수술_중_통증_중증도_평가_지표_분석.pdf",
+  "original_filename": "2023__202311_광용적맥파_기반_수술_중_통증_중증도_평가_지표_분석.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "광용적맥파 기반 수술 중 통증 중증도 평가 지표 분석",
+  "year": 2023,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2023-11-09",
+  "title_eng": "Photoplethysmogram based on Surgical Pain Severity Assessment Feature Analysis",
+  "title_kor": "광용적맥파 기반 수술 중 통증 중증도 평가 지표 분석",
+  "member_ids": [
+    "68590514c33c441ee93e974a",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "17ff8154-0d9f-4486-abd7-b34e64268d87",
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+    "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

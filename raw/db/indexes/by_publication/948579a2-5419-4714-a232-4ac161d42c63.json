@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "948579a2-5419-4714-a232-4ac161d42c63",
+  "storage_root": "conference",
+  "relative_path": "0000__Artificial_Intelligence–Driven_Preoperative_Risk_Stratification_for_Early_Allogr.pdf",
+  "original_filename": "0000__Artificial_Intelligence–Driven_Preoperative_Risk_Stratification_for_Early_Allogr.pdf",
+  "match_status": "matched",
+  "match_score": 0.88,
+  "title_hint": "Artificial Intelligence–Driven Preoperative Risk Stratification for Early Allogr",
+  "year": null,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2026-05-06",
+  "title_eng": "Artificial Intelligence–Driven Preoperative Risk Stratification for Early Allograft Failure in Living Donor Liver Transplantation",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e974d",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "e45d0abb-9bd7-4aa0-9bb7-ddd6bcd34b52",
+    "6cb56470-5e1d-491b-9c3d-cc68f1dda6a1"
+  ],
+  "has_extract": true
+}

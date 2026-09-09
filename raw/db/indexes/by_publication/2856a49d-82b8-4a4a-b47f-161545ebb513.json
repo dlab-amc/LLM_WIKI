@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "2856a49d-82b8-4a4a-b47f-161545ebb513",
+  "storage_root": "journal",
+  "relative_path": "2009__200910_복부_움직임에_따른_초음파_근접센서를_이용한_호흡측정에_관한_연구.pdf",
+  "original_filename": "2009__200910_복부_움직임에_따른_초음파_근접센서를_이용한_호흡측정에_관한_연구.pdf",
+  "match_status": "matched",
+  "match_score": 0.9019,
+  "title_hint": "따른 초음파 근접센서를 이용한 호흡측정에 관한 연구",
+  "year": 2009,
+  "exists": true,
+  "category": "journal",
+  "class": "SCOPUS",
+  "date": "2009-10-01",
+  "title_eng": "Abdominal Wall Motion-Based Respiration Rate Measurement using An Ultrasonic Proximity Sensor",
+  "title_kor": "복부 움직임에 따른 초음파 근접센서를 이용한 호흡측정에 관한 연구",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+    "29b4a04c-553f-425b-8c75-fe90aca718b7",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+    "217b41fd-c1f3-49f4-a392-08f96ab15d9e"
+  ],
+  "has_extract": true
+}

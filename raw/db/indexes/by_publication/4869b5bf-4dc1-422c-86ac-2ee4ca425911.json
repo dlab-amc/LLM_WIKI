@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "4869b5bf-4dc1-422c-86ac-2ee4ca425911",
+  "storage_root": "patent_registered",
+  "relative_path": "2017__201709_10-1781999_전도성_소재를_이용한_손가락_동작_인식_장갑_및_그_방법.pdf",
+  "original_filename": "2017__201709_10-1781999_전도성_소재를_이용한_손가락_동작_인식_장갑_및_그_방법.pdf",
+  "match_status": "matched",
+  "match_score": 0.9271,
+  "title_hint": "10-1781999 전도성 소재를 이용한 손가락 동작 인식 장갑 및 그 방법",
+  "year": 2017,
+  "exists": true,
+  "category": "patent",
+  "class": "Domestic",
+  "date": "2017-09-20",
+  "title_eng": "Finger movement recognition glove and method using conductive coated material",
+  "title_kor": "전도성 소재를 이용한 손가락 동작 인식 장갑 및 그 방법",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "a23af44c-15d6-4db1-a3f1-45bcdf51b3e4",
+    "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+    "85046567-bdc1-405e-8e6a-daefc301736a",
+    "82571796-a65a-477c-8cbc-9496880f7749",
+    "d45f506d-da87-4f6d-a11e-6d652d5d3f6c"
+  ],
+  "has_extract": true
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "d141a8e0-662b-4cda-972f-bbbcbdb0c854",
+  "storage_root": "conference",
+  "relative_path": "2017__201707_Investigation_of_the_Photoplethysmography_Waveform_according_to_the_Nocic.pdf",
+  "original_filename": "2017__201707_Investigation_of_the_Photoplethysmography_Waveform_according_to_the_Nocic.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Investigation of the Photoplethysmography Waveform according to the Nocic",
+  "year": 2017,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2017-07-11",
+  "title_eng": "Investigation of the Photoplethysmography Waveform according to the Nociceptive Pain",
+  "title_kor": "Investigation of the Photoplethysmography Waveform according to the Nociceptive Pain",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

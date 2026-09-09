@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "fbd3871b-1fa6-4fe0-8875-9da338074edb",
+  "storage_root": "conference",
+  "relative_path": "2016__201607_언더샘플링된_광용적맥파_신호의_보간을_통한_극점_위치_복원_가능성_고찰.pdf",
+  "original_filename": "2016__201607_언더샘플링된_광용적맥파_신호의_보간을_통한_극점_위치_복원_가능성_고찰.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "언더샘플링된 광용적맥파 신호의 보간을 통한 극점 위치 복원 가능성 고찰",
+  "year": 2016,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2016-07-13",
+  "title_eng": "An Investigation of the Feature Point Restoration of Undersampled Photoplethysmogram Using Interpolation",
+  "title_kor": "언더샘플링된 광용적맥파 신호의 보간을 통한 극점 위치 복원 가능성 고찰",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "2305510c-90d6-4355-99bd-7d63caa62cfb",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

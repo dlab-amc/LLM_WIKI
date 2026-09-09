@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "7737f99c-8aa6-432f-b0c3-710b182fdd65",
+  "storage_root": "journal",
+  "relative_path": "2016__201608_보간_방법에_따른_언더샘플링된_광용적맥파_복원_가능성_평가.pdf",
+  "original_filename": "2016__201608_보간_방법에_따른_언더샘플링된_광용적맥파_복원_가능성_평가.pdf",
+  "match_status": "matched",
+  "match_score": 0.9114,
+  "title_hint": "따른 언더샘플링된 광용적맥파 복원 가능성 평가",
+  "year": 2016,
+  "exists": true,
+  "category": "journal",
+  "class": "SCOPUS",
+  "date": "2016-08-01",
+  "title_eng": "Reconstruction of the Undersampled Photoplethysmogram with Various Interpolation Methods",
+  "title_kor": "보간 방법에 따른 언더샘플링된 광용적맥파 복원 가능성 평가",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "68a7cea7-eb6d-4806-8658-50b7e4135546"
+  ],
+  "has_extract": true
+}

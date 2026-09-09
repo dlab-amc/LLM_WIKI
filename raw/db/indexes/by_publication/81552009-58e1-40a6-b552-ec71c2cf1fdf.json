@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "81552009-58e1-40a6-b552-ec71c2cf1fdf",
+  "storage_root": "conference",
+  "relative_path": "2016__201608_An_Investigation_of_the_Effect_of_Sampling_Frequency_to_the_Frequency_Dom.pdf",
+  "original_filename": "2016__201608_An_Investigation_of_the_Effect_of_Sampling_Frequency_to_the_Frequency_Dom.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "An Investigation of the Effect of Sampling Frequency to the Frequency Dom",
+  "year": 2016,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2016-08-16",
+  "title_eng": "An Investigation of the Effect of Sampling Frequency to the Frequency Domain Analysis of Pulse Rate Variability",
+  "title_kor": "An Investigation of the Effect of Sampling Frequency to the Frequency Domain Analysis of Pulse Rate Variability",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

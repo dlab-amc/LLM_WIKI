@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "864acce6-7ca3-49af-89a9-6ef916f58d24",
+  "storage_root": "patent_filed",
+  "relative_path": "2021__202102_허리밴드형_웨어러블_심전도_측정_장치_및_이를_이용한_심박_측정_방법_및_장치.pdf",
+  "original_filename": "2021__202102_허리밴드형_웨어러블_심전도_측정_장치_및_이를_이용한_심박_측정_방법_및_장치.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "허리밴드형 웨어러블 심전도 측정 장치 및 이를 이용한 심박 측정 방법 및 장치",
+  "year": 2021,
+  "exists": true,
+  "category": "patent",
+  "class": "Domestic",
+  "date": "2021-02-05",
+  "title_eng": "A waistband wearable electrocardiogram measuring apparatus and method and apparatus for heart rate measurement using the same",
+  "title_kor": "허리밴드형 웨어러블 심전도 측정 장치 및 이를 이용한 심박 측정 방법 및 장치",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "236e5d74-414b-4790-b358-619eda9557de"
+  ],
+  "has_extract": true
+}

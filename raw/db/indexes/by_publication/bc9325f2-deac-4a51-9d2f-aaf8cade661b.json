@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "bc9325f2-deac-4a51-9d2f-aaf8cade661b",
+  "storage_root": "conference",
+  "relative_path": "2025__202505_한유진_다기관_Radio_Tractometry_데이터_편차_보정을_위한_Harmonization_파이프라인.pdf",
+  "original_filename": "2025__202505_한유진_다기관_Radio_Tractometry_데이터_편차_보정을_위한_Harmonization_파이프라인.pdf",
+  "match_status": "matched",
+  "match_score": 0.9431,
+  "title_hint": "Radio Tractometry 데이터 편차 보정을 위한 Harmonization 파이프라인",
+  "year": 2025,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2025-05-08",
+  "title_eng": "Harmonization Pipeline for Correcting Data Discrepancies in Multicenter Radiomic",
+  "title_kor": "다기관 Radiomic Tractometry 데이터 편차 보정을 위한 Harmonization 파이프라인",
+  "member_ids": [
+    "68590514c33c441ee93e974d",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

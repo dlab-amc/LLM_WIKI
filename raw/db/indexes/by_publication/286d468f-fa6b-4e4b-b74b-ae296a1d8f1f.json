@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "286d468f-fa6b-4e4b-b74b-ae296a1d8f1f",
+  "storage_root": "conference",
+  "relative_path": "2017__201707_Design_of_the_Wearable_Device_for_Hemiplegic_Gait_Detection_Using_an_Acce.pdf",
+  "original_filename": "2017__201707_Design_of_the_Wearable_Device_for_Hemiplegic_Gait_Detection_Using_an_Acce.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Design of the Wearable Device for Hemiplegic Gait Detection Using an Acce",
+  "year": 2017,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2017-07-11",
+  "title_eng": "Design of the Wearable Device for Hemiplegic Gait Detection Using an Accelerometer and a Gyroscope",
+  "title_kor": "Design of the Wearable Device for Hemiplegic Gait Detection Using an Accelerometer and a Gyroscope",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+    "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+    "2684cf18-a5b8-4ca2-977d-d4cbbf558f8a",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "d9ba53a2-46be-42dc-8f1d-cc0187f1505a",
+  "storage_root": "conference",
+  "relative_path": "2005__200506_Heart_Rate_Variability_Analysis_for_Significance_Between_AgAgCl_Electrode.pdf",
+  "original_filename": "2005__200506_Heart_Rate_Variability_Analysis_for_Significance_Between_AgAgCl_Electrode.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Heart Rate Variability Analysis for Significance Between AgAgCl Electrode",
+  "year": 2005,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2005-06-02",
+  "title_eng": "Heart Rate Variability Analysis for Significance Between Ag/AgCl Electrode and Electric Textile Sensor in Wearable Condition",
+  "title_kor": "Heart Rate Variability Analysis for Significance Between Ag/AgCl Electrode and Electric Textile Sensor in Wearable Condition",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+    "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+    "4a05a292-1a5b-4577-91ff-87da330a9358"
+  ],
+  "has_extract": true
+}

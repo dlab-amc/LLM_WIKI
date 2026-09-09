@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "8237817a-be14-4124-8d0b-61cb865ee490",
+  "storage_root": "conference",
+  "relative_path": "2015__201510_생체신호기반_조명_향기_요법_제공을_위한_IoT_디퓨져_개발.pdf",
+  "original_filename": "2015__201510_생체신호기반_조명_향기_요법_제공을_위한_IoT_디퓨져_개발.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "생체신호기반 조명 향기 요법 제공을 위한 IoT 디퓨져 개발",
+  "year": 2015,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2015-10-22",
+  "title_eng": "Development of Internet-of-Things Diffuser to Provide Aroma and Lightning Therapy based on Bio-Signal",
+  "title_kor": "생체신호기반 조명, 향기 요법 제공을 위한 IoT 디퓨져 개발",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+    "2305510c-90d6-4355-99bd-7d63caa62cfb",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "62d51eaa-e423-49c2-b058-669ba146f3fa"
+  ],
+  "has_extract": true
+}

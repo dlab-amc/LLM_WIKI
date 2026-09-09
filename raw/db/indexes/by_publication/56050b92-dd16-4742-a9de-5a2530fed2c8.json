@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "56050b92-dd16-4742-a9de-5a2530fed2c8",
+  "storage_root": "patent_registered",
+  "relative_path": "2025__202501_복수의_3차원_데이터를_3차원_그래프_정보로_통합_변환하는_프로그램.pdf",
+  "original_filename": "2025__202501_복수의_3차원_데이터를_3차원_그래프_정보로_통합_변환하는_프로그램.pdf",
+  "match_status": "matched",
+  "match_score": 0.979,
+  "title_hint": "3차원 데이터를 3차원 그래프 정보로 통합 변환하는 프로그램",
+  "year": 2025,
+  "exists": true,
+  "category": "patent",
+  "class": "Registered SW",
+  "date": "2025-01-15",
+  "title_eng": "A program to integrate and convert multiple three-dimensional data into three-dimensional graph information",
+  "title_kor": "복수의 3차원 데이터를 3차원 그래프 정보로 통합 변환하는 프로그램",
+  "member_ids": [
+    "68590514c33c441ee93e9748",
+    "68590514c33c441ee93e974b"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "e6952c28-704d-4ed8-8fe6-d85b22dbf430"
+  ],
+  "has_extract": true
+}

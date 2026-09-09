@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "6e54e75a-b5a6-41d2-a503-b00b28d814eb",
+  "storage_root": "journal",
+  "relative_path": "2014__201408_Unconstrained_snoring_detection_using_a_smartphone_during_ordinary_sleep.pdf",
+  "original_filename": "2014__201408_Unconstrained_snoring_detection_using_a_smartphone_during_ordinary_sleep.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "Unconstrained snoring detection using a smartphone during ordinary sleep",
+  "year": 2014,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2014-08-15",
+  "title_eng": "Unconstrained snoring detection using a smartphone during ordinary sleep",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "d34f5857-264d-403b-a59f-be03ad383be3"
+  ],
+  "has_extract": true
+}

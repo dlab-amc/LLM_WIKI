@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "8b8fb1d8-4152-49c6-b141-74e4f4dc7e55",
+  "storage_root": "software",
+  "relative_path": "39__2023__202312_사용자_생체정보_및_위치정보_모니터링_위험_알림을_위한_웹_응용프로그램.pdf",
+  "original_filename": "39__2023__202312_사용자_생체정보_및_위치정보_모니터링_위험_알림을_위한_웹_응용프로그램.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "39   사용자 생체정보 및 위치정보 모니터링 위험 알림을 위한 웹 응용프로그램",
+  "year": 2023,
+  "exists": true,
+  "category": "patent",
+  "class": "Registered SW",
+  "date": "2023-12-13",
+  "title_eng": "Web application for user biometric and location information monitoring and risk notification",
+  "title_kor": "사용자 생체정보 및 위치정보 모니터링, 위험 알림을 위한 웹 응용프로그램",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "ad98337a-712a-4d40-a163-4ac540834245",
+    "e556ed57-f679-4685-a592-767ec3a64f46"
+  ],
+  "has_extract": true
+}

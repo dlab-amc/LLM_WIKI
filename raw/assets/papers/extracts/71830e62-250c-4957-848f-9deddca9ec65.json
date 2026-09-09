@@ -1,0 +1,20 @@
+{
+  "publication_id": "71830e62-250c-4957-848f-9deddca9ec65",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "software",
+    "relative_path": "41__2023__202312_3차원_그래프_데이터_변환_프로그램.pdf",
+    "original_filename": "41__2023__202312_3차원_그래프_데이터_변환_프로그램.pdf"
+  },
+  "title_eng": "A program for converting three-dimensional graph data",
+  "title_kor": "3차원 그래프 데이터 변환 프로그램",
+  "category": "patent",
+  "date": "2023-12-15",
+  "page_count": 2,
+  "pages_extracted": 0,
+  "abstract": null,
+  "keywords": [],
+  "first_pages_text": "",
+  "char_count": 0,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

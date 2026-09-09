@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "85883e8a-5957-439c-9820-acf392563626",
+  "storage_root": "conference",
+  "relative_path": "2019__201907_표본화_주파수와_양자화_레벨에_따른_광용적맥파_파형_변화.pdf",
+  "original_filename": "2019__201907_표본화_주파수와_양자화_레벨에_따른_광용적맥파_파형_변화.pdf",
+  "match_status": "matched",
+  "match_score": 0.8405,
+  "title_hint": "양자화 레벨에 따른 광용적맥파 파형 변화",
+  "year": 2019,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2019-07-10",
+  "title_eng": "Changes of Photoplethysmography waveform by sampling rate and quantization level",
+  "title_kor": "표본화 주파수와 양자화 레벨에 따른 광용적맥파 파형 변화",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

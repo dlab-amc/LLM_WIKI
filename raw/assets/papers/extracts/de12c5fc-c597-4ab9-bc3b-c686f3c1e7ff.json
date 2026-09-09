@@ -1,0 +1,20 @@
+{
+  "publication_id": "de12c5fc-c597-4ab9-bc3b-c686f3c1e7ff",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "conference",
+    "relative_path": "2025__202505_이건_다중_작업_학습_기반_심잡음_특징_반영_심음도_잡음_제거_모델_개발.pdf",
+    "original_filename": "2025__202505_이건_다중_작업_학습_기반_심잡음_특징_반영_심음도_잡음_제거_모델_개발.pdf"
+  },
+  "title_eng": "Development of a Multi-Task Learning–Based Phonocardiogram Denoising Model for  Considering Heart Murmurs",
+  "title_kor": "다중 작업 학습 기반 심잡음 특징 반영 심음도 잡음 제거 모델 개발",
+  "category": "conference",
+  "date": "2025-05-08",
+  "page_count": 5,
+  "pages_extracted": 0,
+  "abstract": null,
+  "keywords": [],
+  "first_pages_text": "",
+  "char_count": 0,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

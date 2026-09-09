@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "5e0a1e51-99cd-454f-8a8d-1fbb967dc3e5",
+  "storage_root": "conference",
+  "relative_path": "2019__201910_편마비성_보행_측정을_위한_관성센서_기반_웨어러블_시스템_개발.pdf",
+  "original_filename": "2019__201910_편마비성_보행_측정을_위한_관성센서_기반_웨어러블_시스템_개발.pdf",
+  "match_status": "matched",
+  "match_score": 0.8887,
+  "title_hint": "측정을 위한 관성센서 기반 웨어러블 시스템 개발",
+  "year": 2019,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2019-10-24",
+  "title_eng": "Development of Wearable System for Hemiplegic Gait Detection",
+  "title_kor": "편마비성 보행 측정을 위한 관성센서 기반 웨어러블 시스템 개발",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "57354d74-688e-49c4-a258-307386943d12",
+    "ba7fdf18-2015-44c2-a331-0ec26a5cf18a",
+    "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+    "2684cf18-a5b8-4ca2-977d-d4cbbf558f8a",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

@@ -1,0 +1,20 @@
+{
+  "publication_id": "6afe2676-bccb-486c-9592-11bca331634c",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "patent_registered",
+    "relative_path": "2019__201911_10-2042700_딥러닝_기반의_혈압_예측_시스템_및_방법.pdf",
+    "original_filename": "2019__201911_10-2042700_딥러닝_기반의_혈압_예측_시스템_및_방법.pdf"
+  },
+  "title_eng": "System and method for estimating blood pressure based on deep learning",
+  "title_kor": "딥러닝 기반의 혈압 예측 시스템 및 방법",
+  "category": "patent",
+  "date": "2019-11-04",
+  "page_count": 42,
+  "pages_extracted": 0,
+  "abstract": null,
+  "keywords": [],
+  "first_pages_text": "",
+  "char_count": 0,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

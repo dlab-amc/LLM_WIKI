@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "1b478bb7-f683-457b-9b8e-77a084e2b405",
+  "storage_root": "journal",
+  "relative_path": "2021__202103_Recurrence_Plot_and_Machine_Learning_for_Signal_Quality_Assessment_of_Pho.pdf",
+  "original_filename": "2021__202103_Recurrence_Plot_and_Machine_Learning_for_Signal_Quality_Assessment_of_Pho.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Recurrence Plot and Machine Learning for Signal Quality Assessment of Pho",
+  "year": 2021,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2021-03-20",
+  "title_eng": "Recurrence Plot and Machine Learning for Signal Quality Assessment of Photoplethysmogram in Mobile Environment",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

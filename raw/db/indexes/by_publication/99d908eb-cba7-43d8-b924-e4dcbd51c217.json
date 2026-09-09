@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "99d908eb-cba7-43d8-b924-e4dcbd51c217",
+  "storage_root": "conference",
+  "relative_path": "2017__201710_수술_통증에_따른_광용적맥파_수축기_및_이완기_파형_특성_분석.pdf",
+  "original_filename": "2017__201710_수술_통증에_따른_광용적맥파_수축기_및_이완기_파형_특성_분석.pdf",
+  "match_status": "matched",
+  "match_score": 0.9114,
+  "title_hint": "따른 광용적맥파 수축기 및 이완기 파형 특성 분석",
+  "year": 2017,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2017-10-26",
+  "title_eng": "Analysis of Systolic and Diastolic Waveform Characteristic of Photoplethysmogram according to the Surgical Pain",
+  "title_kor": "수술 통증에 따른 광용적맥파 수축기 및 이완기 파형 특성 분석",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

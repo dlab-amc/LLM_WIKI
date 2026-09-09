@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "c0e967e7-4969-4ea0-a624-ff9f3c621cbe",
+  "storage_root": "conference",
+  "relative_path": "2024__202410_광용적맥파_기반_혈관_나이_추정_모델의_평가.pdf",
+  "original_filename": "2024__202410_광용적맥파_기반_혈관_나이_추정_모델의_평가.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "광용적맥파 기반 혈관 나이 추정 모델의 평가",
+  "year": 2024,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2024-10-23",
+  "title_eng": "Evaluation of Photoplethysmogram-based Vascular Age Estimation Models",
+  "title_kor": "광용적맥파 기반 혈관 나이 추정 모델의 평가",
+  "member_ids": [
+    "68590514c33c441ee93e974a",
+    "68590514c33c441ee93e974c",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "17ff8154-0d9f-4486-abd7-b34e64268d87",
+    "11293195-d430-4570-98b9-f1d9e82ca0e6",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

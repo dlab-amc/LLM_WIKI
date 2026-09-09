@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "9120ce21-95b5-432b-8fcd-d4b068e3ae9a",
+  "storage_root": "patent_filed",
+  "relative_path": "2013__201311_생체_신호를_측정하는_방법_및_장치.pdf",
+  "original_filename": "2013__201311_생체_신호를_측정하는_방법_및_장치.pdf",
+  "match_status": "matched",
+  "match_score": 0.7694,
+  "title_hint": "측정하는 방법 및 장치",
+  "year": 2013,
+  "exists": true,
+  "category": "patent",
+  "class": "Domestic",
+  "date": "2013-11-25",
+  "title_eng": "Apparatus and method for measuring physiological signal",
+  "title_kor": "생체 신호를 측정하는 방법 및 장치",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "d34f5857-264d-403b-a59f-be03ad383be3",
+    "87cf7e69-dd97-4ac4-97d6-162acf858278",
+    "a654344e-9a61-44ba-8667-fa2d26d9530d",
+    "39afba78-7e6f-4ac0-8bc0-6d363ac3398e",
+    "52c800ad-007d-46f1-98ab-3ac1dad2f4a3",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

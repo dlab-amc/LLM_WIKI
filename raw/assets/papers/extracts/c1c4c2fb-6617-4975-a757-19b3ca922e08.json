@@ -1,0 +1,20 @@
+{
+  "publication_id": "c1c4c2fb-6617-4975-a757-19b3ca922e08",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "patent_filed",
+    "relative_path": "2014__201401_COLOR_TRANSFORMATION_METHOD_AND_APPARATUS_FOR_PERSON_WITH_COLOR_VISION_DE.pdf",
+    "original_filename": "2014__201401_COLOR_TRANSFORMATION_METHOD_AND_APPARATUS_FOR_PERSON_WITH_COLOR_VISION_DE.pdf"
+  },
+  "title_eng": "Color transformation method and apparatus for person with color vision defect",
+  "title_kor": "Color transformation method and apparatus for person with color vision defect",
+  "category": "patent",
+  "date": "2014-01-16",
+  "page_count": 30,
+  "pages_extracted": 4,
+  "abstract": "Seoul (KR); Jae-Yun JEONG, Seoul A color transformation method and apparatus are provided (KR); Hyun-Guk YOO, Gyeonggi-do for a person with a color vision defect. A color vision char \n (KR) acteristic of a user is determined by receiving at least one of a \n kind of color vision defect and a degree of color vision defect selected by the user via a preset user color vision character (21) Appl. No.: 13/939,681 istic input menu. A preset basic hue table of a terminal is \n transformed according to the color vision characteristic of the user and transforming colors of a video to be displayed by \n (22) Filed: Jul. 11, 2013 applying the transformed basic hue table. \n Original stage Sampling \n Ci mapping \n Relatirish \n ransformed \n d image \n 3. Size: \n image\n\nUS 2014/OO15850 A1 Jan. 16, 2014 Sheet 1 of 18 Patent Application Publication \n $30438A \n I \"OIH\n\nUS 2014/OO15850 A1 Jan. 16, 2014 Sheet 2 of 18 Patent Application Publication\n\nPatent Application Publication Jan. 16, 2014 Sheet 3 of 18 US 2014/OO15850 A1 \n INPUT UNIT \n CONTROER \n (PROCESSENG UNIT) \n (CORSON \n CARACERSC \n DEER?NING N \n JEO E \n RANSCRAN EN \n --- \n 2 \n FIG.3",
+  "keywords": [],
+  "first_pages_text": "US 2014001.5850A1 \n (19) United States \n (12) Patent Application Publication (10) Pub. No.: US 2014/0015850 A1 \n AHN et al. (43) Pub. Date: Jan. 16, 2014 \n (54) COLORTRANSFORMATION METHOD AND (30) Foreign Application Priority Data \n APPARATUS FOR PERSON WITH COLOR \n VISION DEFECT Jul. 11, 2012 (KR) ........................ 10-2012-OO75532 \n Aug. 8, 2012 (KR) ........................ 10-2012-0086,746 \n (71) Applicants: Korea University Research and \n Business Foundation, Seoul (KR); \n Samsung Electronics Co., Ltd., (51) Int. Cl. \n Gyeonggi-do (KR) G06T II/00 (2006.01) \n (72) Inventors: Sung-Joo AHN, Seoul (KR); Sung-Jea (52) U.S. Cl. \n Publication Classification \n KO, Seoul (KR); Jung-Hoon PARK, Sc - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - G06T II/00 S. \n Seoul (KR); Hang-Sik SHIN, “” Gyeonggi-do (KR); Hyun-JiKIM, (57) ABSTRACT \n Seoul (KR); Jae-Yun JEONG, Seoul A color transformation method and apparatus are provided (KR); Hyun-Guk YOO, Gyeonggi-do for a person with a color vision defect. A color vision char \n (KR) acteristic of a user is determined by receiving at least one of a \n kind of color vision defect and a degree of color vision defect selected by the user via a preset user color vision character (21) Appl. No.: 13/939,681 istic input menu. A preset basic hue table of a terminal is \n transformed according to the color vision characteristic of the user and transforming colors of a video to be displayed by \n (22) Filed: Jul. 11, 2013 applying the transformed basic hue table. \n Original stage Sampling \n Ci mapping \n Relatirish \n ransformed \n d image \n 3. Size: \n image\n\nUS 2014/OO15850 A1 Jan. 16, 2014 Sheet 1 of 18 Patent Application Publication \n $30438A \n I \"OIH\n\nUS 2014/OO15850 A1 Jan. 16, 2014 Sheet 2 of 18 Patent Application Publication\n\nPatent Application Publication Jan. 16, 2014 Sheet 3 of 18 US 2014/OO15850 A1 \n INPUT UNIT \n CONTROER \n (PROCESSENG UNIT) \n (CORSON \n CARACERSC \n DEER?NING N \n JEO E \n RANSCRAN EN \n --- \n 2 \n FIG.3",
+  "char_count": 2004,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

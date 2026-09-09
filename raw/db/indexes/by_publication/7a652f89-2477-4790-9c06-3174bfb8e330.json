@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "7a652f89-2477-4790-9c06-3174bfb8e330",
+  "storage_root": "conference",
+  "relative_path": "2016__201608_Preliminary_Study_for_Biometric_based_on_Gait_Pattern_Analysis_Using_Inso.pdf",
+  "original_filename": "2016__201608_Preliminary_Study_for_Biometric_based_on_Gait_Pattern_Analysis_Using_Inso.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Preliminary Study for Biometric based on Gait Pattern Analysis Using Inso",
+  "year": 2016,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2016-08-25",
+  "title_eng": "Preliminary Study for Biometric based on Gait Pattern Analysis Using Insole-Type Force Sensor",
+  "title_kor": "Preliminary Study for Biometric based on Gait Pattern Analysis Using Insole-Type Force Sensor",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "08dd0c93-5bf2-44aa-8980-fb987eeae53f",
+    "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee"
+  ],
+  "has_extract": true
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "6ad94024-ae39-48f9-bd09-fccde79f3418",
+  "storage_root": "conference",
+  "relative_path": "2023__202304_Development_of_an_artificial_intelligence_model_for_both_intra-_and_post-.pdf",
+  "original_filename": "2023__202304_Development_of_an_artificial_intelligence_model_for_both_intra-_and_post-.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Development of an artificial intelligence model for both intra- and post-",
+  "year": 2023,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2023-04-15",
+  "title_eng": "Development of an artificial intelligence model for both intra- and post- operative pain assessment",
+  "title_kor": "Development of an artificial intelligence model for both intra- and post- operative pain assessment",
+  "member_ids": [
+    "68590514c33c441ee93e974a",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "17ff8154-0d9f-4486-abd7-b34e64268d87",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+    "3ae96e51-111a-489e-9a0e-76b9b2acff26"
+  ],
+  "has_extract": true
+}

@@ -19,7 +19,9 @@
         "e556ed57-f679-4685-a592-767ec3a64f46",
         "ad98337a-712a-4d40-a163-4ac540834245"
       ],
-      "year_resolved": "2025"
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
     },
     {
       "id": "6131572d-f63a-4a5c-b2c5-9c3f82d68059",
@@ -37,7 +39,14 @@
         "2883f978-84ac-4c9c-834b-0bacbda6dcba",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2025"
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202505_이재형_다중작업모델(MTL)을_이용한_심방세동_유형_및_시술_후_재발_예측.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "4df94230-b073-4e4c-9037-277fc44342b8",
@@ -59,7 +68,14 @@
         "3ae96e51-111a-489e-9a0e-76b9b2acff26"
       ],
       "link": "https://www.nature.com/articles/s41746-024-01362-8",
-      "year_resolved": "2025"
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "journal",
+        "relative_path": "2025__202501_Machine_learning_based_quantitative_pain_assessment_for_the_perioperative.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "56050b92-dd16-4742-a9de-5a2530fed2c8",
@@ -74,7 +90,14 @@
         "189de491-3424-4bf3-bb66-26bd0667ed24",
         "e6952c28-704d-4ed8-8fe6-d85b22dbf430"
       ],
-      "year_resolved": "2025"
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "patent_registered",
+        "relative_path": "2025__202501_복수의_3차원_데이터를_3차원_그래프_정보로_통합_변환하는_프로그램.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "f6f4aaf9-2e48-49d7-8ee2-babcf0cb65b7",
@@ -91,7 +114,9 @@
         "e556ed57-f679-4685-a592-767ec3a64f46",
         "ad98337a-712a-4d40-a163-4ac540834245"
       ],
-      "year_resolved": "2024"
+      "year_resolved": "2024",
+      "pdf": null,
+      "has_extract": false
     },
     {
       "id": "de172548-fd67-49dd-8254-eea5fc110b03",
@@ -109,7 +134,14 @@
         "ad98337a-712a-4d40-a163-4ac540834245",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2024"
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202411_머신러닝을_활용한_병동내_환자_위치_추정_오류_보정pdf.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "f0c3dc1a-d91a-4eb4-927b-015012f0739a",
@@ -127,25 +159,14 @@
         "2883f978-84ac-4c9c-834b-0bacbda6dcba",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2024"
-    },
-    {
-      "id": "688ca5a0-8312-40d0-bb81-6ae6b13b9533",
-      "category": "conference",
-      "class": "International",
-      "date": "2024-07-15",
-      "title_eng": "Demographics and Comorbidities as an Atrial Fibrillation Risk Factor: a Retrospective Study in Koreans",
-      "title_kor": "심방세동 위험 요인으로서 인구통계학적 요인과 동반질환: 한국인에 대한 후향적 연구",
-      "conference_eng": "EMBC 2024",
-      "author_kor": "최예은; 이재형; 석현석; 신항식",
-      "author_eng": "Ye Eun Choi; Jaehyung Lee; Hyeon Seok Seok; Hangsik Shin",
-      "author_ids": [
-        "11293195-d430-4570-98b9-f1d9e82ca0e6",
-        "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
-        "77b4f02a-147a-4280-9045-69c05b9cecc5",
-        "189de491-3424-4bf3-bb66-26bd0667ed24"
-      ],
-      "year_resolved": "2024"
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202410_좌심방_해부생리_정보를_활용한_심방세동_타입_분류_그래프_신경망_모델.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "a88dd95e-adb0-46cb-a2ae-ab50f1b56c45",
@@ -164,7 +185,14 @@
         "2883f978-84ac-4c9c-834b-0bacbda6dcba"
       ],
       "link": "https://link.springer.com/article/10.1007/s42835-024-01998-2",
-      "year_resolved": "2024"
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "journal",
+        "relative_path": "2024__202408_Atrial_Fibrillation_Identification_Using_CNNs_Based_on_Genomic_Data.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "6d8b5817-2a7b-4507-9d7f-21de5560f5a4",
@@ -185,44 +213,61 @@
         "3ae96e51-111a-489e-9a0e-76b9b2acff26"
       ],
       "link": "https://link.springer.com/article/10.1007/s42835-024-01999-1?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240812&utm_content=10.1007%2Fs42835-024-01999-1",
-      "year_resolved": "2024"
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "journal",
+        "relative_path": "2024__202408_Analysis_of_Photoplethysmography-Based_Surgical_Pain_Severity_Assessment.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
-      "id": "e679b80b-45ef-448b-bfa7-372245bea3a8",
+      "id": "688ca5a0-8312-40d0-bb81-6ae6b13b9533",
       "category": "conference",
-      "class": "Domestic",
-      "date": "2023-05-11",
-      "title_eng": "The Impact of Regularization Techniques on Convolutional Neural Network-based Genomic Study",
-      "title_kor": "합성곱 신경망 기반 유전체 연구에서 정규화 기법의 효과 분석",
-      "conference_eng": "KOSOMBE spring conference 2023",
-      "author_kor": "이재형; 석현석; 권오석; 박희남; 신항식",
-      "author_eng": "Jaehyung Lee; Hyeon Seok Seok; Oh-Seok Kwon; Hui-Nam Pak; Hangsik shin",
+      "class": "International",
+      "date": "2024-07-15",
+      "title_eng": "Demographics and Comorbidities as an Atrial Fibrillation Risk Factor: a Retrospective Study in Koreans",
+      "title_kor": "심방세동 위험 요인으로서 인구통계학적 요인과 동반질환: 한국인에 대한 후향적 연구",
+      "conference_eng": "EMBC 2024",
+      "author_kor": "최예은; 이재형; 석현석; 신항식",
+      "author_eng": "Ye Eun Choi; Jaehyung Lee; Hyeon Seok Seok; Hangsik Shin",
       "author_ids": [
+        "11293195-d430-4570-98b9-f1d9e82ca0e6",
         "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
         "77b4f02a-147a-4280-9045-69c05b9cecc5",
-        "ee05cb84-1386-49fe-bf89-d909093c9720",
-        "2883f978-84ac-4c9c-834b-0bacbda6dcba",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2023"
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202407_Demographics_and_Comorbidities_as_an_Atrial_Fibrillation_Risk_Factor_a_Re.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
-      "id": "7ea20b3e-6665-4002-8aeb-145e556b1ead",
-      "category": "conference",
-      "class": "Domestic",
-      "date": "2023-11-09",
-      "title_eng": "Graph Neural Network-Based Atrial Fibrillation Recurrence Prediction Using Left Atrial Three-Dimensional Anatomical and Physiology Characteristics",
-      "title_kor": "좌심방 3차원 해부생리 특징을 활용한 그래프 신경망기반 심방세동 재발 예측",
-      "conference_eng": "9th International Biomedical Engineering Conference IBEC 2023",
-      "author_kor": "이재형; 권오석; 신항식; 박희남",
-      "author_eng": "Jaehyung Lee; Oh-Seok Kwon; Hangsik shin; Hui-Nam Pak",
+      "id": "71830e62-250c-4957-848f-9deddca9ec65",
+      "category": "patent",
+      "class": "Registered SW",
+      "date": "2023-12-15",
+      "title_eng": "A program for converting three-dimensional graph data",
+      "title_kor": "3차원 그래프 데이터 변환 프로그램",
+      "author_kor": "신항식; 이재형",
+      "author_eng": "Hangsik Shin; Jaehyung Lee",
       "author_ids": [
-        "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
-        "ee05cb84-1386-49fe-bf89-d909093c9720",
         "189de491-3424-4bf3-bb66-26bd0667ed24",
-        "2883f978-84ac-4c9c-834b-0bacbda6dcba"
+        "e6952c28-704d-4ed8-8fe6-d85b22dbf430"
       ],
-      "year_resolved": "2023"
+      "year_resolved": "2023",
+      "pdf": {
+        "storage_root": "software",
+        "relative_path": "41__2023__202312_3차원_그래프_데이터_변환_프로그램.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "0317a002-3c1e-44a2-a96a-3fc9634c429e",
@@ -241,7 +286,39 @@
         "2883f978-84ac-4c9c-834b-0bacbda6dcba",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2023"
+      "year_resolved": "2023",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2023__202312_Atrial_Fibrillation_Diagnosis_Using_Machine_Learning_Leveraging_Minimal_H.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "7ea20b3e-6665-4002-8aeb-145e556b1ead",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2023-11-09",
+      "title_eng": "Graph Neural Network-Based Atrial Fibrillation Recurrence Prediction Using Left Atrial Three-Dimensional Anatomical and Physiology Characteristics",
+      "title_kor": "좌심방 3차원 해부생리 특징을 활용한 그래프 신경망기반 심방세동 재발 예측",
+      "conference_eng": "9th International Biomedical Engineering Conference IBEC 2023",
+      "author_kor": "이재형; 권오석; 신항식; 박희남",
+      "author_eng": "Jaehyung Lee; Oh-Seok Kwon; Hangsik shin; Hui-Nam Pak",
+      "author_ids": [
+        "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+        "ee05cb84-1386-49fe-bf89-d909093c9720",
+        "189de491-3424-4bf3-bb66-26bd0667ed24",
+        "2883f978-84ac-4c9c-834b-0bacbda6dcba"
+      ],
+      "year_resolved": "2023",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2023__202311_좌심방_3차원_해부생리_특징을_활용한_그래프_신경망기반_심방세동_재발_예측.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "af605e41-14ec-48a6-adf1-0af158c615f2",
@@ -260,42 +337,40 @@
         "2883f978-84ac-4c9c-834b-0bacbda6dcba",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2023"
+      "year_resolved": "2023",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2023__202307_유전자_스크리닝_임계값에_따른_합성곱_신경망_기반_심방세동_분류기_성능_분석.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
-      "id": "71830e62-250c-4957-848f-9deddca9ec65",
-      "category": "patent",
-      "class": "Registered SW",
-      "date": "2023-12-15",
-      "title_eng": "A program for converting three-dimensional graph data",
-      "title_kor": "3차원 그래프 데이터 변환 프로그램",
-      "author_kor": "신항식; 이재형",
-      "author_eng": "Hangsik Shin; Jaehyung Lee",
-      "author_ids": [
-        "189de491-3424-4bf3-bb66-26bd0667ed24",
-        "e6952c28-704d-4ed8-8fe6-d85b22dbf430"
-      ],
-      "year_resolved": "2023"
-    },
-    {
-      "id": "f8c2a899-4ecb-4ea4-8b93-d5d662a4c0dc",
+      "id": "e679b80b-45ef-448b-bfa7-372245bea3a8",
       "category": "conference",
       "class": "Domestic",
-      "date": "2022-10-19",
-      "title_eng": "Genome-Wide Association Studies and Electronic Medical Record based Atrial Fibrillation Discriminat ion Using Ensemble Models",
-      "title_kor": "앙상블 모델을 사용한 전장유전체 및 의료정보 기반 심방세동 판별",
-      "conference_eng": "CICS'22 정보 및 제어 학술대회",
-      "author_kor": "이재형; 왕창원; 석현석; 권오석; 박희남; 신항식",
-      "author_eng": "Jaehyung Lee; Changwon Wang; Hyeon Seok Seok; Oh-Seok Kwon; Hui-Nam Pak; Hangsik shin",
+      "date": "2023-05-11",
+      "title_eng": "The Impact of Regularization Techniques on Convolutional Neural Network-based Genomic Study",
+      "title_kor": "합성곱 신경망 기반 유전체 연구에서 정규화 기법의 효과 분석",
+      "conference_eng": "KOSOMBE spring conference 2023",
+      "author_kor": "이재형; 석현석; 권오석; 박희남; 신항식",
+      "author_eng": "Jaehyung Lee; Hyeon Seok Seok; Oh-Seok Kwon; Hui-Nam Pak; Hangsik shin",
       "author_ids": [
         "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
-        "ad98337a-712a-4d40-a163-4ac540834245",
         "77b4f02a-147a-4280-9045-69c05b9cecc5",
         "ee05cb84-1386-49fe-bf89-d909093c9720",
         "2883f978-84ac-4c9c-834b-0bacbda6dcba",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2022"
+      "year_resolved": "2023",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2023__202305_합성곱_신경망_기반_유전체_연구에서_정규화_기법의_효과_분석.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "0b2b5c3b-3652-47ef-8ce0-6a26c4426726",
@@ -315,7 +390,44 @@
         "2883f978-84ac-4c9c-834b-0bacbda6dcba",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2022"
+      "year_resolved": "2022",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2022__202211_전장_유전체_기반_심층_합성곱_신경망을_사용한_심방세동_식별.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "f8c2a899-4ecb-4ea4-8b93-d5d662a4c0dc",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2022-10-19",
+      "title_eng": "Genome-Wide Association Studies and Electronic Medical Record based Atrial Fibrillation Discriminat ion Using Ensemble Models",
+      "title_kor": "앙상블 모델을 사용한 전장유전체 및 의료정보 기반 심방세동 판별",
+      "conference_eng": "CICS'22 정보 및 제어 학술대회",
+      "author_kor": "이재형; 왕창원; 석현석; 권오석; 박희남; 신항식",
+      "author_eng": "Jaehyung Lee; Changwon Wang; Hyeon Seok Seok; Oh-Seok Kwon; Hui-Nam Pak; Hangsik shin",
+      "author_ids": [
+        "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+        "ad98337a-712a-4d40-a163-4ac540834245",
+        "77b4f02a-147a-4280-9045-69c05b9cecc5",
+        "ee05cb84-1386-49fe-bf89-d909093c9720",
+        "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2022",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2022__202210_앙상블_모델을_사용한_전장유전체_및_의료정보_기반_심방세동_판별.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     }
-  ]
+  ],
+  "pdf_linked": 15,
+  "extract_linked": 15,
+  "updated_pdf_index": "2026-09-09"
 }

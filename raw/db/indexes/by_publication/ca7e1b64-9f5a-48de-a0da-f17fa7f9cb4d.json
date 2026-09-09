@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "ca7e1b64-9f5a-48de-a0da-f17fa7f9cb4d",
+  "storage_root": "journal",
+  "relative_path": "2020__202011_Wearable_Strain_Sensor_Using_Conductive_Yarn_Sewed_on_Clothing_for_Human.pdf",
+  "original_filename": "2020__202011_Wearable_Strain_Sensor_Using_Conductive_Yarn_Sewed_on_Clothing_for_Human.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Wearable Strain Sensor Using Conductive Yarn Sewed on Clothing for Human",
+  "year": 2020,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2020-11-01",
+  "title_eng": "Wearable Strain Sensor Using Conductive Yarn Sewed on Clothing for Human Respiratory Monitoring",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "57354d74-688e-49c4-a258-307386943d12",
+    "de6b9e11-0525-4968-8b13-ad52a465de7f",
+    "9e1fffce-331b-4391-b199-b32bdd19a54b",
+    "13fed994-9ead-4133-99c3-2eb830bb2f4f",
+    "6b5e8c7d-a109-43ba-be3c-38ed3434b802",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

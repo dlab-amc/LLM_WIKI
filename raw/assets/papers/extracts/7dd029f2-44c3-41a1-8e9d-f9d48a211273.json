@@ -1,0 +1,20 @@
+{
+  "publication_id": "7dd029f2-44c3-41a1-8e9d-f9d48a211273",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "conference",
+    "relative_path": "2024__202405_전노쇠_단계_분류를_위한_신체기능_평가지표_탐색.pdf",
+    "original_filename": "2024__202405_전노쇠_단계_분류를_위한_신체기능_평가지표_탐색.pdf"
+  },
+  "title_eng": "Identifying Key Physical Function Indicators for Pre-Frailty",
+  "title_kor": "전노쇠 단계 분류를 위한 신체기능 평가지표 탐색",
+  "category": "conference",
+  "date": "2024-05-09",
+  "page_count": 5,
+  "pages_extracted": 0,
+  "abstract": null,
+  "keywords": [],
+  "first_pages_text": "",
+  "char_count": 0,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

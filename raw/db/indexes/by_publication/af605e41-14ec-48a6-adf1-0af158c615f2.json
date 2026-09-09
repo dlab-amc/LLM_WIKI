@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "af605e41-14ec-48a6-adf1-0af158c615f2",
+  "storage_root": "conference",
+  "relative_path": "2023__202307_유전자_스크리닝_임계값에_따른_합성곱_신경망_기반_심방세동_분류기_성능_분석.pdf",
+  "original_filename": "2023__202307_유전자_스크리닝_임계값에_따른_합성곱_신경망_기반_심방세동_분류기_성능_분석.pdf",
+  "match_status": "matched",
+  "match_score": 0.8998,
+  "title_hint": "임계값에 따른 합성곱 신경망 기반 심방세동 분류기 성능 분석",
+  "year": 2023,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2023-07-12",
+  "title_eng": "Analyzing the Performance of a Convolutional Neural Network-based Atrial Fibrillation Classifier According to the Genetic Screening Thresholds",
+  "title_kor": "유전자 스크리닝 임계값에 따른 합성곱 신경망 기반 심방세동 분류기 성능 분석",
+  "member_ids": [
+    "68590514c33c441ee93e974b",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "ee05cb84-1386-49fe-bf89-d909093c9720",
+    "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

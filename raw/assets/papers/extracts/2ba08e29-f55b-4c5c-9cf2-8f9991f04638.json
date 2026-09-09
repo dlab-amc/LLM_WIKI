@@ -1,0 +1,20 @@
+{
+  "publication_id": "2ba08e29-f55b-4c5c-9cf2-8f9991f04638",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "conference",
+    "relative_path": "2025__202505_한유진_Radio_Tractometry_기반_조현병_환자군_분류_인공지능_모델_개발.pdf",
+    "original_filename": "2025__202505_한유진_Radio_Tractometry_기반_조현병_환자군_분류_인공지능_모델_개발.pdf"
+  },
+  "title_eng": "Radiomic Tractometry-Based Machine Learning Model for Schizophrenia Classification",
+  "title_kor": "Radiomic Tractometry 기반 조현병 환자군 분류 인공지능 모델 개발",
+  "category": "conference",
+  "date": "2025-05-08",
+  "page_count": 5,
+  "pages_extracted": 4,
+  "abstract": null,
+  "keywords": [],
+  "first_pages_text": "초록집 표지\n\n목차\n\n논문 본문\n\n논문 본문",
+  "char_count": 24,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "6353522e-2779-456b-87f4-ee2ac4e95e2c",
+  "storage_root": "software",
+  "relative_path": "25__2019__201908_한국판_역학연구_우울척도(K-CESD)설문_평가를_위한_플래시카드형_안드로이드_어플리케이션.pdf",
+  "original_filename": "25__2019__201908_한국판_역학연구_우울척도(K-CESD)설문_평가를_위한_플래시카드형_안드로이드_어플리케이션.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "25   한국판 역학연구 우울척도(K-CESD)설문 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+  "year": 2019,
+  "exists": true,
+  "category": "patent",
+  "class": "Registered SW",
+  "date": "2019-08-12",
+  "title_eng": null,
+  "title_kor": "한국판 역학연구 우울척도(K-CESD)설문 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "f5c5db67-7148-49a8-ae2d-6640056ea44f",
+    "77b4f02a-147a-4280-9045-69c05b9cecc5"
+  ],
+  "has_extract": true
+}

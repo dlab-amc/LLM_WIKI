@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "bd793ff9-17c0-4320-8977-6dfb8a0aa634",
+  "storage_root": "conference",
+  "relative_path": "2023__202310_클래스_불균형_시나리오에서_진단검사_오류_감지_인공지능_기술_성능_분석.pdf",
+  "original_filename": "2023__202310_클래스_불균형_시나리오에서_진단검사_오류_감지_인공지능_기술_성능_분석.pdf",
+  "match_status": "matched",
+  "match_score": 0.9133,
+  "title_hint": "시나리오에서 진단검사 오류 감지 인공지능 기술 성능 분석",
+  "year": 2023,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2023-10-23",
+  "title_eng": "Performance Analysis of Diagnostic Test Error Detection Using Artificial Intelligence in Class Imbalance Scenarios",
+  "title_kor": "클래스 불균형 시나리오에서 진단검사 오류 감지 인공지능 기술 성능 분석",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "09e01f73-363a-4780-962e-969da9578ff9",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

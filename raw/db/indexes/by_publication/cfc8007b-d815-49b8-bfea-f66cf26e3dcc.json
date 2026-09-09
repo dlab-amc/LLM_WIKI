@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "cfc8007b-d815-49b8-bfea-f66cf26e3dcc",
+  "storage_root": "conference",
+  "relative_path": "2024__202406_대학병원_임상화학검사에서_보고된_오류_유형과_빈도.pdf",
+  "original_filename": "2024__202406_대학병원_임상화학검사에서_보고된_오류_유형과_빈도.pdf",
+  "match_status": "matched",
+  "match_score": 0.9233,
+  "title_hint": "임상화학검사에서 보고된 오류 유형과 빈도",
+  "year": 2024,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2024-06-19",
+  "title_eng": "Types and Frequencies of Errors in Clinical Chemistry Tests at the University Hospital Clinical Laboratory",
+  "title_kor": "대학병원 임상화학검사에서 보고된 오류 유형과 빈도",
+  "member_ids": [
+    "68590514c33c441ee93e9750",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+    "09e01f73-363a-4780-962e-969da9578ff9",
+    "5ec9e165-f85d-4223-9e7f-038a6359d70a",
+    "c2ece990-47d8-45c5-bc8e-d2f6ea244737",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

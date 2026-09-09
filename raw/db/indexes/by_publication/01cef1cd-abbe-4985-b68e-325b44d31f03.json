@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "01cef1cd-abbe-4985-b68e-325b44d31f03",
+  "storage_root": "conference",
+  "relative_path": "2018__201806_Assessment_of_Similarity_Between_Finger_and_Wrist_Photoplethysmography_Ac.pdf",
+  "original_filename": "2018__201806_Assessment_of_Similarity_Between_Finger_and_Wrist_Photoplethysmography_Ac.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Assessment of Similarity Between Finger and Wrist Photoplethysmography Ac",
+  "year": 2018,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2018-06-03",
+  "title_eng": "Assessment of Similarity Between Finger and Wrist Photoplethysmography According to the Light Wavelength",
+  "title_kor": "Assessment of Similarity Between Finger and Wrist Photoplethysmography According to the Light Wavelength",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

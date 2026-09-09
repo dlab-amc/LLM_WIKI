@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "4dd74f51-ff09-442d-8046-e38e274dcf9b",
+  "storage_root": "journal",
+  "relative_path": "2012__201205_The_Optimal_Attachment_Position_for_a_Fingertip_Photoplethysmographic_Sen.pdf",
+  "original_filename": "2012__201205_The_Optimal_Attachment_Position_for_a_Fingertip_Photoplethysmographic_Sen.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "The Optimal Attachment Position for a Fingertip Photoplethysmographic Sen",
+  "year": 2012,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2012-05-01",
+  "title_eng": "The Optimal Attachment Position for a Fingertip Photoplethysmographic Sensor With Low DC",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "2f2087f8-afe5-46a5-b083-744fab3b2a17",
+    "4a05a292-1a5b-4577-91ff-87da330a9358"
+  ],
+  "has_extract": true
+}

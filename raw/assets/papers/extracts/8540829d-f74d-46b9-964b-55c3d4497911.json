@@ -1,0 +1,20 @@
+{
+  "publication_id": "8540829d-f74d-46b9-964b-55c3d4497911",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "conference",
+    "relative_path": "2025__202505_진재욱_수술_전_스트레스_평가를_통한_수술_후_통증_예측.pdf",
+    "original_filename": "2025__202505_진재욱_수술_전_스트레스_평가를_통한_수술_후_통증_예측.pdf"
+  },
+  "title_eng": "Prediction of Postoperative Pain Based on Preoperative Stress Assessment",
+  "title_kor": "수술 전 스트레스 평가를 통한 수술 후 통증 예측",
+  "category": "conference",
+  "date": "2025-05-08",
+  "page_count": 5,
+  "pages_extracted": 0,
+  "abstract": null,
+  "keywords": [],
+  "first_pages_text": "",
+  "char_count": 0,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

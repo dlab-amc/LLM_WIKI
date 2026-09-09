@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "3f386c0f-e85d-4e89-a558-47011c2dca03",
+  "storage_root": "journal",
+  "relative_path": "2022__202207_XGBoost_Regression_of_the_Most_Significant_Photoplethysmogram_Features_fo.pdf",
+  "original_filename": "2022__202207_XGBoost_Regression_of_the_Most_Significant_Photoplethysmogram_Features_fo.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "XGBoost Regression of the Most Significant Photoplethysmogram Features fo",
+  "year": 2022,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2022-07-01",
+  "title_eng": "XGBoost Regression of the Most Significant Photoplethysmogram Features for Assessing Vascular Aging",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

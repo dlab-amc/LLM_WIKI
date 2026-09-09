@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "69f04561-092e-4ac0-af64-b4090dec017a",
+  "storage_root": "conference",
+  "relative_path": "2023__202311_Deep_Learning_for_Tumor_Marker_Misidentification_Error_Detection_inter-ce.pdf",
+  "original_filename": "2023__202311_Deep_Learning_for_Tumor_Marker_Misidentification_Error_Detection_inter-ce.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Deep Learning for Tumor Marker Misidentification Error Detection inter-ce",
+  "year": 2023,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2023-11-09",
+  "title_eng": "Deep Learning for Tumor Marker Misidentification Error Detection: inter-center model performance comparison",
+  "title_kor": "Deep Learning for Tumor Marker Misidentification Error Detection: inter-center model performance comparison",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "09e01f73-363a-4780-962e-969da9578ff9",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

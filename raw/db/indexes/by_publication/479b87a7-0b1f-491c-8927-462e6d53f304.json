@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "479b87a7-0b1f-491c-8927-462e6d53f304",
+  "storage_root": "journal",
+  "relative_path": "2020__202012_Calculation_and_Validation_of_Continuous_Pulse_Transit_Time_Based_on_Norm.pdf",
+  "original_filename": "2020__202012_Calculation_and_Validation_of_Continuous_Pulse_Transit_Time_Based_on_Norm.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Calculation and Validation of Continuous Pulse Transit Time Based on Norm",
+  "year": 2020,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2020-12-01",
+  "title_eng": "Calculation and Validation of Continuous Pulse Transit Time Based on Normalized Pulse Wave Velocity",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "3b335d90-63e6-40ce-800a-493f4f2beff1"
+  ],
+  "has_extract": true
+}

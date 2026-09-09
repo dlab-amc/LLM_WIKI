@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "9b70d127-4a0f-4580-891f-f572e5753cd4",
+  "storage_root": "journal",
+  "relative_path": "2022__202203_Deep_Convolutional_Neural_Network_based_Signal_Quality_Assessment_for_Pho.pdf",
+  "original_filename": "2022__202203_Deep_Convolutional_Neural_Network_based_Signal_Quality_Assessment_for_Pho.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Deep Convolutional Neural Network based Signal Quality Assessment for Pho",
+  "year": 2022,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2022-07-01",
+  "title_eng": "Deep convolutional neural network-based signal quality assessment for photoplethysmogram",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

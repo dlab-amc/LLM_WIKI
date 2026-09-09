@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "2e52b971-68a6-477e-81f9-d75c4c9ab47a",
+  "storage_root": "patent_filed",
+  "relative_path": "2021__202101_다중배열_압력센서를_포함하는_장치_및_이를_포함하는_웨어러블_기기.pdf",
+  "original_filename": "2021__202101_다중배열_압력센서를_포함하는_장치_및_이를_포함하는_웨어러블_기기.pdf",
+  "match_status": "matched",
+  "match_score": 0.9478,
+  "title_hint": "압력센서를 포함하는 장치 및 이를 포함하는 웨어러블 기기",
+  "year": 2021,
+  "exists": true,
+  "category": "patent",
+  "class": "Domestic",
+  "date": "2021-01-28",
+  "title_eng": "Apparatus comprising multiple array of pressure sensors and device comprising the same",
+  "title_kor": "다중배열 압력센서를 포함하는 장치 및 이를 포함하는 웨어러블 기기",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "57354d74-688e-49c4-a258-307386943d12",
+    "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+    "d8b09041-938f-4d10-bb17-176f72ef1683",
+    "65c403c8-2a42-4d96-9ef8-962c389141cb",
+    "3b335d90-63e6-40ce-800a-493f4f2beff1"
+  ],
+  "has_extract": true
+}

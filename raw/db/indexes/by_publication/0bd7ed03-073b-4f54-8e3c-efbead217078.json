@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "0bd7ed03-073b-4f54-8e3c-efbead217078",
+  "storage_root": "conference",
+  "relative_path": "0000__한유진_수면_분석_기기_알고리즘_가상_임상시험_결과보고서_생성_프레임워크_설계.pdf",
+  "original_filename": "0000__한유진_수면_분석_기기_알고리즘_가상_임상시험_결과보고서_생성_프레임워크_설계.pdf",
+  "match_status": "matched",
+  "match_score": 0.8631,
+  "title_hint": "분석 기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계",
+  "year": null,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2026-05-07",
+  "title_eng": "A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms",
+  "title_kor": "수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계",
+  "member_ids": [
+    "68590514c33c441ee93e974d",
+    "68590514c33c441ee93e974a",
+    "68590514c33c441ee93e974f",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+    "17ff8154-0d9f-4486-abd7-b34e64268d87",
+    "923fe812-860b-4422-9d92-1767e699fa0b",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

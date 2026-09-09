@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "688ca5a0-8312-40d0-bb81-6ae6b13b9533",
+  "storage_root": "conference",
+  "relative_path": "2024__202407_Demographics_and_Comorbidities_as_an_Atrial_Fibrillation_Risk_Factor_a_Re.pdf",
+  "original_filename": "2024__202407_Demographics_and_Comorbidities_as_an_Atrial_Fibrillation_Risk_Factor_a_Re.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Demographics and Comorbidities as an Atrial Fibrillation Risk Factor a Re",
+  "year": 2024,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2024-07-15",
+  "title_eng": "Demographics and Comorbidities as an Atrial Fibrillation Risk Factor: a Retrospective Study in Koreans",
+  "title_kor": "심방세동 위험 요인으로서 인구통계학적 요인과 동반질환: 한국인에 대한 후향적 연구",
+  "member_ids": [
+    "68590514c33c441ee93e974c",
+    "68590514c33c441ee93e974b",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "11293195-d430-4570-98b9-f1d9e82ca0e6",
+    "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

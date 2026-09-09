@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "283bb15f-bf08-4de8-b479-bfbb756840b8",
+  "storage_root": "journal",
+  "relative_path": "2005__200503_인스턴트_메신저를_사용한_축소_3D의료영상_전송_시스템.pdf",
+  "original_filename": "2005__200503_인스턴트_메신저를_사용한_축소_3D의료영상_전송_시스템.pdf",
+  "match_status": "matched",
+  "match_score": 0.7962,
+  "title_hint": "사용한 축소 3D의료영상 전송 시스템",
+  "year": 2005,
+  "exists": true,
+  "category": "journal",
+  "class": "SCOPUS",
+  "date": "2005-03-01",
+  "title_eng": "Down-Scaled 3D Medical Image Transfer System Using Instant Messenger",
+  "title_kor": "인스턴트 메신저를 사용한 축소 3D의료영상 전송 시스템",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+    "26e14db0-0e3e-4bb0-a005-dcffb6fd6017",
+    "4a05a292-1a5b-4577-91ff-87da330a9358"
+  ],
+  "has_extract": true
+}

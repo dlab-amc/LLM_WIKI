@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "e4821428-bd69-408e-935e-ecccb9cd87fd",
+  "storage_root": "conference",
+  "relative_path": "2020__202007_만성통증환자의_심박변이도_특징_연구.pdf",
+  "original_filename": "2020__202007_만성통증환자의_심박변이도_특징_연구.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "만성통증환자의 심박변이도 특징 연구",
+  "year": 2020,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2020-07-15",
+  "title_eng": "Study on Characteristics of Heart Rate Variability with Chronic Pain",
+  "title_kor": "만성통증환자의 심박변이도 특징 연구",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

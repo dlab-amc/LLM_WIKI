@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "d44f19e2-f948-4020-b594-07ed6bf19b42",
+  "storage_root": "conference",
+  "relative_path": "2025__202507_최예은_Revisiting_the_Obesity_Paradox_in_Septic_Patients_with_Aging_and_Chro.pdf",
+  "original_filename": "2025__202507_최예은_Revisiting_the_Obesity_Paradox_in_Septic_Patients_with_Aging_and_Chro.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Revisiting the Obesity Paradox in Septic Patients with Aging and Chro",
+  "year": 2025,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2025-07-14",
+  "title_eng": "Revisiting the Obesity Paradox in Septic Patients with Aging and Chronic Disease: A Retrospective Study in Korea",
+  "title_kor": "Revisiting the Obesity Paradox in Septic Patients with Aging and Chronic Disease: A Retrospective Study in Korea",
+  "member_ids": [
+    "68590514c33c441ee93e974c",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "11293195-d430-4570-98b9-f1d9e82ca0e6",
+    "37974180-13a8-4ece-8e13-be1ce816c3df",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

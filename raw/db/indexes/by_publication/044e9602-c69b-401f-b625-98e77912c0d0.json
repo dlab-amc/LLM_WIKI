@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "044e9602-c69b-401f-b625-98e77912c0d0",
+  "storage_root": "journal",
+  "relative_path": "2022__202203_Vascular_Aging_Estimation_Based_on_Artificial_Neural_Network_Using_Photop.pdf",
+  "original_filename": "2022__202203_Vascular_Aging_Estimation_Based_on_Artificial_Neural_Network_Using_Photop.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Vascular Aging Estimation Based on Artificial Neural Network Using Photop",
+  "year": 2022,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2022-03-17",
+  "title_eng": "Vascular Aging Estimation Based on Artificial Neural Network Using Photoplethysmogram Waveform Decomposition: Retrospective Cohort Study",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "57354d74-688e-49c4-a258-307386943d12",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "c4f6d95c-ea6d-4eba-abe8-2e4d704a9999",
+  "storage_root": "journal",
+  "relative_path": "2024__202407_Recommendations_for_evaluating_photoplethysmography-based_algorithms_for.pdf",
+  "original_filename": "2024__202407_Recommendations_for_evaluating_photoplethysmography-based_algorithms_for.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Recommendations for evaluating photoplethysmography-based algorithms for",
+  "year": 2024,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2024-07-12",
+  "title_eng": "Recommendations for evaluating photoplethysmography-based algorithms for blood pressure assessment",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "afb9d7ff-1260-4ee9-a040-9e8d768382e8",
+    "36b4d394-e23c-49ff-a5ba-a68cafc65cb7",
+    "84d31672-e421-4d67-8356-b1e8a1a3c7bc",
+    "7f0fae56-f54e-4860-bb9a-cc84c97708c4",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "46f056ed-3502-46e3-b195-decaff737dc5",
+    "841872b3-1bd2-4ee0-8294-397ab97546a3"
+  ],
+  "has_extract": true
+}

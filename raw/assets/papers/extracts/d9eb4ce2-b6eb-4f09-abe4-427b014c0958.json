@@ -1,0 +1,20 @@
+{
+  "publication_id": "d9eb4ce2-b6eb-4f09-abe4-427b014c0958",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "journal",
+    "relative_path": "2009__200905_The_e-Health_Landscape_Current_Status_and_Future_Prospects_in_Korea.pdf",
+    "original_filename": "2009__200905_The_e-Health_Landscape_Current_Status_and_Future_Prospects_in_Korea.pdf"
+  },
+  "title_eng": "The e-Health Landscape: Current Status and Future Prospects in Korea",
+  "title_kor": null,
+  "category": "journal",
+  "date": "2009-05-01",
+  "page_count": 7,
+  "pages_extracted": 0,
+  "abstract": null,
+  "keywords": [],
+  "first_pages_text": "",
+  "char_count": 0,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

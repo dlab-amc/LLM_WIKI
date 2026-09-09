@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "b72aa89b-39a6-45bf-8cac-78e67bd97ad4",
+  "storage_root": "journal",
+  "relative_path": "2018__201808_Postoperative_Pain_Assessment_Indices_Based_on_Photoplethysmography_Wavef.pdf",
+  "original_filename": "2018__201808_Postoperative_Pain_Assessment_Indices_Based_on_Photoplethysmography_Wavef.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Postoperative Pain Assessment Indices Based on Photoplethysmography Wavef",
+  "year": 2018,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2018-08-28",
+  "title_eng": "Postoperative Pain Assessment Indices Based on Photoplethysmography Waveform Analysis",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "7be1c49b-bdba-4671-9a5a-3e623e45b043",
+    "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

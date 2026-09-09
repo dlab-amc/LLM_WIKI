@@ -1,0 +1,25 @@
+{
+  "publication_id": "cfc8007b-d815-49b8-bfea-f66cf26e3dcc",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "conference",
+    "relative_path": "2024__202406_대학병원_임상화학검사에서_보고된_오류_유형과_빈도.pdf",
+    "original_filename": "2024__202406_대학병원_임상화학검사에서_보고된_오류_유형과_빈도.pdf"
+  },
+  "title_eng": "Types and Frequencies of Errors in Clinical Chemistry Tests at the University Hospital Clinical Laboratory",
+  "title_kor": "대학병원 임상화학검사에서 보고된 오류 유형과 빈도",
+  "category": "conference",
+  "date": "2024-06-19",
+  "page_count": 6,
+  "pages_extracted": 1,
+  "abstract": "Laboratorytestsareimportanttoolsthatanalyzesamplesto provideobjectiveinformation\naboutapatient'scondition,andincorrecttestresultscanhavefataloutcomesforpatients.Tominimize\nerrorsinlaboratorytestresults,understandingwhatkindsoferrorsoccurandbyhowmuchcanbe\nhelpful.In this study,we analyzedthe typesand frequencyof errorsin over29 millionclinical\nlaboratorytests,specificallyclinicalchemistrytests,performedatauniversityhospitaloveraperiodof\nabouttwoyears.Wefoundthatthemostfrequenterrorwashaemolysedsamples(82.76%).Inaddition,\nwefoundthattherequestandsamplecollectionphaseshadthehighestfrequencyoferrorsduringthe\nentirelaboratorytestingprocess.",
+  "keywords": [
+    "clinicalchemistry",
+    "generalchemistry",
+    "laboratorymedicine",
+    "laboratorytestingerror"
+  ],
+  "first_pages_text": "I. 배 경\n 진단검사는환자의검체를분석하여객관화된의\n학정보를제공하는중요한도구이다. 진단검사는혈\n액,소변,체액등다양한검체를대상으로수행되며\n[1],검사결과는질병진단및치료방향결정에주\n요하게사용된다. 진단검사는엄격한정도관리체계\n에 의해관리되므로, 대부분의검사결과는신뢰할\n수있다.하지만,복잡한검사과정에서의오류발생\n가능성은여전히존재한다. 진단검사는일반적으로\n총3단계(검사전단계,검사단계,검사후단계)또는검\n사전전단계, 검사후후단계를포함하는5단계로나눌\n수있다[2].진단검사오류중대부분은검사전단계\n(46.0-68.2%)에서 발생하며, 검사후단계(18.5-47.0%)\n에서도빈번히일어나는것으로보여진다[3].\n 진단검사과정에서실제발생되는오류종류와빈\n도에대한심층적분석은현행진단검사과정개선\n을통한품질관리에기여할수있다.검사오류현황\n을분석한이전연구들이존재하나대부분의연구들\n은수만건가량의데이터에기반하고있어발생빈\n도가낮은오류를포함하는현황을면밀히분석하기\n에는충분치않다는한계를가진다[4,5].이연구는\n진단검사과정에서발생하는오류의실제에대해보\n다정확한정보를제공하는것을목적으로,대학병원\n에서약2년간시행된2,900만여건의일반화학검사\n오류율및그항목들의현황을분석하고고찰한다.\nII. 방 법\n 이연구는서울아산병원진단검사실에서2021년1\n월1일부터2022년12월13일까지24개월간보고된\n임상화학검사결과를 분석한 것으로, 원내 LIS\n(LaboratoryInformationSystem)로부터추출된일\n반화학검사결과및관련정보를사용하였다(IRB\nno.2023-0176).사용된주데이터는원결과값,보\n고된결과값,환자정보,검체정보,그리고오류수\n정을위한교정활동등으로,교정활동목록의기재\n여부를통해‘오류’를 파악하였고, 오류로판정되는\n경우해당오류에해당되는‘오류사유’를 추출및\n분석하였다. ‘오류사유’는검사과정에서오류로인\n한취소사유를검토자들이자체적으로기록한비정\n형데이터로서같은사유를기재할때에도검토자에\n따라서로다른용어로기재될수있다. 따라서, 같\n은 의미임에도다른용어로작성된오류사유들은\n하나의공통용어로정리하였다.이후세부적인오류\n사유들을대표오류카테고리에따라분류하였다.\n대표 오류 카테고리는 IFCC (International\nFederationof ClinicalChemistryand Laboratory\nMedicine)에서 제시한 기준[6]을 따랐으며, 적절한\n분류가없는경우이전연구[7]의 분류를참고하여\n정하였다.분류시사유가불분명하게기재되어정확\n한의미를파악할수없는경우는‘불명확(unclear)’\n으로분류하였다.결과적으로정리된오류사유는총\n대학병원임상화학검사에서보고된 오류 유형과 빈도\nTypes and Frequencies of Errors in Clinical Chemistry Tests at the University\nHospital Clinical Laboratory\nJiwon You*, Sollip Kim, M.D., Ph.D.†, Woochang Lee, M.D., Ph.D.†, Sail Chun, M.D., Ph.D.†\nand Hangsik Shin, Ph.D.*\n*DepartmentofConvergenceMedicine,AsanMedicalCenter,UniversityofUlsanCollegeofMedicine,Seoul,05505\n†DepartmentofLaboratoryMedicine,AsanMedicalCenter,UniversityofUlsanCollegeofMedicine,Seoul,05505\nhangsik.shin@amc.seoul.kr\nAbstract: Laboratorytestsareimportanttoolsthatanalyzesamplesto provideobjectiveinformation\naboutapatient'scondition,andincorrecttestresultscanhavefataloutcomesforpatients.Tominimize\nerrorsinlaboratorytestresults,understandingwhatkindsoferrorsoccurandbyhowmuchcanbe\nhelpful.In this study,we analyzedthe typesand frequencyof errorsin over29 millionclinical\nlaboratorytests,specificallyclinicalchemistrytests,performedatauniversityhospitaloveraperiodof\nabouttwoyears.Wefoundthatthemostfrequenterrorwashaemolysedsamples(82.76%).Inaddition,\nwefoundthattherequestandsamplecollectionphaseshadthehighestfrequencyoferrorsduringthe\nentirelaboratorytestingprocess.\nKeyword:clinicalchemistry,generalchemistry,laboratorymedicine,laboratorytestingerror\nThisworkwassupportedbytheKoreaMedicalDeviceDevelopmentFundgrantfundedbytheKorea\ngovernment(theMinistryofScienceandICT,theMinistryofTrade,IndustryandEnergy,the\nMinistryofHealth&Welfare,theMinistryofFoodandDrugSafety) ​(No.RS-2022-00141473),and\nwassupportedbyagrant(2023IP0003-1)fromtheAsanInstituteforLifeSciences,AsanMedical\nCenter,Seoul,Korea.",
+  "char_count": 2766,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

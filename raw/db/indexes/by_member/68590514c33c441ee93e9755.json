@@ -5,6 +5,44 @@
   "count": 4,
   "publications": [
     {
+      "id": "6ca3ccd4-4fc1-4256-9b02-b1791eedce4e",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices",
+      "title_kor": "수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발 ",
+      "author_kor": "김영돈; 한유진; 류가연; 이연진; 신항식",
+      "author_eng": "Yeongdon Kim; Yujin Han; Gayeon Ryu; Yeonjin Lee; Hangsik Shin",
+      "author_ids": [
+        "923fe812-860b-4422-9d92-1767e699fa0b",
+        "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "5443481d-379f-4af6-8ef2-1d61bd2dfbe8",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "d6cfd18f-83ec-444e-a8cb-1ff5514ab9f2",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Design and Implementation of a Wearable-Based Patient Monitoring System in a Closed-Network Hospital Environment",
+      "title_kor": "폐쇄망 환경에서의 웨어러블 기반 병동 모니터링 시스템 설계 및 구현",
+      "author_kor": "남윤찬; 강주현; 이연진; 김희영; 신항식",
+      "author_eng": "Yunchan Nam; Juhyeon Kang; Yeonjin Lee; Heeyoung Kim; Hangsik Shin",
+      "author_ids": [
+        "8e349a5d-83ae-4b77-881c-26d384d25a86",
+        "5fd4da55-6e2b-4776-999f-172029c3c1e1",
+        "5443481d-379f-4af6-8ef2-1d61bd2dfbe8",
+        "b2164403-05f7-400c-bad4-3dcdec5e9c77",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
       "id": "6757496c-84b9-4b4a-a3da-785e7e957188",
       "category": "conference",
       "class": "Domestic",
@@ -21,24 +59,9 @@
         "5443481d-379f-4af6-8ef2-1d61bd2dfbe8",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2026"
-    },
-    {
-      "id": "6ca3ccd4-4fc1-4256-9b02-b1791eedce4e",
-      "category": "award",
-      "date": "2026-05-09",
-      "title_eng": "Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices",
-      "title_kor": "수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발 ",
-      "author_kor": "김영돈; 한유진; 류가연; 이연진; 신항식",
-      "author_eng": "Yeongdon Kim; Yujin Han; Gayeon Ryu; Yeonjin Lee; Hangsik Shin",
-      "author_ids": [
-        "923fe812-860b-4422-9d92-1767e699fa0b",
-        "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
-        "17ff8154-0d9f-4486-abd7-b34e64268d87",
-        "5443481d-379f-4af6-8ef2-1d61bd2dfbe8",
-        "189de491-3424-4bf3-bb66-26bd0667ed24"
-      ],
-      "year_resolved": "2026"
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
     },
     {
       "id": "eac5ba27-d43a-430f-81bf-49f7c6ab8d7c",
@@ -57,24 +80,17 @@
         "b2164403-05f7-400c-bad4-3dcdec5e9c77",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2026"
-    },
-    {
-      "id": "d6cfd18f-83ec-444e-a8cb-1ff5514ab9f2",
-      "category": "award",
-      "date": "2026-05-09",
-      "title_eng": "Design and Implementation of a Wearable-Based Patient Monitoring System in a Closed-Network Hospital Environment",
-      "title_kor": "폐쇄망 환경에서의 웨어러블 기반 병동 모니터링 시스템 설계 및 구현",
-      "author_kor": "남윤찬; 강주현; 이연진; 김희영; 신항식",
-      "author_eng": "Yunchan Nam; Juhyeon Kang; Yeonjin Lee; Heeyoung Kim; Hangsik Shin",
-      "author_ids": [
-        "8e349a5d-83ae-4b77-881c-26d384d25a86",
-        "5fd4da55-6e2b-4776-999f-172029c3c1e1",
-        "5443481d-379f-4af6-8ef2-1d61bd2dfbe8",
-        "b2164403-05f7-400c-bad4-3dcdec5e9c77",
-        "189de491-3424-4bf3-bb66-26bd0667ed24"
-      ],
-      "year_resolved": "2026"
+      "year_resolved": "2026",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "0000__남윤찬_폐쇄망_환경에서의_웨어러블_기반_병동_모니터링_시스템_설계_및_구현.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     }
-  ]
+  ],
+  "pdf_linked": 1,
+  "extract_linked": 1,
+  "updated_pdf_index": "2026-09-09"
 }

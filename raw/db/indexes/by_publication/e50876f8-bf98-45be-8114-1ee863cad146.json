@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "e50876f8-bf98-45be-8114-1ee863cad146",
+  "storage_root": "journal",
+  "relative_path": "2010__201003_전기용량성_섬유_압력센서를_이용한_호흡측정_시스템.pdf",
+  "original_filename": "2010__201003_전기용량성_섬유_압력센서를_이용한_호흡측정_시스템.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "전기용량성 섬유 압력센서를 이용한 호흡측정 시스템",
+  "year": 2010,
+  "exists": true,
+  "category": "journal",
+  "class": "SCOPUS",
+  "date": "2010-03-01",
+  "title_eng": "Respiration Measurement System using Textile Capacitive Pressure Sensor",
+  "title_kor": "전기용량성 섬유 압력센서를 이용한 호흡측정 시스템",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+    "2eb90419-3e7b-4e65-a481-45a472b574cc",
+    "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "060492dd-a93e-46a6-bfbc-3cec066480c5",
+    "6b4affb3-8e02-43ff-a345-0c84bbca780f",
+    "4a05a292-1a5b-4577-91ff-87da330a9358"
+  ],
+  "has_extract": true
+}

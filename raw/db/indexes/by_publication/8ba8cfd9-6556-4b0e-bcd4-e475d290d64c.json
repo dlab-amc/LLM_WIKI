@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "8ba8cfd9-6556-4b0e-bcd4-e475d290d64c",
+  "storage_root": "conference",
+  "relative_path": "2015__201510_심박동_특징점_검출_및_수동_보정을_위한_프로그램.pdf",
+  "original_filename": "2015__201510_심박동_특징점_검출_및_수동_보정을_위한_프로그램.pdf",
+  "match_status": "matched",
+  "match_score": 0.8312,
+  "title_hint": "검출 및 수동 보정을 위한 프로그램",
+  "year": 2015,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2015-10-30",
+  "title_eng": "An Program for Detection and Manual Correction of Specific Feature of Heart Beat",
+  "title_kor": "심박동 특징점 검출 및 수동 보정을 위한 프로그램",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "2305510c-90d6-4355-99bd-7d63caa62cfb"
+  ],
+  "has_extract": true
+}

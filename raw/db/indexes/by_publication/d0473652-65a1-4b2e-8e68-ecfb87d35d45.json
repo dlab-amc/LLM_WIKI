@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "d0473652-65a1-4b2e-8e68-ecfb87d35d45",
+  "storage_root": "patent_registered",
+  "relative_path": "2020__202008_10-2143499_휴대_단말_장치를_이용한_수면_품질_측정_방법_및_장치.pdf",
+  "original_filename": "2020__202008_10-2143499_휴대_단말_장치를_이용한_수면_품질_측정_방법_및_장치.pdf",
+  "match_status": "matched",
+  "match_score": 0.9215,
+  "title_hint": "10-2143499 휴대 단말 장치를 이용한 수면 품질 측정 방법 및 장치",
+  "year": 2020,
+  "exists": true,
+  "category": "patent",
+  "class": "Domestic",
+  "date": "2020-08-05",
+  "title_eng": "Method and apparatus for quality measurement of sleep using a portable terminal",
+  "title_kor": "휴대 단말 장치를 이용한 수면 품질 측정 방법 및 장치",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "1aa78e02-fa57-4317-945c-b846367dc178",
+    "d34f5857-264d-403b-a59f-be03ad383be3",
+    "e7bc9883-59e1-41b1-a52a-2a0407f076af"
+  ],
+  "has_extract": true
+}

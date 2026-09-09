@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "2091d4d2-b362-473a-a712-09e9cb3caac2",
+  "storage_root": "journal",
+  "relative_path": "2020__202004_Internet-Based_Unobtrusive_Tele-Monitoring_System_for_Sleep_and_Respirati.pdf",
+  "original_filename": "2020__202004_Internet-Based_Unobtrusive_Tele-Monitoring_System_for_Sleep_and_Respirati.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Internet-Based Unobtrusive Tele-Monitoring System for Sleep and Respirati",
+  "year": 2020,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2020-04-21",
+  "title_eng": "Internet-Based Unobtrusive Tele-Monitoring System for Sleep and Respiration",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "3b335d90-63e6-40ce-800a-493f4f2beff1",
+    "56c27a6c-adf7-4745-bbf7-2ececf7882ad",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

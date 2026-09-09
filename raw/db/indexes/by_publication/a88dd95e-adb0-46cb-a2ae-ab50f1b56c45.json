@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "a88dd95e-adb0-46cb-a2ae-ab50f1b56c45",
+  "storage_root": "journal",
+  "relative_path": "2024__202408_Atrial_Fibrillation_Identification_Using_CNNs_Based_on_Genomic_Data.pdf",
+  "original_filename": "2024__202408_Atrial_Fibrillation_Identification_Using_CNNs_Based_on_Genomic_Data.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "Atrial Fibrillation Identification Using CNNs Based on Genomic Data",
+  "year": 2024,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2024-08-14",
+  "title_eng": "Atrial Fibrillation Identification Using CNNs Based on Genomic Data",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e974b",
+    "68590514c33c441ee93e974a",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+    "ee05cb84-1386-49fe-bf89-d909093c9720",
+    "17ff8154-0d9f-4486-abd7-b34e64268d87",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "2883f978-84ac-4c9c-834b-0bacbda6dcba"
+  ],
+  "has_extract": true
+}

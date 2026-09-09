@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "42d3a100-a8ea-4616-88c7-e7817e38f410",
+  "storage_root": "journal",
+  "relative_path": "0000__JYOU_NPJ_Large_language_models_for_interpretation_of_health_checkup_results.pdf",
+  "original_filename": "0000__JYOU_NPJ_Large_language_models_for_interpretation_of_health_checkup_results.pdf",
+  "match_status": "matched",
+  "match_score": 0.7202,
+  "title_hint": "JYOU NPJ Large language models for interpretation of health checkup results",
+  "year": null,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2026-07-22",
+  "title_eng": "Large language models for interpretation of health checkup results",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9750",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

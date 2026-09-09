@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "48b95f51-db7c-4d98-8927-d7ad0d62543f",
+  "storage_root": "conference",
+  "relative_path": "2018__201807_Development_of_Microphone_Preamplifier_for_Recording_Hearts_Sound_of_Esop.pdf",
+  "original_filename": "2018__201807_Development_of_Microphone_Preamplifier_for_Recording_Hearts_Sound_of_Esop.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Development of Microphone Preamplifier for Recording Hearts Sound of Esop",
+  "year": 2018,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2018-07-17",
+  "title_eng": "Development of Microphone Preamplifier for Recording Hearts Sound of Esophageal Stethoscope",
+  "title_kor": "Development of Microphone Preamplifier for Recording Hearts Sound of Esophageal Stethoscope",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "e8a9a00f-1ff2-4a36-bcbd-094fd8535a21",
+    "1dfca53d-7c76-4644-8c41-2298e9c36fd9",
+    "f375fa5c-2169-47f1-a3fc-244499795fd2",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "bf76d3a1-2d07-4cb4-aadc-a23a9833da19"
+  ],
+  "has_extract": true
+}

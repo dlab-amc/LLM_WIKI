@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "fc5d01ec-ce40-4433-829e-2f9cf7efcd12",
+  "storage_root": "software",
+  "relative_path": "23__2019__201908_벡불안척도(Beck_Anxiety_Inventory_BAI)_평가를_위한_플래시카드형_안드로이드_어플리케이션.pdf",
+  "original_filename": "23__2019__201908_벡불안척도(Beck_Anxiety_Inventory_BAI)_평가를_위한_플래시카드형_안드로이드_어플리케이션.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "23   벡불안척도(Beck Anxiety Inventory BAI) 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+  "year": 2019,
+  "exists": true,
+  "category": "patent",
+  "class": "Registered SW",
+  "date": "2019-08-12",
+  "title_eng": null,
+  "title_kor": "벡불안척도(Beck Anxiety Inventory, BAI) 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "f5c5db67-7148-49a8-ae2d-6640056ea44f",
+    "77b4f02a-147a-4280-9045-69c05b9cecc5"
+  ],
+  "has_extract": true
+}

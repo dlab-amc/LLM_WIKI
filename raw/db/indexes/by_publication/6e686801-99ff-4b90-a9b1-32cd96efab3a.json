@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "6e686801-99ff-4b90-a9b1-32cd96efab3a",
+  "storage_root": "software",
+  "relative_path": "19__2018__201809_맥파_신호의_맥동별_진폭_계산_프로그램.pdf",
+  "original_filename": "19__2018__201809_맥파_신호의_맥동별_진폭_계산_프로그램.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "19   맥파 신호의 맥동별 진폭 계산 프로그램",
+  "year": 2018,
+  "exists": true,
+  "category": "patent",
+  "class": "Registered SW",
+  "date": "2018-09-10",
+  "title_eng": null,
+  "title_kor": "맥파 신호의 맥동별 진폭 계산 프로그램",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "77b4f02a-147a-4280-9045-69c05b9cecc5"
+  ],
+  "has_extract": true
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "26e106a5-3e53-4be2-854d-adadfb678089",
+  "storage_root": "conference",
+  "relative_path": "2004__200411_인스턴트_메신저를_사용한_축소_3D_의료영상_전송_시스템_연구.pdf",
+  "original_filename": "2004__200411_인스턴트_메신저를_사용한_축소_3D_의료영상_전송_시스템_연구.pdf",
+  "match_status": "matched",
+  "match_score": 0.8197,
+  "title_hint": "사용한 축소 3D 의료영상 전송 시스템 연구",
+  "year": 2004,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2004-11-20",
+  "title_eng": "A Study on Down-Scaled 3D Medical Image Transmission System Using Instant Messenger",
+  "title_kor": "인스턴트 메신저를 사용한 축소 3D 의료영상 전송 시스템 연구",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+    "4f359c61-2a98-4c8c-8f33-ba05454d4302",
+    "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+    "4a05a292-1a5b-4577-91ff-87da330a9358"
+  ],
+  "has_extract": true
+}

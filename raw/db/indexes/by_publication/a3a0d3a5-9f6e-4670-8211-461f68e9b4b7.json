@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "a3a0d3a5-9f6e-4670-8211-461f68e9b4b7",
+  "storage_root": "conference",
+  "relative_path": "2016__201605_스트립형_힘센서_기반_무구속_호흡_측정_시스템.pdf",
+  "original_filename": "2016__201605_스트립형_힘센서_기반_무구속_호흡_측정_시스템.pdf",
+  "match_status": "matched",
+  "match_score": 0.7774,
+  "title_hint": "기반 무구속 호흡 측정 시스템",
+  "year": 2016,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2016-05-13",
+  "title_eng": "Unconstrained Respiration Monitoring System based on Strip-type Force Sensor",
+  "title_kor": "스트립형 힘센서 기반 무구속 호흡 측정 시스템",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+    "68a7cea7-eb6d-4806-8658-50b7e4135546",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

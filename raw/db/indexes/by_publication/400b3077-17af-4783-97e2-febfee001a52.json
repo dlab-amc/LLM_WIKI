@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "400b3077-17af-4783-97e2-febfee001a52",
+  "storage_root": "journal",
+  "relative_path": "2009__200910_Robust_algorithm_for_arrhythmia_classification_in_ECG_using_extreme_learn.pdf",
+  "original_filename": "2009__200910_Robust_algorithm_for_arrhythmia_classification_in_ECG_using_extreme_learn.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Robust algorithm for arrhythmia classification in ECG using extreme learn",
+  "year": 2009,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2009-10-01",
+  "title_eng": "Robust algorithm for arrhythmia classification in ECG using extreme learning machine",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "29b4a04c-553f-425b-8c75-fe90aca718b7",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "4d8d7c34-b50f-48f0-8859-c69ed515db32",
+    "4a05a292-1a5b-4577-91ff-87da330a9358"
+  ],
+  "has_extract": true
+}

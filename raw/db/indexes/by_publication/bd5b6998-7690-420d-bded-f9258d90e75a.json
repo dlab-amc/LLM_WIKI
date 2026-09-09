@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "bd5b6998-7690-420d-bded-f9258d90e75a",
+  "storage_root": "conference",
+  "relative_path": "2017__201711_혈역학적_조작법에_따른_강제혈압변화_비교_기초연구.pdf",
+  "original_filename": "2017__201711_혈역학적_조작법에_따른_강제혈압변화_비교_기초연구.pdf",
+  "match_status": "matched",
+  "match_score": 0.7806,
+  "title_hint": "따른 강제혈압변화 비교 기초연구",
+  "year": 2017,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2017-11-10",
+  "title_eng": "Preliminary Study on Comparison of Forced Blood Pressure Change by Hemodynamic Maneuver",
+  "title_kor": "혈역학적 조작법에 따른 강제혈압변화 비교 기초연구",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

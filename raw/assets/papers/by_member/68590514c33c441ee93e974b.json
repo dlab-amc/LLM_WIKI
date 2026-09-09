@@ -1,0 +1,258 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "member_id": "68590514c33c441ee93e974b",
+  "member_name_kor": "이재형",
+  "author_id": "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+  "count": 17,
+  "pdf_linked": 15,
+  "extract_linked": 15,
+  "publications": [
+    {
+      "id": "f691c0c4-7803-4650-8cd1-1c53f0ea5cb3",
+      "category": "patent",
+      "date": "2025-10-23",
+      "title_eng": "인공지능 보정 기반의 블루투스 위치 추정 방법, 장치 및 프로그램",
+      "title_kor": "인공지능 보정 기반의 블루투스 위치 추정 방법, 장치 및 프로그램",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "6131572d-f63a-4a5c-b2c5-9c3f82d68059",
+      "category": "conference",
+      "date": "2025-05-08",
+      "title_eng": "Prediction of Atrial Fibrillation Type and Recurrence Using a Multi-task Learning Model",
+      "title_kor": "다중 작업 모델(MTL)을 이용한 심방세동 유형 및 시술 후 재발 예측",
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202505_이재형_다중작업모델(MTL)을_이용한_심방세동_유형_및_시술_후_재발_예측.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "4df94230-b073-4e4c-9037-277fc44342b8",
+      "category": "journal",
+      "date": "2025-01-24",
+      "title_eng": "Machine learning based quantitative pain assessment for the perioperative period",
+      "title_kor": "Machine learning based quantitative pain assessment for the perioperative period",
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "journal",
+        "relative_path": "2025__202501_Machine_learning_based_quantitative_pain_assessment_for_the_perioperative.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "56050b92-dd16-4742-a9de-5a2530fed2c8",
+      "category": "patent",
+      "date": "2025-01-15",
+      "title_eng": "A program to integrate and convert multiple three-dimensional data into three-dimensional graph information",
+      "title_kor": "복수의 3차원 데이터를 3차원 그래프 정보로 통합 변환하는 프로그램",
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "patent_registered",
+        "relative_path": "2025__202501_복수의_3차원_데이터를_3차원_그래프_정보로_통합_변환하는_프로그램.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "f6f4aaf9-2e48-49d7-8ee2-babcf0cb65b7",
+      "category": "patent",
+      "date": "2024-12-30",
+      "title_eng": "Method for Improving indoor positioning Accuracy based ob bluetooth",
+      "title_kor": "블루투스 기반 실내 위치 추정 정확도 향상을 위한 방법",
+      "year_resolved": "2024",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "de172548-fd67-49dd-8254-eea5fc110b03",
+      "category": "conference",
+      "date": "2024-11-07",
+      "title_eng": "In-hospital patient’s location correction using machine learning",
+      "title_kor": "머신러닝을 활용한 병동내 환자 위치 추정 오류 보정",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202411_머신러닝을_활용한_병동내_환자_위치_추정_오류_보정pdf.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "f0c3dc1a-d91a-4eb4-927b-015012f0739a",
+      "category": "conference",
+      "date": "2024-10-23",
+      "title_eng": "Graph Neural Network for Atrial Fibrillation Classification Using Left Atrial Anatomy and Physiology",
+      "title_kor": "좌심방 해부생리 정보를 활용한 심방세동 타입 분류 그래프 신경망 모델",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202410_좌심방_해부생리_정보를_활용한_심방세동_타입_분류_그래프_신경망_모델.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "a88dd95e-adb0-46cb-a2ae-ab50f1b56c45",
+      "category": "journal",
+      "date": "2024-08-14",
+      "title_eng": "Atrial Fibrillation Identification Using CNNs Based on Genomic Data",
+      "title_kor": null,
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "journal",
+        "relative_path": "2024__202408_Atrial_Fibrillation_Identification_Using_CNNs_Based_on_Genomic_Data.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "6d8b5817-2a7b-4507-9d7f-21de5560f5a4",
+      "category": "journal",
+      "date": "2024-08-12",
+      "title_eng": "Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers",
+      "title_kor": "Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "journal",
+        "relative_path": "2024__202408_Analysis_of_Photoplethysmography-Based_Surgical_Pain_Severity_Assessment.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "688ca5a0-8312-40d0-bb81-6ae6b13b9533",
+      "category": "conference",
+      "date": "2024-07-15",
+      "title_eng": "Demographics and Comorbidities as an Atrial Fibrillation Risk Factor: a Retrospective Study in Koreans",
+      "title_kor": "심방세동 위험 요인으로서 인구통계학적 요인과 동반질환: 한국인에 대한 후향적 연구",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202407_Demographics_and_Comorbidities_as_an_Atrial_Fibrillation_Risk_Factor_a_Re.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "71830e62-250c-4957-848f-9deddca9ec65",
+      "category": "patent",
+      "date": "2023-12-15",
+      "title_eng": "A program for converting three-dimensional graph data",
+      "title_kor": "3차원 그래프 데이터 변환 프로그램",
+      "year_resolved": "2023",
+      "pdf": {
+        "storage_root": "software",
+        "relative_path": "41__2023__202312_3차원_그래프_데이터_변환_프로그램.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "0317a002-3c1e-44a2-a96a-3fc9634c429e",
+      "category": "conference",
+      "date": "2023-12-07",
+      "title_eng": "Atrial Fibrillation Diagnosis Using Machine Learning: Leveraging Minimal Health Data from UK Biobank",
+      "title_kor": "심방세동 진단을 위한 머신 러닝 활용: 최소한의 UK 바이오뱅크 건강 데이터 활용",
+      "year_resolved": "2023",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2023__202312_Atrial_Fibrillation_Diagnosis_Using_Machine_Learning_Leveraging_Minimal_H.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "7ea20b3e-6665-4002-8aeb-145e556b1ead",
+      "category": "conference",
+      "date": "2023-11-09",
+      "title_eng": "Graph Neural Network-Based Atrial Fibrillation Recurrence Prediction Using Left Atrial Three-Dimensional Anatomical and Physiology Characteristics",
+      "title_kor": "좌심방 3차원 해부생리 특징을 활용한 그래프 신경망기반 심방세동 재발 예측",
+      "year_resolved": "2023",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2023__202311_좌심방_3차원_해부생리_특징을_활용한_그래프_신경망기반_심방세동_재발_예측.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "af605e41-14ec-48a6-adf1-0af158c615f2",
+      "category": "conference",
+      "date": "2023-07-12",
+      "title_eng": "Analyzing the Performance of a Convolutional Neural Network-based Atrial Fibrillation Classifier According to the Genetic Screening Thresholds",
+      "title_kor": "유전자 스크리닝 임계값에 따른 합성곱 신경망 기반 심방세동 분류기 성능 분석",
+      "year_resolved": "2023",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2023__202307_유전자_스크리닝_임계값에_따른_합성곱_신경망_기반_심방세동_분류기_성능_분석.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "e679b80b-45ef-448b-bfa7-372245bea3a8",
+      "category": "conference",
+      "date": "2023-05-11",
+      "title_eng": "The Impact of Regularization Techniques on Convolutional Neural Network-based Genomic Study",
+      "title_kor": "합성곱 신경망 기반 유전체 연구에서 정규화 기법의 효과 분석",
+      "year_resolved": "2023",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2023__202305_합성곱_신경망_기반_유전체_연구에서_정규화_기법의_효과_분석.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "0b2b5c3b-3652-47ef-8ce0-6a26c4426726",
+      "category": "conference",
+      "date": "2022-11-03",
+      "title_eng": "GWAS-based Atrial Fibrillation Identification Using DCNN",
+      "title_kor": "전장 유전체 기반 심층 합성곱 신경망을 사용한 심방세동 식별",
+      "year_resolved": "2022",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2022__202211_전장_유전체_기반_심층_합성곱_신경망을_사용한_심방세동_식별.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "f8c2a899-4ecb-4ea4-8b93-d5d662a4c0dc",
+      "category": "conference",
+      "date": "2022-10-19",
+      "title_eng": "Genome-Wide Association Studies and Electronic Medical Record based Atrial Fibrillation Discriminat ion Using Ensemble Models",
+      "title_kor": "앙상블 모델을 사용한 전장유전체 및 의료정보 기반 심방세동 판별",
+      "year_resolved": "2022",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2022__202210_앙상블_모델을_사용한_전장유전체_및_의료정보_기반_심방세동_판별.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    }
+  ],
+  "fast_path": "Recent PDF content: open extracts/<id>.json for pubs with has_extract=true. Do not scan manifest.json or DATA/."
+}

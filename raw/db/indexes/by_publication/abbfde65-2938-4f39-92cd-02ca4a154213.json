@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "abbfde65-2938-4f39-92cd-02ca4a154213",
+  "storage_root": "conference",
+  "relative_path": "2022__202210_비순차_데이터_적용을_위한_합성곱_신경망_분류기_하이퍼_파라미터_최적화_기초_연구.pdf",
+  "original_filename": "2022__202210_비순차_데이터_적용을_위한_합성곱_신경망_분류기_하이퍼_파라미터_최적화_기초_연구.pdf",
+  "match_status": "matched",
+  "match_score": 0.9317,
+  "title_hint": "적용을 위한 합성곱 신경망 분류기 하이퍼 파라미터 최적화 기초 연구",
+  "year": 2022,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2022-10-19",
+  "title_eng": "비순차 데이터 적용을 위한 합성곱 신경망 분류기 하이퍼 파라미터 최적화 기초 연구",
+  "title_kor": "비순차 데이터 적용을 위한 합성곱 신경망 분류기 하이퍼 파라미터 최적화 기초 연구",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "ad98337a-712a-4d40-a163-4ac540834245",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

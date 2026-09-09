@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "2825a808-457d-40e2-9103-6ac3f33e66ce",
+  "storage_root": "journal",
+  "relative_path": "2023__202312_Machine_learning-based_delta_check_method_for_detecting_misidentification.pdf",
+  "original_filename": "2023__202312_Machine_learning-based_delta_check_method_for_detecting_misidentification.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Machine learning-based delta check method for detecting misidentification",
+  "year": 2023,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2023-12-14",
+  "title_eng": "Machine learning-based delta check method for detecting misidentification errors in tumor marker tests",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "a92aee22-d720-4431-9502-a9dc37af7be9",
+    "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+    "06cd217f-5f4c-49af-9cf4-1666a5f30674",
+    "09e01f73-363a-4780-962e-969da9578ff9",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

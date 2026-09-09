@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "de0fc053-1a7a-40c4-a8e5-b2fe4f718706",
+  "storage_root": "conference",
+  "relative_path": "2018__201810_EM_알고리즘과_가우시안_혼합_모델을_이용한_광용적맥파_파형_모델링.pdf",
+  "original_filename": "2018__201810_EM_알고리즘과_가우시안_혼합_모델을_이용한_광용적맥파_파형_모델링.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "EM 알고리즘과 가우시안 혼합 모델을 이용한 광용적맥파 파형 모델링",
+  "year": 2018,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2018-10-25",
+  "title_eng": "Photoplethysmographic waveform modeling based on Gaussian Mixture Model with Expectation-maximization algorithm",
+  "title_kor": "EM 알고리즘과 가우시안 혼합 모델을 이용한 광용적맥파 파형 모델링",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "e8f93f99-55d9-4bbd-8494-cb7c56526b18",
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

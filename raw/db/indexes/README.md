@@ -10,7 +10,10 @@ LLM이 `publications.json` 전체를 열지 않도록 만든 **조회용 인덱�
 | 논문(journal) / 학회(conference) 등 | `by_category/journal.json`, `by_category/conference.json` |
 | 특정 저자 | `by_author/<author_id>.json` |
 | 특정 멤버 | `by_member/<member_id>.json` |
+| 성과 1건 PDF 경로 | `by_publication/<publication_id>.json` |
 | 무엇이 있는지 한눈 | `catalog.json` |
+
+멤버 논문 **본문/초록**은 여기보다 `raw/assets/papers/by_member/` + `extracts/`를 우선한다.
 
 ## category 키
 
@@ -32,9 +35,11 @@ Wiki 요약 페이지: `wiki/publications/<category>.md`
 - Source of Truth 본문은 여전히 `publications.json` / `authors.json` 등.
 - 인덱스는 파생본. DB JSON을 바꾼 뒤 재생성이 필요하다.
 - Agent는 연도·카테고리·저자 필터 시 **풀 스캔 금지**, 이 폴더 우선.
+- `by_member`의 `pdf` / `has_extract` 필드는 `build_paper_indexes_and_extracts.py`가 보강한다.
 
 재생성 (저장소 루트):
 
 ```bash
-python raw/db/rebuild_indexes.py
+python WIKI/raw/db/rebuild_indexes.py
+python WEB/scripts/build_paper_indexes_and_extracts.py --apply
 ```

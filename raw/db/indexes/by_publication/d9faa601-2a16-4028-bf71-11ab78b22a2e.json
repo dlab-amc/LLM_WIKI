@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "d9faa601-2a16-4028-bf71-11ab78b22a2e",
+  "storage_root": "software",
+  "relative_path": "37__2023__202312_심박수_가속도_실내_위치_정보_측정을_위한_웨어러블_기기_어플리케이션.pdf",
+  "original_filename": "37__2023__202312_심박수_가속도_실내_위치_정보_측정을_위한_웨어러블_기기_어플리케이션.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "37   심박수 가속도 실내 위치 정보 측정을 위한 웨어러블 기기 어플리케이션",
+  "year": 2023,
+  "exists": true,
+  "category": "patent",
+  "class": "Registered SW",
+  "date": "2023-12-13",
+  "title_eng": "Wearable device application for measuring heart rate, acceleration, and indoor location information",
+  "title_kor": "심박수, 가속도, 실내 위치 정보 측정을 위한 웨어러블 기기 어플리케이션",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "ad98337a-712a-4d40-a163-4ac540834245",
+    "e556ed57-f679-4685-a592-767ec3a64f46"
+  ],
+  "has_extract": true
+}

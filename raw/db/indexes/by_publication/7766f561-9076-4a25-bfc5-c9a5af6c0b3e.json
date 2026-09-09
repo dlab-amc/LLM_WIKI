@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "7766f561-9076-4a25-bfc5-c9a5af6c0b3e",
+  "storage_root": "journal",
+  "relative_path": "2026A00125__2026__Structural_insights_into_clinical_large_language_models_and_their_barriers_to_tr.pdf",
+  "original_filename": "2026A00125__2026__Structural_insights_into_clinical_large_language_models_and_their_barriers_to_tr.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Structural insights into clinical large language models and their barriers to tr",
+  "year": 2026,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2026-01-11",
+  "title_eng": "Structural insights into clinical large language models and their barriers to translational readiness",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9750",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

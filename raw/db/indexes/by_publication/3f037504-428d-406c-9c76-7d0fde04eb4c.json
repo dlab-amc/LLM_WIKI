@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "3f037504-428d-406c-9c76-7d0fde04eb4c",
+  "storage_root": "patent_filed",
+  "relative_path": "2025__202504_PCT_통증평가모델_생성_장치_통증평가모델_생성_방법_및_이를_수행하는_프로그램이_저장된_기록_매체.pdf",
+  "original_filename": "2025__202504_PCT_통증평가모델_생성_장치_통증평가모델_생성_방법_및_이를_수행하는_프로그램이_저장된_기록_매체.pdf",
+  "match_status": "matched",
+  "match_score": 0.9848,
+  "title_hint": "PCT 통증평가모델 생성 장치 통증평가모델 생성 방법 및 이를 수행하는 프로그램이 저장된 기록 매체",
+  "year": 2025,
+  "exists": true,
+  "category": "patent",
+  "class": "Domestic",
+  "date": "2024-04-22",
+  "title_eng": "An apparatus for creating a pain assessment model, method for creating a pain assessment model and computer readable recording medium",
+  "title_kor": "통증평가모델 생성 장치, 통증평가모델 생성 방법 및 이를 수행하는 프로그램이 저장된 기록 매체",
+  "member_ids": [
+    "68590514c33c441ee93e9748",
+    "68590514c33c441ee93e974a"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+    "79722270-bde5-4ef2-bad5-ccd4d4e75854",
+    "17ff8154-0d9f-4486-abd7-b34e64268d87"
+  ],
+  "has_extract": true
+}

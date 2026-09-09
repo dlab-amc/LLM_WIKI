@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "27685eb2-7709-40ce-8ad8-5bd65cc5fa77",
+  "storage_root": "patent_registered",
+  "relative_path": "2019__201904_10-1974820_기기_제어_방법_및_이를_수행하는_기기.pdf",
+  "original_filename": "2019__201904_10-1974820_기기_제어_방법_및_이를_수행하는_기기.pdf",
+  "match_status": "matched",
+  "match_score": 0.877,
+  "title_hint": "10-1974820 기기 제어 방법 및 이를 수행하는 기기",
+  "year": 2019,
+  "exists": true,
+  "category": "patent",
+  "class": "Domestic",
+  "date": "2019-04-26",
+  "title_eng": "Method for controlling a device and device performing the same",
+  "title_kor": "기기 제어 방법 및 이를 수행하는 기기",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+  ],
+  "has_extract": true
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "64a5c206-ab29-4a1d-8778-2999a0bf4df7",
+  "storage_root": "conference",
+  "relative_path": "2025__202505_류가연_관상동맥질환_치료제의_심방세동_발생에_대한_영향_후향적_코호트_분석.pdf",
+  "original_filename": "2025__202505_류가연_관상동맥질환_치료제의_심방세동_발생에_대한_영향_후향적_코호트_분석.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "관상동맥질환 치료제의 심방세동 발생에 대한 영향 후향적 코호트 분석",
+  "year": 2025,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2025-05-08",
+  "title_eng": "Evaluation of Atrial Fibrillation incidence in Patients on Coronary artery disease Medications: A Retrospective Cohort Study",
+  "title_kor": "관상동맥질환 치료제의 심방세동 발생에 대한 영향: 후향적 코호트 분석",
+  "member_ids": [
+    "68590514c33c441ee93e974a",
+    "68590514c33c441ee93e974c",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "125c0eac-e405-4c5b-8d4a-00eedb04a6aa",
+    "17ff8154-0d9f-4486-abd7-b34e64268d87",
+    "11293195-d430-4570-98b9-f1d9e82ca0e6",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

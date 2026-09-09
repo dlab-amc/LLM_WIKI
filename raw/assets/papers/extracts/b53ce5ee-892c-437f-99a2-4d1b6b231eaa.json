@@ -1,0 +1,20 @@
+{
+  "publication_id": "b53ce5ee-892c-437f-99a2-4d1b6b231eaa",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "conference",
+    "relative_path": "2017__201704_심전도_광용적맥파_박동_특징점_교정_및_매칭을_위한_어플리케이션_개발.pdf",
+    "original_filename": "2017__201704_심전도_광용적맥파_박동_특징점_교정_및_매칭을_위한_어플리케이션_개발.pdf"
+  },
+  "title_eng": "Development of an Application for Correction and Arrangement of Pulse Features of ECG and PPG Waveforms",
+  "title_kor": "심전도, 광용적맥파 박동 특징점 교정 및 매칭을 위한 어플리케이션 개발",
+  "category": "conference",
+  "date": "2017-04-13",
+  "page_count": 2,
+  "pages_extracted": 0,
+  "abstract": null,
+  "keywords": [],
+  "first_pages_text": "",
+  "char_count": 0,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

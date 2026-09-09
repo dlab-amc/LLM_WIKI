@@ -221,5 +221,16 @@
         "2026": 2
       }
     }
+  },
+  "paper_pdf_index": {
+    "updated": "2026-09-09",
+    "by_publication_count": 386,
+    "extracts_ok": 386,
+    "paths": {
+      "by_publication_id": "raw/assets/papers/by_publication_id.json",
+      "by_publication_dir": "raw/db/indexes/by_publication/",
+      "by_member_papers": "raw/assets/papers/by_member/",
+      "extracts": "raw/assets/papers/extracts/"
+    }
   }
 }

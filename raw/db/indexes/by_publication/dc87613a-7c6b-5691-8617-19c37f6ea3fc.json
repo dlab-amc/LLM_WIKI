@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "dc87613a-7c6b-5691-8617-19c37f6ea3fc",
+  "storage_root": "award",
+  "relative_path": "23__2022__202210_2022년도_대한전기학회_제53회_하계학술대회_우수논문상_왕창원_대한전기학회.pdf",
+  "original_filename": "23__2022__202210_2022년도_대한전기학회_제53회_하계학술대회_우수논문상_왕창원_대한전기학회.pdf",
+  "match_status": "matched",
+  "match_score": 0.7785,
+  "title_hint": "23   2022년도 대한전기학회 제53회 하계학술대회 우수논문상 왕창원 대한전기학회",
+  "year": 2022,
+  "exists": true,
+  "category": "award",
+  "class": null,
+  "date": "2022-07-13",
+  "title_eng": "Evaluation of Convolution Neural Network classifier compatibility for Non-Sequential Data Input",
+  "title_kor": "비순차 데이터 입력에 대한 Convolution Neural Network 분류기 적합성 평가",
+  "member_ids": [],
+  "author_ids": [],
+  "has_extract": true
+}

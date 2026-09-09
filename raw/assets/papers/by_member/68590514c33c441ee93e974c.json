@@ -1,0 +1,303 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "member_id": "68590514c33c441ee93e974c",
+  "member_name_kor": "최예은",
+  "author_id": "11293195-d430-4570-98b9-f1d9e82ca0e6",
+  "count": 22,
+  "pdf_linked": 14,
+  "extract_linked": 14,
+  "publications": [
+    {
+      "id": "a9a42c7d-3051-4d9a-a9e9-6e3c065b8a62",
+      "category": "conference",
+      "date": "2026-07-26",
+      "title_eng": "Transformer-Based Early Detection of Sepsis from Intensive Care Unit Multivariate Time Series Data",
+      "title_kor": null,
+      "year_resolved": "2026",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "0000__Transformer-Based_Early_Detection_of_Sepsis_from_Intensive_Care_Unit_Multivariat.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "75480fca-4d6e-4b0f-bef4-bd19409c4b34",
+      "category": "journal",
+      "date": "2026-06-18",
+      "title_eng": "Medication-specific risk of atrial fibrillation in patients with coronary artery disease",
+      "title_kor": null,
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "134eb3df-b4e6-437b-adbe-729566353474",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Evaluation of MedGemma 1.5-4B for Lymph Node Metastasis Prediction in Intrahepatic Cholangiocarcinoma",
+      "title_kor": "간내 담관암 림프절 전이 예측에서 MedGemma 1.5-4B의 활용 가능성 평가",
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "b4b37a0b-317c-4211-bbec-f47a63ab29cf",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Development of an Atrial Fibrillation Risk Prediction Model for Health Screening",
+      "title_kor": "건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발",
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "34089715-f049-42ae-a9da-1225439e002a",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Deep Learning-based Prediction of Lymph Node Metastasis in Cholangiocarcinoma through Fusion of 3D PET/CT Imaging and Clinical Data",
+      "title_kor": "3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측",
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "92bae902-8be2-4c2d-9da6-5dc1164f9ba9",
+      "category": "conference",
+      "date": "2026-05-07",
+      "title_eng": "Evaluation of MedGemma 1.5-4B for Lymph Node Metastasis Prediction in Intrahepatic Cholangiocarcinoma",
+      "title_kor": "간내 담관암 림프절 전이 예측에서 MedGemma 1.5-4B의 활용 가능성 평가",
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "93d0f6a3-536d-46ce-a41d-c29557550ecb",
+      "category": "conference",
+      "date": "2026-05-07",
+      "title_eng": "Development of an Atrial Fibrillation Risk Prediction Model for Health Screening",
+      "title_kor": "건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발",
+      "year_resolved": "2026",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "0000__류가연_건강검진_스크리닝을_위한_심방세동_위험_예측_모델_개발.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "16c444f7-bf32-4cfa-b971-e9dd9ab1b633",
+      "category": "conference",
+      "date": "2026-05-07",
+      "title_eng": "Deep Learning-based Prediction of Lymph Node Metastasis in Cholangiocarcinoma through Fusion of 3D PET/CT Imaging and Clinical Data",
+      "title_kor": "3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측",
+      "year_resolved": "2026",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "0000__이건_3D_PET_CT_영상_및_임상_데이터_융합을_통한_딥러닝_기반_담관암_림프절_전이_예측.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "bdcfb609-561b-4759-a4ab-b2131804f634",
+      "category": "award",
+      "date": "2025-11-08",
+      "title_eng": "Early Sepsis Prediction Models with Multi-variate Time Series Transformer",
+      "title_kor": "Multi-variate Time Series Transformer 기반 패혈증 조기 예측 모델 개발",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "1b6c1fd8-e248-4317-aa24-a30e0e900b3f",
+      "category": "conference",
+      "date": "2025-11-06",
+      "title_eng": "Early Sepsis Prediction Models with Multi-variate Time Series Transformer",
+      "title_kor": "Multi-variate Time Series Transformer 기반 패혈증 조기 예측 모델 개발",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "69e53ab6-1801-4751-b9e4-af764d75ce4c",
+      "category": "conference",
+      "date": "2025-10-22",
+      "title_eng": "시계열 데이터의 결측치 대체 방법에 따른 Transformer 기반 패혈증 조기 예측 모델 성능 비교 평가",
+      "title_kor": "시계열 데이터의 결측치 대체 방법에 따른 Transformer 기반 패혈증 조기 예측 모델 성능 비교 평가",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "d44f19e2-f948-4020-b594-07ed6bf19b42",
+      "category": "conference",
+      "date": "2025-07-14",
+      "title_eng": "Revisiting the Obesity Paradox in Septic Patients with Aging and Chronic Disease: A Retrospective Study in Korea",
+      "title_kor": "Revisiting the Obesity Paradox in Septic Patients with Aging and Chronic Disease: A Retrospective Study in Korea",
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202507_최예은_Revisiting_the_Obesity_Paradox_in_Septic_Patients_with_Aging_and_Chro.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "64a5c206-ab29-4a1d-8778-2999a0bf4df7",
+      "category": "conference",
+      "date": "2025-05-08",
+      "title_eng": "Evaluation of Atrial Fibrillation incidence in Patients on Coronary artery disease Medications: A Retrospective Cohort Study",
+      "title_kor": "관상동맥질환 치료제의 심방세동 발생에 대한 영향: 후향적 코호트 분석",
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202505_류가연_관상동맥질환_치료제의_심방세동_발생에_대한_영향_후향적_코호트_분석.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "ce676224-6524-494b-ac75-4af3b52d8fa9",
+      "category": "conference",
+      "date": "2025-05-08",
+      "title_eng": "Development of an Atrial Fibrillation Prediction Model Based on Health Checkup Data",
+      "title_kor": "건강검진 데이터 기반 심방세동 예측 모델 개발",
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202505_류가연_건강검진_데이터_기반_심방세동_예측_모델_개발.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "3a9e8f81-52f2-470e-800c-e9f1acbd3558",
+      "category": "conference",
+      "date": "2025-05-08",
+      "title_eng": "Development of a Machine Learning Model for Prediction of Sepsis Onset",
+      "title_kor": "패혈증 조기 예측을 위한 머신러닝 모델 개발",
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202505_최예은_패혈증_초기_예측을_위한_머신러닝_모델_개발.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "ee5a24ad-4c4e-466e-9e12-079c56ef5830",
+      "category": "conference",
+      "date": "2025-05-08",
+      "title_eng": "Analysis of the effects of obesity and age on the risk of death from sepsis",
+      "title_kor": "패혈증 사망 위험에 미치는 비만도와 나이 영향 분석",
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202505_최예은_패혈증_사망_위험에_미치는_비만도와_나이_영향_분석.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "f465d274-a2ed-447b-a17c-e9f8ade4cda7",
+      "category": "conference",
+      "date": "2024-11-07",
+      "title_eng": "The Impact of Demographic Characteristics and Comorbidities on the Incidence of Atrial Fibrillation",
+      "title_kor": "인구통계 특성 및 유관질환이 심방세동 발병에 미치는 영향",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202411_인구통계_특성_및_유관질환이_심방세동_발병에_미치는_영향.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "238412a7-3471-4e8a-81e9-f1f105eef065",
+      "category": "conference",
+      "date": "2024-11-07",
+      "title_eng": "Survival Analysis of Adult Sepsis Patients based on Demographics and Underlying Diseases",
+      "title_kor": "성인 패혈증 환자 생존율 분석: 인구통계 및 기저질환 연구",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202411_성인_패혈증_환자_생존율_분석_인구통계_및_기저질환_연구.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "1e67b630-51dd-4fe6-8733-7b2b92cc7c37",
+      "category": "conference",
+      "date": "2024-11-07",
+      "title_eng": "Analysis of Mortality Risk in Adult Sepsis Patients based on  Demographics and Underlying Diseases",
+      "title_kor": "성인 패혈증 환자 사망 위험 분석: 인구통계 및 기저질환 연구",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202411_성인_패혈증_환자_사망_위험_분석_인구통계_및_기저질환_연구.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "c0e967e7-4969-4ea0-a624-ff9f3c621cbe",
+      "category": "conference",
+      "date": "2024-10-23",
+      "title_eng": "Evaluation of Photoplethysmogram-based Vascular Age Estimation Models",
+      "title_kor": "광용적맥파 기반 혈관 나이 추정 모델의 평가",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202410_광용적맥파_기반_혈관_나이_추정_모델의_평가.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "688ca5a0-8312-40d0-bb81-6ae6b13b9533",
+      "category": "conference",
+      "date": "2024-07-15",
+      "title_eng": "Demographics and Comorbidities as an Atrial Fibrillation Risk Factor: a Retrospective Study in Koreans",
+      "title_kor": "심방세동 위험 요인으로서 인구통계학적 요인과 동반질환: 한국인에 대한 후향적 연구",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202407_Demographics_and_Comorbidities_as_an_Atrial_Fibrillation_Risk_Factor_a_Re.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "0317a002-3c1e-44a2-a96a-3fc9634c429e",
+      "category": "conference",
+      "date": "2023-12-07",
+      "title_eng": "Atrial Fibrillation Diagnosis Using Machine Learning: Leveraging Minimal Health Data from UK Biobank",
+      "title_kor": "심방세동 진단을 위한 머신 러닝 활용: 최소한의 UK 바이오뱅크 건강 데이터 활용",
+      "year_resolved": "2023",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2023__202312_Atrial_Fibrillation_Diagnosis_Using_Machine_Learning_Leveraging_Minimal_H.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    }
+  ],
+  "fast_path": "Recent PDF content: open extracts/<id>.json for pubs with has_extract=true. Do not scan manifest.json or DATA/."
+}

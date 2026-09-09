@@ -15,7 +15,7 @@ Claude Code는 루트 `CLAUDE.md`를 먼저 자동 로드한 뒤 본 파일·sch
 2. `schema/OVERVIEW.md`
 3. `index.md`
 4. 작업 유형별: `schema/INGEST.md` | `schema/QUERY.md` | `schema/LINT.md` | `schema/EXTERNAL-ASSETS.md`
-5. 필요 시 `raw/db/stats.json`, `raw/assets/papers/manifest.json`, `log.md`
+5. 필요 시 `raw/db/stats.json`, `raw/assets/papers/by_member/` / `extracts/`, `log.md`
 
 ## 절대 규칙
 

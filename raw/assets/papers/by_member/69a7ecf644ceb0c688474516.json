@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "member_id": "69a7ecf644ceb0c688474516",
+  "member_name_kor": "남윤찬",
+  "author_id": "8e349a5d-83ae-4b77-881c-26d384d25a86",
+  "count": 2,
+  "pdf_linked": 1,
+  "extract_linked": 1,
+  "publications": [
+    {
+      "id": "d6cfd18f-83ec-444e-a8cb-1ff5514ab9f2",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Design and Implementation of a Wearable-Based Patient Monitoring System in a Closed-Network Hospital Environment",
+      "title_kor": "폐쇄망 환경에서의 웨어러블 기반 병동 모니터링 시스템 설계 및 구현",
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "eac5ba27-d43a-430f-81bf-49f7c6ab8d7c",
+      "category": "conference",
+      "date": "2026-05-07",
+      "title_eng": "Design and Implementation of a Wearable-Based Patient Monitoring System in a Closed-Network Hospital Environment",
+      "title_kor": "폐쇄망 환경에서의 웨어러블 기반 병동 모니터링 시스템 설계 및 구현",
+      "year_resolved": "2026",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "0000__남윤찬_폐쇄망_환경에서의_웨어러블_기반_병동_모니터링_시스템_설계_및_구현.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    }
+  ],
+  "fast_path": "Recent PDF content: open extracts/<id>.json for pubs with has_extract=true. Do not scan manifest.json or DATA/."
+}

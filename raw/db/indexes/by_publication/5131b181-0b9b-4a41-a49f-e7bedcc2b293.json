@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "5131b181-0b9b-4a41-a49f-e7bedcc2b293",
+  "storage_root": "conference",
+  "relative_path": "2018__201812_A_New_Pulse_Quality_Assessment_Method_for_Photoplethysmogram_based_on_Sim.pdf",
+  "original_filename": "2018__201812_A_New_Pulse_Quality_Assessment_Method_for_Photoplethysmogram_based_on_Sim.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "A New Pulse Quality Assessment Method for Photoplethysmogram based on Sim",
+  "year": 2018,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2018-12-05",
+  "title_eng": "A New Pulse Quality Assessment Method for Photoplethysmogram based on Similliarity Analysis",
+  "title_kor": "A New Pulse Quality Assessment Method for Photoplethysmogram based on Similliarity Analysis",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+    "57354d74-688e-49c4-a258-307386943d12",
+    "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

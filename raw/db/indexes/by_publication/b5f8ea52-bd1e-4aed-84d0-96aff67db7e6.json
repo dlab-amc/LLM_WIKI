@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "b5f8ea52-bd1e-4aed-84d0-96aff67db7e6",
+  "storage_root": "conference",
+  "relative_path": "2017__201711_광용적맥파_진폭변이도_시간영역_분석을_통한_술후_통증_평가_가능성_고찰.pdf",
+  "original_filename": "2017__201711_광용적맥파_진폭변이도_시간영역_분석을_통한_술후_통증_평가_가능성_고찰.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "광용적맥파 진폭변이도 시간영역 분석을 통한 술후 통증 평가 가능성 고찰",
+  "year": 2017,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2017-11-23",
+  "title_eng": "Investigation of the Feasibility of Postoperative Pain Assessment by Analysing Photoplethysmogram Variability Analysis",
+  "title_kor": "광용적맥파 진폭변이도 시간영역 분석을 통한 술후 통증 평가 가능성 고찰",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

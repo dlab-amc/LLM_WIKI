@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "4379a81d-8774-4ea5-b509-308d65e37bbd",
+  "storage_root": "conference",
+  "relative_path": "2008__200807_DCT_압축률에_따른_심전도_및_심박_신호의_임상적_활용도_평가.pdf",
+  "original_filename": "2008__200807_DCT_압축률에_따른_심전도_및_심박_신호의_임상적_활용도_평가.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "DCT 압축률에 따른 심전도 및 심박 신호의 임상적 활용도 평가",
+  "year": 2008,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2008-07-16",
+  "title_eng": "Pratical Usage Evaluation of ECG and HR signal related on DCT Compression Ratio",
+  "title_kor": "DCT 압축률에 따른 심전도 및 심박 신호의 임상적 활용도 평가",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "4a05a292-1a5b-4577-91ff-87da330a9358"
+  ],
+  "has_extract": true
+}

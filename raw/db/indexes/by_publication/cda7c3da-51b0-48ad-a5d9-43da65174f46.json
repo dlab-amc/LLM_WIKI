@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "cda7c3da-51b0-48ad-a5d9-43da65174f46",
+  "storage_root": "conference",
+  "relative_path": "2015__201502_저온_환경에서_성별에_따른_자율신경계_변화_특성_고찰.pdf",
+  "original_filename": "2015__201502_저온_환경에서_성별에_따른_자율신경계_변화_특성_고찰.pdf",
+  "match_status": "matched",
+  "match_score": 0.8542,
+  "title_hint": "성별에 따른 자율신경계 변화 특성 고찰",
+  "year": 2015,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2015-02-09",
+  "title_eng": "Investigation for the Gender Difference of Autonomic Nervous Activity under Cold Stress",
+  "title_kor": "저온 환경에서 성별에 따른 자율신경계 변화 특성 고찰",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+    "c59f4359-6b52-4820-9244-6c85930dcb9a"
+  ],
+  "has_extract": true
+}

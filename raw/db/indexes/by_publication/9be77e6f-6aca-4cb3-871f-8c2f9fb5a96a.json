@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "9be77e6f-6aca-4cb3-871f-8c2f9fb5a96a",
+  "storage_root": "journal",
+  "relative_path": "2017__201712_심전도_광용적맥파_박동_특징점_교정_및_매칭을_위한_어플리케이션_개발.pdf",
+  "original_filename": "2017__201712_심전도_광용적맥파_박동_특징점_교정_및_매칭을_위한_어플리케이션_개발.pdf",
+  "match_status": "matched",
+  "match_score": 0.9825,
+  "title_hint": "광용적맥파 박동 특징점 교정 및 매칭을 위한 어플리케이션 개발",
+  "year": 2017,
+  "exists": true,
+  "category": "journal",
+  "class": "SCOPUS",
+  "date": "2017-12-01",
+  "title_eng": "Development of an application for correction and arrangement of pulse features of Electrocardiogram and Photoplethysmogram",
+  "title_kor": "심전도, 광용적맥파 박동 특징점 교정 및 매칭을 위한 어플리케이션 개발",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

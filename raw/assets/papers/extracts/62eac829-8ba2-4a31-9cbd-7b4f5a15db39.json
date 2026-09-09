@@ -1,0 +1,20 @@
+{
+  "publication_id": "62eac829-8ba2-4a31-9cbd-7b4f5a15db39",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "software",
+    "relative_path": "33__2023__202305_심박수와_가속도_신호_저장_및_전송을_위한_서버_프로그램.pdf",
+    "original_filename": "33__2023__202305_심박수와_가속도_신호_저장_및_전송을_위한_서버_프로그램.pdf"
+  },
+  "title_eng": "Server program for storing and transmitting heart rate and acceleration signals",
+  "title_kor": "심박수와 가속도 신호 저장 및 전송을 위한 서버 프로그램",
+  "category": "patent",
+  "date": "2023-05-25",
+  "page_count": 2,
+  "pages_extracted": 0,
+  "abstract": null,
+  "keywords": [],
+  "first_pages_text": "",
+  "char_count": 0,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

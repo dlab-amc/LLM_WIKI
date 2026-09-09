@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "fd93fc4e-7f7f-49f8-8aa6-99fe5f049248",
+  "storage_root": "conference",
+  "relative_path": "2008__200807_운동부하를_통한_PPGV와_HRV_상관성_평가에_관한_연구.pdf",
+  "original_filename": "2008__200807_운동부하를_통한_PPGV와_HRV_상관성_평가에_관한_연구.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "운동부하를 통한 PPGV와 HRV 상관성 평가에 관한 연구",
+  "year": 2008,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2008-07-16",
+  "title_eng": "A Study on Correlation of Photoplethysmogram Variability and Heart Rate Variability using Exercise Test",
+  "title_kor": "운동부하를 통한 PPGV와 HRV 상관성 평가에 관한 연구",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+    "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+    "4a05a292-1a5b-4577-91ff-87da330a9358"
+  ],
+  "has_extract": true
+}

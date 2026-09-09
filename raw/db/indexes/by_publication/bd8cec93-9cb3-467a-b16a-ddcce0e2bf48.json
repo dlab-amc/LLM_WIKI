@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "bd8cec93-9cb3-467a-b16a-ddcce0e2bf48",
+  "storage_root": "conference",
+  "relative_path": "2017__201707_Feasibility_Test_of_Strip-type_Unconstrained_Sleep_Monitoring_System_with.pdf",
+  "original_filename": "2017__201707_Feasibility_Test_of_Strip-type_Unconstrained_Sleep_Monitoring_System_with.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Feasibility Test of Strip-type Unconstrained Sleep Monitoring System with",
+  "year": 2017,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2017-07-11",
+  "title_eng": "Feasibility Test of Strip-type Unconstrained Sleep Monitoring System with Polysomnography",
+  "title_kor": "Feasibility Test of Strip-type Unconstrained Sleep Monitoring System with Polysomnography",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

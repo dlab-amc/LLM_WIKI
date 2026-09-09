@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "82b9f649-2029-4ec0-9239-a6b593bca8ed",
+  "storage_root": "journal",
+  "relative_path": "2020__202001_Development_of_a_Multi-Array_Pressure_Sensor_Module_for_Radial_Artery_Pul.pdf",
+  "original_filename": "2020__202001_Development_of_a_Multi-Array_Pressure_Sensor_Module_for_Radial_Artery_Pul.pdf",
+  "match_status": "matched",
+  "match_score": 0.9,
+  "title_hint": "Development of a Multi-Array Pressure Sensor Module for Radial Artery Pul",
+  "year": 2020,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2019-12-19",
+  "title_eng": "Development of a Multi-Array Pressure Sensor Module for Radial Artery Pulse Wave Measurement",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+    "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+    "57354d74-688e-49c4-a258-307386943d12",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

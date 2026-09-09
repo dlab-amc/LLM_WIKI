@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "65be53c6-9dd4-438b-91aa-03e3d8030132",
+  "storage_root": "conference",
+  "relative_path": "0000__유지원_26의공춘계_임상화학_검사_재검_판정에서_대규모_언어모델의_유용성_평가.pdf",
+  "original_filename": "0000__유지원_26의공춘계_임상화학_검사_재검_판정에서_대규모_언어모델의_유용성_평가.pdf",
+  "match_status": "matched",
+  "match_score": 0.875,
+  "title_hint": "26의공춘계 임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가",
+  "year": null,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2026-05-07",
+  "title_eng": "Evaluation of the Feasibility of Large Language Models for Re-test Decision in Clinical Chemistry Tests",
+  "title_kor": "임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가",
+  "member_ids": [
+    "68590514c33c441ee93e9750",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+    "80cbf804-4efd-4173-ae46-5c210a473ded",
+    "a92aee22-d720-4431-9502-a9dc37af7be9",
+    "09e01f73-363a-4780-962e-969da9578ff9",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

@@ -1,0 +1,24 @@
+{
+  "publication_id": "fa728223-5be4-4016-a580-a72eb1521867",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "conference",
+    "relative_path": "2023__202311_Development_of_an_Emotional_State_Prediction_Model_Using_Acceleration_Sig.pdf",
+    "original_filename": "2023__202311_Development_of_an_Emotional_State_Prediction_Model_Using_Acceleration_Sig.pdf"
+  },
+  "title_eng": "Development of an Emotional State Prediction Model Using Acceleration Signal, Heart rate, Electrodermal Activity, and Emotional Questionnaires",
+  "title_kor": "가속도 신호, 심박수, 피부전기활동, 감정설문을 이용한 감정상태 예측 모델 개발",
+  "category": "conference",
+  "date": "2023-11-09",
+  "page_count": 1,
+  "pages_extracted": 1,
+  "abstract": "Development of an Emotional State Prediction Model Using \nAcceleration Signal, Heart rate, Electrodermal Activity, and \nEmotional Questionnaires",
+  "keywords": [
+    "Emotional state prediction",
+    "RandomForest",
+    "Accelerometer"
+  ],
+  "first_pages_text": "Development of an Emotional State Prediction Model Using \nAcceleration Signal, Heart rate, Electrodermal Activity, and \nEmotional Questionnaires \n \nChangwon Wang1, and Hangsik Shin1,2,* \n \n1Biomedical Engineering Research Center, Asan Medical Center, Seoul, Korea \n2Dept. of Convergence Medicine, Asan Medical Center, University of Ulsan College \nof Medicine, Seoul, Korea. \n \n*E-mail: hangsik.shin@gmail.com \n \nThe recognition of emotions remains a topic of most importance, and there is rapid \ngrowth in research dedicated to predicting emotional states using various sensors [1]. \nIn this study, we developed a model to predict emotional states using data from a 3-\naxis accelerometer, heart rate, electrodermal activity, and emotional questionnaire \nscores. A total of 26 subjects was used in this study. Features for the model included \nthe mean, SD, variance, max frequency, skewness, kurtosis, mean frequency, \nentropy of the SVM (signal vector magnitude), Root Mean Square, peak-to-peak \nvalues from the 3-axis accelerometer data, heart rate, and EDA(electrodermal \nactivity) values. The emotional questionnaire scores were bifurcated into two \ncategories: emotion positive and tension, with scores ranging fro m 1 to 7. The \nemotion positive survey scores were designated as the label data for predicting \nemotional states, and based on the median, they were categorized into two groups \n(positive and negative). The data was split with a 7:3 ratio for training and testing, \nand the validation dataset constituted 25% of the training dataset. A RandomForest \nmodel was used, with hyperparameter tuning conducted via the GridSearchCV \nmethod. Consequently, the proposed model performance was observed to be 0.87 \n(AUC). Based on the model's feature importance calculations, EDA (0.0796), \nHR(heart rate) (0.0702), and the mean value of SVM (0.0738) emerged as the most \ninfluential factors in order of significance. These results indicate that EDA and HR \nplay a crucial role in emotion prediction, aligning with findings from previous research. \n \nAcknowledgement : This study was supported by a grant (2023IP0133-1) from the \nAsan Institute for Life Sciences, Asan Medical Center, Seoul, Korea. This work was \nsupported by the Korea Medical Device Development Fund grant funded by the \nKorea government (the Ministry of Science and ICT, the Ministry of Trade, Industry \nand Energy, the Ministry of Health & Welfare, the Ministry of Food and Drug Safety) , \nRepublic of Korea (No. RS-2022-00141473). \n \nReferences \n[1] Park S. S., and Lee K. C. The Journal of Korean Institute of Informa tion \nTechnology, 16(4), 1-9 (2018) \n \nKeywords: Emotional state prediction, RandomForest, Accelerometer,",
+  "char_count": 2703,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

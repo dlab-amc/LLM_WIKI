@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "be76a31e-fd95-41d3-af61-c27db65fb022",
+  "storage_root": "conference",
+  "relative_path": "2008__200807_온도변이가_PV와_HRV의_상관관계에_미치는_영향에_관한_연구.pdf",
+  "original_filename": "2008__200807_온도변이가_PV와_HRV의_상관관계에_미치는_영향에_관한_연구.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "온도변이가 PV와 HRV의 상관관계에 미치는 영향에 관한 연구",
+  "year": 2008,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2008-07-16",
+  "title_eng": "The Influence on Corelation between Photo-plethysmograph Variability and Heart Rate Variability by Temperature Variation",
+  "title_kor": "온도변이가 PV와 HRV의 상관관계에 미치는 영향에 관한 연구",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+    "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+    "29b4a04c-553f-425b-8c75-fe90aca718b7",
+    "ed205265-0d1b-46cd-8449-42395ab1bed1",
+    "4a05a292-1a5b-4577-91ff-87da330a9358"
+  ],
+  "has_extract": true
+}

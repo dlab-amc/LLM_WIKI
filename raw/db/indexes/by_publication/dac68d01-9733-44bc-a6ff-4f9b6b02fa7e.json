@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "dac68d01-9733-44bc-a6ff-4f9b6b02fa7e",
+  "storage_root": "conference",
+  "relative_path": "2023__202307_멀티뷰_심방이미지_기반_인공지능_모델을_사용한_심방세동_재발_예측.pdf",
+  "original_filename": "2023__202307_멀티뷰_심방이미지_기반_인공지능_모델을_사용한_심방세동_재발_예측.pdf",
+  "match_status": "matched",
+  "match_score": 0.9791,
+  "title_hint": "심방이미지 기반 인공지능 모델을 사용한 심방세동 재발 예측",
+  "year": 2023,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2023-07-12",
+  "title_eng": "Assessment of Atrial Fibrillation Recurrence Risk Using an Artificial Intelligence Model Based on Multiview Cardiac Images",
+  "title_kor": "멀티뷰 심방이미지 기반 인공지능 모델을 사용한 심방세동 재발 예측",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "ee05cb84-1386-49fe-bf89-d909093c9720",
+    "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

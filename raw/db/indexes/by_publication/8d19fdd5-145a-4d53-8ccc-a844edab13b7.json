@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "8d19fdd5-145a-4d53-8ccc-a844edab13b7",
+  "storage_root": "software",
+  "relative_path": "32__2020__202011_복수_사용자의_심박변이도_동시_계산_매트랩_그래픽유저인터페이스(MATLAB_GUI).pdf",
+  "original_filename": "32__2020__202011_복수_사용자의_심박변이도_동시_계산_매트랩_그래픽유저인터페이스(MATLAB_GUI).pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "32   복수 사용자의 심박변이도 동시 계산 매트랩 그래픽유저인터페이스(MATLAB GUI)",
+  "year": 2020,
+  "exists": true,
+  "category": "patent",
+  "class": "Registered SW",
+  "date": "2020-11-16",
+  "title_eng": "INDUSTRY FOUNDATION\\nOF CHONNAM NATIONAL UNIVERSITY",
+  "title_kor": "복수 사용자의 심박변이도 동시 계산 매트랩 그래픽유저인터페이스(MATLAB GUI)",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "77b4f02a-147a-4280-9045-69c05b9cecc5"
+  ],
+  "has_extract": true
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "d40f47c1-86ca-4a10-bc8c-f277574274d6",
+  "storage_root": "conference",
+  "relative_path": "2019__201905_맥파전달시간_기반_혈압_추정_모델_개발_동향.pdf",
+  "original_filename": "2019__201905_맥파전달시간_기반_혈압_추정_모델_개발_동향.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "맥파전달시간 기반 혈압 추정 모델 개발 동향",
+  "year": 2019,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2019-05-09",
+  "title_eng": "Trend of Blood Pressure Estimation Model based on Pulse Transit Time",
+  "title_kor": "맥파전달시간 기반 혈압 추정 모델 개발 동향",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "43a26ff6-46cb-4e1d-b2b2-a63b3c27495d",
+    "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+    "c4a8f31b-8dfd-444a-82e0-b91e0e1cf6ad",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

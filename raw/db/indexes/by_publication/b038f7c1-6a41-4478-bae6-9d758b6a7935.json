@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "b038f7c1-6a41-4478-bae6-9d758b6a7935",
+  "storage_root": "patent_filed",
+  "relative_path": "2014__201401_FINGER_MOTION_RECOGNITION_GLOVE_USING_CONDUCTIVE_MATERIALS_AND_METHOD_THE.pdf",
+  "original_filename": "2014__201401_FINGER_MOTION_RECOGNITION_GLOVE_USING_CONDUCTIVE_MATERIALS_AND_METHOD_THE.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "FINGER MOTION RECOGNITION GLOVE USING CONDUCTIVE MATERIALS AND METHOD THE",
+  "year": 2014,
+  "exists": true,
+  "category": "patent",
+  "class": "International",
+  "date": "2014-01-30",
+  "title_eng": "Finger motion recognition glove using conductive materials and method thereof",
+  "title_kor": "Finger motion recognition glove using conductive materials and method thereof",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+    "82571796-a65a-477c-8cbc-9496880f7749",
+    "a23af44c-15d6-4db1-a3f1-45bcdf51b3e4",
+    "85046567-bdc1-405e-8e6a-daefc301736a",
+    "d45f506d-da87-4f6d-a11e-6d652d5d3f6c"
+  ],
+  "has_extract": true
+}

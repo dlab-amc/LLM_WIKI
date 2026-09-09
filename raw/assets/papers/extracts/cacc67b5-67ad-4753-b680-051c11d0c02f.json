@@ -1,0 +1,20 @@
+{
+  "publication_id": "cacc67b5-67ad-4753-b680-051c11d0c02f",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "conference",
+    "relative_path": "2024__202406_폐쇄병동_환자_위치_모니터링_플랫폼_구축_사례.pdf",
+    "original_filename": "2024__202406_폐쇄병동_환자_위치_모니터링_플랫폼_구축_사례.pdf"
+  },
+  "title_eng": "Development of a Location Monitoring Platform for Inpatients within Closed Psychiatric Ward",
+  "title_kor": "폐쇄병동 환자 위치 모니터링 플랫폼 구축 사례",
+  "category": "conference",
+  "date": "2024-06-19",
+  "page_count": 8,
+  "pages_extracted": 1,
+  "abstract": null,
+  "keywords": [],
+  "first_pages_text": "대한의료정보학회는 논문의 초록만 제공하고 있음*",
+  "char_count": 26,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

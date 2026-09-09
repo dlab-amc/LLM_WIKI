@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "bdba12ce-ab86-4285-8d84-180fd9189006",
+  "storage_root": "conference",
+  "relative_path": "2024__202407_머신러닝을_사용한_진단검사_오류_감지.pdf",
+  "original_filename": "2024__202407_머신러닝을_사용한_진단검사_오류_감지.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "머신러닝을 사용한 진단검사 오류 감지",
+  "year": 2024,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2024-07-10",
+  "title_eng": "Error Detection in Laboratory Tests using Machine Learning",
+  "title_kor": "머신러닝을 사용한 진단검사 오류 감지",
+  "member_ids": [
+    "68590514c33c441ee93e9750",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+    "09e01f73-363a-4780-962e-969da9578ff9",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

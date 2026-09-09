@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "7e40d3eb-6f2f-4a45-9852-c3adf6e97cbb",
+  "storage_root": "software",
+  "relative_path": "18__2018__201809_맥파_신호의_박동별_수축기_및_이완기_분석_프로그램.pdf",
+  "original_filename": "18__2018__201809_맥파_신호의_박동별_수축기_및_이완기_분석_프로그램.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "18   맥파 신호의 박동별 수축기 및 이완기 분석 프로그램",
+  "year": 2018,
+  "exists": true,
+  "category": "patent",
+  "class": "Registered SW",
+  "date": "2018-09-10",
+  "title_eng": null,
+  "title_kor": "맥파 신호의 박동별 수축기 및 이완기 분석 프로그램",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "77b4f02a-147a-4280-9045-69c05b9cecc5"
+  ],
+  "has_extract": true
+}

@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "aae2974e-7859-424b-888f-51b56626143a",
+  "storage_root": "journal",
+  "relative_path": "2021__202105_Feasibility_of_a_Waistband-Type_Wireless_Wearable_Electrocardiogram_Monit.pdf",
+  "original_filename": "2021__202105_Feasibility_of_a_Waistband-Type_Wireless_Wearable_Electrocardiogram_Monit.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Feasibility of a Waistband-Type Wireless Wearable Electrocardiogram Monit",
+  "year": 2021,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2021-05-11",
+  "title_eng": "Feasibility of a Waistband-Type Wireless Wearable Electrocardiogram Monitoring System Based on a Textile Electrode: Development and Usability Study",
+  "title_kor": "Feasibility of a Waistband-Type Wireless Wearable Electrocardiogram Monitoring System Based on a Textile Electrode: Development and Usability Study",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "236e5d74-414b-4790-b358-619eda9557de",
+    "060492dd-a93e-46a6-bfbc-3cec066480c5",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

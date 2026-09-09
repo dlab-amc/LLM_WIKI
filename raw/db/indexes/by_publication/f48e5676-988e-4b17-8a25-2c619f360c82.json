@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "f48e5676-988e-4b17-8a25-2c619f360c82",
+  "storage_root": "conference",
+  "relative_path": "2015__201507_생체신호_기반_IoT_디퓨저_개발을_위한_기초연구.pdf",
+  "original_filename": "2015__201507_생체신호_기반_IoT_디퓨저_개발을_위한_기초연구.pdf",
+  "match_status": "matched",
+  "match_score": 0.8279,
+  "title_hint": "IoT 디퓨저 개발을 위한 기초연구",
+  "year": 2015,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2015-07-15",
+  "title_eng": "Preliminary Study of Biomedical Signal-based IoT Diffuser",
+  "title_kor": "생체신호 기반 IoT 디퓨저 개발을 위한 기초연구",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

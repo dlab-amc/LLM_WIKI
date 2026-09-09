@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "29824644-1d7f-412a-a28b-37a96b8d3609",
+  "storage_root": "software",
+  "relative_path": "06__2017__201705_준주기신호_극점_검출을_위한_MATLAB_함수.pdf",
+  "original_filename": "06__2017__201705_준주기신호_극점_검출을_위한_MATLAB_함수.pdf",
+  "match_status": "matched",
+  "match_score": 0.8568,
+  "title_hint": "06   준주기신호 극점 검출을 위한 MATLAB 함수",
+  "year": 2017,
+  "exists": true,
+  "category": "patent",
+  "class": "Registered SW",
+  "date": "2017-05-23",
+  "title_eng": null,
+  "title_kor": "준주기신호 극점 검출을 위한 MATLAB(매트랩) 함수",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

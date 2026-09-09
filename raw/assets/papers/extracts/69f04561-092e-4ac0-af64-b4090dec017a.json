@@ -1,0 +1,25 @@
+{
+  "publication_id": "69f04561-092e-4ac0-af64-b4090dec017a",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "conference",
+    "relative_path": "2023__202311_Deep_Learning_for_Tumor_Marker_Misidentification_Error_Detection_inter-ce.pdf",
+    "original_filename": "2023__202311_Deep_Learning_for_Tumor_Marker_Misidentification_Error_Detection_inter-ce.pdf"
+  },
+  "title_eng": "Deep Learning for Tumor Marker Misidentification Error Detection: inter-center model performance comparison",
+  "title_kor": "Deep Learning for Tumor Marker Misidentification Error Detection: inter-center model performance comparison",
+  "category": "conference",
+  "date": "2023-11-09",
+  "page_count": 1,
+  "pages_extracted": 1,
+  "abstract": "Deep Learning for Tumor Marker Misidentification Error Detection: \ninter-center model performance comparison \nHyeon Seok Seok1,3, Sollip Kim2 and Hangsik Shin3,* \n1Department of Biomedical Engineering, Graduated School, Chonnam National \nUniversity, Yeosu, Korea \n2Department of Laboratory Medicine, Asan Medical Center, University of Ulsan \nCollege of Medicine, Seoul, Korea \n3Department of Convergence Medicine, Asan Medical Center, University of Ulsan \nCollege of Medicine, Seoul, Korea",
+  "keywords": [
+    "Clinical Laboratory Tests",
+    "Deep Learning",
+    "Deep Neural Network",
+    "Delta"
+  ],
+  "first_pages_text": "Deep Learning for Tumor Marker Misidentification Error Detection: \ninter-center model performance comparison \nHyeon Seok Seok1,3, Sollip Kim2 and Hangsik Shin3,* \n1Department of Biomedical Engineering, Graduated School, Chonnam National \nUniversity, Yeosu, Korea \n2Department of Laboratory Medicine, Asan Medical Center, University of Ulsan \nCollege of Medicine, Seoul, Korea \n3Department of Convergence Medicine, Asan Medical Center, University of Ulsan \nCollege of Medicine, Seoul, Korea \n \n*E-mail: hangsik.shin@amc.seoul.kr \n \nAccurate tumor marker testing is crucial for cancer diagnosis and treatment. However, \npreanalytical errors, such as sample misidentification, can occur during the laboratory \ntests process. While the delta check method has been used to detect such errors, it is \nstill difficult to implement their own delta check method except in large hospitals [1]. \nThis study aim to develop deep neural network (DNN) model to detect sample detect \nmisidentification error and to validate compared with conventional delta check method \nsuch as DPC and absDPC [2]. We collected clinical laboratory tests data from Asan \nMedical Center, Haeundae Paik Hospital, Pusan National University Hospital , and \nIlsan Paik Hospital, including 181,211, 26,082, 27,064, and 7,338 previous and current \npaired results of AFP tumor markers, respectively. DNN models and conventional delta \ncheck models were developed for each hospital, and DNN models were trained wit h \na development dataset simulated with 1% of misidentification error rate. All developed \nmodels were evaluated using independently simulated dataset with 1% of random \nsample misidentification error, and average detection performance was calculated by \n100 times of repetitions. As a result, the DNN models developed for each hospital \ndemonstrated superior performance with accuracies of 0.820, 0.713, 0.788, and 0.806, \nrespectively, compared to the conventional delta check methods; DPC (0.779, 0.691, \n0.741, 0.759), absDPC (0.758, 0.665, 0.739, 0.758). \n \nAcknowledgement : This research was supported by the Korea Medical Device \nDevelopment Fund grant funded by the Korea government (RS-2022-00141473), and \nthe Asan Institute for Life Sciences, Asan Medical Center (2023IP003 9-1), all in the \nSouth Korea \n \nReferences \n[1] Park, S. H. et al. Annals of laboratory medicine 32, 345-354 (2012) \n[2] Yu, S. et al. Clinical Chemistry and Laboratory Medicine 61, 1829 (2023) \n \nKeywords: Clinical Laboratory Tests, Deep Learning, Deep Neural Network, Delta \nCheck, Tumor marker, Sample Misidentification Error Detection",
+  "char_count": 2598,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

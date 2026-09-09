@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "5d080268-29b1-4c5f-a238-715923b8452a",
+  "storage_root": "journal",
+  "relative_path": "2012__201210_Application_of_Arrhythmia_Simulation_Modeling_on_Catheter_Ablation_of_Fib.pdf",
+  "original_filename": "2012__201210_Application_of_Arrhythmia_Simulation_Modeling_on_Catheter_Ablation_of_Fib.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Application of Arrhythmia Simulation Modeling on Catheter Ablation of Fib",
+  "year": 2012,
+  "exists": true,
+  "category": "journal",
+  "class": "None",
+  "date": "2012-10-01",
+  "title_eng": "Application of Arrhythmia Simulation Modeling on Catheter Ablation of Fibrillation",
+  "title_kor": "Application of Arrhythmia Simulation Modeling on Catheter Ablation of Fibrillation",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+    "8b172b30-0a97-412a-9d45-bb3edbb82f16",
+    "2883f978-84ac-4c9c-834b-0bacbda6dcba"
+  ],
+  "has_extract": true
+}

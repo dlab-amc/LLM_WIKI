@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "7bfaf659-427e-4995-9abc-e72c2e15110c",
+  "storage_root": "conference",
+  "relative_path": "2005__200510_Intracardiac_Signal의_스펙트럼_분석을_통한_Atrium_Tachycardia_및_Fibrillation_검출.pdf",
+  "original_filename": "2005__200510_Intracardiac_Signal의_스펙트럼_분석을_통한_Atrium_Tachycardia_및_Fibrillation_검출.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "Intracardiac Signal의 스펙트럼 분석을 통한 Atrium Tachycardia 및 Fibrillation 검출",
+  "year": 2005,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2005-10-28",
+  "title_eng": "Detection of atrial tachycardia and fibrillation using spectrum analysis of intracardiac signal",
+  "title_kor": "Intracardiac Signal의 스펙트럼 분석을 통한 Atrium Tachycardia 및 Fibrillation 검출",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+    "29b4a04c-553f-425b-8c75-fe90aca718b7",
+    "b791b76d-98f1-494b-b426-4f745e088d64",
+    "4a05a292-1a5b-4577-91ff-87da330a9358"
+  ],
+  "has_extract": true
+}

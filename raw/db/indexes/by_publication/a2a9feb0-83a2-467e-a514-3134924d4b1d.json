@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "a2a9feb0-83a2-467e-a514-3134924d4b1d",
+  "storage_root": "conference",
+  "relative_path": "2019__201907_Design_of_Strip-type_Force_Sensor_Interfacing_Circuit_for_Body_Movement_d.pdf",
+  "original_filename": "2019__201907_Design_of_Strip-type_Force_Sensor_Interfacing_Circuit_for_Body_Movement_d.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Design of Strip-type Force Sensor Interfacing Circuit for Body Movement d",
+  "year": 2019,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2019-07-23",
+  "title_eng": "Design of Strip-type Force Sensor Interfacing Circuit for Body Movement during Sleep Study",
+  "title_kor": "Design of Strip-type Force Sensor Interfacing Circuit for Body Movement during Sleep Study",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "bf76d3a1-2d07-4cb4-aadc-a23a9833da19"
+  ],
+  "has_extract": true
+}

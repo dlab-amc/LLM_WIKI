@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "96280732-8cb3-431a-a80a-460ec293bc1b",
+  "storage_root": "software",
+  "relative_path": "28__2019__201908_SF36(건강관련삶의질_평가도구)설문_평가를_위한_플래시카드형_안드로이드_어플리케이션.pdf",
+  "original_filename": "28__2019__201908_SF36(건강관련삶의질_평가도구)설문_평가를_위한_플래시카드형_안드로이드_어플리케이션.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "28   SF36(건강관련삶의질 평가도구)설문 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+  "year": 2019,
+  "exists": true,
+  "category": "patent",
+  "class": "Registered SW",
+  "date": "2019-08-12",
+  "title_eng": null,
+  "title_kor": "SF36(건강관련삶의질 평가도구)설문 평가를 위한 플래시카드형 안드로이드 어플리케이션",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "77b4f02a-147a-4280-9045-69c05b9cecc5"
+  ],
+  "has_extract": true
+}

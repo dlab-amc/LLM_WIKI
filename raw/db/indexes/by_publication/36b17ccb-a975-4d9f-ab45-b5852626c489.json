@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "36b17ccb-a975-4d9f-ab45-b5852626c489",
+  "storage_root": "journal",
+  "relative_path": "2012__201203_Transfer_Function_Estimates_in_Derived_Respiration_Analysis_Retrograde_St.pdf",
+  "original_filename": "2012__201203_Transfer_Function_Estimates_in_Derived_Respiration_Analysis_Retrograde_St.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Transfer Function Estimates in Derived Respiration Analysis Retrograde St",
+  "year": 2012,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2012-03-01",
+  "title_eng": "Transfer Function Estimates in Derived Respiration Analysis: Retrograde Study of the Respiratory Drive Mechanism",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "217b41fd-c1f3-49f4-a392-08f96ab15d9e"
+  ],
+  "has_extract": true
+}

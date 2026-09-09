@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "bbf6b105-f35f-40ac-a8dc-ee9b859e0925",
+  "storage_root": "journal",
+  "relative_path": "2020__202004_Performance_of_the_nasal_photoplethysmographic_index_as_an_analgesic_inde.pdf",
+  "original_filename": "2020__202004_Performance_of_the_nasal_photoplethysmographic_index_as_an_analgesic_inde.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Performance of the nasal photoplethysmographic index as an analgesic inde",
+  "year": 2020,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2020-04-28",
+  "title_eng": "Performance of the nasal photoplethysmographic index as an analgesic index during surgery under general anaesthesia",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "dab95ccb-7d79-46ed-906e-901b173ebbf9",
+    "b0ea1f33-2fbe-46ea-b11a-a066b9545248",
+    "b4b26edd-ac6d-4f6f-89a8-eaad04895be7",
+    "b1acb102-efb3-4d63-9fcf-4132379fc1b4",
+    "082f270f-0c9c-49c4-b469-28f02bd990a7",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "1f01825b-bf1d-4c2b-b46d-03f7dc16d1eb",
+    "3ae96e51-111a-489e-9a0e-76b9b2acff26",
+    "7be1c49b-bdba-4671-9a5a-3e623e45b043"
+  ],
+  "has_extract": true
+}

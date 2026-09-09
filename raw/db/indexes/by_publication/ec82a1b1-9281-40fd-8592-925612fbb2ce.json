@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "ec82a1b1-9281-40fd-8592-925612fbb2ce",
+  "storage_root": "journal",
+  "relative_path": "2023__202303_Practical_delta_check_limits_for_tumour_markers_in_different_clinical_set.pdf",
+  "original_filename": "2023__202303_Practical_delta_check_limits_for_tumour_markers_in_different_clinical_set.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Practical delta check limits for tumour markers in different clinical set",
+  "year": 2023,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2023-03-31",
+  "title_eng": "Practical delta check limits for tumour markers in different clinical settings",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "8613a1b2-bbb5-4423-a09d-2a31402f86d3",
+    "06cd217f-5f4c-49af-9cf4-1666a5f30674",
+    "16dd67b1-53a2-4a77-b15d-d4846f5f7043",
+    "88a8d1f1-ccaa-414a-8af5-5661ce11128c",
+    "1032d1e7-0873-4e7a-b488-195b22293db1",
+    "58889578-5052-4cbc-8c74-b3ee12d9b36a",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "09e01f73-363a-4780-962e-969da9578ff9"
+  ],
+  "has_extract": true
+}

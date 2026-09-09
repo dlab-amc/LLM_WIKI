@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "feb892cd-2b11-4266-9f2a-05ed8ea65f0f",
+  "storage_root": "patent_filed",
+  "relative_path": "2012__201203_플로팅_사용자_인터페이스_제공_장치_및_방법.pdf",
+  "original_filename": "2012__201203_플로팅_사용자_인터페이스_제공_장치_및_방법.pdf",
+  "match_status": "matched",
+  "match_score": 0.806,
+  "title_hint": "인터페이스 제공 장치 및 방법",
+  "year": 2012,
+  "exists": true,
+  "category": "patent",
+  "class": "Domestic",
+  "date": "2012-03-23",
+  "title_eng": "Device and method for providing floating user interface",
+  "title_kor": "플로팅 사용자 인터페이스 제공 장치 및 방법",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "82571796-a65a-477c-8cbc-9496880f7749",
+    "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+    "7e245481-d9e7-4e64-b771-18739a464f6d"
+  ],
+  "has_extract": true
+}

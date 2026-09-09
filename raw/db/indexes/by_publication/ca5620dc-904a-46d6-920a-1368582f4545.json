@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "ca5620dc-904a-46d6-920a-1368582f4545",
+  "storage_root": "conference",
+  "relative_path": "2022__202207_단기간_심전도를_사용한_1D-CNN_기반_심방세동_환자_평가.pdf",
+  "original_filename": "2022__202207_단기간_심전도를_사용한_1D-CNN_기반_심방세동_환자_평가.pdf",
+  "match_status": "matched",
+  "match_score": 0.8271,
+  "title_hint": "사용한 1D-CNN 기반 심방세동 환자 평가",
+  "year": 2022,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2022-07-13",
+  "title_eng": "Atrial Fibrillation Patients Assessment Based on One-Dimensional Convolutional Neural Network Using Short-term Electrocardiogram",
+  "title_kor": "단기간 심전도를 사용한 1D-CNN 기반 심방세동 환자 평가",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

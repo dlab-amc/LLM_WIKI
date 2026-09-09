@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "e16d9e8d-89ad-4fc1-95a3-355fe9c096b4",
+  "storage_root": "conference",
+  "relative_path": "2014__201412_Unconstrained_Continuous_Infants_Monitoring_System_Based_on_Mattress-Type.pdf",
+  "original_filename": "2014__201412_Unconstrained_Continuous_Infants_Monitoring_System_Based_on_Mattress-Type.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Unconstrained Continuous Infants Monitoring System Based on Mattress-Type",
+  "year": 2014,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2014-12-17",
+  "title_eng": "Unconstrained Continuous Infants Monitoring System Based on Mattress-Type Force Sensing Platform: A Pilot Study",
+  "title_kor": "Unconstrained Continuous Infants Monitoring System Based on Mattress-Type Force Sensing Platform: A Pilot Study",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "61b392cd-d5bd-4eec-869c-bf42a8a8f02a",
+    "3efe4411-248c-4a1c-a344-c4b6ea512ffb"
+  ],
+  "has_extract": true
+}

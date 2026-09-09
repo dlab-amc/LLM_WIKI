@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "52299952-e5e3-4fec-9706-ce91a8ac54f4",
+  "storage_root": "patent_filed",
+  "relative_path": "2013__201305_외부_기기_관리_방법_외부_기기의_동작_방법_호스트_단말_관리_서버_및_외부_기기.pdf",
+  "original_filename": "2013__201305_외부_기기_관리_방법_외부_기기의_동작_방법_호스트_단말_관리_서버_및_외부_기기.pdf",
+  "match_status": "matched",
+  "match_score": 0.9801,
+  "title_hint": "관리 방법 외부 기기의 동작 방법 호스트 단말 관리 서버 및 외부 기기",
+  "year": 2013,
+  "exists": true,
+  "category": "patent",
+  "class": "Domestic",
+  "date": "2013-05-09",
+  "title_eng": "Method for managing of external devices, method for operating of an external device, host device, management server, and the external device",
+  "title_kor": "외부 기기 관리 방법, 외부 기기의 동작 방법, 호스트 단말, 관리 서버 및 외부 기기",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

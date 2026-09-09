@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "3ff4561f-7c9d-4cf7-b537-dbf53d00268e",
+  "storage_root": "conference",
+  "relative_path": "2015__201511_An_Effect_of_the_Sampling_Frequency_to_the_Pulse_Rate_Variability_Analysi.pdf",
+  "original_filename": "2015__201511_An_Effect_of_the_Sampling_Frequency_to_the_Pulse_Rate_Variability_Analysi.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "An Effect of the Sampling Frequency to the Pulse Rate Variability Analysi",
+  "year": 2015,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2015-11-12",
+  "title_eng": "An Effect of the Sampling Frequency to the Pulse Rate Variability Analysis",
+  "title_kor": "An Effect of the Sampling Frequency to the Pulse Rate Variability Analysis",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "c19103dc-ca53-4d92-99fb-ae9dc7bda9ce"
+  ],
+  "has_extract": true
+}

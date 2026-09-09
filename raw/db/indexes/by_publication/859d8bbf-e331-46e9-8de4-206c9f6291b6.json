@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "859d8bbf-e331-46e9-8de4-206c9f6291b6",
+  "storage_root": "conference",
+  "relative_path": "2024__202407_Identify_Pre-Frailty_Among_the_Elderly_Using_Demographic_Physical_Functio.pdf",
+  "original_filename": "2024__202407_Identify_Pre-Frailty_Among_the_Elderly_Using_Demographic_Physical_Functio.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Identify Pre-Frailty Among the Elderly Using Demographic Physical Functio",
+  "year": 2024,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2024-07-15",
+  "title_eng": "Identify Pre-Frailty Among the Elderly Using Demographic, Physical Function, and Gait Data",
+  "title_kor": "인구학적 정보, 신체기능 및 보행데이터를 이용한 전노쇠 식별",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "ad98337a-712a-4d40-a163-4ac540834245",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

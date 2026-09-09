@@ -5,6 +5,25 @@
   "count": 2,
   "publications": [
     {
+      "id": "d6cfd18f-83ec-444e-a8cb-1ff5514ab9f2",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Design and Implementation of a Wearable-Based Patient Monitoring System in a Closed-Network Hospital Environment",
+      "title_kor": "폐쇄망 환경에서의 웨어러블 기반 병동 모니터링 시스템 설계 및 구현",
+      "author_kor": "남윤찬; 강주현; 이연진; 김희영; 신항식",
+      "author_eng": "Yunchan Nam; Juhyeon Kang; Yeonjin Lee; Heeyoung Kim; Hangsik Shin",
+      "author_ids": [
+        "8e349a5d-83ae-4b77-881c-26d384d25a86",
+        "5fd4da55-6e2b-4776-999f-172029c3c1e1",
+        "5443481d-379f-4af6-8ef2-1d61bd2dfbe8",
+        "b2164403-05f7-400c-bad4-3dcdec5e9c77",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
       "id": "eac5ba27-d43a-430f-81bf-49f7c6ab8d7c",
       "category": "conference",
       "class": "Domestic",
@@ -21,24 +40,17 @@
         "b2164403-05f7-400c-bad4-3dcdec5e9c77",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2026"
-    },
-    {
-      "id": "d6cfd18f-83ec-444e-a8cb-1ff5514ab9f2",
-      "category": "award",
-      "date": "2026-05-09",
-      "title_eng": "Design and Implementation of a Wearable-Based Patient Monitoring System in a Closed-Network Hospital Environment",
-      "title_kor": "폐쇄망 환경에서의 웨어러블 기반 병동 모니터링 시스템 설계 및 구현",
-      "author_kor": "남윤찬; 강주현; 이연진; 김희영; 신항식",
-      "author_eng": "Yunchan Nam; Juhyeon Kang; Yeonjin Lee; Heeyoung Kim; Hangsik Shin",
-      "author_ids": [
-        "8e349a5d-83ae-4b77-881c-26d384d25a86",
-        "5fd4da55-6e2b-4776-999f-172029c3c1e1",
-        "5443481d-379f-4af6-8ef2-1d61bd2dfbe8",
-        "b2164403-05f7-400c-bad4-3dcdec5e9c77",
-        "189de491-3424-4bf3-bb66-26bd0667ed24"
-      ],
-      "year_resolved": "2026"
+      "year_resolved": "2026",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "0000__남윤찬_폐쇄망_환경에서의_웨어러블_기반_병동_모니터링_시스템_설계_및_구현.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     }
-  ]
+  ],
+  "pdf_linked": 1,
+  "extract_linked": 1,
+  "updated_pdf_index": "2026-09-09"
 }

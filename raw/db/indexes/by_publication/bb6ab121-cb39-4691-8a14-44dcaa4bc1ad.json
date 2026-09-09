@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "bb6ab121-cb39-4691-8a14-44dcaa4bc1ad",
+  "storage_root": "journal",
+  "relative_path": "2014__201406_Robust_Sleep_Quality_Quantification_Method_for_a_Personal_Handheld_Device.pdf",
+  "original_filename": "2014__201406_Robust_Sleep_Quality_Quantification_Method_for_a_Personal_Handheld_Device.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "Robust Sleep Quality Quantification Method for a Personal Handheld Device",
+  "year": 2014,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2014-06-01",
+  "title_eng": "Robust Sleep Quality Quantification Method for a Personal Handheld Device",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "e7bc9883-59e1-41b1-a52a-2a0407f076af",
+    "1aa78e02-fa57-4317-945c-b846367dc178",
+    "d34f5857-264d-403b-a59f-be03ad383be3"
+  ],
+  "has_extract": true
+}

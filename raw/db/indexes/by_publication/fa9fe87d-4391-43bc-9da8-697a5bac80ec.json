@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "fa9fe87d-4391-43bc-9da8-697a5bac80ec",
+  "storage_root": "software",
+  "relative_path": "09__2017__201711_다파장_광용적맥파_데이터_수집_및_표시를_위한_프로그램.pdf",
+  "original_filename": "09__2017__201711_다파장_광용적맥파_데이터_수집_및_표시를_위한_프로그램.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "09   다파장 광용적맥파 데이터 수집 및 표시를 위한 프로그램",
+  "year": 2017,
+  "exists": true,
+  "category": "patent",
+  "class": "Registered SW",
+  "date": "2017-11-22",
+  "title_eng": null,
+  "title_kor": "다파장 광용적맥파 데이터 수집 및 표시를 위한 프로그램",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "b438a16a-5733-4601-b886-e6e78bce2fae",
+    "3b335d90-63e6-40ce-800a-493f4f2beff1"
+  ],
+  "has_extract": true
+}

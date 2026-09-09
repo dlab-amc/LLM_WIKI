@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "073fb747-b728-44fe-b000-4a9bba6c199d",
+  "storage_root": "patent_registered",
+  "relative_path": "2018__201808_10-1888650_애플리케이션_실행_방법_및_이를_위한_단말.pdf",
+  "original_filename": "2018__201808_10-1888650_애플리케이션_실행_방법_및_이를_위한_단말.pdf",
+  "match_status": "matched",
+  "match_score": 0.8951,
+  "title_hint": "10-1888650 애플리케이션 실행 방법 및 이를 위한 단말",
+  "year": 2018,
+  "exists": true,
+  "category": "patent",
+  "class": "Domestic",
+  "date": "2018-08-08",
+  "title_eng": "Method for executing application and terminal thereof",
+  "title_kor": "애플리케이션 실행 방법 및 이를 위한 단말",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "41bbe0f3-f155-4bb2-a22f-d2106213de84",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "2007f9fb-8815-47e6-aa2a-becfbaf8b2f1"
+  ],
+  "has_extract": true
+}

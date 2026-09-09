@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "e3ba3ebc-cf7b-4844-bb32-2e2af0e4f34d",
+  "storage_root": "conference",
+  "relative_path": "2015__201508_Feasibility_Study_of_the_Respiratory_Activity_Monitoring_based_on_Acceler.pdf",
+  "original_filename": "2015__201508_Feasibility_Study_of_the_Respiratory_Activity_Monitoring_based_on_Acceler.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Feasibility Study of the Respiratory Activity Monitoring based on Acceler",
+  "year": 2015,
+  "exists": true,
+  "category": "conference",
+  "class": "International",
+  "date": "2015-08-25",
+  "title_eng": "Feasibility Study of the Respiratory Activity Monitoring based on Acceleration and Pressure Measurement Inside Pillow",
+  "title_kor": "Feasibility Study of the Respiratory Activity Monitoring based on Acceleration and Pressure Measurement Inside Pillow",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

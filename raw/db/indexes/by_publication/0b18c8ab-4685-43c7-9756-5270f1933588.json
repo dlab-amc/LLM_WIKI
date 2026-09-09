@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "0b18c8ab-4685-43c7-9756-5270f1933588",
+  "storage_root": "conference",
+  "relative_path": "2019__201905_양자화_레벨에_따른_맥박변이도_변화_고찰.pdf",
+  "original_filename": "2019__201905_양자화_레벨에_따른_맥박변이도_변화_고찰.pdf",
+  "match_status": "matched",
+  "match_score": 0.7787,
+  "title_hint": "따른 맥박변이도 변화 고찰",
+  "year": 2019,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2019-05-09",
+  "title_eng": "Investigation of Pulse Rate Variability Changes by Quantization Level",
+  "title_kor": "양자화 레벨에 따른 맥박변이도 변화 고찰",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

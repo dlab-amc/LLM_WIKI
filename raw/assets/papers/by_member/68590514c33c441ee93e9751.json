@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "member_id": "68590514c33c441ee93e9751",
+  "member_name_kor": "이건",
+  "author_id": "75bef458-47fc-43ad-9bdb-f934cbb66beb",
+  "count": 8,
+  "pdf_linked": 3,
+  "extract_linked": 3,
+  "publications": [
+    {
+      "id": "e3ce2af3-eb83-4a42-8119-8d75ef6a17ac",
+      "category": "journal",
+      "date": "2026-07-31",
+      "title_eng": "Multitask learning-based phonocardiogram denoising model for preserving valvular heart disease characteristics",
+      "title_kor": null,
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "134eb3df-b4e6-437b-adbe-729566353474",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Evaluation of MedGemma 1.5-4B for Lymph Node Metastasis Prediction in Intrahepatic Cholangiocarcinoma",
+      "title_kor": "간내 담관암 림프절 전이 예측에서 MedGemma 1.5-4B의 활용 가능성 평가",
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "34089715-f049-42ae-a9da-1225439e002a",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Deep Learning-based Prediction of Lymph Node Metastasis in Cholangiocarcinoma through Fusion of 3D PET/CT Imaging and Clinical Data",
+      "title_kor": "3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측",
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "92bae902-8be2-4c2d-9da6-5dc1164f9ba9",
+      "category": "conference",
+      "date": "2026-05-07",
+      "title_eng": "Evaluation of MedGemma 1.5-4B for Lymph Node Metastasis Prediction in Intrahepatic Cholangiocarcinoma",
+      "title_kor": "간내 담관암 림프절 전이 예측에서 MedGemma 1.5-4B의 활용 가능성 평가",
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "16c444f7-bf32-4cfa-b971-e9dd9ab1b633",
+      "category": "conference",
+      "date": "2026-05-07",
+      "title_eng": "Deep Learning-based Prediction of Lymph Node Metastasis in Cholangiocarcinoma through Fusion of 3D PET/CT Imaging and Clinical Data",
+      "title_kor": "3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측",
+      "year_resolved": "2026",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "0000__이건_3D_PET_CT_영상_및_임상_데이터_융합을_통한_딥러닝_기반_담관암_림프절_전이_예측.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "6f87124d-c4cc-44ad-a2ec-f3f99f170ef6",
+      "category": "conference",
+      "date": "2025-11-06",
+      "title_eng": "Robust Cardiopulmonary Sound Denoising through Physiological and Environmental Noise Augmentation",
+      "title_kor": "생리학적 및 환경적 잡음 증강을 통한 강건한 심폐음 잡음 제거 방법",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "b928a941-79da-4486-b9f0-02b3b6e86c9a",
+      "category": "conference",
+      "date": "2025-05-08",
+      "title_eng": "Feasibility of Photoplethysmogram for Mental Fatigue Assessment",
+      "title_kor": "광용적맥파 기반 정신적 피로 평가 가능성 연구",
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202505_석현석_광용적맥파_기반_정신적_피로_평가_가능성_연구.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "de12c5fc-c597-4ab9-bc3b-c686f3c1e7ff",
+      "category": "conference",
+      "date": "2025-05-08",
+      "title_eng": "Development of a Multi-Task Learning–Based Phonocardiogram Denoising Model for  Considering Heart Murmurs",
+      "title_kor": "다중 작업 학습 기반 심잡음 특징 반영 심음도 잡음 제거 모델 개발",
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202505_이건_다중_작업_학습_기반_심잡음_특징_반영_심음도_잡음_제거_모델_개발.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    }
+  ],
+  "fast_path": "Recent PDF content: open extracts/<id>.json for pubs with has_extract=true. Do not scan manifest.json or DATA/."
+}

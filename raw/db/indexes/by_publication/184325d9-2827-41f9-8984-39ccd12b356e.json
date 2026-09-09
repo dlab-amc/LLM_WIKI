@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "184325d9-2827-41f9-8984-39ccd12b356e",
+  "storage_root": "conference",
+  "relative_path": "2021__202107_감정_자극으로_유발되는_자율신경활동에_따른_광용적맥파_파형_변화_고찰.pdf",
+  "original_filename": "2021__202107_감정_자극으로_유발되는_자율신경활동에_따른_광용적맥파_파형_변화_고찰.pdf",
+  "match_status": "matched",
+  "match_score": 0.9133,
+  "title_hint": "유발되는 자율신경활동에 따른 광용적맥파 파형 변화 고찰",
+  "year": 2021,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2021-07-14",
+  "title_eng": "Investigation of changes in ANS activity through PPG morphological changes according to emotional video stimulation",
+  "title_kor": "감정 자극으로 유발되는 자율신경활동에 따른 광용적맥파 파형 변화 고찰",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

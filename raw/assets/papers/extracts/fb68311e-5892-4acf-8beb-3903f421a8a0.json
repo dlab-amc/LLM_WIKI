@@ -1,0 +1,20 @@
+{
+  "publication_id": "fb68311e-5892-4acf-8beb-3903f421a8a0",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "software",
+    "relative_path": "40__2023__202312_이소성_박동_교정_프로그램.pdf",
+    "original_filename": "40__2023__202312_이소성_박동_교정_프로그램.pdf"
+  },
+  "title_eng": "A program for correcting ectopic heart beat",
+  "title_kor": "이소성 박동 교정 프로그램",
+  "category": "patent",
+  "date": "2023-12-15",
+  "page_count": 2,
+  "pages_extracted": 0,
+  "abstract": null,
+  "keywords": [],
+  "first_pages_text": "",
+  "char_count": 0,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

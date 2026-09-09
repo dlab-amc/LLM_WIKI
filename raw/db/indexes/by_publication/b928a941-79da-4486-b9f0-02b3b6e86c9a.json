@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "b928a941-79da-4486-b9f0-02b3b6e86c9a",
+  "storage_root": "conference",
+  "relative_path": "2025__202505_석현석_광용적맥파_기반_정신적_피로_평가_가능성_연구.pdf",
+  "original_filename": "2025__202505_석현석_광용적맥파_기반_정신적_피로_평가_가능성_연구.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "광용적맥파 기반 정신적 피로 평가 가능성 연구",
+  "year": 2025,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2025-05-08",
+  "title_eng": "Feasibility of Photoplethysmogram for Mental Fatigue Assessment",
+  "title_kor": "광용적맥파 기반 정신적 피로 평가 가능성 연구",
+  "member_ids": [
+    "68590514c33c441ee93e9751",
+    "68590514c33c441ee93e974a",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "77b4f02a-147a-4280-9045-69c05b9cecc5",
+    "75bef458-47fc-43ad-9bdb-f934cbb66beb",
+    "17ff8154-0d9f-4486-abd7-b34e64268d87",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

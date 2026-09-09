@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "e401d263-72e8-4304-a79d-d829488b7d8d",
+  "storage_root": "patent_filed",
+  "relative_path": "2023__202312_시설_내_대상자_모니터링_시스템.pdf",
+  "original_filename": "2023__202312_시설_내_대상자_모니터링_시스템.pdf",
+  "match_status": "matched",
+  "match_score": 0.9267,
+  "title_hint": "내 대상자 모니터링 시스템",
+  "year": 2023,
+  "exists": true,
+  "category": "patent",
+  "class": "Domestic",
+  "date": "2023-12-29",
+  "title_eng": "monitoring system for people in the facility",
+  "title_kor": "시설 내 대상자 모니터링 시스템",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "ad98337a-712a-4d40-a163-4ac540834245",
+    "95c4fbbb-c06a-4457-8f76-5db67ee40176",
+    "140e3b05-97fa-4c63-a649-9dc6aa692776",
+    "e556ed57-f679-4685-a592-767ec3a64f46"
+  ],
+  "has_extract": true
+}

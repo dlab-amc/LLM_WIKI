@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "44a321e3-776e-46d6-b869-4bf5cc573676",
+  "storage_root": "conference",
+  "relative_path": "2019__201905_분석_시간구간에_따른_분당_심박수_추정_정확도_연구.pdf",
+  "original_filename": "2019__201905_분석_시간구간에_따른_분당_심박수_추정_정확도_연구.pdf",
+  "match_status": "matched",
+  "match_score": 0.985,
+  "title_hint": "시간구간에 따른 분당 심박수 추정 정확도 연구",
+  "year": 2019,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2019-05-09",
+  "title_eng": "Beats Per Minute Accuracy in Heart Rate Estimation according to the Analysis Time Interval",
+  "title_kor": "분석 시간구간에 따른 분당 심박수 추정 정확도 연구",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "293d1c07-fac9-4d7f-824c-972a42b4f432",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

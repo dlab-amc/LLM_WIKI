@@ -1,0 +1,20 @@
+{
+  "publication_id": "e8b85116-926b-4055-9ae0-fe4af72bd951",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "conference",
+    "relative_path": "2008__200804_부정맥_환자의_진단_및_치료를_위한_ICD_알고리즘_및_시뮬레이터_구현.pdf",
+    "original_filename": "2008__200804_부정맥_환자의_진단_및_치료를_위한_ICD_알고리즘_및_시뮬레이터_구현.pdf"
+  },
+  "title_eng": "Implementation of ICD(Implantable Cardioverter Defibrillator) Algorithm and Simulator for Detecting and Treatment of Patient with Arrhythmia",
+  "title_kor": "부정맥 환자의 진단 및 치료를 위한 ICD 알고리즘 및 시뮬레이터 구현",
+  "category": "conference",
+  "date": "2008-04-25",
+  "page_count": 6,
+  "pages_extracted": 1,
+  "abstract": "부정맥 환자의 진단 및 치료를 위한 ICD 알고리즘 및 시뮬레이터 구현\nImplementation of ICD(Implantable Cardioverter Defibrillator) Algorithm and Simulator for Detecting and Treatment of Patient with\nArrhythmia\n저자\n(Authors)\n신광수, 김진권, 신항식, 이충근, 이명호\n K. S. Shin, J. K. Kim, H. S. Shin, C. K. Lee, M. H. Lee\n출처\n(Source)\n정보 및 제어 논문집 , 2008.4, 127-128(2 pages)\nINFORMATION AND CONTROL SYMPOSIUM , 2008.4, 127-128(2 pages)\n발행처\n(Publisher)\n대한전기학회\nThe Korean Institute of Electrical Engineers\nURL http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01337721\nAPA Style 신광수, 김진권, 신항식, 이충근, 이명호 (2008). 부정맥 환자의 진단 및 치료를 위한 ICD 알고리즘 및 시뮬레이\n터 구현. 정보 및 제어 논문집, 127-128\n이용정보\n(Accessed)\n저작권 안내\nDBpia에서 제공되는 모든 저작물의 저작권은 원저작자에게 있으며, 누리미디어는 각 저작물의 내용을 보증하거나 책임을 지지 않습니다. 그리고 DBpia에\n서 제공되는 저작물은 DBpia와 구독계약을 체결한 기관소속 이용자 혹은 해당 저작물의 개별 구매자가 비영리적으로만 이용할 수 있습니다. 그러므로 이에\n위반하여 DBpia에서 제공되는 저작물을 복제, 전송 등의 방법으로 무단 이용하는 경우 관련 법령에 따라 민, 형사상의 책임을 질 수 있습니다.\nCopyright Information\nCopyright of all literary works provided by DBpia belongs to the copyright holder(s)and Nurimedia does not guarantee contents of the literary work\nor assume responsibility for the same. In addition, the literary works provided by DBpia may only be used by the users affiliated to the institutions\nwhich executed a subscription agreement with DBpia or the individual purchasers of the literary work(s)for non-commercial purposes. Therefore,\nany person who illegally uses the literary works provided by DBpia by means of reproduction or transmission shall assume civil and criminal\nresponsibility according to applicable laws and regulations.\n전남대학교 여수캠퍼스\n168.***.226.118\n2020/03/12 14:18 (KST)",
+  "keywords": [],
+  "first_pages_text": "부정맥 환자의 진단 및 치료를 위한 ICD 알고리즘 및 시뮬레이터 구현\nImplementation of ICD(Implantable Cardioverter Defibrillator) Algorithm and Simulator for Detecting and Treatment of Patient with\nArrhythmia\n저자\n(Authors)\n신광수, 김진권, 신항식, 이충근, 이명호\n K. S. Shin, J. K. Kim, H. S. Shin, C. K. Lee, M. H. Lee\n출처\n(Source)\n정보 및 제어 논문집 , 2008.4, 127-128(2 pages)\nINFORMATION AND CONTROL SYMPOSIUM , 2008.4, 127-128(2 pages)\n발행처\n(Publisher)\n대한전기학회\nThe Korean Institute of Electrical Engineers\nURL http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01337721\nAPA Style 신광수, 김진권, 신항식, 이충근, 이명호 (2008). 부정맥 환자의 진단 및 치료를 위한 ICD 알고리즘 및 시뮬레이\n터 구현. 정보 및 제어 논문집, 127-128\n이용정보\n(Accessed)\n저작권 안내\nDBpia에서 제공되는 모든 저작물의 저작권은 원저작자에게 있으며, 누리미디어는 각 저작물의 내용을 보증하거나 책임을 지지 않습니다. 그리고 DBpia에\n서 제공되는 저작물은 DBpia와 구독계약을 체결한 기관소속 이용자 혹은 해당 저작물의 개별 구매자가 비영리적으로만 이용할 수 있습니다. 그러므로 이에\n위반하여 DBpia에서 제공되는 저작물을 복제, 전송 등의 방법으로 무단 이용하는 경우 관련 법령에 따라 민, 형사상의 책임을 질 수 있습니다.\nCopyright Information\nCopyright of all literary works provided by DBpia belongs to the copyright holder(s)and Nurimedia does not guarantee contents of the literary work\nor assume responsibility for the same. In addition, the literary works provided by DBpia may only be used by the users affiliated to the institutions\nwhich executed a subscription agreement with DBpia or the individual purchasers of the literary work(s)for non-commercial purposes. Therefore,\nany person who illegally uses the literary works provided by DBpia by means of reproduction or transmission shall assume civil and criminal\nresponsibility according to applicable laws and regulations.\n전남대학교 여수캠퍼스\n168.***.226.118\n2020/03/12 14:18 (KST)",
+  "char_count": 1617,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

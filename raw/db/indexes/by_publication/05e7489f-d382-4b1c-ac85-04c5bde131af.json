@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "05e7489f-d382-4b1c-ac85-04c5bde131af",
+  "storage_root": "journal",
+  "relative_path": "2012__201211_Pulse_Rate_Variability_as_a_Surrogate_Method_for_Autonomic_Nervous_System.pdf",
+  "original_filename": "2012__201211_Pulse_Rate_Variability_as_a_Surrogate_Method_for_Autonomic_Nervous_System.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Pulse Rate Variability as a Surrogate Method for Autonomic Nervous System",
+  "year": 2012,
+  "exists": true,
+  "category": "journal",
+  "class": "SCOPUS",
+  "date": "2012-11-01",
+  "title_eng": "Pulse Rate Variability as a Surrogate Method for Autonomic Nervous System assessment Comparing with Heart Rate Variability",
+  "title_kor": "Pulse Rate Variability as a Surrogate Method for Autonomic Nervous System assessment Comparing with Heart Rate Variability",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "217b41fd-c1f3-49f4-a392-08f96ab15d9e"
+  ],
+  "has_extract": true
+}

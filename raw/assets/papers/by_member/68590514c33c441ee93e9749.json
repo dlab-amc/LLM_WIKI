@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "member_id": "68590514c33c441ee93e9749",
+  "member_name_kor": "진재욱",
+  "author_id": "5a9269ef-f75c-43ef-a58e-a70388739cb2",
+  "count": 10,
+  "pdf_linked": 2,
+  "extract_linked": 2,
+  "publications": [
+    {
+      "id": "611557ad-9346-42f9-a88b-bcda04e67cd4",
+      "category": "conference",
+      "date": "2026-05-07",
+      "title_eng": "Development and External Validation of a Machine Learning Model for Predicting Postoperative Length of Stay",
+      "title_kor": "수술 후 재원 기간 예측을 위한 머신러닝 모델 개발 및 다기관 외부 검증",
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "8cd9638b-94ac-4ee4-9283-6266d38535cb",
+      "category": "conference",
+      "date": "2025-12-21",
+      "title_eng": "PubMedBERT-Based Terminology Mapping for Surgical Procedure Types",
+      "title_kor": null,
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "08ca5407-b74a-405a-8314-43f496d08c68",
+      "category": "award",
+      "date": "2025-12-12",
+      "title_eng": "Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal",
+      "title_kor": "수술 전 생체신호 기반 수술 후 통증 예측 인공지능 모델 개발",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "f2282795-e0d3-4dcb-93e0-a04a2aef2032",
+      "category": "award",
+      "date": "2025-11-08",
+      "title_eng": "Development of a BioclinicalBERT-Deep Neural Network Fusion Model for Predicting Postoperative Length of Stay",
+      "title_kor": "수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "7d64f21d-e836-4a19-adad-39e7a05d212d",
+      "category": "conference",
+      "date": "2025-11-06",
+      "title_eng": "Development of a BioclinicalBERT-Deep Neural Network Fusion Model for Predicting Postoperative Length of Stay",
+      "title_kor": "수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "f2b46502-eba0-4b55-b98d-1b1f088f9869",
+      "category": "award",
+      "date": "2025-10-23",
+      "title_eng": "Prolonged Length of Stay Prediction with PubMedBERT-Deep Neural Network Fusion Model",
+      "title_kor": "PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "e7f50914-9069-4843-a9e8-675b99ffc3a2",
+      "category": "conference",
+      "date": "2025-10-22",
+      "title_eng": "PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측",
+      "title_kor": "PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "1882265d-f7bd-4226-a005-3881b0fd3648",
+      "category": "award",
+      "date": "2025-07-18",
+      "title_eng": "Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal",
+      "title_kor": "수술 전 생체신호 기반 수술 후 통증 예측 인공지능 모델 개발",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "4f2e1e24-4da0-44dc-9d7b-b3de65087e47",
+      "category": "conference",
+      "date": "2025-07-16",
+      "title_eng": "Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal",
+      "title_kor": "수술 전 생체신호 기반 수술 후 통증 예측 인공지능 모델 개발",
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202507_진재욱_수술_전_생체신호_기반_수술_후_통증_예측_인공지능_모델_개발.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "8540829d-f74d-46b9-964b-55c3d4497911",
+      "category": "conference",
+      "date": "2025-05-08",
+      "title_eng": "Prediction of Postoperative Pain Based on Preoperative Stress Assessment",
+      "title_kor": "수술 전 스트레스 평가를 통한 수술 후 통증 예측",
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202505_진재욱_수술_전_스트레스_평가를_통한_수술_후_통증_예측.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    }
+  ],
+  "fast_path": "Recent PDF content: open extracts/<id>.json for pubs with has_extract=true. Do not scan manifest.json or DATA/."
+}

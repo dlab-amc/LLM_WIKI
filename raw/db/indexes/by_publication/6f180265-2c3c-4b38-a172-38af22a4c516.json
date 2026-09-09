@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "6f180265-2c3c-4b38-a172-38af22a4c516",
+  "storage_root": "conference",
+  "relative_path": "0000__유지원_귀납적_사례_분석_기반_임상화학_재검사_전문가_지식_추출_및_온톨로지_모델링.pdf",
+  "original_filename": "0000__유지원_귀납적_사례_분석_기반_임상화학_재검사_전문가_지식_추출_및_온톨로지_모델링.pdf",
+  "match_status": "matched",
+  "match_score": 0.9277,
+  "title_hint": "사례 분석 기반 임상화학 재검사 전문가 지식 추출 및 온톨로지 모델링",
+  "year": null,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2026-05-07",
+  "title_eng": "Development of a Clinical Chemistry Retest Ontology through Inductive Externalization of Expert Knowledge",
+  "title_kor": "귀납적 사례 분석 기반 임상화학 재검사 전문가 지식 추출 및 온톨로지 모델링",
+  "member_ids": [
+    "68590514c33c441ee93e9750",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "80cbf804-4efd-4173-ae46-5c210a473ded",
+    "8a86bdcb-831e-484e-81a8-2efc1418ba6b",
+    "a92aee22-d720-4431-9502-a9dc37af7be9",
+    "09e01f73-363a-4780-962e-969da9578ff9",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

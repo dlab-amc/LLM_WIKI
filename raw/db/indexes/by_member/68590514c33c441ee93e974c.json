@@ -17,7 +17,14 @@
         "11293195-d430-4570-98b9-f1d9e82ca0e6",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2026"
+      "year_resolved": "2026",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "0000__Transformer-Based_Early_Detection_of_Sepsis_from_Intensive_Care_Unit_Multivariat.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "75480fca-4d6e-4b0f-bef4-bd19409c4b34",
@@ -35,7 +42,66 @@
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
       "link": "https://link.springer.com/article/10.1007/s13534-026-00589-6",
-      "year_resolved": "2026"
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "134eb3df-b4e6-437b-adbe-729566353474",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Evaluation of MedGemma 1.5-4B for Lymph Node Metastasis Prediction in Intrahepatic Cholangiocarcinoma",
+      "title_kor": "간내 담관암 림프절 전이 예측에서 MedGemma 1.5-4B의 활용 가능성 평가",
+      "author_kor": "김민소; 이건; 최예은; 이우형; 홍광표; 신항식",
+      "author_eng": "Minso Kim; Geon Lee; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin",
+      "author_ids": [
+        "3b530294-8839-4ba1-a4ce-0ebb6883bd86",
+        "75bef458-47fc-43ad-9bdb-f934cbb66beb",
+        "11293195-d430-4570-98b9-f1d9e82ca0e6",
+        "ee433b9b-0e4f-4dc2-a040-9e4a506d31f5",
+        "2de4cf68-77c6-47ea-9e5f-7be9a6159c10",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "b4b37a0b-317c-4211-bbec-f47a63ab29cf",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Development of an Atrial Fibrillation Risk Prediction Model for Health Screening",
+      "title_kor": "건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발",
+      "author_kor": "류가연; 최예은; 신항식",
+      "author_eng": "Gayeon Ryu; Ye Eun Choi; Hangsik Shin",
+      "author_ids": [
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "11293195-d430-4570-98b9-f1d9e82ca0e6",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "34089715-f049-42ae-a9da-1225439e002a",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Deep Learning-based Prediction of Lymph Node Metastasis in Cholangiocarcinoma through Fusion of 3D PET/CT Imaging and Clinical Data",
+      "title_kor": "3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측",
+      "author_kor": "이건; 김민소; 최예은; 이우형; 홍광표; 신항식",
+      "author_eng": "Geon Lee; Minso Kim; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin",
+      "author_ids": [
+        "75bef458-47fc-43ad-9bdb-f934cbb66beb",
+        "3b530294-8839-4ba1-a4ce-0ebb6883bd86",
+        "11293195-d430-4570-98b9-f1d9e82ca0e6",
+        "ee433b9b-0e4f-4dc2-a040-9e4a506d31f5",
+        "2de4cf68-77c6-47ea-9e5f-7be9a6159c10",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
     },
     {
       "id": "92bae902-8be2-4c2d-9da6-5dc1164f9ba9",
@@ -55,25 +121,9 @@
         "2de4cf68-77c6-47ea-9e5f-7be9a6159c10",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2026"
-    },
-    {
-      "id": "134eb3df-b4e6-437b-adbe-729566353474",
-      "category": "award",
-      "date": "2026-05-09",
-      "title_eng": "Evaluation of MedGemma 1.5-4B for Lymph Node Metastasis Prediction in Intrahepatic Cholangiocarcinoma",
-      "title_kor": "간내 담관암 림프절 전이 예측에서 MedGemma 1.5-4B의 활용 가능성 평가",
-      "author_kor": "김민소; 이건; 최예은; 이우형; 홍광표; 신항식",
-      "author_eng": "Minso Kim; Geon Lee; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin",
-      "author_ids": [
-        "3b530294-8839-4ba1-a4ce-0ebb6883bd86",
-        "75bef458-47fc-43ad-9bdb-f934cbb66beb",
-        "11293195-d430-4570-98b9-f1d9e82ca0e6",
-        "ee433b9b-0e4f-4dc2-a040-9e4a506d31f5",
-        "2de4cf68-77c6-47ea-9e5f-7be9a6159c10",
-        "189de491-3424-4bf3-bb66-26bd0667ed24"
-      ],
-      "year_resolved": "2026"
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
     },
     {
       "id": "93d0f6a3-536d-46ce-a41d-c29557550ecb",
@@ -90,22 +140,14 @@
         "11293195-d430-4570-98b9-f1d9e82ca0e6",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2026"
-    },
-    {
-      "id": "b4b37a0b-317c-4211-bbec-f47a63ab29cf",
-      "category": "award",
-      "date": "2026-05-09",
-      "title_eng": "Development of an Atrial Fibrillation Risk Prediction Model for Health Screening",
-      "title_kor": "건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발",
-      "author_kor": "류가연; 최예은; 신항식",
-      "author_eng": "Gayeon Ryu; Ye Eun Choi; Hangsik Shin",
-      "author_ids": [
-        "17ff8154-0d9f-4486-abd7-b34e64268d87",
-        "11293195-d430-4570-98b9-f1d9e82ca0e6",
-        "189de491-3424-4bf3-bb66-26bd0667ed24"
-      ],
-      "year_resolved": "2026"
+      "year_resolved": "2026",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "0000__류가연_건강검진_스크리닝을_위한_심방세동_위험_예측_모델_개발.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "16c444f7-bf32-4cfa-b971-e9dd9ab1b633",
@@ -125,25 +167,48 @@
         "2de4cf68-77c6-47ea-9e5f-7be9a6159c10",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2026"
+      "year_resolved": "2026",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "0000__이건_3D_PET_CT_영상_및_임상_데이터_융합을_통한_딥러닝_기반_담관암_림프절_전이_예측.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
-      "id": "34089715-f049-42ae-a9da-1225439e002a",
+      "id": "bdcfb609-561b-4759-a4ab-b2131804f634",
       "category": "award",
-      "date": "2026-05-09",
-      "title_eng": "Deep Learning-based Prediction of Lymph Node Metastasis in Cholangiocarcinoma through Fusion of 3D PET/CT Imaging and Clinical Data",
-      "title_kor": "3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측",
-      "author_kor": "이건; 김민소; 최예은; 이우형; 홍광표; 신항식",
-      "author_eng": "Geon Lee; Minso Kim; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin",
+      "date": "2025-11-08",
+      "title_eng": "Early Sepsis Prediction Models with Multi-variate Time Series Transformer",
+      "title_kor": "Multi-variate Time Series Transformer 기반 패혈증 조기 예측 모델 개발",
+      "author_kor": "최예은; 신항식",
+      "author_eng": "Ye Eun Choi; Hangsik Shin",
       "author_ids": [
-        "75bef458-47fc-43ad-9bdb-f934cbb66beb",
-        "3b530294-8839-4ba1-a4ce-0ebb6883bd86",
         "11293195-d430-4570-98b9-f1d9e82ca0e6",
-        "ee433b9b-0e4f-4dc2-a040-9e4a506d31f5",
-        "2de4cf68-77c6-47ea-9e5f-7be9a6159c10",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2026"
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "1b6c1fd8-e248-4317-aa24-a30e0e900b3f",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2025-11-06",
+      "title_eng": "Early Sepsis Prediction Models with Multi-variate Time Series Transformer",
+      "title_kor": "Multi-variate Time Series Transformer 기반 패혈증 조기 예측 모델 개발",
+      "conference_eng": "2025년 대한의용생체공학회 추계학술대회",
+      "author_kor": "최예은; 신항식",
+      "author_eng": "Ye Eun Choi; Hangsik Shin",
+      "author_ids": [
+        "11293195-d430-4570-98b9-f1d9e82ca0e6",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
     },
     {
       "id": "69e53ab6-1801-4751-b9e4-af764d75ce4c",
@@ -159,7 +224,9 @@
         "11293195-d430-4570-98b9-f1d9e82ca0e6",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2025"
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
     },
     {
       "id": "d44f19e2-f948-4020-b594-07ed6bf19b42",
@@ -176,7 +243,14 @@
         "37974180-13a8-4ece-8e13-be1ce816c3df",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2025"
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202507_최예은_Revisiting_the_Obesity_Paradox_in_Septic_Patients_with_Aging_and_Chro.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "64a5c206-ab29-4a1d-8778-2999a0bf4df7",
@@ -194,37 +268,14 @@
         "11293195-d430-4570-98b9-f1d9e82ca0e6",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2025"
-    },
-    {
-      "id": "1b6c1fd8-e248-4317-aa24-a30e0e900b3f",
-      "category": "conference",
-      "class": "Domestic",
-      "date": "2025-11-06",
-      "title_eng": "Early Sepsis Prediction Models with Multi-variate Time Series Transformer",
-      "title_kor": "Multi-variate Time Series Transformer 기반 패혈증 조기 예측 모델 개발",
-      "conference_eng": "2025년 대한의용생체공학회 추계학술대회",
-      "author_kor": "최예은; 신항식",
-      "author_eng": "Ye Eun Choi; Hangsik Shin",
-      "author_ids": [
-        "11293195-d430-4570-98b9-f1d9e82ca0e6",
-        "189de491-3424-4bf3-bb66-26bd0667ed24"
-      ],
-      "year_resolved": "2025"
-    },
-    {
-      "id": "bdcfb609-561b-4759-a4ab-b2131804f634",
-      "category": "award",
-      "date": "2025-11-08",
-      "title_eng": "Early Sepsis Prediction Models with Multi-variate Time Series Transformer",
-      "title_kor": "Multi-variate Time Series Transformer 기반 패혈증 조기 예측 모델 개발",
-      "author_kor": "최예은; 신항식",
-      "author_eng": "Ye Eun Choi; Hangsik Shin",
-      "author_ids": [
-        "11293195-d430-4570-98b9-f1d9e82ca0e6",
-        "189de491-3424-4bf3-bb66-26bd0667ed24"
-      ],
-      "year_resolved": "2025"
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202505_류가연_관상동맥질환_치료제의_심방세동_발생에_대한_영향_후향적_코호트_분석.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "ce676224-6524-494b-ac75-4af3b52d8fa9",
@@ -241,7 +292,14 @@
         "11293195-d430-4570-98b9-f1d9e82ca0e6",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2025"
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202505_류가연_건강검진_데이터_기반_심방세동_예측_모델_개발.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "3a9e8f81-52f2-470e-800c-e9f1acbd3558",
@@ -258,7 +316,14 @@
         "11293195-d430-4570-98b9-f1d9e82ca0e6",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2025"
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202505_최예은_패혈증_초기_예측을_위한_머신러닝_모델_개발.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "ee5a24ad-4c4e-466e-9e12-079c56ef5830",
@@ -275,7 +340,14 @@
         "37974180-13a8-4ece-8e13-be1ce816c3df",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2025"
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202505_최예은_패혈증_사망_위험에_미치는_비만도와_나이_영향_분석.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "f465d274-a2ed-447b-a17c-e9f8ade4cda7",
@@ -292,7 +364,14 @@
         "11293195-d430-4570-98b9-f1d9e82ca0e6",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2024"
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202411_인구통계_특성_및_유관질환이_심방세동_발병에_미치는_영향.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "238412a7-3471-4e8a-81e9-f1f105eef065",
@@ -309,7 +388,38 @@
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
       "link": "https://dlab-amc.github.io/publications/conference/ibec2024/ye1/ibec_ye1.html#",
-      "year_resolved": "2024"
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202411_성인_패혈증_환자_생존율_분석_인구통계_및_기저질환_연구.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "1e67b630-51dd-4fe6-8733-7b2b92cc7c37",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2024-11-07",
+      "title_eng": "Analysis of Mortality Risk in Adult Sepsis Patients based on  Demographics and Underlying Diseases",
+      "title_kor": "성인 패혈증 환자 사망 위험 분석: 인구통계 및 기저질환 연구",
+      "conference_eng": "Korea Society of Medical and Biological Engineering Autumn Conference 2024",
+      "author_kor": "최예은; 신항식",
+      "author_eng": "Ye Eun Choi; Hangsik Shin",
+      "author_ids": [
+        "11293195-d430-4570-98b9-f1d9e82ca0e6",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "link": "https://dlab-amc.github.io/publications/conference/ibec2024/ye2/ibec_ye2.html#",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202411_성인_패혈증_환자_사망_위험_분석_인구통계_및_기저질환_연구.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "c0e967e7-4969-4ea0-a624-ff9f3c621cbe",
@@ -326,7 +436,14 @@
         "11293195-d430-4570-98b9-f1d9e82ca0e6",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2024"
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202410_광용적맥파_기반_혈관_나이_추정_모델의_평가.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "688ca5a0-8312-40d0-bb81-6ae6b13b9533",
@@ -344,24 +461,14 @@
         "77b4f02a-147a-4280-9045-69c05b9cecc5",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2024"
-    },
-    {
-      "id": "1e67b630-51dd-4fe6-8733-7b2b92cc7c37",
-      "category": "conference",
-      "class": "Domestic",
-      "date": "2024-11-07",
-      "title_eng": "Analysis of Mortality Risk in Adult Sepsis Patients based on  Demographics and Underlying Diseases",
-      "title_kor": "성인 패혈증 환자 사망 위험 분석: 인구통계 및 기저질환 연구",
-      "conference_eng": "Korea Society of Medical and Biological Engineering Autumn Conference 2024",
-      "author_kor": "최예은; 신항식",
-      "author_eng": "Ye Eun Choi; Hangsik Shin",
-      "author_ids": [
-        "11293195-d430-4570-98b9-f1d9e82ca0e6",
-        "189de491-3424-4bf3-bb66-26bd0667ed24"
-      ],
-      "link": "https://dlab-amc.github.io/publications/conference/ibec2024/ye2/ibec_ye2.html#",
-      "year_resolved": "2024"
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202407_Demographics_and_Comorbidities_as_an_Atrial_Fibrillation_Risk_Factor_a_Re.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "0317a002-3c1e-44a2-a96a-3fc9634c429e",
@@ -380,7 +487,17 @@
         "2883f978-84ac-4c9c-834b-0bacbda6dcba",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2023"
+      "year_resolved": "2023",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2023__202312_Atrial_Fibrillation_Diagnosis_Using_Machine_Learning_Leveraging_Minimal_H.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     }
-  ]
+  ],
+  "pdf_linked": 14,
+  "extract_linked": 14,
+  "updated_pdf_index": "2026-09-09"
 }

@@ -1,0 +1,20 @@
+{
+  "publication_id": "75328e09-2b24-4923-a6d5-419d6d7053c6",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "patent_registered",
+    "relative_path": "2020__202003_10-2095356_필름형_다채널_압전_센서를_이용한_생체신호_측정_시스템.pdf",
+    "original_filename": "2020__202003_10-2095356_필름형_다채널_압전_센서를_이용한_생체신호_측정_시스템.pdf"
+  },
+  "title_eng": "System for measuring bio signal usingmulti channel piezoelectric sensor of film",
+  "title_kor": "필름형 다채널 압전 센서를 이용한 생체신호 측정 시스템",
+  "category": "patent",
+  "date": "2020-03-25",
+  "page_count": 2,
+  "pages_extracted": 0,
+  "abstract": null,
+  "keywords": [],
+  "first_pages_text": "",
+  "char_count": 0,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

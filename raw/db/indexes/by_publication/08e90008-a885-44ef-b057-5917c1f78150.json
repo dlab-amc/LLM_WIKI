@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "08e90008-a885-44ef-b057-5917c1f78150",
+  "storage_root": "conference",
+  "relative_path": "2013__201310_모의_심장_활동전위를_이용한_복잡분절전극도의_유도.pdf",
+  "original_filename": "2013__201310_모의_심장_활동전위를_이용한_복잡분절전극도의_유도.pdf",
+  "match_status": "matched",
+  "match_score": 0.9233,
+  "title_hint": "활동전위를 이용한 복잡분절전극도의 유도",
+  "year": 2013,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2013-10-17",
+  "title_eng": "Deriving complex fractionated electrogram from the simulated cardiac action potential",
+  "title_kor": "모의 심장 활동전위를 이용한 복잡분절전극도의 유도",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "2883f978-84ac-4c9c-834b-0bacbda6dcba",
+    "bf76d3a1-2d07-4cb4-aadc-a23a9833da19"
+  ],
+  "has_extract": true
+}

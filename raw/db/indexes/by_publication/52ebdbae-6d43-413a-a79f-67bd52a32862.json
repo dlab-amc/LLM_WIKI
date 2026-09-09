@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "52ebdbae-6d43-413a-a79f-67bd52a32862",
+  "storage_root": "journal",
+  "relative_path": "2017__201701_Feasibility_study_for_the_non-invasive_blood_pressure_estimation_based_on.pdf",
+  "original_filename": "2017__201701_Feasibility_study_for_the_non-invasive_blood_pressure_estimation_based_on.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Feasibility study for the non-invasive blood pressure estimation based on",
+  "year": 2017,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2017-01-10",
+  "title_eng": "Feasibility study for the non-invasive blood pressure estimation based on ppg morphology: normotensive subject study",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee"
+  ],
+  "has_extract": true
+}

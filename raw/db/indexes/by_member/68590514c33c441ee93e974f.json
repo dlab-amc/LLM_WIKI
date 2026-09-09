@@ -5,6 +5,43 @@
   "count": 8,
   "publications": [
     {
+      "id": "6ca3ccd4-4fc1-4256-9b02-b1791eedce4e",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices",
+      "title_kor": "수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발 ",
+      "author_kor": "김영돈; 한유진; 류가연; 이연진; 신항식",
+      "author_eng": "Yeongdon Kim; Yujin Han; Gayeon Ryu; Yeonjin Lee; Hangsik Shin",
+      "author_ids": [
+        "923fe812-860b-4422-9d92-1767e699fa0b",
+        "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "5443481d-379f-4af6-8ef2-1d61bd2dfbe8",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "4b92b947-c52a-4631-aa1e-eecad88284cb",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms",
+      "title_kor": "수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계",
+      "author_kor": "한유진; 류가연; 김영돈; 신항식",
+      "author_eng": "Yujin Han; Gayeon Ryu; Yeongdon Kim; Hangsik Shin",
+      "author_ids": [
+        "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "923fe812-860b-4422-9d92-1767e699fa0b",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
       "id": "6757496c-84b9-4b4a-a3da-785e7e957188",
       "category": "conference",
       "class": "Domestic",
@@ -21,24 +58,9 @@
         "5443481d-379f-4af6-8ef2-1d61bd2dfbe8",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2026"
-    },
-    {
-      "id": "6ca3ccd4-4fc1-4256-9b02-b1791eedce4e",
-      "category": "award",
-      "date": "2026-05-09",
-      "title_eng": "Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices",
-      "title_kor": "수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발 ",
-      "author_kor": "김영돈; 한유진; 류가연; 이연진; 신항식",
-      "author_eng": "Yeongdon Kim; Yujin Han; Gayeon Ryu; Yeonjin Lee; Hangsik Shin",
-      "author_ids": [
-        "923fe812-860b-4422-9d92-1767e699fa0b",
-        "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
-        "17ff8154-0d9f-4486-abd7-b34e64268d87",
-        "5443481d-379f-4af6-8ef2-1d61bd2dfbe8",
-        "189de491-3424-4bf3-bb66-26bd0667ed24"
-      ],
-      "year_resolved": "2026"
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
     },
     {
       "id": "0bd7ed03-073b-4f54-8e3c-efbead217078",
@@ -56,23 +78,32 @@
         "923fe812-860b-4422-9d92-1767e699fa0b",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2026"
+      "year_resolved": "2026",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "0000__한유진_수면_분석_기기_알고리즘_가상_임상시험_결과보고서_생성_프레임워크_설계.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
-      "id": "4b92b947-c52a-4631-aa1e-eecad88284cb",
-      "category": "award",
-      "date": "2026-05-09",
-      "title_eng": "A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms",
-      "title_kor": "수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계",
-      "author_kor": "한유진; 류가연; 김영돈; 신항식",
-      "author_eng": "Yujin Han; Gayeon Ryu; Yeongdon Kim; Hangsik Shin",
+      "id": "3b6e71b3-7c19-4e21-8657-4f4a36e86f09",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2025-11-06",
+      "title_eng": "Development of a Foundation Model for Polysomnography Using Large-Scale Public Datasets",
+      "title_kor": "대규모 공개 수면다원검사(PSG) 데이터셋을 활용한 파운데이션 모델 개발",
+      "conference_eng": "2025년 대한의용생체공학회 추계학술대회",
+      "author_kor": "김영돈; 신항식",
+      "author_eng": "Yeongdon Kim; Hangsik Shin",
       "author_ids": [
-        "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
-        "17ff8154-0d9f-4486-abd7-b34e64268d87",
         "923fe812-860b-4422-9d92-1767e699fa0b",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2026"
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
     },
     {
       "id": "214ed0bc-e135-4f8e-b4bf-db4de9a273db",
@@ -89,42 +120,14 @@
         "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
-      "year_resolved": "2025"
-    },
-    {
-      "id": "3b6e71b3-7c19-4e21-8657-4f4a36e86f09",
-      "category": "conference",
-      "class": "Domestic",
-      "date": "2025-11-06",
-      "title_eng": "Development of a Foundation Model for Polysomnography Using Large-Scale Public Datasets",
-      "title_kor": "대규모 공개 수면다원검사(PSG) 데이터셋을 활용한 파운데이션 모델 개발",
-      "conference_eng": "2025년 대한의용생체공학회 추계학술대회",
-      "author_kor": "김영돈; 신항식",
-      "author_eng": "Yeongdon Kim; Hangsik Shin",
-      "author_ids": [
-        "923fe812-860b-4422-9d92-1767e699fa0b",
-        "189de491-3424-4bf3-bb66-26bd0667ed24"
-      ],
-      "year_resolved": "2025"
-    },
-    {
-      "id": "e428df87-b2b6-49b4-9d24-ac5b4fdfeb4a",
-      "category": "conference",
-      "class": "Domestic",
-      "date": "2024-07-10",
-      "title_eng": "Development of a Real-Time Upper Limb Range of Motion Measurement Method Using a Single Depth Measurement Camera",
-      "title_kor": "단일 깊이측정 카메라를 활용한 실시간 상지 관절 가동범위 측정 방법 개발",
-      "conference_eng": "The 55th KIEE Summer Conference 2024",
-      "author_kor": "김영돈; 임하민; 류가연; 한유진; 신항식",
-      "author_eng": "Yeongdon Kim; Hamin Lim; Gayeon Ryu; Yujin Han; Hangsik Shin",
-      "author_ids": [
-        "923fe812-860b-4422-9d92-1767e699fa0b",
-        "e556ed57-f679-4685-a592-767ec3a64f46",
-        "17ff8154-0d9f-4486-abd7-b34e64268d87",
-        "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
-        "189de491-3424-4bf3-bb66-26bd0667ed24"
-      ],
-      "year_resolved": "2024"
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202507_김영돈_수면_분석_알고리즘_평가를_위한_다기관_수면다원검사_데이터_세트_구축.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     },
     {
       "id": "8bf5ada9-036e-45ea-8e1b-88061cc5e1d0",
@@ -143,7 +146,43 @@
         "189de491-3424-4bf3-bb66-26bd0667ed24"
       ],
       "link": "https://dlab-amc.github.io/publications/conference/ibec2024/gy/ibec_gy.html#",
-      "year_resolved": "2024"
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202411_공개_수면다원검사_데이터베이스_통합_활용을_위한_생체신호_및_결과_변수_분석.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "e428df87-b2b6-49b4-9d24-ac5b4fdfeb4a",
+      "category": "conference",
+      "class": "Domestic",
+      "date": "2024-07-10",
+      "title_eng": "Development of a Real-Time Upper Limb Range of Motion Measurement Method Using a Single Depth Measurement Camera",
+      "title_kor": "단일 깊이측정 카메라를 활용한 실시간 상지 관절 가동범위 측정 방법 개발",
+      "conference_eng": "The 55th KIEE Summer Conference 2024",
+      "author_kor": "김영돈; 임하민; 류가연; 한유진; 신항식",
+      "author_eng": "Yeongdon Kim; Hamin Lim; Gayeon Ryu; Yujin Han; Hangsik Shin",
+      "author_ids": [
+        "923fe812-860b-4422-9d92-1767e699fa0b",
+        "e556ed57-f679-4685-a592-767ec3a64f46",
+        "17ff8154-0d9f-4486-abd7-b34e64268d87",
+        "0e7b359b-2744-4e5c-a40f-dd91577b24bc",
+        "189de491-3424-4bf3-bb66-26bd0667ed24"
+      ],
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202407_단일_깊이측정_카메라를_활용한_실시간_상지_관절_가동범위_측정_방법_개발.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
     }
-  ]
+  ],
+  "pdf_linked": 4,
+  "extract_linked": 4,
+  "updated_pdf_index": "2026-09-09"
 }

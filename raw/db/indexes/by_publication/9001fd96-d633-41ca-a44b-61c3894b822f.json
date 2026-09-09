@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "9001fd96-d633-41ca-a44b-61c3894b822f",
+  "storage_root": "conference",
+  "relative_path": "2020__202007_노화에_따른_광용적맥파_반사지수_및_경직지수_변화_분석.pdf",
+  "original_filename": "2020__202007_노화에_따른_광용적맥파_반사지수_및_경직지수_변화_분석.pdf",
+  "match_status": "matched",
+  "match_score": 0.8962,
+  "title_hint": "광용적맥파 반사지수 및 경직지수 변화 분석",
+  "year": 2020,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2020-07-15",
+  "title_eng": "Age-related change of photoplethysmographic reflective and stiffness index",
+  "title_kor": "노화에 따른 광용적맥파 반사지수 및 경직지수 변화 분석",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "57354d74-688e-49c4-a258-307386943d12",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

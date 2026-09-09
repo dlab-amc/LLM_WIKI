@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "b4234945-977e-4835-9d52-c3aa580d6e32",
+  "storage_root": "journal",
+  "relative_path": "2010__201008_Ideal_Filtering_Approach_on_DCT_Domain_for_Biomedical_Signals_Index_Block.pdf",
+  "original_filename": "2010__201008_Ideal_Filtering_Approach_on_DCT_Domain_for_Biomedical_Signals_Index_Block.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Ideal Filtering Approach on DCT Domain for Biomedical Signals Index Block",
+  "year": 2010,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2010-08-01",
+  "title_eng": "Ideal Filtering Approach on DCT Domain for Biomedical Signals: Index Blocked DCT Filtering Method (IB-DCTFM)",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+    "4a05a292-1a5b-4577-91ff-87da330a9358"
+  ],
+  "has_extract": true
+}

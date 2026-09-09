@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "fa3a5405-9e78-4617-b14c-1515a7c231f5",
+  "storage_root": "conference",
+  "relative_path": "2008__200807_초소형_라플라시안_센서를_이용한_심박변이도의_측정에_관한_연구.pdf",
+  "original_filename": "2008__200807_초소형_라플라시안_센서를_이용한_심박변이도의_측정에_관한_연구.pdf",
+  "match_status": "matched",
+  "match_score": 0.9765,
+  "title_hint": "라플라시안 센서를 이용한 심박변이도의 측정에 관한 연구",
+  "year": 2008,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2008-07-16",
+  "title_eng": "A Study on Measurement Heart Rate Variability using modified Laplacian Electrode",
+  "title_kor": "초소형 라플라시안 센서를 이용한 심박변이도의 측정에 관한 연구",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+    "ed205265-0d1b-46cd-8449-42395ab1bed1",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "ae72065a-4ff4-4d10-b45b-16bcdb93feac",
+    "6a928149-9e46-4571-9418-9da9df206a23",
+    "596b9b4d-31d5-43cb-b6f4-656f259b6ef5",
+    "4936d26d-b64d-40ee-85c7-1501199e8eb8",
+    "4a05a292-1a5b-4577-91ff-87da330a9358"
+  ],
+  "has_extract": true
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "ff93bf0b-1866-43d0-b881-67b5400e47f3",
+  "storage_root": "conference",
+  "relative_path": "2024__202410_Positive_and_Negative_Syndrome_Scale_총점_및_K-means_Clustering_기반_조현병_증상_중증.pdf",
+  "original_filename": "2024__202410_Positive_and_Negative_Syndrome_Scale_총점_및_K-means_Clustering_기반_조현병_증상_중증.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Positive and Negative Syndrome Scale 총점 및 K-means Clustering 기반 조현병 증상 중증",
+  "year": 2024,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2024-10-23",
+  "title_eng": "Comparison of PANSS Total Score and K-means Clustering-Based Methods for Evaluating Schizophrenia Symptom Severity",
+  "title_kor": "Positive and Negative Syndrome Scale 총점 및 K-means Clustering 기반 조현병 증상 중증도 평가방법 비교",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "ad98337a-712a-4d40-a163-4ac540834245",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

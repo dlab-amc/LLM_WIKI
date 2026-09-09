@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "de172548-fd67-49dd-8254-eea5fc110b03",
+  "storage_root": "conference",
+  "relative_path": "2024__202411_머신러닝을_활용한_병동내_환자_위치_추정_오류_보정pdf.pdf",
+  "original_filename": "2024__202411_머신러닝을_활용한_병동내_환자_위치_추정_오류_보정pdf.pdf",
+  "match_status": "matched",
+  "match_score": 0.9986,
+  "title_hint": "머신러닝을 활용한 병동내 환자 위치 추정 오류 보정pdf",
+  "year": 2024,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2024-11-07",
+  "title_eng": "In-hospital patient’s location correction using machine learning",
+  "title_kor": "머신러닝을 활용한 병동내 환자 위치 추정 오류 보정",
+  "member_ids": [
+    "68590514c33c441ee93e974b",
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "e6952c28-704d-4ed8-8fe6-d85b22dbf430",
+    "e556ed57-f679-4685-a592-767ec3a64f46",
+    "ad98337a-712a-4d40-a163-4ac540834245",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

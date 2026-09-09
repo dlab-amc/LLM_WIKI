@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "4f276942-e7df-4e96-a7e6-6c2f0e55ffee",
+  "storage_root": "conference",
+  "relative_path": "2010__201010_측정자세에_따른_광용적맥파의_성분과_혈관_경직도에_관한_연구.pdf",
+  "original_filename": "2010__201010_측정자세에_따른_광용적맥파의_성분과_혈관_경직도에_관한_연구.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "측정자세에 따른 광용적맥파의 성분과 혈관 경직도에 관한 연구",
+  "year": 2010,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2010-10-22",
+  "title_eng": "A study on photoplethysmographic component and arterial stiffness by body posture",
+  "title_kor": "측정자세에 따른 광용적맥파의 성분과 혈관 경직도에 관한 연구",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "29b4a04c-553f-425b-8c75-fe90aca718b7",
+    "5e9cd5ac-e2a0-46d2-8f11-979e699009f2",
+    "4a05a292-1a5b-4577-91ff-87da330a9358"
+  ],
+  "has_extract": true
+}

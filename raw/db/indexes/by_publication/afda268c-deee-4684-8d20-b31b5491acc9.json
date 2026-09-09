@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "afda268c-deee-4684-8d20-b31b5491acc9",
+  "storage_root": "patent_registered",
+  "relative_path": "2018__201811_10-1917776_색각_이상자를_위한_색_변환_방법_및_장치.pdf",
+  "original_filename": "2018__201811_10-1917776_색각_이상자를_위한_색_변환_방법_및_장치.pdf",
+  "match_status": "matched",
+  "match_score": 0.8868,
+  "title_hint": "10-1917776 색각 이상자를 위한 색 변환 방법 및 장치",
+  "year": 2018,
+  "exists": true,
+  "category": "patent",
+  "class": "Domestic",
+  "date": "2018-11-06",
+  "title_eng": "Method and apparatus of converting color for color vision defectives",
+  "title_kor": "색각 이상자를 위한 색 변환 방법 및 장치",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "82571796-a65a-477c-8cbc-9496880f7749",
+    "58781275-5ce2-476d-b58f-73f66081f973",
+    "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "95e28776-4d0d-4ed0-b15f-497367250ffe",
+    "f93cb6ad-8ab3-4ffa-97f7-d806961d6296",
+    "7e245481-d9e7-4e64-b771-18739a464f6d"
+  ],
+  "has_extract": true
+}

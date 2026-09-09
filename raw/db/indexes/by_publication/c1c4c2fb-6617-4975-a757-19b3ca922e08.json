@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "c1c4c2fb-6617-4975-a757-19b3ca922e08",
+  "storage_root": "patent_filed",
+  "relative_path": "2014__201401_COLOR_TRANSFORMATION_METHOD_AND_APPARATUS_FOR_PERSON_WITH_COLOR_VISION_DE.pdf",
+  "original_filename": "2014__201401_COLOR_TRANSFORMATION_METHOD_AND_APPARATUS_FOR_PERSON_WITH_COLOR_VISION_DE.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "COLOR TRANSFORMATION METHOD AND APPARATUS FOR PERSON WITH COLOR VISION DE",
+  "year": 2014,
+  "exists": true,
+  "category": "patent",
+  "class": "International",
+  "date": "2014-01-16",
+  "title_eng": "Color transformation method and apparatus for person with color vision defect",
+  "title_kor": "Color transformation method and apparatus for person with color vision defect",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "82571796-a65a-477c-8cbc-9496880f7749",
+    "58781275-5ce2-476d-b58f-73f66081f973",
+    "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "95e28776-4d0d-4ed0-b15f-497367250ffe",
+    "f93cb6ad-8ab3-4ffa-97f7-d806961d6296",
+    "7e245481-d9e7-4e64-b771-18739a464f6d"
+  ],
+  "has_extract": true
+}

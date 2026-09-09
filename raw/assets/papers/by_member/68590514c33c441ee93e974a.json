@@ -1,0 +1,458 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "member_id": "68590514c33c441ee93e974a",
+  "member_name_kor": "류가연",
+  "author_id": "17ff8154-0d9f-4486-abd7-b34e64268d87",
+  "count": 34,
+  "pdf_linked": 21,
+  "extract_linked": 21,
+  "publications": [
+    {
+      "id": "75480fca-4d6e-4b0f-bef4-bd19409c4b34",
+      "category": "journal",
+      "date": "2026-06-18",
+      "title_eng": "Medication-specific risk of atrial fibrillation in patients with coronary artery disease",
+      "title_kor": null,
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "b4b37a0b-317c-4211-bbec-f47a63ab29cf",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Development of an Atrial Fibrillation Risk Prediction Model for Health Screening",
+      "title_kor": "건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발",
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "6ca3ccd4-4fc1-4256-9b02-b1791eedce4e",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices",
+      "title_kor": "수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발 ",
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "4b92b947-c52a-4631-aa1e-eecad88284cb",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": "A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms",
+      "title_kor": "수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계",
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "6ef31ff6-7f4f-41e4-957c-210113d5a3ef",
+      "category": "award",
+      "date": "2026-05-09",
+      "title_eng": ".",
+      "title_kor": "2026 대한의용생체공학회 춘계학술대회, 한국의료기기안전정보원장",
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "93d0f6a3-536d-46ce-a41d-c29557550ecb",
+      "category": "conference",
+      "date": "2026-05-07",
+      "title_eng": "Development of an Atrial Fibrillation Risk Prediction Model for Health Screening",
+      "title_kor": "건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발",
+      "year_resolved": "2026",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "0000__류가연_건강검진_스크리닝을_위한_심방세동_위험_예측_모델_개발.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "6757496c-84b9-4b4a-a3da-785e7e957188",
+      "category": "conference",
+      "date": "2026-05-07",
+      "title_eng": "Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices",
+      "title_kor": "수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발 ",
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "611557ad-9346-42f9-a88b-bcda04e67cd4",
+      "category": "conference",
+      "date": "2026-05-07",
+      "title_eng": "Development and External Validation of a Machine Learning Model for Predicting Postoperative Length of Stay",
+      "title_kor": "수술 후 재원 기간 예측을 위한 머신러닝 모델 개발 및 다기관 외부 검증",
+      "year_resolved": "2026",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "0bd7ed03-073b-4f54-8e3c-efbead217078",
+      "category": "conference",
+      "date": "2026-05-07",
+      "title_eng": "A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms",
+      "title_kor": "수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계",
+      "year_resolved": "2026",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "0000__한유진_수면_분석_기기_알고리즘_가상_임상시험_결과보고서_생성_프레임워크_설계.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "8cd9638b-94ac-4ee4-9283-6266d38535cb",
+      "category": "conference",
+      "date": "2025-12-21",
+      "title_eng": "PubMedBERT-Based Terminology Mapping for Surgical Procedure Types",
+      "title_kor": null,
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "f2282795-e0d3-4dcb-93e0-a04a2aef2032",
+      "category": "award",
+      "date": "2025-11-08",
+      "title_eng": "Development of a BioclinicalBERT-Deep Neural Network Fusion Model for Predicting Postoperative Length of Stay",
+      "title_kor": "수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "7d64f21d-e836-4a19-adad-39e7a05d212d",
+      "category": "conference",
+      "date": "2025-11-06",
+      "title_eng": "Development of a BioclinicalBERT-Deep Neural Network Fusion Model for Predicting Postoperative Length of Stay",
+      "title_kor": "수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "f2b46502-eba0-4b55-b98d-1b1f088f9869",
+      "category": "award",
+      "date": "2025-10-23",
+      "title_eng": "Prolonged Length of Stay Prediction with PubMedBERT-Deep Neural Network Fusion Model",
+      "title_kor": "PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "e7f50914-9069-4843-a9e8-675b99ffc3a2",
+      "category": "conference",
+      "date": "2025-10-22",
+      "title_eng": "PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측",
+      "title_kor": "PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측",
+      "year_resolved": "2025",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "b928a941-79da-4486-b9f0-02b3b6e86c9a",
+      "category": "conference",
+      "date": "2025-05-08",
+      "title_eng": "Feasibility of Photoplethysmogram for Mental Fatigue Assessment",
+      "title_kor": "광용적맥파 기반 정신적 피로 평가 가능성 연구",
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202505_석현석_광용적맥파_기반_정신적_피로_평가_가능성_연구.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "64a5c206-ab29-4a1d-8778-2999a0bf4df7",
+      "category": "conference",
+      "date": "2025-05-08",
+      "title_eng": "Evaluation of Atrial Fibrillation incidence in Patients on Coronary artery disease Medications: A Retrospective Cohort Study",
+      "title_kor": "관상동맥질환 치료제의 심방세동 발생에 대한 영향: 후향적 코호트 분석",
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202505_류가연_관상동맥질환_치료제의_심방세동_발생에_대한_영향_후향적_코호트_분석.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "ce676224-6524-494b-ac75-4af3b52d8fa9",
+      "category": "conference",
+      "date": "2025-05-08",
+      "title_eng": "Development of an Atrial Fibrillation Prediction Model Based on Health Checkup Data",
+      "title_kor": "건강검진 데이터 기반 심방세동 예측 모델 개발",
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2025__202505_류가연_건강검진_데이터_기반_심방세동_예측_모델_개발.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "4df94230-b073-4e4c-9037-277fc44342b8",
+      "category": "journal",
+      "date": "2025-01-24",
+      "title_eng": "Machine learning based quantitative pain assessment for the perioperative period",
+      "title_kor": "Machine learning based quantitative pain assessment for the perioperative period",
+      "year_resolved": "2025",
+      "pdf": {
+        "storage_root": "journal",
+        "relative_path": "2025__202501_Machine_learning_based_quantitative_pain_assessment_for_the_perioperative.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "f465d274-a2ed-447b-a17c-e9f8ade4cda7",
+      "category": "conference",
+      "date": "2024-11-07",
+      "title_eng": "The Impact of Demographic Characteristics and Comorbidities on the Incidence of Atrial Fibrillation",
+      "title_kor": "인구통계 특성 및 유관질환이 심방세동 발병에 미치는 영향",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202411_인구통계_특성_및_유관질환이_심방세동_발병에_미치는_영향.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "8bf5ada9-036e-45ea-8e1b-88061cc5e1d0",
+      "category": "conference",
+      "date": "2024-11-07",
+      "title_eng": "Bio-signals and result feature analysis to leverage public polysomnography database  integration",
+      "title_kor": "공개 수면다원검사 데이터베이스 통합 활용을 위한 생체신호 및 결과 변수 분석",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202411_공개_수면다원검사_데이터베이스_통합_활용을_위한_생체신호_및_결과_변수_분석.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "c0e967e7-4969-4ea0-a624-ff9f3c621cbe",
+      "category": "conference",
+      "date": "2024-10-23",
+      "title_eng": "Evaluation of Photoplethysmogram-based Vascular Age Estimation Models",
+      "title_kor": "광용적맥파 기반 혈관 나이 추정 모델의 평가",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202410_광용적맥파_기반_혈관_나이_추정_모델의_평가.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "a88dd95e-adb0-46cb-a2ae-ab50f1b56c45",
+      "category": "journal",
+      "date": "2024-08-14",
+      "title_eng": "Atrial Fibrillation Identification Using CNNs Based on Genomic Data",
+      "title_kor": null,
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "journal",
+        "relative_path": "2024__202408_Atrial_Fibrillation_Identification_Using_CNNs_Based_on_Genomic_Data.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "6d8b5817-2a7b-4507-9d7f-21de5560f5a4",
+      "category": "journal",
+      "date": "2024-08-12",
+      "title_eng": "Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers",
+      "title_kor": "Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "journal",
+        "relative_path": "2024__202408_Analysis_of_Photoplethysmography-Based_Surgical_Pain_Severity_Assessment.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "e428df87-b2b6-49b4-9d24-ac5b4fdfeb4a",
+      "category": "conference",
+      "date": "2024-07-10",
+      "title_eng": "Development of a Real-Time Upper Limb Range of Motion Measurement Method Using a Single Depth Measurement Camera",
+      "title_kor": "단일 깊이측정 카메라를 활용한 실시간 상지 관절 가동범위 측정 방법 개발",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202407_단일_깊이측정_카메라를_활용한_실시간_상지_관절_가동범위_측정_방법_개발.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "17bf2ac9-95d2-4b28-af8b-f9b5bab02212",
+      "category": "conference",
+      "date": "2024-05-09",
+      "title_eng": "Photoplethysmogram Features for Severity Assessment of Postoperative Pain",
+      "title_kor": "광용적맥파 기반 수술후 통증 중증도 평가지표 분석",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2024__202405_광용적맥파_기반_수술후_통증_중증도_평가지표_분석.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "3f037504-428d-406c-9c76-7d0fde04eb4c",
+      "category": "patent",
+      "date": "2024-04-22",
+      "title_eng": "An apparatus for creating a pain assessment model, method for creating a pain assessment model and computer readable recording medium",
+      "title_kor": "통증평가모델 생성 장치, 통증평가모델 생성 방법 및 이를 수행하는 프로그램이 저장된 기록 매체",
+      "year_resolved": "2024",
+      "pdf": {
+        "storage_root": "patent_filed",
+        "relative_path": "2025__202504_PCT_통증평가모델_생성_장치_통증평가모델_생성_방법_및_이를_수행하는_프로그램이_저장된_기록_매체.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "eca439f7-9ff8-406a-9895-2437c3a9b420",
+      "category": "conference",
+      "date": "2023-12-07",
+      "title_eng": "Ectopic Beat Correction Strategies for Accurate Heart Rate Variability Analysis",
+      "title_kor": "정확한 심박변이도 분석을 위한 이소성 박동 교정 전략",
+      "year_resolved": "2023",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2023__202312_Ectopic_Beat_Correction_Strategies_for_Accurate_Heart_Rate_Variability_An.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "c33223ec-767e-4b1b-8ef5-6cf409fd7f1f",
+      "category": "conference",
+      "date": "2023-11-09",
+      "title_eng": "Photoplethysmogram based on Surgical Pain Severity Assessment Feature Analysis",
+      "title_kor": "광용적맥파 기반 수술 중 통증 중증도 평가 지표 분석",
+      "year_resolved": "2023",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2023__202311_광용적맥파_기반_수술_중_통증_중증도_평가_지표_분석.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "35fe7426-b8bf-4fcb-a7f2-b8db79a47148",
+      "category": "conference",
+      "date": "2023-07-24",
+      "title_eng": "Arrival Times of Maximum Pain and Pain Suppression After Acute Pain Stimulation in Surgical Procedure",
+      "title_kor": "Arrival Times of Maximum Pain and Pain Suppression After Acute Pain Stimulation in Surgical Procedure",
+      "year_resolved": "2023",
+      "pdf": null,
+      "has_extract": false
+    },
+    {
+      "id": "d1f421a1-d2e7-455f-8921-078a1b7f8f49",
+      "category": "conference",
+      "date": "2023-07-12",
+      "title_eng": "Analysis of a surgical pain severity assessment feature based on photoplethysmogram",
+      "title_kor": "광용적맥파 기반 수술 통증 중증도 평가 지표 분석",
+      "year_resolved": "2023",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2023__202307_광용적맥파_기반_수술_통증_중증도_평가_지표_분석.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "2cfc8d99-e452-44c4-b9eb-b8e21ba1ec68",
+      "category": "conference",
+      "date": "2023-05-11",
+      "title_eng": "Development of photopleyhsmogram based feature for intra- and post-operative pain",
+      "title_kor": "광용적맥파 기반 수술 중 및 수술 후 통증평가 모델 기반 지표 탐색",
+      "year_resolved": "2023",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2023__202305_광용적맥파_기반_수술_중_및_수술_후_통증평가_모델_기반_지표_탐색.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "6ad94024-ae39-48f9-bd09-fccde79f3418",
+      "category": "conference",
+      "date": "2023-04-15",
+      "title_eng": "Development of an artificial intelligence model for both intra- and post- operative pain assessment",
+      "title_kor": "Development of an artificial intelligence model for both intra- and post- operative pain assessment",
+      "year_resolved": "2023",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2023__202304_Development_of_an_artificial_intelligence_model_for_both_intra-_and_post-.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "ec984069-549a-45b8-a477-f476adb29b70",
+      "category": "conference",
+      "date": "2022-11-03",
+      "title_eng": "Photoplethysmogram Feature Analysis for Surgical Pain Assessment",
+      "title_kor": "수술 중 통증 평가를 위한 광용적맥파 특징 지표 분석",
+      "year_resolved": "2022",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2022__202211_수술_중_통증_평가를_위한_광용적맥파_특징_지표_분석.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    },
+    {
+      "id": "a99b15be-b7f4-4777-aba8-50c8c0910789",
+      "category": "conference",
+      "date": "2022-10-19",
+      "title_eng": "Comparison of Photoplethysmogram Feature for Intraoperative Pain and Postoperative Pain",
+      "title_kor": "수술 중 및 수술 후 통증에 대한 광용적맥파 특징 지표 비교",
+      "year_resolved": "2022",
+      "pdf": {
+        "storage_root": "conference",
+        "relative_path": "2022__202210_수술_중_및_수술_후_통증에_대한_광용적맥파_특징_지표_비교.pdf",
+        "match_status": "matched",
+        "exists": true
+      },
+      "has_extract": true
+    }
+  ],
+  "fast_path": "Recent PDF content: open extracts/<id>.json for pubs with has_extract=true. Do not scan manifest.json or DATA/."
+}

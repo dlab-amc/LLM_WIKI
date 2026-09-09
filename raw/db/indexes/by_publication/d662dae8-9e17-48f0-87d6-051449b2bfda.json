@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "d662dae8-9e17-48f0-87d6-051449b2bfda",
+  "storage_root": "conference",
+  "relative_path": "2021__202107_광용적맥파를_이용한_인공신경망_기반_혈관_노화_추정.pdf",
+  "original_filename": "2021__202107_광용적맥파를_이용한_인공신경망_기반_혈관_노화_추정.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "광용적맥파를 이용한 인공신경망 기반 혈관 노화 추정",
+  "year": 2021,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2021-07-14",
+  "title_eng": "Vascular aging estimation based on artificial neural network using photoplethysmogram",
+  "title_kor": "광용적맥파를 이용한 인공신경망 기반 혈관 노화 추정",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "57354d74-688e-49c4-a258-307386943d12",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

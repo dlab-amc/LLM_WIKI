@@ -1,0 +1,20 @@
+{
+  "publication_id": "261cc909-7837-45c9-ad9a-d58f439e4ccd",
+  "updated": "2026-09-09",
+  "source_pdf": {
+    "storage_root": "conference",
+    "relative_path": "2005__200510_다중_해상도_변형을_통한_내시경_의료영상의_분할.pdf",
+    "original_filename": "2005__200510_다중_해상도_변형을_통한_내시경_의료영상의_분할.pdf"
+  },
+  "title_eng": "Medical Endoscopic Image Segmentation with Multi-resolution Deformation",
+  "title_kor": "다중 해상도 변형을 통한 내시경 의료영상의 분할",
+  "category": "conference",
+  "date": "2005-10-20",
+  "page_count": 9,
+  "pages_extracted": 1,
+  "abstract": "다중 해상도 변형을 통한 내시경 의료영상의 분할\nMedical Endoscopic Image Segmentation with Multi-resolution Deformation\n저자\n(Authors)\n윤성원, 민세동, 신항식, 이명호\n출처\n(Source)\n제어로봇시스템학회 국내학술대회 논문집 , 2005.10, 953-957(5 pages)\n발행처\n(Publisher)\n제어로봇시스템학회\nInstitute of Control, Robotics and Systems\nURL http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01957078\nAPA Style 윤성원, 민세동, 신항식, 이명호 (2005). 다중 해상도 변형을 통한 내시경 의료영상의 분할. 제어로봇시스템학회 국내학술대회\n논문집, 953-957\n이용정보\n(Accessed)\n저작권 안내\nDBpia에서 제공되는 모든 저작물의 저작권은 원저작자에게 있으며, 누리미디어는 각 저작물의 내용을 보증하거나 책임을 지지 않습니다. 그리고 DBpia에서 제공되는 저작물은\nDBpia와 구독계약을 체결한 기관소속 이용자 혹은 해당 저작물의 개별 구매자가 비영리적으로만 이용할 수 있습니다. 그러므로 이에 위반하여 DBpia에서 제공되는 저작물을 복\n제, 전송 등의 방법으로 무단 이용하는 경우 관련 법령에 따라 민, 형사상의 책임을 질 수 있습니다.\nCopyright Information\nCopyright of all literary works provided by DBpia belongs to the copyright holder(s)and Nurimedia does not guarantee contents of the literary work or\nassume responsibility for the same. In addition, the literary works provided by DBpia may only be used by the users affiliated to the institutions which\nexecuted a subscription agreement with DBpia or the individual purchasers of the literary work(s)for non-commercial purposes. Therefore, any person\nwho illegally uses the literary works provided by DBpia by means of reproduction or transmission shall assume civil and criminal responsibility according\nto applicable laws and regulations.\n전남대학교 여수캠퍼스\n168.***.226.118\n2020/03/12 14:37 (KST)",
+  "keywords": [],
+  "first_pages_text": "다중 해상도 변형을 통한 내시경 의료영상의 분할\nMedical Endoscopic Image Segmentation with Multi-resolution Deformation\n저자\n(Authors)\n윤성원, 민세동, 신항식, 이명호\n출처\n(Source)\n제어로봇시스템학회 국내학술대회 논문집 , 2005.10, 953-957(5 pages)\n발행처\n(Publisher)\n제어로봇시스템학회\nInstitute of Control, Robotics and Systems\nURL http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01957078\nAPA Style 윤성원, 민세동, 신항식, 이명호 (2005). 다중 해상도 변형을 통한 내시경 의료영상의 분할. 제어로봇시스템학회 국내학술대회\n논문집, 953-957\n이용정보\n(Accessed)\n저작권 안내\nDBpia에서 제공되는 모든 저작물의 저작권은 원저작자에게 있으며, 누리미디어는 각 저작물의 내용을 보증하거나 책임을 지지 않습니다. 그리고 DBpia에서 제공되는 저작물은\nDBpia와 구독계약을 체결한 기관소속 이용자 혹은 해당 저작물의 개별 구매자가 비영리적으로만 이용할 수 있습니다. 그러므로 이에 위반하여 DBpia에서 제공되는 저작물을 복\n제, 전송 등의 방법으로 무단 이용하는 경우 관련 법령에 따라 민, 형사상의 책임을 질 수 있습니다.\nCopyright Information\nCopyright of all literary works provided by DBpia belongs to the copyright holder(s)and Nurimedia does not guarantee contents of the literary work or\nassume responsibility for the same. In addition, the literary works provided by DBpia may only be used by the users affiliated to the institutions which\nexecuted a subscription agreement with DBpia or the individual purchasers of the literary work(s)for non-commercial purposes. Therefore, any person\nwho illegally uses the literary works provided by DBpia by means of reproduction or transmission shall assume civil and criminal responsibility according\nto applicable laws and regulations.\n전남대학교 여수캠퍼스\n168.***.226.118\n2020/03/12 14:37 (KST)",
+  "char_count": 1413,
+  "notes": "Auto-extracted for Fast path. Prefer abstract/keywords; use first_pages_text for methods/metrics."
+}

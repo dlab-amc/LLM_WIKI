@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "25c744a8-0ba8-4012-9740-83157d327200",
+  "storage_root": "journal",
+  "relative_path": "2024__202407_Signal_completion_using_generative_adversarial_networks_for_enhanced_phot.pdf",
+  "original_filename": "2024__202407_Signal_completion_using_generative_adversarial_networks_for_enhanced_phot.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Signal completion using generative adversarial networks for enhanced phot",
+  "year": 2024,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2024-07-26",
+  "title_eng": "Signal completion using generative adversarial networks for enhanced photoplethysmography measurement accuracy",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

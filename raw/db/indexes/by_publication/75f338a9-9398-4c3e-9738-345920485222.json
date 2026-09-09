@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "75f338a9-9398-4c3e-9738-345920485222",
+  "storage_root": "patent_filed",
+  "relative_path": "2011__201106_터치_스크린을_구비한_기기의_인터페이스_제공_장치_및_방법.pdf",
+  "original_filename": "2011__201106_터치_스크린을_구비한_기기의_인터페이스_제공_장치_및_방법.pdf",
+  "match_status": "matched",
+  "match_score": 0.873,
+  "title_hint": "구비한 기기의 인터페이스 제공 장치 및 방법",
+  "year": 2011,
+  "exists": true,
+  "category": "patent",
+  "class": "Domestic",
+  "date": "2011-06-09",
+  "title_eng": "Apparatus and method for providing interface in device with touch screen",
+  "title_kor": "터치 스크린을 구비한 기기의 인터페이스 제공 장치 및 방법",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "f53b4b23-b0e3-4b30-a25e-5b72b4a3d701",
+    "82571796-a65a-477c-8cbc-9496880f7749"
+  ],
+  "has_extract": true
+}

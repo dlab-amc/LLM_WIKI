@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "6b72ba65-609a-4352-b4ea-b4bc120bc4c1",
+  "storage_root": "conference",
+  "relative_path": "2019__201910_Beddit_TM의_호흡_및_심박_측정_유효성_평가.pdf",
+  "original_filename": "2019__201910_Beddit_TM의_호흡_및_심박_측정_유효성_평가.pdf",
+  "match_status": "matched",
+  "match_score": 0.999,
+  "title_hint": "Beddit TM의 호흡 및 심박 측정 유효성 평가",
+  "year": 2019,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2019-10-24",
+  "title_eng": "Feasibility Test of BedditTM for Heart rate and Respiration Rate Measurement",
+  "title_kor": "Beddit TM의 호흡 및 심박 측정 유효성 평가",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "a69ad911-f5c3-43bf-b194-ae4cd75a9a32",
+    "3efe4411-248c-4a1c-a344-c4b6ea512ffb",
+    "189de491-3424-4bf3-bb66-26bd0667ed24"
+  ],
+  "has_extract": true
+}

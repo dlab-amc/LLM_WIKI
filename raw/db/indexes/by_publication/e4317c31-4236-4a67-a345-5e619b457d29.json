@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "e4317c31-4236-4a67-a345-5e619b457d29",
+  "storage_root": "conference",
+  "relative_path": "2016__201607_초단기_심전도에_대한_심박변이도_주파수_분석법_적용_가능성_고찰.pdf",
+  "original_filename": "2016__201607_초단기_심전도에_대한_심박변이도_주파수_분석법_적용_가능성_고찰.pdf",
+  "match_status": "matched",
+  "match_score": 0.8673,
+  "title_hint": "대한 심박변이도 주파수 분석법 적용 가능성 고찰",
+  "year": 2016,
+  "exists": true,
+  "category": "conference",
+  "class": "Domestic",
+  "date": "2016-07-13",
+  "title_eng": "Availability of Frequency Domain Analysis of Heart Rate Variability Using Ultra Short-term Electrocardiogram",
+  "title_kor": "초단기 심전도에 대한 심박변이도 주파수 분석법 적용 가능성 고찰",
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "62d51eaa-e423-49c2-b058-669ba146f3fa"
+  ],
+  "has_extract": true
+}

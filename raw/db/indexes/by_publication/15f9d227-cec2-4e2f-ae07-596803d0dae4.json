@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "publication_id": "15f9d227-cec2-4e2f-ae07-596803d0dae4",
+  "storage_root": "journal",
+  "relative_path": "2010__201011_Noncontact_Respiration_Rate_Measurement_System_Using_an_Ultrasonic_Proxim.pdf",
+  "original_filename": "2010__201011_Noncontact_Respiration_Rate_Measurement_System_Using_an_Ultrasonic_Proxim.pdf",
+  "match_status": "matched",
+  "match_score": 0.94,
+  "title_hint": "Noncontact Respiration Rate Measurement System Using an Ultrasonic Proxim",
+  "year": 2010,
+  "exists": true,
+  "category": "journal",
+  "class": "SCI",
+  "date": "2010-11-01",
+  "title_eng": "Noncontact Respiration Rate Measurement System Using an Ultrasonic Proximity Sensor",
+  "title_kor": null,
+  "member_ids": [
+    "68590514c33c441ee93e9748"
+  ],
+  "author_ids": [
+    "9e0c4fb5-ab01-4873-85b9-c83ebc9844ee",
+    "29b4a04c-553f-425b-8c75-fe90aca718b7",
+    "189de491-3424-4bf3-bb66-26bd0667ed24",
+    "bf76d3a1-2d07-4cb4-aadc-a23a9833da19",
+    "217b41fd-c1f3-49f4-a392-08f96ab15d9e",
+    "4a05a292-1a5b-4577-91ff-87da330a9358"
+  ],
+  "has_extract": true
+}
