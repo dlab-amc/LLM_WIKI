@@ -64,9 +64,9 @@ publication에 임베드된 author id가 멤버와 매핑된 경우만 집계. �
 |---|---:|
 | [[people/hangsik-shin|신항식]] | 101 |
 | [[people/gayeon-ryu|류가연]] | 4 |
-| [[people/jaehyung-lee|이재형]] | 3 |
+| [[people/alumni/jaehyung-lee|이재형]] | 3 |
 | [[people/jiwon-you|유지원]] | 3 |
-| [[people/ye-eun-choi|최예은]] | 1 |
+| [[people/alumni/ye-eun-choi|최예은]] | 1 |
 | [[people/geon-lee|이건]] | 1 |
 
 ## Sample records

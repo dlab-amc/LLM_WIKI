@@ -26,7 +26,9 @@ raw/assets/
   roots.example.json    ← 예시 (커밋)
   roots.local.json      ← 실제 경로 (Git 제외)
   papers/manifest.json  ← PDF 목록·publication_id 매칭
-  papers/extracts/      ← 초록·키워드 JSON (작음, 커밋)
+  papers/by_publication_id.json  ← id → PDF 경로 Fast lookup
+  papers/by_member/     ← 멤버별 논문+pdf+extract 유무
+  papers/extracts/      ← 초록·키워드·앞쪽 본문 JSON (커밋)
 ```
 
 상세: `schema/EXTERNAL-ASSETS.md`
@@ -54,7 +56,7 @@ raw/assets/
 |---|---|
 | `raw/db/` | 연구실 DB 가공본 (members, authors, publications, links, stats) |
 | `raw/db/MAPPING_NOTES.md` | 멤버↔저자 매핑 메모 |
-| `raw/db/indexes/` | **조회 인덱스** (연도·author·member). 풀 스캔 대신 여기 우선 |
+| `raw/db/indexes/` | **조회 인덱스** (연도·author·member·publication). 풀 스캔 대신 여기 우선 |
 
 #### `raw/db/indexes` 사용법
 
@@ -63,19 +65,27 @@ raw/assets/
 | 연도 (예: 2024) | `indexes/by_year/2024.json` |
 | 카테고리 (journal, conference, …) | `indexes/by_category/<category>.json` |
 | 저자 | `indexes/by_author/<author_id>.json` |
-| 멤버 | `indexes/by_member/<member_id>.json` |
+| 멤버 | `indexes/by_member/<member_id>.json` (pdf/has_extract 포함) |
+| 성과 1건 PDF 경로 | `indexes/by_publication/<publication_id>.json` |
 | 카탈로그·연도/카테고리 건수 | `indexes/catalog.json` |
 
-`publications.json` 전체 로드는 **최후 수단**. 인덱스 재생성: `python raw/db/rebuild_indexes.py`
+논문 **본문/초록** Fast path: `raw/assets/papers/by_member/<member_id>.json` → `extracts/<id>.json`  
+`publications.json` / `manifest.json` 전체 로드는 **최후 수단**.  
 
-앞으로 회의록·논문 PDF 등: DB JSON은 `raw/db/`, **PDF 바이너리는 Git 밖** + `raw/assets/papers/manifest.json`. (`schema/EXTERNAL-ASSETS.md`)
+인덱스 재생성:
+
+```bash
+python raw/db/rebuild_indexes.py
+python ../WEB/scripts/build_paper_indexes_and_extracts.py --apply   # PDF 조인+extracts
+```
 
 ## Wiki 정보 구조
 
 ```
 wiki/
   lab/           # 연구실 소개
-  people/        # 멤버 인물 페이지
+  people/        # 현재 멤버 인물 페이지 + index
+    alumni/      # 졸업생 (type: alumni)
   publications/  # 성과 개요
   decisions/     # (필요 시) 결정 기록
   projects/      # (필요 시) 프로젝트
@@ -94,18 +104,20 @@ wiki/
 
 ```yaml
 ---
-type: person | publication-index | lab | decision | project | note
+type: person | alumni | people-index | alumni-index | publication-index | lab | decision | project | note
 id: <stable-id-or-slug>
 updated: YYYY-MM-DD
 sources:
   - raw/db/members.json
-status: active | draft | needs-review
+status: active | alumni | draft | needs-review
+graduated: YYYY-MM   # alumni만
 ---
 ```
 
 ## 파일명(slug)
 
-- 인물: `name-eng` 소문자 케밥 (`hangsik-shin.md`)
+- 현재 멤버: `wiki/people/<name-eng-kebab>.md`
+- Alumni: `wiki/people/alumni/<name-eng-kebab>.md`
 
 ## `raw/db` 해석 요약
 

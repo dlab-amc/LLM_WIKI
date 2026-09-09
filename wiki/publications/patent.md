@@ -62,7 +62,7 @@ publication에 임베드된 author id가 멤버와 매핑된 경우만 집계. �
 | Member | Mentions |
 |---|---:|
 | [[people/hangsik-shin|신항식]] | 321 |
-| [[people/jaehyung-lee|이재형]] | 4 |
+| [[people/alumni/jaehyung-lee|이재형]] | 4 |
 | [[people/yujin-han|한유진]] | 2 |
 | [[people/gayeon-ryu|류가연]] | 1 |
 

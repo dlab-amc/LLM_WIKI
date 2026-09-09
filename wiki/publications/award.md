@@ -55,7 +55,7 @@ publication에 임베드된 author id가 멤버와 매핑된 경우만 집계. �
 | [[people/hangsik-shin|신항식]] | 13 |
 | [[people/gayeon-ryu|류가연]] | 6 |
 | [[people/jaewook-jin|진재욱]] | 4 |
-| [[people/ye-eun-choi|최예은]] | 4 |
+| [[people/alumni/ye-eun-choi|최예은]] | 4 |
 | [[people/yujin-han|한유진]] | 3 |
 | [[people/jiwon-you|유지원]] | 2 |
 | [[people/yeongdon-kim|김영돈]] | 2 |

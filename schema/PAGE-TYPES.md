@@ -4,11 +4,11 @@
 
 연구실 소개·미션·구성 개요.
 
-필수 섹션: Summary, Members (링크), Related, Sources
+필수 섹션: Summary, Members (현재), Alumni (링크), Related, Sources
 
 ## `person`
 
-멤버(및 연결 저자) 인물 페이지.
+**현재 소속** 멤버(및 연결 저자) 인물 페이지.
 
 필수 섹션:
 - Summary (역할, 학위, 한 줄 소개)
@@ -19,7 +19,24 @@
 
 Recent Work는 Query·Ingest 때 낡았으면 갱신한다.
 
-slug: `wiki/people/<name-eng-kebab>.md`
+- frontmatter: `type: person`, `status: active`
+- slug: `wiki/people/<name-eng-kebab>.md`
+
+## `alumni`
+
+**졸업·퇴사** 인물 페이지. 성과·저자 인덱스는 `person`과 동일하게 유지하되, **현재 멤버 목록에는 올리지 않는다**.
+
+필수 섹션: Summary, Academic History (가능 시), Profile, Authorship, Recent Work, Related / Sources
+
+- frontmatter: `type: alumni`, `status: alumni`, `graduated: YYYY-MM` (가능하면)
+- slug: `wiki/people/alumni/<name-eng-kebab>.md`
+- 인덱스: `wiki/people/alumni/index.md` (`type: alumni-index`)
+
+## `people-index` / `alumni-index`
+
+- `wiki/people/index.md` — 현재 멤버만
+- `wiki/people/alumni/index.md` — Alumni만
+- 서로 교차 링크
 
 ## `publication-index`
 
@@ -37,4 +54,4 @@ slug: `wiki/people/<name-eng-kebab>.md`
 
 ## Frontmatter `type` 값
 
-`lab` | `person` | `publication-index` | `decision` | `project` | `note`
+`lab` | `person` | `alumni` | `people-index` | `alumni-index` | `publication-index` | `decision` | `project` | `note`

@@ -2,7 +2,7 @@
 type: person
 id: 68590514c33c441ee93e974a
 slug: gayeon-ryu
-updated: 2026-08-11
+updated: 2026-09-09
 sources:
   - raw/db/members.json
   - raw/db/authors.json
@@ -14,10 +14,15 @@ status: active
 
 ## Summary
 
-- Role: **Master Course**
-- Degree: B.Sc.
+- Role: **PhD Course**
+- Degree: M.Sc. (울산대학교 의공학과, 2026.08 졸업) → 박사과정 재학 중
 - Status: Active
 - Order: 4
+
+## Academic History
+
+- 2026.08 — 울산대학교 의공학과 **석사 졸업**
+- 2026.09 — 울산대학교 의공학과 **박사과정 입학**
 
 ## Profile
 

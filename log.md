@@ -85,3 +85,45 @@ Wiki 변경 이력. 최신 항목을 **아래에 append**한다.
 
 ## 2026-09-02 17:00 (KST)
 - Updated: `../DLab_web/` — 예시 문구 `EX.` + 괄호·연한 글자색
+
+## 2026-09-09 10:30 (KST)
+- Query writeback: 유지원 최근 논문 PDF 기반 분석
+- Updated: [[wiki/people/jiwon-you]] — 연구 방법론 요약 섹션 추가 (모델·데이터·평가지표, 5편 PDF 직접 확인)
+- Sources: DATA/achievements/journal/ + conference/ PDF 5편, manifest.json
+- Notes: `537dc980`·`865070f8` PDF 미매칭; extracts 폴더 미생성
+
+## 2026-09-09 (KST)
+- Query writeback: 졸업·학적 변동 3인 반영
+- Updated: [[wiki/people/ye-eun-choi]] — Role: Master Course → Alumni (M.Sc.), status: active → alumni, Academic History 추가 (울산대학교 의공학과 석사 2026.08 졸업)
+- Updated: [[wiki/people/jaehyung-lee]] — Role: Master Course → Alumni (M.Sc.), status: active → alumni, Academic History 추가 (울산대학교 의공학과 석사 2026.08 졸업)
+- Updated: [[wiki/people/gayeon-ryu]] — Role: Master Course → PhD Course, Academic History 추가 (석사 2026.08 졸업 → 박사과정 2026.09 입학)
+- Notes: raw/db/members.json에는 미반영(SoT — 사람이 직접 갱신 필요)
+
+## 2026-09-09 14:20 (KST)
+- Built: PDF 조인 인덱스 + extracts (auto)
+- Added: `raw/assets/papers/by_publication_id.json`, `by_member/`, `extracts/` (386)
+- Added: `raw/db/indexes/by_publication/` (386)
+- Updated: `raw/db/indexes/by_member/*` — pdf/has_extract 필드, date desc
+- Updated schema: QUERY / EXTERNAL-ASSETS / OVERVIEW / CLAUDE / INGEST / papers README
+- Script: `WEB/scripts/build_paper_indexes_and_extracts.py`
+- Notes: 유지원 15건 중 pdf+extract 9건; unmatched/award 일부는 여전히 pdf 없음
+
+## 2026-09-09 15:00 (KST)
+- Query writeback: 유지원 논문 방법론 요약 2024년 4건 추가
+- Updated: [[wiki/people/jiwon-you]] — 연구 방법론 요약 범위 2024–2026으로 확장, 2024년 4편(`0a3f5d13`, `bdba12ce`, `841b7d8e`, `cfc8007b`) 모델·데이터·지표 추가
+- Sources: `raw/assets/papers/extracts/` 9건 전체 (by_member 68590514c33c441ee93e9750)
+- Notes: `537dc980`·`90c8f0ea`·`865070f8`·`34dc931e`·`0f8ca978`·`953bc51d` 6건은 pdf/extract 없음
+
+## 2026-09-09 15:10 (KST)
+- Structure: 현재 멤버 / Alumni 분리
+- Moved: [[wiki/people/ye-eun-choi]] → [[wiki/people/alumni/ye-eun-choi]], [[wiki/people/jaehyung-lee]] → [[wiki/people/alumni/jaehyung-lee]]
+- Added: [[wiki/people/alumni/index]] (`type: alumni-index`)
+- Updated: [[wiki/people/index]] (현재 13명만), [[wiki/lab/overview]], [[index]], publications Top-authors 링크
+- Schema: `PAGE-TYPES` / `QUERY` / `OVERVIEW` — `type: alumni`, Fast path `people/alumni/`
+- Web: `wiki_structure` 트리에 「멤버 (현재)」·「Alumni (졸업생)」 분리
+- Notes: raw/db/members.json은 미변경 (SoT); 성과·by_member 인덱스는 유지
+
+## 2026-09-09 15:20 (KST)
+- Added Alumni: [[wiki/people/alumni/hyeon-seok-seok|석현석]], [[wiki/people/alumni/changwon-wang|왕창원]] (HPG legacy alumni 4명 중 미반영 2명)
+- Updated: [[wiki/people/alumni/index]], [[wiki/people/index]], [[wiki/lab/overview]], [[index]], QUERY Fast path
+- Notes: member_id 없음 → author_id 기준; claimed/resolved는 authors∩publications; 로컬 `졸업생.json`은 서버 미업로드(레거시 데이터로 대체)

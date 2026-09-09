@@ -1,7 +1,7 @@
 ---
 type: lab
 id: dlab
-updated: 2026-08-11
+updated: 2026-09-09
 sources:
   - raw/db/members.json
   - raw/db/stats.json
@@ -14,19 +14,17 @@ status: active
 
 ## Summary
 
-- 구성원: **15**명 (processed members)
+- 현재 멤버: **13**명 · Alumni: **4**명 (Wiki `people/` / `people/alumni/`)
 - 저자 레코드: **209**
 - 성과(publications 혼합): **928**
-- 멤버↔저자 연결: **14** / 15
+- 멤버↔저자 연결: **14** / 15 (raw 기준; 석현석·왕창원은 author-only Alumni)
 
-## Members
+## Members (현재)
 
 - [[people/hangsik-shin|신항식]] (Hangsik Shin) — Principal Investigator
 - [[people/yunchan-nam|남윤찬]] (Yunchan Nam) — Postdoctoral Researcher
 - [[people/jaewook-jin|진재욱]] (Jaewook Jin) — Ph.D. Course
-- [[people/gayeon-ryu|류가연]] (Gayeon Ryu) — Master Course
-- [[people/jaehyung-lee|이재형]] (Jaehyung Lee) — Master Course
-- [[people/ye-eun-choi|최예은]] (Ye Eun Choi) — Master Course
+- [[people/gayeon-ryu|류가연]] (Gayeon Ryu) — PhD Course
 - [[people/yujin-han|한유진]] (Yujin Han) — Master Course
 - [[people/yeongdon-kim|김영돈]] (Yeongdon Kim) — Researcher
 - [[people/jiwon-you|유지원]] (Jiwon You) — Researcher
@@ -36,6 +34,14 @@ status: active
 - [[people/yeonjin-lee|이연진]] (Yeonjin Lee) — Web Developer
 - [[people/heeyoung-kim|김희영]] (Heeyoung Kim) — Web Developer
 - [[people/saenal-oh|오새날]] (Saenal Oh) — Administrative Assistant
+
+## Alumni
+
+- [[people/alumni/ye-eun-choi|최예은]] (Ye Eun Choi) — Alumni (M.Sc., 2026.08)
+- [[people/alumni/jaehyung-lee|이재형]] (Jaehyung Lee) — Alumni (M.Sc., 2026.08)
+- [[people/alumni/hyeon-seok-seok|석현석]] (Hyeon Seok Seok) — Alumni (Ph.D.)
+- [[people/alumni/changwon-wang|왕창원]] (Changwon Wang) — Alumni (Ph.D.)
+- 목록: [[people/alumni/index|Alumni index]]
 
 ## Publications (집계)
 
@@ -61,7 +67,8 @@ status: active
 
 - [[publications/overview]]
 - [[publications/journal]] · [[publications/conference]] · [[publications/patent]] …
-- [[people/index]]
+- [[people/index|People (현재)]]
+- [[people/alumni/index|Alumni]]
 
 ## Sources
 

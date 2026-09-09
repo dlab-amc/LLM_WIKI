@@ -1,7 +1,7 @@
 ---
 type: note
 id: root-index
-updated: 2026-08-11
+updated: 2026-09-09
 status: active
 ---
 
@@ -24,15 +24,13 @@ Agent·사람 모두 **여기서 시작**한다. 상세 규칙은 `AGENTS.md`, `
 
 - [[wiki/lab/overview|DLab overview]]
 
-## People
+## People (현재 멤버)
 
 - [[wiki/people/index|People index]]
 - [[wiki/people/hangsik-shin|신항식]]
 - [[wiki/people/yunchan-nam|남윤찬]]
 - [[wiki/people/jaewook-jin|진재욱]]
 - [[wiki/people/gayeon-ryu|류가연]]
-- [[wiki/people/jaehyung-lee|이재형]]
-- [[wiki/people/ye-eun-choi|최예은]]
 - [[wiki/people/yujin-han|한유진]]
 - [[wiki/people/yeongdon-kim|김영돈]]
 - [[wiki/people/jiwon-you|유지원]]
@@ -42,6 +40,14 @@ Agent·사람 모두 **여기서 시작**한다. 상세 규칙은 `AGENTS.md`, `
 - [[wiki/people/yeonjin-lee|이연진]]
 - [[wiki/people/heeyoung-kim|김희영]]
 - [[wiki/people/saenal-oh|오새날]]
+
+## Alumni (졸업생)
+
+- [[wiki/people/alumni/index|Alumni index]]
+- [[wiki/people/alumni/ye-eun-choi|최예은]]
+- [[wiki/people/alumni/jaehyung-lee|이재형]]
+- [[wiki/people/alumni/hyeon-seok-seok|석현석]]
+- [[wiki/people/alumni/changwon-wang|왕창원]]
 
 ## Publications
 
